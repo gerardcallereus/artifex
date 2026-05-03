@@ -1,9 +1,15 @@
 ---
 title: Artífex
-description: Aprén més sobre aquest tema del projecte Artífex.
+description: Projecte educatiu de marca personal, disseny gràfic i producció de joieria.
+template: splash
+hero:
+  tagline: Una guia completa des de la ideació fins a la comercialització.
+  actions:
+    - text: Començar el projecte
+      link: /com-podem-crear-la-nostra-marca/
+      icon: right-arrow
+      variant: primary
 ---
-
-# ARTÍFEX
 
 > [!TIP] Objectiu del projecte
 > Aquesta pàgina és la porta d'entrada a Artífex: l'espai on connectarem la idea creativa amb la producció i la venda. Llegeix atentament les preguntes i apunta les teves respostes al teu diari.
