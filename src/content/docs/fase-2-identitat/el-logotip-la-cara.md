@@ -1,8 +1,6 @@
 ---
 title: Artífex - EL LOGOTIP (La Cara)
-parent: "Artífex - FASE 2: Identitat"
-grand_parent: Artífex
-nav_order: 2
+description: Aprén més sobre aquest tema del projecte Artífex.
 ---
 
 # EL LOGOTIP (La Cara)

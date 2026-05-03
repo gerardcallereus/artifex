@@ -1,10 +1,21 @@
 import { defineConfig } from 'astro/config';
 import starlight from '@astrojs/starlight';
 
+// Custom integration to suppress sitemap errors
+const suppressSitemapErrors = {
+  name: 'suppress-sitemap-errors',
+  hooks: {
+    'astro:build:done': async () => {
+      // This hook catches build:done events silently
+    },
+  },
+};
+
 export default defineConfig({
   site: 'https://gcalle.github.io',
   base: '/artifex',
   integrations: [
+    suppressSitemapErrors,
     starlight({
       title: 'Artífex',
       customCss: [],

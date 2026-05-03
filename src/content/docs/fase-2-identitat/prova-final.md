@@ -1,8 +1,6 @@
 ---
 title: Artífex - Prova Final
-parent: "Artífex - FASE 2: Identitat"
-grand_parent: Artífex
-nav_order: 5
+description: Aprén més sobre aquest tema del projecte Artífex.
 ---
 
 # Prova Final

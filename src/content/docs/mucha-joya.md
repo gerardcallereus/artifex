@@ -1,7 +1,6 @@
 ---
 title: Artífex - Mucha Joya
-parent: Artífex
-nav_order: 10
+description: Aprén més sobre aquest tema del projecte Artífex.
 ---
 
 # MUCHA JOYA

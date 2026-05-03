@@ -1,7 +1,6 @@
 ---
 title: Artífex - Tancament del projecte
-parent: Artífex
-nav_order: 11 # Mantenim l'ordre existent
+description: Aprén més sobre aquest tema del projecte Artífex.
 ---
 
 # Tancament del projecte

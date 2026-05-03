@@ -1,7 +1,6 @@
 ---
 title: Artífex - Cooperativa Artífex
-parent: Artífex
-nav_order: 3
+description: Aprén més sobre aquest tema del projecte Artífex.
 ---
 
 # Cooperativa Artífex

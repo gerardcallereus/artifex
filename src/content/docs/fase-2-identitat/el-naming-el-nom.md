@@ -1,8 +1,6 @@
 ---
 title: Artífex - EL NAMING (El Nom)
-parent: "Artífex - FASE 2: Identitat"
-grand_parent: Artífex
-nav_order: 1
+description: Aprén més sobre aquest tema del projecte Artífex.
 ---
 
 # EL NAMING (El Nom)

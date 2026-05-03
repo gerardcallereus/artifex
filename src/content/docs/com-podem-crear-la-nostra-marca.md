@@ -1,7 +1,6 @@
 ---
 title: Artífex - Com podem crear la nostra marca?
-parent: Artífex
-nav_order: 1 # Mantenim l'ordre existent
+description: Aprén més sobre aquest tema del projecte Artífex.
 ---
 
 # Com podem crear la nostra marca?

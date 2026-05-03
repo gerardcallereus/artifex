@@ -1,7 +1,6 @@
 ---
 title: "Artífex - FASE 1: La guspira"
-parent: Artífex
-nav_order: 2
+description: Aprén més sobre aquest tema del projecte Artífex.
 ---
 
 # FASE 1: LA GUSPIRA

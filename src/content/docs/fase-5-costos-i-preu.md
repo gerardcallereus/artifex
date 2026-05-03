@@ -1,7 +1,6 @@
 ---
 title: "Artífex - FASE 5: Costos i preu"
-parent: Artífex
-nav_order: 8 # Mantenim l'ordre existent
+description: Aprén més sobre aquest tema del projecte Artífex.
 ---
 
 # FASE 5: COSTOS I PREU

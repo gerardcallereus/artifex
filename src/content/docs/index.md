@@ -1,7 +1,6 @@
 ---
 title: Artífex
-has_children: true
-nav_order: 2
+description: Aprén més sobre aquest tema del projecte Artífex.
 ---
 
 # ARTÍFEX

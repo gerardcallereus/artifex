@@ -1,7 +1,6 @@
 ---
 title: "Artífex - FASE 4: Producció"
-parent: Artífex
-nav_order: 7 # Mantenim l'ordre existent
+description: Aprén més sobre aquest tema del projecte Artífex.
 ---
 
 # FASE 4: PRODUCCIÓ

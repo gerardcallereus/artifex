@@ -1,8 +1,6 @@
 ---
 title: "Artífex - FASE 2: Identitat"
-parent: Artífex
-has_children: true
-nav_order: 5
+description: Aprén més sobre aquest tema del projecte Artífex.
 ---
 
 # FASE 2: IDENTITAT

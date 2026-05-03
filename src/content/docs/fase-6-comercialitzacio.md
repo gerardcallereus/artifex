@@ -1,7 +1,6 @@
 ---
 title: "Artífex - FASE 6: Comercialització"
-parent: Artífex
-nav_order: 9
+description: Aprén més sobre aquest tema del projecte Artífex.
 ---
 
 # FASE 6: COMERCIALITZACIÓ
