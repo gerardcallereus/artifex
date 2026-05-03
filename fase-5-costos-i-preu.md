@@ -36,3 +36,10 @@ Crea una nova pàgina anomenada **"Estudi Econòmic: Càlcul i Estratègia"** i 
 - **Càlcul limitat:** Volem recuperar la inversió venent només 10 parells d'arracades perquè és una edició limitada. A quin preu les hauríem de posar? *(Fes el càlcul a paper, fotografia els càlculs i després prova-ho a l'app)*.
 - **La realitat empresarial:** Si l'escola no ens deixés les màquines i haguéssim de pagar els 3.575 € de la Taula 1, quantes arracades de 6 € hauríem de vendre? És viable? *(Fes el càlcul a paper i fotografia els càlculs)*.
 - **Màrqueting vs Matemàtiques:** Matemàticament, si posem les arracades a 50 €, en necessitem vendre molt poques per recuperar la inversió. Però, creus que algú les compraria? On està el límit entre un bon preu matemàtic i un bon preu de mercat?
+
+---
+
+## 🧭 Navegació
+
+- 🔙 [Tornar a la FASE 4: Producció](fase-4-produccio.md)
+- 🏠 [Tornar a l'inici](index.md)

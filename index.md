@@ -24,8 +24,8 @@ Què creieu que aprendrem quan siguem nosaltres els 'Artífexs'?
 - Imagineu que heu dissenyat una peça de joieria perfecta. Genial. Ara, com en fabriqueu 500 d'idèntiques per vendre-les en una setmana?
 - Què és més difícil: tenir una idea brillant, fabricar-la perfectament, o convèncer algú que pagui 15 € per ella?
 
-![](https://lh3.googleusercontent.com/sitesv/AA5AbUAp5NrgbuhANXlT8Ki1m5cBnLhzR3ZU79wQkP5Gi-sJsVF615uwgl93IS16lGMs_2JvuA4zp7l7gt8QErZt8EA02fq6stI0THtQosVnUoDitegdXxnPhTom1M105119oCohjhUSNfHrlpb4HDq2JqKfwQhSYettKxXULZupb9ht1hkUwzCsNDq6=w1280)
-Anna Puig treballant al seu estudi de Tàrrega
+![Anna Puig treballant al seu estudi de Tàrrega](https://lh3.googleusercontent.com/sitesv/AA5AbUAp5NrgbuhANXlT8Ki1m5cBnLhzR3ZU79wQkP5Gi-sJsVF615uwgl93IS16lGMs_2JvuA4zp7l7gt8QErZt8EA02fq6stI0THtQosVnUoDitegdXxnPhTom1M105119oCohjhUSNfHrlpb4HDq2JqKfwQhSYettKxXULZupb9ht1hkUwzCsNDq6=w1280)
+*Anna Puig treballant al seu estudi de Tàrrega*
 ## Per què Artífex?
 Artífex és una persona que exerceix alguna art manual, especialment la que fa treballs manuals que exigeixen una habilitat especial, com ara l'escultura, la pintura o la joieria.
 La joieria és l'art i l'ofici de dissenyar, crear, reparar o vendre objectes decoratius o ornamentals, coneguts com a joies, que es poden portar com a complements personals (anells, collarets, arracades, polseres, etc.). La joieria combina estètica, creativitat i tècnica, i pot abastar des de peces artesanals úniques fins a produccions industrials a gran escala.
@@ -45,3 +45,13 @@ Obre el Classroom i entra en la tasca del diari d'aprenentatge:
 3. Afegeix una nova pàgina "Habilitats socioemocionals" on expliquis quines dificultats / facilitats tindràs a l'hora de treballar cadascuna de les habilitats que se t'avaluarà: - Té idees creatives: Tinc facilitat per inspirar-me i tenir solucions originals? O m'encallo sovint i necessito mirar què fan els altres o buscar a Internet per arrencar? - Realitza les tasques amb cura: Com treballes? Ets una persona neta i ordenada? Et fixes en els detalls per a un acabat de qualitat? O acostumes a fer la feina ràpida per acabar aviat, encara que no quedi perfecte? - Assumeix la possibilitat d'equivocar-se: Què passa quan una cosa no surt bé (un dibuix, una pràctica...)? Em frustro i abandono fàcilment? O soc dels que para, analitza per què ha fallat i ho torna a provar?
 4. Afegeix una nova pàgina "Coneixements previs" on relacionis el que s’espera que aprenguis amb els teus coneixements previs: - Has pensat alguna vegada a crear la teva pròpia marca (de roba, joies, el que sigui)? T'agrada dibuixar? Hi tens traça, o ets dels que diu "jo no sé dibuixar"? Has participat mai en algun petit "negoci" (vendre polseres, pastissos, organitzar una paradeta...)? Has estat mai en un taller o aula maker? Què vas fer? Has fet servir eines com impressores 3D o talladora làser? Has creat alguna vegada una joia o una manualitat semblant?
 5. Afegeix una nova pàgina "Preguntes inicials" i respon a només una (La que tu vulguis) de les quatre qüestions. No busquem una resposta de "sí" o "no", ni una definició de diccionari. Volem la teva opinió sincera. Desenvolupa la teva resposta, posa exemples reals i defensa el teu punt de vista: - Si haguessis d'explicar qui ets i què t'apassiona sense dir ni una paraula, només amb un petit objecte que portessis posat, quin seria? - Per què paguem 200 € per unes sabatilles que potser han costat 5 € de fabricar? Què estem comprant realment: el producte, o la marca? - Imagineu que heu dissenyat una peça de joieria perfecta. Genial. Ara, com en fabriqueu 500 d'idèntiques per vendre-les en una setmana? - Què és més difícil: tenir una idea brillant, fabricar-la perfectament, o convèncer algú que pagui 15 € per ella?
+
+---
+
+## 🧭 Mapa del Projecte
+
+- 🎨 [FASE 2: Identitat - El Logotip](fase-2-identitat/el-logotip-la-cara.md)
+- 🎨 [FASE 2: Identitat - La Paleta de Colors](fase-2-identitat/la-paleta-de-colors-lemocio.md)
+- 🎨 [FASE 2: Identitat - La Tipografia](fase-2-identitat/la-tipografia-la-veu.md)
+- ⚙️ [FASE 4: Producció](fase-4-produccio.md)
+- 💰 [FASE 5: Costos i preu](fase-5-costos-i-preu.md)

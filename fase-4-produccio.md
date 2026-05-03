@@ -57,3 +57,10 @@ Crea sis noves entrades titulades "Informe de Fabricació". Per a cadascun dels 
 - **Evidència gràfica**: Una fotografia del procés realitzat per tu (ex: la disposició de l'encofrat, la pesada dels components de la resina, l'ús de les alicates...).
 - **Descripció tècnica**: Explica el procediment que has seguit utilitzant vocabulari tècnic correcte (mescla, catalitzador, fraguat, polir, etc.).
 - **Anàlisi d'incidències**: Si hi ha hagut problemes (ex: bombolles, fuita de silicona, trencament), descriu la causa de l'error i la solució aplicada.
+
+---
+
+## 🧭 Navegació
+
+- 🔙 [Tornar a l'inici](index.md)
+- 🔜 [Anar a la FASE 5: Costos i preu](fase-5-costos-i-preu.md)
