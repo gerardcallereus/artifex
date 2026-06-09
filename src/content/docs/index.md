@@ -1,14 +1,21 @@
 ---
 title: Artífex
-description: Projecte educatiu de marca personal, disseny gràfic i producció de joieria.
+description: Projecte educatiu de marca personal, disseny gràfic i producció de joieria. Una guia completa des de la ideació fins a la comercialització.
 template: splash
 hero:
-  tagline: Una guia completa des de la ideació fins a la comercialització.
+  tagline: "Benvinguts a Artífex: l'espai on connectarem la idea creativa amb la producció i la venda."
+  image:
+    alt: Taller de joieria artesanal
+    file: ../../assets/hero-artifex.png
   actions:
     - text: Començar el projecte
-      link: /com-podem-crear-la-nostra-marca/
+      link: /artifex/com-podem-crear-la-nostra-marca/
       icon: right-arrow
       variant: primary
+    - text: Veure totes les fases
+      link: /artifex/fase-1-la-guspira/
+      icon: external
+      variant: secondary
 ---
 
 > [!TIP] Objectiu del projecte

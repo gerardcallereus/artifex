@@ -1,0 +1,433 @@
+/* ===================================================
+   ARTÍFEX - CSS Personalitzat (Brand Identity)
+   Colors extrets del Google Sites original:
+   - Magenta principal: #C12872
+   - Bordeus fosc:      #7F1146
+   - Fons clar:         #F2F2F2
+   - Fons dark sidebar: #212121
+   =================================================== */
+
+/* Importar font Lato (igual que Google Sites) */
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,300;0,400;0,700;1,300;1,400;1,700&display=swap');
+
+/* ==========================================
+   Starlight CSS Variables - Light Mode
+   ========================================== */
+:root {
+  /* Colors de marca Artífex */
+  --sl-color-accent-low:     #f7d6e7;
+  --sl-color-accent:         #C12872;
+  --sl-color-accent-high:    #7F1146;
+
+  /* Fons */
+  --sl-color-bg:             #ffffff;
+  --sl-color-bg-nav:         #ffffff;
+  --sl-color-bg-sidebar:     #fafafa;
+
+  /* Text */
+  --sl-color-text:           #212121;
+  --sl-color-text-accent:    #7F1146;
+
+  /* Capçalera (header) */
+  --sl-color-hairline:       rgba(193,40,114,0.2);
+
+  /* Font Lato per a tot */
+  --sl-font: 'Lato', sans-serif;
+  --sl-font-system: 'Lato', sans-serif;
+}
+
+/* ==========================================
+   Starlight CSS Variables - Dark Mode
+   ========================================== */
+[data-theme='dark'] {
+  --sl-color-accent-low:     #4a0f2a;
+  --sl-color-accent:         #e0508a;
+  --sl-color-accent-high:    #ff8ec3;
+
+  --sl-color-bg:             #1a1a1a;
+  --sl-color-bg-nav:         #212121;
+  --sl-color-bg-sidebar:     #1e1e1e;
+
+  --sl-color-text:           #f0f0f0;
+  --sl-color-text-accent:    #ff8ec3;
+}
+
+/* ==========================================
+   Capçalera de pàgina (Hero / Header)
+   ========================================== */
+header.header {
+  border-bottom: 2px solid var(--sl-color-accent);
+  background: linear-gradient(135deg, #7F1146 0%, #C12872 100%);
+}
+
+header.header a,
+header.header .site-title {
+  color: #ffffff !important;
+}
+
+/* Logo / Títol del lloc */
+.site-title {
+  font-family: 'Lato', sans-serif;
+  font-weight: 700;
+  font-size: 1.4rem;
+  letter-spacing: 1px;
+  color: #ffffff !important;
+}
+
+/* Icones de la capçalera (moon/sun, search...) */
+header.header svg {
+  color: rgba(255,255,255,0.85);
+}
+
+header.header button:hover svg,
+header.header a:hover svg {
+  color: #ffffff;
+}
+
+/* ==========================================
+   Sidebar de navegació
+   ========================================== */
+nav.sidebar {
+  border-right: 1px solid var(--sl-color-hairline);
+}
+
+/* Grup de categories al sidebar */
+.sidebar-group-title {
+  font-family: 'Lato', sans-serif;
+  font-weight: 700;
+  font-size: 0.72rem;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  color: var(--sl-color-accent-high);
+  margin-top: 1.5rem;
+}
+
+/* Enllaços del sidebar */
+.sidebar a {
+  font-family: 'Lato', sans-serif;
+  font-size: 0.9rem;
+  color: var(--sl-color-text);
+  transition: color 0.2s ease, background 0.2s ease;
+  border-radius: 6px;
+  padding: 0.3rem 0.6rem;
+}
+
+.sidebar a:hover {
+  color: var(--sl-color-accent);
+  background: rgba(193,40,114,0.08);
+}
+
+/* Enllaç actiu al sidebar */
+.sidebar a[aria-current='page'],
+.sidebar a[data-current-page='true'] {
+  background: linear-gradient(90deg, rgba(193,40,114,0.15) 0%, rgba(127,17,70,0.08) 100%);
+  color: var(--sl-color-accent);
+  font-weight: 700;
+  border-left: 3px solid var(--sl-color-accent);
+}
+
+/* ==========================================
+   Contingut principal - Tipografia
+   ========================================== */
+.sl-markdown-content {
+  font-family: 'Lato', sans-serif;
+  font-size: 1rem;
+  line-height: 1.7;
+  color: var(--sl-color-text);
+}
+
+/* Títols */
+.sl-markdown-content h1 {
+  font-family: 'Lato', sans-serif;
+  font-weight: 300;
+  font-size: 2.2rem;
+  letter-spacing: 0.5px;
+  color: var(--sl-color-accent-high);
+  border-bottom: 2px solid var(--sl-color-accent);
+  padding-bottom: 0.5rem;
+  margin-bottom: 1.5rem;
+}
+
+.sl-markdown-content h2 {
+  font-family: 'Lato', sans-serif;
+  font-weight: 400;
+  font-size: 1.4rem;
+  color: var(--sl-color-accent-high);
+  margin-top: 2.5rem;
+  margin-bottom: 1rem;
+  position: relative;
+  padding-left: 0.8rem;
+}
+
+.sl-markdown-content h2::before {
+  content: '';
+  position: absolute;
+  left: 0;
+  top: 0;
+  bottom: 0;
+  width: 4px;
+  background: linear-gradient(180deg, #C12872, #7F1146);
+  border-radius: 2px;
+}
+
+.sl-markdown-content h3 {
+  font-family: 'Lato', sans-serif;
+  font-weight: 700;
+  font-size: 1.1rem;
+  color: var(--sl-color-accent);
+  margin-top: 1.5rem;
+}
+
+/* ==========================================
+   Imatges
+   ========================================== */
+.sl-markdown-content img {
+  border-radius: 10px;
+  box-shadow: 0 4px 20px rgba(0,0,0,0.12);
+  margin: 1.5rem auto;
+  display: block;
+  max-width: 100%;
+  border: 1px solid rgba(193,40,114,0.15);
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.sl-markdown-content img:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 8px 30px rgba(193,40,114,0.2);
+}
+
+/* Captions d'imatge (text en cursiva sota la imatge) */
+.sl-markdown-content img + em,
+.sl-markdown-content p > em:only-child {
+  display: block;
+  text-align: center;
+  font-size: 0.82rem;
+  color: rgba(33,33,33,0.6);
+  margin-top: -0.8rem;
+  margin-bottom: 1.5rem;
+  font-style: italic;
+}
+
+/* ==========================================
+   Taules
+   ========================================== */
+.sl-markdown-content table {
+  border-radius: 10px;
+  overflow: hidden;
+  border-collapse: collapse;
+  width: 100%;
+  margin: 1.5rem 0;
+  box-shadow: 0 2px 12px rgba(0,0,0,0.08);
+}
+
+.sl-markdown-content thead {
+  background: linear-gradient(135deg, #7F1146, #C12872);
+  color: #ffffff;
+}
+
+.sl-markdown-content thead th {
+  color: #ffffff;
+  font-weight: 700;
+  padding: 0.8rem 1rem;
+  font-family: 'Lato', sans-serif;
+  font-size: 0.9rem;
+  letter-spacing: 0.04em;
+}
+
+.sl-markdown-content tbody tr:nth-child(odd) {
+  background: rgba(193,40,114,0.04);
+}
+
+.sl-markdown-content tbody tr:nth-child(even) {
+  background: #ffffff;
+}
+
+.sl-markdown-content tbody td {
+  padding: 0.7rem 1rem;
+  border-bottom: 1px solid rgba(193,40,114,0.1);
+  font-size: 0.9rem;
+  font-family: 'Lato', sans-serif;
+}
+
+/* ==========================================
+   Alertes / Callouts (NOTE, TIP, WARNING...)
+   ========================================== */
+.sl-markdown-content .starlight-aside {
+  border-radius: 8px;
+  border-left-width: 4px;
+  font-family: 'Lato', sans-serif;
+  margin: 1.5rem 0;
+}
+
+.sl-markdown-content .starlight-aside--tip {
+  background: rgba(193,40,114,0.06);
+  border-left-color: #C12872;
+}
+
+.sl-markdown-content .starlight-aside--note {
+  background: rgba(127,17,70,0.05);
+  border-left-color: #7F1146;
+}
+
+.sl-markdown-content .starlight-aside--caution {
+  background: rgba(255,165,0,0.07);
+  border-left-color: #e08000;
+}
+
+/* ==========================================
+   Llistes
+   ========================================== */
+.sl-markdown-content ul li::marker {
+  color: var(--sl-color-accent);
+}
+
+.sl-markdown-content ol li::marker {
+  color: var(--sl-color-accent);
+  font-weight: 700;
+}
+
+/* ==========================================
+   Separadors horitzontals
+   ========================================== */
+.sl-markdown-content hr {
+  border: none;
+  height: 2px;
+  background: linear-gradient(90deg, transparent, #C12872, transparent);
+  margin: 2.5rem 0;
+  opacity: 0.4;
+}
+
+/* ==========================================
+   Botons / Badges (Hero page)
+   ========================================== */
+.hero .action {
+  font-family: 'Lato', sans-serif;
+  font-weight: 700;
+  letter-spacing: 0.04em;
+  border-radius: 8px;
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.hero .action.primary {
+  background: linear-gradient(135deg, #C12872, #7F1146);
+  border-color: transparent;
+  color: #ffffff;
+}
+
+.hero .action.primary:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 6px 20px rgba(193,40,114,0.4);
+}
+
+/* ==========================================
+   Portada (Splash template)
+   ========================================== */
+.hero {
+  position: relative;
+}
+
+.hero .sl-markdown-content {
+  font-size: 1.05rem;
+}
+
+/* ==========================================
+   Paginació (Prev/Next)
+   ========================================== */
+.pagination-links a {
+  border-radius: 8px;
+  border-color: rgba(193,40,114,0.3);
+  font-family: 'Lato', sans-serif;
+  transition: all 0.2s ease;
+}
+
+.pagination-links a:hover {
+  border-color: var(--sl-color-accent);
+  background: rgba(193,40,114,0.06);
+  color: var(--sl-color-accent);
+}
+
+/* ==========================================
+   Bloc de codi (inline)
+   ========================================== */
+.sl-markdown-content code:not(pre code) {
+  background: rgba(193,40,114,0.1);
+  color: var(--sl-color-accent-high);
+  border-radius: 4px;
+  padding: 0.1em 0.4em;
+  font-size: 0.88em;
+}
+
+/* ==========================================
+   Enllaços
+   ========================================== */
+.sl-markdown-content a {
+  color: var(--sl-color-accent);
+  text-decoration: underline;
+  text-underline-offset: 3px;
+  transition: color 0.2s ease;
+}
+
+.sl-markdown-content a:hover {
+  color: var(--sl-color-accent-high);
+}
+
+/* ==========================================
+   Footer
+   ========================================== */
+footer {
+  border-top: 1px solid rgba(193,40,114,0.2);
+  font-family: 'Lato', sans-serif;
+  font-size: 0.82rem;
+  color: rgba(33,33,33,0.5);
+}
+
+/* ==========================================
+   Scrollbar personalitzada (webkit)
+   ========================================== */
+::-webkit-scrollbar {
+  width: 6px;
+}
+
+::-webkit-scrollbar-track {
+  background: transparent;
+}
+
+::-webkit-scrollbar-thumb {
+  background: rgba(193,40,114,0.3);
+  border-radius: 3px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: rgba(193,40,114,0.6);
+}
+
+/* ==========================================
+   Animació suau d'entrada
+   ========================================== */
+@keyframes fadeInUp {
+  from {
+    opacity: 0;
+    transform: translateY(16px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.sl-markdown-content {
+  animation: fadeInUp 0.4s ease forwards;
+}
+
+/* ==========================================
+   Responsive - Mòbil
+   ========================================== */
+@media (max-width: 768px) {
+  .sl-markdown-content h1 {
+    font-size: 1.7rem;
+  }
+
+  .sl-markdown-content h2 {
+    font-size: 1.2rem;
+  }
+}

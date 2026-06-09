@@ -18,7 +18,7 @@ export default defineConfig({
     suppressSitemapErrors,
     starlight({
       title: 'Artífex',
-      customCss: [],
+      customCss: ['./src/styles/custom.css'],
       sidebar: [
         { label: 'Inici', link: '/' },
         { label: 'Com podem crear la nostra marca?', link: '/com-podem-crear-la-nostra-marca/' },
