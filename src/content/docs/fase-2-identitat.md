@@ -5,8 +5,18 @@ description: Aprén més sobre aquest tema del projecte Artífex.
 
 # FASE 2: IDENTITAT
 
-> [!INFO] Objectiu de la fase
-> En aquesta etapa definim l'ADN de la teva marca: nom, imatge, colors i tipografia. Això és el que farà que el teu projecte sigui reconeixible i consistent.
+<div class="learning-objectives-box">
+  <div class="box-title">🎯 Objectius d'aprenentatge</div>
+  <ul>
+    <li><strong>ADN de Marca:</strong> Comprendre els quatre components clau de la identitat corporativa (nom, logotip, colors i tipografia).</li>
+    <li><strong>Criteri de disseny:</strong> Desenvolupar un criteri estètic i comunicatiu avaluant encerts i errors de logotips simulats.</li>
+    <li><strong>Feedback teòric:</strong> Extreure recomanacions pràctiques d'experts en disseny gràfic per a la creació del propi logotip.</li>
+  </ul>
+</div>
+
+:::note[Objectiu de la fase]
+En aquesta etapa definim l'ADN de la teva marca: nom, imatge, colors i tipografia. Això és el que farà que el teu projecte sigui reconeixible i consistent.
+:::
 
 Benvinguts a la primera gran etapa del projecte. Abans de posar-nos a fabricar res, hem de respondre a la pregunta més important de totes: Qui som?
 
@@ -35,6 +45,18 @@ En aquesta aplicació us convertireu en jutges professionals. Veureu 10 marques 
 3. **Captura el millor consell:** Al final de cada ronda apareix un "Consell Pro". Copia en un document el que et sembli més útil per aplicar al teu futur logotip.
 
 **Estàs preparat per jutjar? Comença la partida ara!**
+
+<div class="app-wrapper" id="app-jurat-de-disseny">
+  <div class="app-header">
+    <span class="app-title">⚖️ Simulador: Jurat de disseny</span>
+    <button class="app-fullscreen-btn" onclick="document.getElementById('app-jurat-de-disseny').requestFullscreen()">
+      <svg viewBox="0 0 24 24" width="16" height="16" fill="currentColor" style="display:inline-block; vertical-align:middle; margin-right:4px;">
+        <path d="M7 14H5v5h5v-2H7v-3zm-2-4h2V7h3V5H5v5zm12 7h-3v2h5v-5h-2v3zM14 5v2h3v3h2V5h-5z"/>
+      </svg> Pantalla completa
+    </button>
+  </div>
+  <iframe src="/artifex/apps/artifex-jurat-de-disseny/index.html" allowfullscreen></iframe>
+</div>
 
 ---
 

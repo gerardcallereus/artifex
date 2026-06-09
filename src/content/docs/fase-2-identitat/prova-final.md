@@ -5,8 +5,18 @@ description: Prova final de la Fase 2 d'Identitat del projecte Artífex. Valora 
 
 # Prova Final
 
-> [!IMPORTANT] Instruccions
-> Entra a l'enllaç de Socrative, indica el teu nom i respon a les **20 preguntes** de la prova. Disposes d'un temps limitat, llegeix bé cada pregunta abans de respondre.
+<div class="learning-objectives-box">
+  <div class="box-title">🎯 Objectius d'aprenentatge</div>
+  <ul>
+    <li><strong>Consolidació de coneixements:</strong> Avaluar la comprensió dels principis del Naming, disseny de logotips, psicologia cromàtica i ús tipogràfic.</li>
+    <li><strong>Pensament crític:</strong> Aplicar els coneixements visuals per analitzar i distingir exemples reals de marques i el seu impacte visual.</li>
+    <li><strong>Reflexió metacognitiva:</strong> Analitzar els propis resultats i com els conceptes apresos transformen la concepció de disseny de la marca personal.</li>
+  </ul>
+</div>
+
+:::caution[Instruccions]
+Entra a l'enllaç de Socrative, indica el teu nom i respon a les **20 preguntes** de la prova. Disposes d'un temps limitat, llegeix bé cada pregunta abans de respondre.
+:::
 
 Hem arribat al final de la **Fase 2: Identitat**. Ara és el moment de demostrar que has après a construir l'ADN visual d'una marca.
 
@@ -27,10 +37,11 @@ Fes clic al botó per accedir a Socrative. Com a **nom d'aula**, introdueix:
 
 > **ietramuntana**
 
-[🖊️ Accedir a la prova a Socrative](https://b.socrative.com/login/student/){target="_blank" rel="noopener"}
+<a href="https://b.socrative.com/login/student/" target="_blank" rel="noopener noreferrer">🖊️ Accedir a la prova a Socrative</a>
 
-> [!TIP] Consell
-> Repassa les pàgines anteriors d'aquesta fase si tens dubtes: El Naming, El Logotip, La Paleta de Colors i La Tipografia. Recorda els exemples reals que hem analitzat (Disney, Amazon, Nike, Apple...).
+:::tip[Consell]
+Repassa les pàgines anteriors d'aquesta fase si tens dubtes: El Naming, El Logotip, La Paleta de Colors i La Tipografia. Recorda els exemples reals que hem analitzat (Disney, Amazon, Nike, Apple...).
+:::
 
 ---
 
@@ -42,10 +53,4 @@ Un cop acabada la prova, obre el teu Diari d'Aprenentatge i crea una nova pàgin
 2. **Quina part de la Fase 2 t'ha semblat més interessant** i per què? (El naming, el logotip, els colors o la tipografia?)
 3. **Aplicació al teu projecte:** Amb tot el que has après en aquesta fase, com creus que ha canviat la manera com planteges el disseny de la teva marca? Cita un exemple concret.
 
----
 
-## 🧭 Navegació
-
-- 🔙 [Anterior: La Tipografia](la-tipografia-la-veu.md)
-- 🔜 [Següent: FASE 3: Disseny Tècnic](../../fase-3-disseny-tecnic.md)
-- 🏠 [Tornar a l'inici](../../index.md)

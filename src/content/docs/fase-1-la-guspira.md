@@ -5,12 +5,22 @@ description: Aprén més sobre aquest tema del projecte Artífex.
 
 # FASE 1: LA GUSPIRA
 
-> [!INFO] Fase d'inspiració
-> En aquesta fase busquem la teva guspira: aquella emoció, record o sensació que connecta el teu projecte amb la teva història personal.
+<div class="learning-objectives-box">
+  <div class="box-title">🎯 Objectius d'aprenentatge</div>
+  <ul>
+    <li><strong>Inspiració personal:</strong> Identificar records, orígens o passions pròpies com a font d'inspiració per a la col·lecció.</li>
+    <li><strong>Creació de Moodboard:</strong> Dissenyar un tauler d'inspiració gràfica aplicant criteris clau de jerarquia, harmonia, aire i equilibri.</li>
+    <li><strong>Síntesi conceptual:</strong> Traduir idees intangibles i relats personals en una identitat visual coherent.</li>
+  </ul>
+</div>
+
+:::note[Fase d'inspiració]
+En aquesta fase busquem la teva guspira: aquella emoció, record o sensació que connecta el teu projecte amb la teva història personal.
+:::
 
 Tota gran empresa comença amb una idea invisible: Benvinguts a la Fase 1: La Guspira.
 
-![](https://lh3.googleusercontent.com/sitesv/AA5AbUDSVkAjdH_63AyO-HpV8tlVycebVuSDSIb0I7TBw-QCUDxd72nLXWuB16CIauz-7t9YrwSAFGTnuAdVFJhmS8C44Ml3Qfrc3TmuGg7aYqKR0-XjdtGhupx59N9mc2N6qZATTOzCa9OC32lNYk0hCdRZiWKLtjJwbQZhdcm2QR9KfB-1CvG1XuBv6wUFanMv6ND4Z5AB8r74QlEF802G5Z6hMDG6ZKgPRwMJ=w1280)
+![La guspira d'inspiració](/artifex/media/guspira.png)
 
 ## Trobar el meu "Motiu" (Individual)
 Les marques que realment ens emocionen no són les que tenen el logo més perfecte, sinó les que tenen ànima. I l'ànima no es pot copiar d'Internet; l'has de trobar dins teu.
@@ -41,3 +51,6 @@ Aquí tens els 5 consells clau per tenir en compte abans de començar a dissenya
 
 ## Exemples de Moodboard
 A continuació tens diversos exemples de Moodboard. Justament el que pots veure a sota és el que jo he dissenyat sobre l'any que vaig viure a Bolívia. Les fotografies són dels diversos viatges que vaig fer i on he volgut destacar els colors verd, blau i marró dels paisatges. De fons, he ficat la tela d'un aguayo, el tèxtil típic de la cultura andina.
+
+![Exemple de Moodboard 1](/artifex/media/moodboard_example1.png)
+![Exemple de Moodboard 3](/artifex/media/moodboard_example3.png)

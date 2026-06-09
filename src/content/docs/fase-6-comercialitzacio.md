@@ -5,8 +5,18 @@ description: Aprén més sobre aquest tema del projecte Artífex.
 
 # FASE 6: COMERCIALITZACIÓ
 
-> [!INFO] El packaging és part de la marca
-> El disseny del teu envàs pot multiplicar el valor percebut del teu producte. Aquí aprenem a fer que l'obertura sigui una experiència memorable.
+<div class="learning-objectives-box">
+  <div class="box-title">🎯 Objectius d'aprenentatge</div>
+  <ul>
+    <li><strong>Funcions del Packaging:</strong> Comprendre les tres dimensions clau de l'envàs: protecció física, comunicació de la identitat i experiència emocional (unboxing).</li>
+    <li><strong>Disseny paramètric:</strong> Utilitzar l'aplicació TemplateMaker per generar plantilles d'envasos de cartró a partir de dimensions reals i marges de seguretat.</li>
+    <li><strong>Coherència gràfica:</strong> Dibuixar un esbós detallat de l'embalatge integrant la forma 3D, les cotes i la ubicació del logotip corporatiu.</li>
+  </ul>
+</div>
+
+:::note[El packaging és part de la marca]
+El disseny del teu envàs pot multiplicar el valor percebut del teu producte. Aquí aprenem a fer que l'obertura sigui una experiència memorable.
+:::
 
 Benvinguts a l'última etapa! Un cop que les arracades estiguin acabades, hem de decidir l'últim punt: com les entreguem al client?
 
@@ -18,17 +28,16 @@ El Packaging (envàs) té tres funcions vitals que heu de complir:
 - **Informació**: Qui ets? Com es diu la marca?
 - **L'Experiència**: El so del cartó, l'olor, l'ajust perfecte... això és màrqueting.
 
-> [!TIP] Pensa en l'obertura
-> El moment en què el client treu la joia de la capsa és una oportunitat per reforçar la marca.
-
-![](https://lh3.googleusercontent.com/sitesv/AA5AbUAYULF-Nlur3C1xQVhYoewqXAKnBAgpn0QjIvxqVUpyOulaMdYga9AahGK8RrAVAC_WBt1FOX3E3ynoum-sYWvaWiyZ9BH1IgqVDSBbXXZv1VQFphRwLBiLGqgfHvveT2fEV3wo-JZLOFidPem6kPWckYZM6JZp5zEbmwruhZ1EWyAWVY_ZfepftNc7njgzgqUfarB5tAANT3ijHxWjJ8zItZIM0_AOew=w1280)
+:::tip[Pensa en l'obertura]
+El moment en què el client treu la joia de la capsa és una oportunitat per reforçar la marca.
+:::
 
 ## TemplateMaker
 Per fer una capsa, no n'hi ha prou amb agafar unes tisores i "provar sort". Necessitem matemàtiques. Si falles per 2 mil·límetres, la capsa no tancarà.
 
 Per sort, no cal que calculeu els angles a mà. Farem servir [TemplateMaker.nl](https://www.templatemaker.nl/es/). Aquesta web és un generador paramètric: tu li dius què vols dissenyar i les seves mides i ella t'ajuda a dibuixar els plànols exactes per retallar.
 
-![](https://lh3.googleusercontent.com/sitesv/AA5AbUA6kn162Y20QZ6y2GM6YxUm_S__sklsncan3PcpMUD2IdmxvZqD0QcVZ2XY63wgTfoJJFRKNrqwH5I_H6DpAbQRj_vNaY4h71ybkq58FFoosRzu6Fb7ul_CfK9y_Z9Cqbg87vz7vyZ9cB9lHze41EWTWub663z5wvO6YBjGhEsgmh_XTmMwwC_4lKK-BL_CHzJXepcdyPy7_35BWvTRmLfqqC4AL-b6QjXrbPc=w1280)
+
 
 ## Com fer el teu envàs
 
@@ -50,8 +59,9 @@ Ara pensa en la capsa tancada.
 - On es veurà millor el teu logo? Al centre de la tapa? Al lateral?
 - De quin color serà la cartolina?
 
-> [!TIP] Recorda la coherència
-> El packaging ha de connectar amb el teu logo, la paleta de colors i l'estil visual de la marca.
+:::tip[Recorda la coherència]
+El packaging ha de connectar amb el teu logo, la paleta de colors i l'estil visual de la marca.
+:::
 
 ---
 

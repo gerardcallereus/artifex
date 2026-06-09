@@ -5,8 +5,18 @@ description: Aprén més sobre aquest tema del projecte Artífex.
 
 # Cooperativa Artífex
 
-> [!INFO] Què significa ser una cooperativa?
-> A Artífex treballarem com un equip: cadascú té la seva marca personal, però compartim recursos, coneixement i espai de venda.
+<div class="learning-objectives-box">
+  <div class="box-title">🎯 Objectius d'aprenentatge</div>
+  <ul>
+    <li><strong>Principis cooperatius:</strong> Comprendre els valors i el funcionament d'una organització cooperativa i el treball col·laboratiu.</li>
+    <li><strong>Gestió democràtica:</strong> Debatre i prendre decisions col·lectives sobre la gestió i distribució dels beneficis econòmics del projecte.</li>
+    <li><strong>Habilitats socials:</strong> Desenvolupar l'empatia, la negociació i el compromís solidari dins del grup-classe.</li>
+  </ul>
+</div>
+
+:::note[Què significa ser una cooperativa?]
+A Artífex treballarem com un equip: cadascú té la seva marca personal, però compartim recursos, coneixement i espai de venda.
+:::
 
 Comença el projecte i el primer que heu de saber és que deixarem de ser una classe normal per convertir-nos en una COOPERATIVA DE JOIERIA. Què vol dir que som una Cooperativa? Vol dir que funcionarem com un equip professional.
 
@@ -14,8 +24,9 @@ Comença el projecte i el primer que heu de saber és que deixarem de ser una cl
 - Compartirem màquines i materials.
 - Intercanviarem idees i aprendrem junts.
 
-> [!TIP] Socis, no competència
-> Si al teu company li surt bé la barreja de resina, aprens d'ell. Si tu domines el disseny vectorial, ajudes als altres.
+:::tip[Socis, no competència]
+Si al teu company li surt bé la barreja de resina, aprens d'ell. Si tu domines el disseny vectorial, ajudes als altres.
+:::
 
 ## El Debat dels Diners (Debat grup classe)
 Com a cooperativa, hem de prendre una decisió democràtica molt important abans de començar: Què farem amb els beneficis?
@@ -26,7 +37,7 @@ Quan venguem les joies al final del projecte i recuperem els diners que han cost
 - Els donem a una ONG o causa solidària que triem entre tots?
 - Reinvertim en millor material per a l'aula?
 - Teniu altres idees?
-![](https://lh3.googleusercontent.com/sitesv/AA5AbUBb1hFbilZP8XtshOd81zhUNwkj9KWHWKtyokn-5Z1voC31PT8t17WWx_Fr8hdbdAJ1vuWjUQ1hRiY9vahEs0eel-gTrbOlHRK_PXqmA8Q2XxBxeZ-xccMdx3gAI7rlGAJCcdE8V3uFaGrBPC2f7qf0qIa06K6BzwHPgcBMyyPSAt111XcIanlVpP9YxCH5QekySsfvK4zUnIq2WqIYyIrR3p9aZmGsp9OYIV4=w1280)
+![Treball en equip cooperatiu](/artifex/media/cooperativa.png)
 ## Diari d'aprenentatge: El Debat dels Diners
 Afegeix una nova pàgina "El Debat dels diners" on, a partir del debat a classe expliquis:
 - Quan s'ha plantejat la pregunta "Què farem amb els beneficis?", quina ha estat la teva primera opció? Per què creies que aquesta era la millor opció? Què et feia pensar així?

@@ -5,8 +5,18 @@ description: Aprén més sobre aquest tema del projecte Artífex.
 
 # FASE 3: DISSENY TÈCNIC
 
-> [!INFO] Disseny tècnic
-> En aquesta fase convertirem les idees en instruccions precises per màquines. El dibuix tècnic és la llengua universal del procés de fabricació.
+<div class="learning-objectives-box">
+  <div class="box-title">🎯 Objectius d'aprenentatge</div>
+  <ul>
+    <li><strong>Llenguatge de fabricació:</strong> Comprendre la importància del disseny tècnic i els arxius CAD per a la comunicació amb les màquines.</li>
+    <li><strong>Modelatge digital:</strong> Utilitzar TinkerCAD per dissenyar geometries exactes en format 2D (per a tall làser) i 3D (per a impressió).</li>
+    <li><strong>Anàlisi tècnica:</strong> Avaluar la viabilitat de fabricació del propi disseny analitzant formes, cotes i gruixos de les peces.</li>
+  </ul>
+</div>
+
+:::note[Disseny tècnic]
+En aquesta fase convertirem les idees en instruccions precises per màquines. El dibuix tècnic és la llengua universal del procés de fabricació.
+:::
 
 Benvinguts a la Fase 3: Disseny Tècnic. Fins ara heu treballat la part creativa i emocional (la identitat). Però una idea brillant no serveix de res si no es pot fabricar. Avui deixem el llapis i el paper i ens asseiem davant de l'ordinador per convertir-nos en tècnics.
 
@@ -28,10 +38,11 @@ Per passar de l'esbós artístic al model digital, farem servir TinkerCAD. Aques
 En el següent enllaç podreu entrar a la classe preparada per aquestes sessions dins del TinkerCAD:
 [TINKERCAD](https://www.tinkercad.com/joinclass/V4JGZXFWM)
 
-> [!TIP] Comença pel repte d'entrenament
-> Replica el logo de Munay abans de dissenyar el teu propi logotip. Això t'ajudarà a dominar les eines de TinkerCAD.
+:::tip[Comença pel repte d'entrenament]
+Replica el logo de Munay abans de dissenyar el teu propi logotip. Això t'ajudarà a dominar les eines de TinkerCAD.
+:::
 
-![](https://lh3.googleusercontent.com/sitesv/AA5AbUCvSNACypguoMb5YIZRR84g9ybNWoNmZog27ZnvdjvTTJDTG_8-Y43ybsFyDy-vknP36nZxPRlrehieqnku3kVULllTh88Knj0dGqyv5N4vBD7d_YYzyfsm8J-OWoJpOTNZlEpkvPUtNzuj0Vne6kysK03bY3VEbPCKo_qYabNT8Hq2DzWHlChTYycYBlBIRbczE81RExraz7FOm7stRTU35AagINKL1nf8=w1280)
+![Logo Munay](/artifex/media/nom_munay.png)
 
 Dins de TinkerCAD trobareu tres reptes que heu de completar en ordre:
 1. **Entrenament: Logo MUNAY:** Abans de fer el vostre, heu de demostrar que domineu l'eina. Heu de replicar exactament el logotip de la marca "Munay" que vam veure a la fase d'identitat. A continuació teniu un vídeo per ajudar-vos per a poder seguir pas a pas com fer el logo de MUNAY.

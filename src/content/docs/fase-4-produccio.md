@@ -5,8 +5,18 @@ description: Aprén més sobre aquest tema del projecte Artífex.
 
 # FASE 4: PRODUCCIÓ
 
-> [!INFO] Línia de fabricació
-> Ara ja tens un prototip. Aquestes pàgines expliquen com transformar-lo en una producció en sèrie a petita escala utilitzant motlles i resina.
+<div class="learning-objectives-box">
+  <div class="box-title">🎯 Objectius d'aprenentatge</div>
+  <ul>
+    <li><strong>Producció en sèrie:</strong> Conèixer el procés industrial i artesanal de reproducció mitjançant motlles de silicona.</li>
+    <li><strong>Tècniques de laboratori:</strong> Adquirir habilitats en la dosificació de resines, barreja de components, fraguat i acabat de materials.</li>
+    <li><strong>Documentació de processos:</strong> Redactar informes tècnics de fabricació analitzant incidències, errors i propostes de millora.</li>
+  </ul>
+</div>
+
+:::note[Línia de fabricació]
+Ara ja tens un prototip. Aquestes pàgines expliquen com transformar-lo en una producció en sèrie a petita escala utilitzant motlles i resina.
+:::
 
 Entrem en l'etapa d'execució tècnica. L'objectiu d'aquesta fase és transformar el model digital que en un producte físic viable comercialment. No fabricarem una peça única (artesania pura), sinó que dissenyarem un sistema de producció en sèrie a petita escala.
 
@@ -57,9 +67,4 @@ Crea sis noves entrades titulades "Informe de Fabricació". Per a cadascun dels 
 - **Descripció tècnica**: Explica el procediment que has seguit utilitzant vocabulari tècnic correcte (mescla, catalitzador, fraguat, polir, etc.).
 - **Anàlisi d'incidències**: Si hi ha hagut problemes (ex: bombolles, fuita de silicona, trencament), descriu la causa de l'error i la solució aplicada.
 
----
 
-## 🧭 Navegació
-
-- 🔙 [Tornar a l'inici](index.md)
-- 🔜 [Anar a la FASE 5: Costos i preu](fase-5-costos-i-preu.md)

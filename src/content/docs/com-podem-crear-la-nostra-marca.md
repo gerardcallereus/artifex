@@ -5,10 +5,20 @@ description: Aprén més sobre aquest tema del projecte Artífex.
 
 # Com podem crear la nostra marca?
 
-> [!TIP] El recorregut d'una marca
-> No es tracta només de dissenyar una joia: es tracta de seguir un procés des de la idea fins al client.
+<div class="learning-objectives-box">
+  <div class="box-title">🎯 Objectius d'aprenentatge</div>
+  <ul>
+    <li><strong>Full de ruta:</strong> Comprendre les diferents fases del procés de creació d'una marca des de la idea inicial fins a la venda.</li>
+    <li><strong>Exemple real:</strong> Analitzar l'ordre lògic del disseny, producció i comercialització mitjançant el cas pràctic de Nike.</li>
+    <li><strong>Reflexió personal:</strong> Analitzar les teves habilitats i expectatives respecte als reptes econòmics, creatius i tècnics del projecte.</li>
+  </ul>
+</div>
 
-![](https://lh3.googleusercontent.com/sitesv/AA5AbUBWJcby8VRuqY-v0xUdn1WWaWCvpRca4i5XQggjo1oDbBA8ig9ccZk4g6JRFOedQDU-n_QMlMLCKPmkX6RDDYkdSjZ6wYVkErnGy3x1uszk_Ic-0oSmpXvFN7fgNG5DuPm5pPdOdO41M54HjFRjjGDRu4S0QZoyIrbXFt4TUgY3YmcmPjmBn1vzWfQpLmHBsxFg0XdeRxnIvd6PTrmgD8dVsQaMkmy1etRK1Hg=w1280)
+:::tip[El recorregut d'una marca]
+No es tracta només de dissenyar una joia: es tracta de seguir un procés des de la idea fins al client.
+:::
+
+![Tinker Hatfield, dissenyador de Nike](/artifex/media/Nike.png)
 
 > _Tinker Hatfield, dissenyador de Nike_
 
@@ -24,8 +34,21 @@ En la següent activitat trobareu les sis Fases de Creació d'una marca totalmen
 - **La DEFINICIÓ** (Què es fa en aquest pas?).
 - **L'EXEMPLE REAL** (Com ho va fer Nike en el seu moment?).
 
-> [!TIP] Pensa com un estrateg
-> El teu objectiu és identificar l'ordre del procés: idea, disseny, producció, preu, packaging i venda.
+<div class="app-wrapper" id="app-crea-la-teva-marca">
+  <div class="app-header">
+    <span class="app-title">🛠️ Simulador: Crea la teva marca</span>
+    <button class="app-fullscreen-btn" onclick="document.getElementById('app-crea-la-teva-marca').requestFullscreen()">
+      <svg viewBox="0 0 24 24" width="16" height="16" fill="currentColor" style="display:inline-block; vertical-align:middle; margin-right:4px;">
+        <path d="M7 14H5v5h5v-2H7v-3zm-2-4h2V7h3V5H5v5zm12 7h-3v2h5v-5h-2v3zM14 5v2h3v3h2V5h-5z"/>
+      </svg> Pantalla completa
+    </button>
+  </div>
+  <iframe src="/artifex/apps/artifex-crea-la-teva-marca/index.html" allowfullscreen></iframe>
+</div>
+
+:::tip[Pensa com un estrateg]
+El teu objectiu és identificar l'ordre del procés: idea, disseny, producció, preu, packaging i venda.
+:::
 
 ---
 

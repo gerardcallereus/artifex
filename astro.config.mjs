@@ -19,11 +19,14 @@ export default defineConfig({
     starlight({
       title: 'Artífex',
       customCss: ['./src/styles/custom.css'],
+      pagination: false,
+      tableOfContents: false,
       sidebar: [
         { label: 'Inici', link: '/' },
         { label: 'Com podem crear la nostra marca?', link: '/com-podem-crear-la-nostra-marca/' },
-        { label: 'FASE 1: La guspira', link: '/fase-1-la-guspira/' },
+        { label: 'Mucha Joya', link: '/mucha-joya/' },
         { label: 'Cooperativa Artífex', link: '/cooperativa-artifex/' },
+        { label: 'FASE 1: La guspira', link: '/fase-1-la-guspira/' },
         {
           label: 'FASE 2: Identitat',
           items: [
@@ -39,7 +42,6 @@ export default defineConfig({
         { label: 'FASE 4: Producció', link: '/fase-4-produccio/' },
         { label: 'FASE 5: Costos i preu', link: '/fase-5-costos-i-preu/' },
         { label: 'FASE 6: Comercialització', link: '/fase-6-comercialitzacio/' },
-        { label: 'Mucha Joya', link: '/mucha-joya/' },
         { label: 'Tancament del projecte', link: '/tancament-del-projecte/' }
       ],
     }),

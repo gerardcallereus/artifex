@@ -14,6 +14,8 @@
    Starlight CSS Variables - Light Mode
    ========================================== */
 :root {
+  font-size: 18px !important;
+
   /* Colors de marca Artífex */
   --sl-color-accent-low:     #f7d6e7;
   --sl-color-accent:         #C12872;
@@ -34,6 +36,12 @@
   /* Font Lato per a tot */
   --sl-font: 'Lato', sans-serif;
   --sl-font-system: 'Lato', sans-serif;
+
+  /* Ampliar l'amplada de contingut */
+  --sl-content-width: 75rem;
+
+  /* Ampliar l'amplada de la barra de navegació lateral */
+  --sl-sidebar-width: 22rem;
 }
 
 /* ==========================================
@@ -56,7 +64,7 @@
    Capçalera de pàgina (Hero / Header)
    ========================================== */
 header.header {
-  border-bottom: 2px solid var(--sl-color-accent);
+  border-bottom: none !important;
   background: linear-gradient(135deg, #7F1146 0%, #C12872 100%);
 }
 
@@ -85,10 +93,29 @@ header.header a:hover svg {
 }
 
 /* ==========================================
-   Sidebar de navegació
+   Sidebar de navegació (Fons fosc permanent)
    ========================================== */
-nav.sidebar {
-  border-right: 1px solid var(--sl-color-hairline);
+nav.sidebar,
+.sidebar-pane {
+  background-color: #212121 !important;
+  border-right: 1px solid rgba(255, 255, 255, 0.1) !important;
+
+  /* Forçar escala de colors de tema fosc a l'interior del sidebar */
+  --sl-color-white: #ffffff !important;
+  --sl-color-gray-1: #f5f5f5 !important;
+  --sl-color-gray-2: #cccccc !important;
+  --sl-color-gray-3: #999999 !important;
+  --sl-color-gray-4: #666666 !important;
+  --sl-color-gray-5: #333333 !important;
+  --sl-color-gray-6: #212121 !important;
+  --sl-color-black: #212121 !important;
+  
+  --sl-color-hairline: rgba(255, 255, 255, 0.15) !important;
+  --sl-color-hairline-light: rgba(255, 255, 255, 0.1) !important;
+  --sl-color-hairline-shade: rgba(0, 0, 0, 0.25) !important;
+  
+  --sl-color-text-accent: #e0508a !important;
+  --sl-color-text-invert: #ffffff !important;
 }
 
 /* Grup de categories al sidebar */
@@ -98,7 +125,7 @@ nav.sidebar {
   font-size: 0.72rem;
   text-transform: uppercase;
   letter-spacing: 0.08em;
-  color: var(--sl-color-accent-high);
+  color: #ff8ec3 !important; /* light magenta accent */
   margin-top: 1.5rem;
 }
 
@@ -106,24 +133,42 @@ nav.sidebar {
 .sidebar a {
   font-family: 'Lato', sans-serif;
   font-size: 0.9rem;
-  color: var(--sl-color-text);
+  color: #e0e0e0 !important; /* light text */
   transition: color 0.2s ease, background 0.2s ease;
   border-radius: 6px;
   padding: 0.3rem 0.6rem;
+  text-decoration: none !important;
 }
 
 .sidebar a:hover {
-  color: var(--sl-color-accent);
-  background: rgba(193,40,114,0.08);
+  color: #ffffff !important;
+  background: rgba(255, 255, 255, 0.1) !important;
 }
 
 /* Enllaç actiu al sidebar */
 .sidebar a[aria-current='page'],
 .sidebar a[data-current-page='true'] {
-  background: linear-gradient(90deg, rgba(193,40,114,0.15) 0%, rgba(127,17,70,0.08) 100%);
-  color: var(--sl-color-accent);
+  background: linear-gradient(90deg, rgba(255, 255, 255, 0.15) 0%, rgba(255, 255, 255, 0.05) 100%) !important;
+  color: #ff8ec3 !important; /* light accent */
   font-weight: 700;
-  border-left: 3px solid var(--sl-color-accent);
+  border-left: 3px solid #e0508a !important;
+}
+
+/* Forçar text blanc per als títols desplegables (class large en Starlight) i ressaltats */
+.sidebar .large {
+  color: #ffffff !important;
+}
+
+.sidebar summary {
+  color: #e0e0e0 !important;
+}
+
+.sidebar summary:hover {
+  color: #ffffff !important;
+}
+
+.sidebar summary svg {
+  color: #b0b0b0 !important;
 }
 
 /* ==========================================
@@ -430,4 +475,288 @@ footer {
   .sl-markdown-content h2 {
     font-size: 1.2rem;
   }
+}
+
+/* ==========================================
+   Custom Page Layout Utilities (Grids, Columns, Cards)
+   ========================================== */
+.custom-grid-2 {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 2.5rem;
+  margin: 2rem 0;
+  align-items: stretch;
+}
+
+.custom-grid-3 {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 1.5rem;
+  margin: 2rem 0;
+  align-items: stretch;
+}
+
+.custom-grid-4 {
+  display: grid;
+  grid-template-columns: repeat(4, minmax(0, 1fr));
+  gap: 1.25rem;
+  margin: 2rem 0;
+  align-items: stretch;
+}
+
+/* Constrenyir les imatges dins de graelles personalitzades */
+.custom-grid-2 img,
+.custom-grid-3 img,
+.custom-grid-4 img {
+  margin: 0.5rem auto !important;
+}
+
+@media (max-width: 992px) {
+  .custom-grid-2 {
+    grid-template-columns: minmax(0, 1fr);
+    gap: 1.5rem;
+  }
+  .custom-grid-3 {
+    grid-template-columns: minmax(0, 1fr);
+    gap: 1.5rem;
+  }
+  .custom-grid-4 {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: 1.25rem;
+  }
+}
+
+@media (max-width: 600px) {
+  .custom-grid-4 {
+    grid-template-columns: minmax(0, 1fr);
+    gap: 1.25rem;
+  }
+}
+
+.custom-card {
+  background: rgba(193, 40, 114, 0.03);
+  border: 1px solid rgba(193, 40, 114, 0.12);
+  border-radius: 12px;
+  padding: 1.5rem;
+  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.02);
+  transition: transform 0.25s ease, box-shadow 0.25s ease, background-color 0.25s ease;
+  margin-bottom: 1.5rem;
+}
+
+.custom-card:hover {
+  transform: translateY(-3px);
+  box-shadow: 0 8px 25px rgba(193, 40, 114, 0.1);
+  background: rgba(193, 40, 114, 0.06);
+}
+
+.custom-grid-2 > .custom-card,
+.custom-grid-3 > .custom-card,
+.custom-grid-4 > .custom-card {
+  margin-bottom: 0 !important;
+  height: 100%;
+}
+
+.custom-card-title {
+  font-weight: 700;
+  font-size: 1.15rem;
+  color: var(--sl-color-accent-high);
+  margin-top: 0 !important;
+  margin-bottom: 0.5rem !important;
+}
+
+.custom-button {
+  display: inline-block !important;
+  padding: 0.65rem 1.4rem !important;
+  font-family: 'Lato', sans-serif;
+  font-weight: 700;
+  font-size: 0.95rem;
+  text-align: center;
+  text-decoration: none !important;
+  border-radius: 8px;
+  transition: transform 0.2s ease, box-shadow 0.2s ease, background-color 0.2s ease;
+  cursor: pointer;
+  margin-right: 0.75rem;
+  margin-bottom: 0.75rem;
+}
+
+.custom-button.primary {
+  background: linear-gradient(135deg, #C12872 0%, #7F1146 100%) !important;
+  color: #ffffff !important;
+  box-shadow: 0 4px 12px rgba(193, 40, 114, 0.25);
+  border: none;
+}
+
+.custom-button.primary:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 6px 20px rgba(193, 40, 114, 0.4);
+}
+
+.custom-button.secondary {
+  background: transparent !important;
+  color: var(--sl-color-accent) !important;
+  border: 2px solid var(--sl-color-accent) !important;
+}
+
+.custom-button.secondary:hover {
+  background: rgba(193, 40, 114, 0.06) !important;
+  transform: translateY(-2px);
+}
+
+.custom-button-group {
+  margin-top: 1.5rem;
+  margin-bottom: 1.5rem;
+}
+
+.text-lg {
+  font-size: 1.15rem;
+  line-height: 1.75;
+}
+
+.text-md {
+  font-size: 0.95rem;
+}
+
+.text-sm {
+  font-size: 0.85rem;
+  color: rgba(33, 33, 33, 0.6);
+}
+
+[data-theme='dark'] .text-sm {
+  color: rgba(240, 240, 240, 0.6);
+}
+
+.text-important {
+  font-weight: 700;
+  color: var(--sl-color-accent);
+}
+
+/* Prevenir l'scroll horitzontal globalment a nivell de contenidors de Starlight */
+html,
+body,
+.page,
+.main-frame,
+main,
+.content-panel,
+.sl-container {
+  max-width: 100% !important;
+  overflow-x: hidden !important;
+}
+
+/* Ocultar el títol de pàgina original generat per Starlight per evitar duplicats */
+.content-panel:has(h1#_top) {
+  display: none !important;
+}
+
+/* Fer que la mida del text de "FASE 2: Identitat" (i altres títols desplegables del sidebar) sigui igual a la de les altres opcions */
+.sidebar .large,
+.sidebar summary,
+.sidebar summary .large {
+  font-size: 0.9rem !important;
+}
+
+/* ==========================================
+   Learning Objectives Box
+   ========================================== */
+.learning-objectives-box {
+  background: linear-gradient(135deg, rgba(193, 40, 114, 0.05) 0%, rgba(127, 17, 70, 0.05) 100%);
+  border: 1px solid rgba(193, 40, 114, 0.2);
+  border-left: 5px solid var(--sl-color-accent);
+  border-radius: 8px;
+  padding: 1.25rem 1.5rem;
+  margin: 1.5rem 0 2rem 0;
+  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.02);
+}
+
+.learning-objectives-box .box-title {
+  font-family: 'Lato', sans-serif;
+  font-weight: 700;
+  font-size: 1.1rem;
+  color: var(--sl-color-accent-high);
+  margin-bottom: 0.75rem;
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+}
+
+.learning-objectives-box ul {
+  margin: 0 !important;
+  padding-left: 1.25rem !important;
+}
+
+.learning-objectives-box li {
+  font-size: 0.95rem;
+  line-height: 1.5;
+  color: var(--sl-color-text);
+  margin-bottom: 0.5rem;
+}
+
+.learning-objectives-box li:last-child {
+  margin-bottom: 0;
+}
+
+/* ==========================================
+   App Embedding Styles
+   ========================================== */
+.app-wrapper {
+  background: var(--sl-color-bg-nav);
+  border: 1px solid var(--sl-color-hairline);
+  border-radius: 12px;
+  box-shadow: 0 4px 20px rgba(0,0,0,0.08);
+  margin: 2rem 0;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+}
+
+.app-wrapper:fullscreen {
+  width: 100vw;
+  height: 100vh;
+  border-radius: 0;
+}
+
+.app-header {
+  background: linear-gradient(135deg, #7F1146 0%, #C12872 100%);
+  color: #ffffff;
+  padding: 0.6rem 1.2rem;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.app-title {
+  font-family: 'Lato', sans-serif;
+  font-weight: 700;
+  font-size: 0.95rem;
+}
+
+.app-fullscreen-btn {
+  background: rgba(255, 255, 255, 0.15);
+  border: 1px solid rgba(255, 255, 255, 0.3);
+  border-radius: 6px;
+  color: #ffffff;
+  padding: 0.3rem 0.6rem;
+  font-family: 'Lato', sans-serif;
+  font-size: 0.85rem;
+  font-weight: 700;
+  cursor: pointer;
+  transition: background 0.2s, transform 0.2s;
+  display: flex;
+  align-items: center;
+}
+
+.app-fullscreen-btn:hover {
+  background: rgba(255, 255, 255, 0.25);
+  transform: translateY(-1px);
+}
+
+.app-wrapper iframe {
+  width: 100%;
+  height: 600px;
+  border: none;
+  background: #ffffff;
+}
+
+.app-wrapper:fullscreen iframe {
+  height: calc(100vh - 42px);
+  border-radius: 0;
 }
