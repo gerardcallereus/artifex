@@ -14,9 +14,7 @@ description: Aprén més sobre aquest tema del projecte Artífex.
   </ul>
 </div>
 
-:::note[Inspiració professional]
-La xerrada de l'Isa ens mostra com es construeix una marca des de la primera idea fins a l'embalatge final.
-:::
+
 
 Avui hem rebut la visita de l'Isa, dissenyadora gràfica i creadora de la marca de joies "Mucha Joya". A través de la seva experiència, hem pogut veure tot el recorregut que fa un producte: des de la primera "guspira" i la identitat fins a l'embalatge final (packaging).
 
