@@ -49,15 +49,15 @@ description: Projecte educatiu de marca personal, disseny gràfic i producció d
 
 <div class="custom-grid-3">
   <div class="custom-card">
-    <h3 class="custom-card-title">🎨 Marca Personal</h3>
+    <h3 class="custom-card-title">Marca Personal</h3>
     <p class="text-md" style="margin-bottom: 0;">Aprendrem a crear una marca personal des de zero i analitzarem tot el procés, partint de la idea inicial fins a la comercialització del producte.</p>
   </div>
   <div class="custom-card">
-    <h3 class="custom-card-title">💻 Disseny Gràfic</h3>
+    <h3 class="custom-card-title">Disseny Gràfic</h3>
     <p class="text-md" style="margin-bottom: 0;">Tothom pot aprendre a dibuixar. Convertirem els nostres esbossos en dissenys vectorials precisos a l'ordinador, preparats per donar les instruccions correctes a les màquines de l'aula maker.</p>
   </div>
   <div class="custom-card">
-    <h3 class="custom-card-title">⚙️ Fabricació de Joies</h3>
+    <h3 class="custom-card-title">Fabricació de Joies</h3>
     <p class="text-md" style="margin-bottom: 0;">Crearem les nostres peces fent servir tècniques de producció moderna, com el tall làser, la creació de motlles de silicona i la fabricació de joies amb resina aprenent a fer servir diferents materials, màquines i eines de l'aula maker.</p>
   </div>
 </div>
