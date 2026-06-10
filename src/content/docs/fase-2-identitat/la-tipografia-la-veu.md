@@ -48,3 +48,5 @@ Esteu preparats per trobar la veu del vostre projecte? Clica al botó per comen�
 Obre el Classroom i entra en la tasca del diari d'aprenentatge:
 Afegeix una nova pàgina anomenada "Tipografia" on responguis:
 1. - Quins 3 adjectius has seleccionat al panell? Quina categoria tipogràfica t'ha recomanat l'algoritme? (Serifa, Pal Sec, Manuscrita o Decorativa). Per què creus que aquesta tipografia ajudarà a vendre millor les teves joies al teu públic objectiu? (Exemple: "Estic d'acord perquè vull vendre a gent jove i moderna, i el Pal Sec es veu net i tecnològic, mentre que la Serifa es veuria massa antiga"). - A partir del que has après busca la lletra tipogràfica que faràs servir a la teva marca, tenint en compte si vols una lletra Serifa, Pal Sec, Manuscrita o Decorativa i justifica el motiu de la teva selecció. Observa les següents imatges per poder fer una cerca més profunda de tipus de lletres:
+
+![Exemples de tipografies](/artifex/media/diari_tipografia.png)

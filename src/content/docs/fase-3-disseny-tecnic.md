@@ -22,6 +22,8 @@ Benvinguts a la Fase 3: Disseny Tècnic. Fins ara heu treballat la part creativa
 
 Alguna vegada heu muntat un moble d'IKEA o una joguina? Us heu fixat que les instruccions no tenen text? No importa si ets català, japonès o alemany: tothom entén el dibuix.
 
+![Instruccions de muntatge d'IKEA](/artifex/media/ikea.png)
+
 ---
 
 ## El Dibuix com a Llenguatge
@@ -39,6 +41,8 @@ El Dibuix Tècnic és l'idioma universal de la tecnologia. Es basa en:
 ## TinkerCAD
 Per passar de l'esbós artístic al model digital, farem servir TinkerCAD. Aquest programari de modelatge 3D ens permetrà crear els volums de la vostra arracada (per a la impressora 3D) i extreure'n els perfils per al logotip (per a la talladora làser).
 
+![Interfície de TinkerCAD](/artifex/media/tinkercad.png)
+
 En el següent enllaç podreu entrar a la classe preparada per aquestes sessions dins del TinkerCAD:
 [TINKERCAD](https://www.tinkercad.com/joinclass/V4JGZXFWM)
 
@@ -50,6 +54,9 @@ Replica el logo de Munay abans de dissenyar el teu propi logotip. Això t'ajudar
 
 Dins de TinkerCAD trobareu tres reptes que heu de completar en ordre:
 1. **Entrenament: Logo MUNAY:** Abans de fer el vostre, heu de demostrar que domineu l'eina. Heu de replicar exactament el logotip de la marca "Munay" que vam veure a la fase d'identitat. A continuació teniu un vídeo per ajudar-vos per a poder seguir pas a pas com fer el logo de MUNAY.
+
+   ![Model SVG de Munay en TinkerCAD](/artifex/media/munya_svg.png)
+
    > 🎬 **Vídeo d'ajuda:** [Veure tutorial a YouTube](https://youtu.be/EgTj1iHCwH4)
    >
    > <iframe src="https://www.youtube.com/embed/EgTj1iHCwH4" title="Tutorial TinkerCAD Logo Munay" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen style="width: 100%; aspect-ratio: 16/9; border-radius: 8px; border: 1px solid rgba(193, 40, 114, 0.2); margin-top: 0.5rem; box-shadow: 0 4px 15px rgba(0,0,0,0.1);"></iframe>

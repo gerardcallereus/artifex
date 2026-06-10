@@ -52,13 +52,23 @@ Adobe Color permet generar paletes de colors personalitzades seguint diferents r
 - Monocromàtics: És un sol color però amb diferents intensitats (més clar, més fosc, més grisós). Efecte: Transmet molta elegància, ordre i sofisticació. Molt típic en marques de luxe.
 ## 2. Funcionalitats principals d’Adobe Color: [Extracció de colors d’imatges](https://color.adobe.com/es/create/image)
 Adobe Color permet pujar una imatge i extreure’n els colors principals. Aquesta funcionalitat és molt útil per obtenir paletes inspirades en fotografies o referències visuals.
+
+![Extracció de colors d'imatges](/artifex/media/extraccio_colors.png)
+
 ## 3. Funcionalitats principals d’Adobe Color: [Tendències de color](https://color.adobe.com/es/trends)
 Adobe Color ofereix una secció on es poden explorar les últimes tendències de color segons diferents categories (il·lustració, moda, gràfics, UI/UX, etc.). Això és útil per als dissenyadors que volen inspirar-se en tendències actuals i crear combinacions modernes.
+
+![Tendències de color](/artifex/media/tendencies_color.png)
+
 ## 4. Funcionalitats principals d’Adobe Color: [Biblioteca de temes de color](https://color.adobe.com/es/explore)
 Els usuaris poden explorar i utilitzar paletes de colors creades per altres dissenyadors. Es poden desar, personalitzar i aplicar fàcilment a altres projectes.
 
+![Biblioteca de temes de color](/artifex/media/biblioteca_colors.png)
+
 ## 5. Funcionalitats principals d’Adobe Color: Exportar paleta de colors a JPG
 Dintre de totes aquestes funcions sempre podreu exportar la vostra paleta de colors a una imatge per després poder afegir-la al vostre diari d'aprenentatge.
+
+![Exportar paleta de colors a JPG](/artifex/media/exporta_paleta.png)
 
 ---
 
@@ -68,6 +78,7 @@ Afegeix una nova pàgina anomenada "Paleta de colors" on:
 1. - En aquesta pàgina has de presentar la identitat visual de la teva marca utilitzant alguna de les funcionalitats comentades de l'Adobe Color. Explica quina has triat i el teu motiu.
 A continuació pots veure un exemple de la meva marca, és important que el teu nom tingui relació amb el teu Moodboard. En el meu cas, el meu Moodboard feia referència a l'etapa quan vaig viure a Bolívia i, per inspirar-me, he fet servir una fotografia d'un tèxtil amb els colors tradicionals de la cultura Quítxua.
 ![Exemple de Moodboard amb els colors de Quítxua](/artifex/media/nom_munay.png)
+![Paleta de colors Munay](/artifex/media/paleta_munay.png)
 
 ---
 
@@ -94,7 +105,9 @@ En què us heu de fixar?
 - El Contrast Ratio (Ràtio de contrast): És un número (per exemple, 4.5:1). Com més alt és el número, millor es llegeix. Si el número és baix, Adobe et dirà que la combinació "falla".
 - Els "Pass" o "Fail" (Aprovat o Suspès): L'eina t'ensenya si la teva combinació passa el test en dos nivells:
   - AA: És el mínim acceptat. Es llegeix bé per a la majoria de la gent.
-  - AAA: És l'excel·lent. Fins i tot persones amb dificultats visuals o sota una llum de sol molt forta podran llegir-ho.
+  - AAA: És l'excel·lent. Fins i tot persones amb dificultats visuals o sota una llum de sol molt forta podran leer-ho.
+
+![Analitzador de Contrast](/artifex/media/analitzador_contrast.png)
 
 ---
 
@@ -102,5 +115,7 @@ En què us heu de fixar?
 Obre el Classroom i entra en la tasca del diari d'aprenentatge:
 Afegeix una nova pàgina anomenada "Contrast de colors" on:
 1. - A partir de [l'eina d'anàlisis de contrast](https://color.adobe.com/es/create/color-contrast-analyzer)de l'Adobe color, poseu a prova els colors de la vostra paleta de colors sobre un text en blanc i sobre un text en negre i mireu si passa la normativa WCAG AA. Afegiu captures de finestra i comenteu els resultats obtinguts i si us esperàveu aquest veredicte. A continuació podeu veure com el meu primer color, passa la prova amb un text en blanc, però, en canvi, suspèn la prova quan el text és de color negre.
+
+![Resultats del test de contrast](/artifex/media/test_contrast.png)
 
 
