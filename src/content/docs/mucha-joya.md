@@ -28,7 +28,7 @@ Pots veure la presentació completa de l'Isa a continuació o descarregar-la fen
 📁 **Descarregar arxiu:** <a href="/artifex/media/PRESENTACIO_MUCHAJOYA.pdf" target="_blank" rel="noopener noreferrer">PRESENTACIO_MUCHAJOYA.pdf</a>
 :::
 
-<iframe src="/artifex/media/PRESENTACIO_MUCHAJOYA.pdf" width="100%" height="900px" style="border: 1px solid rgba(193, 40, 114, 0.2); border-radius: 8px; margin-top: 15px; box-shadow: 0 4px 15px rgba(0,0,0,0.1);"></iframe>
+<iframe src="/artifex/media/PRESENTACIO_MUCHAJOYA.pdf" style="width: 100%; height: 900px; border: 1px solid rgba(193, 40, 114, 0.2); border-radius: 8px; margin-top: 15px; box-shadow: 0 4px 15px rgba(0,0,0,0.1);"></iframe>
 
 ---
 
