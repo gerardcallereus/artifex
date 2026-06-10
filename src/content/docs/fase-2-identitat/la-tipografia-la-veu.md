@@ -6,7 +6,7 @@ description: Aprén més sobre aquest tema del projecte Artífex.
 # LA TIPOGRAFIA (La Veu)
 
 <div class="learning-objectives-box">
-  <div class="box-title">🎯 Objectius d'aprenentatge</div>
+  <div class="box-title">Objectius d'aprenentatge</div>
   <ul>
     <li><strong>Famílies tipogràfiques:</strong> Distingir les característiques i personalitat de les fonts amb Serifa, Pal Sec, Manuscrites i Decoratives.</li>
     <li><strong>To de comunicació:</strong> Associar la morfologia de les lletres amb valors, públics objectius i sectors de mercat.</li>

@@ -6,7 +6,7 @@ description: Aprén més sobre aquest tema del projecte Artífex.
 # Cooperativa Artífex
 
 <div class="learning-objectives-box">
-  <div class="box-title">🎯 Objectius d'aprenentatge</div>
+  <div class="box-title">Objectius d'aprenentatge</div>
   <ul>
     <li><strong>Principis cooperatius:</strong> Comprendre els valors i el funcionament d'una organització cooperativa i el treball col·laboratiu.</li>
     <li><strong>Gestió democràtica:</strong> Debatre i prendre decisions col·lectives sobre la gestió i distribució dels beneficis econòmics del projecte.</li>

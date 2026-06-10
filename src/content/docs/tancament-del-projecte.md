@@ -6,7 +6,7 @@ description: Aprén més sobre aquest tema del projecte Artífex.
 # Tancament del projecte
 
 <div class="learning-objectives-box">
-  <div class="box-title">🎯 Objectius d'aprenentatge</div>
+  <div class="box-title">Objectius d'aprenentatge</div>
   <ul>
     <li><strong>Avaluació retrospectiva:</strong> Fer un balanç global del projecte analitzant expectatives inicials vs. resultats reals de la marca.</li>
     <li><strong>Autoavaluació socioemocional:</strong> Analitzar el propi desenvolupament en creativitat, cura pel detall i resiliència davant d'obstacles o errors.</li>

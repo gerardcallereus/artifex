@@ -6,7 +6,7 @@ description: Prova final de la Fase 2 d'Identitat del projecte Artífex. Valora 
 # Prova Final
 
 <div class="learning-objectives-box">
-  <div class="box-title">🎯 Objectius d'aprenentatge</div>
+  <div class="box-title">Objectius d'aprenentatge</div>
   <ul>
     <li><strong>Consolidació de coneixements:</strong> Avaluar la comprensió dels principis del Naming, disseny de logotips, psicologia cromàtica i ús tipogràfic.</li>
     <li><strong>Pensament crític:</strong> Aplicar els coneixements visuals per analitzar i distingir exemples reals de marques i el seu impacte visual.</li>

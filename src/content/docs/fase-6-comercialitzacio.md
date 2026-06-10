@@ -6,7 +6,7 @@ description: Aprén més sobre aquest tema del projecte Artífex.
 # FASE 6: COMERCIALITZACIÓ
 
 <div class="learning-objectives-box">
-  <div class="box-title">🎯 Objectius d'aprenentatge</div>
+  <div class="box-title">Objectius d'aprenentatge</div>
   <ul>
     <li><strong>Funcions del Packaging:</strong> Comprendre les tres dimensions clau de l'envàs: protecció física, comunicació de la identitat i experiència emocional (unboxing).</li>
     <li><strong>Disseny paramètric:</strong> Utilitzar l'aplicació TemplateMaker per generar plantilles d'envasos de cartró a partir de dimensions reals i marges de seguretat.</li>

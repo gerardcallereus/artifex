@@ -6,7 +6,7 @@ description: Aprén més sobre aquest tema del projecte Artífex.
 # Com podem crear la nostra marca?
 
 <div class="learning-objectives-box">
-  <div class="box-title">🎯 Objectius d'aprenentatge</div>
+  <div class="box-title">Objectius d'aprenentatge</div>
   <ul>
     <li><strong>Full de ruta:</strong> Comprendre les diferents fases del procés de creació d'una marca des de la idea inicial fins a la venda.</li>
     <li><strong>Exemple real:</strong> Analitzar l'ordre lògic del disseny, producció i comercialització mitjançant el cas pràctic de Nike.</li>

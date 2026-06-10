@@ -6,7 +6,7 @@ description: Aprén més sobre aquest tema del projecte Artífex.
 # FASE 5: COSTOS I PREU
 
 <div class="learning-objectives-box">
-  <div class="box-title">🎯 Objectius d'aprenentatge</div>
+  <div class="box-title">Objectius d'aprenentatge</div>
   <ul>
     <li><strong>Estructura de costos:</strong> Identificar els costos fixos i variables (infraestructura, maquinària i consumibles) d'un producte de joieria.</li>
     <li><strong>Viabilitat financera:</strong> Determinar el Punt d'Equilibri (llindar de rendibilitat) per saber a partir de quina unitat es generen beneficis.</li>

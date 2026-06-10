@@ -6,7 +6,7 @@ description: Aprén més sobre aquest tema del projecte Artífex.
 # MUCHA JOYA
 
 <div class="learning-objectives-box">
-  <div class="box-title">🎯 Objectius d'aprenentatge</div>
+  <div class="box-title">Objectius d'aprenentatge</div>
   <ul>
     <li><strong>Cas pràctic professional:</strong> Analitzar la trajectòria d'una dissenyadora i marca real com a referència inspiradora.</li>
     <li><strong>El cicle de vida del producte:</strong> Reconèixer de manera integrada totes les fases de construcció, disseny i llançament d'una marca de joies.</li>

@@ -6,7 +6,7 @@ description: Aprén més sobre aquest tema del projecte Artífex.
 # EL NAMING (El Nom)
 
 <div class="learning-objectives-box">
-  <div class="box-title">🎯 Objectius d'aprenentatge</div>
+  <div class="box-title">Objectius d'aprenentatge</div>
   <ul>
     <li><strong>Estratègies de Naming:</strong> Analitzar les diferents tipologies de noms de marca (fundador, conceptual o emocional) i la seva efectivitat.</li>
     <li><strong>Generació d'idees:</strong> Utilitzar generadors visuals com núvols de paraules per obrir un ventall ampli de propostes creatives.</li>

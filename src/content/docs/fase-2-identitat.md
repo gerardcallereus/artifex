@@ -6,7 +6,7 @@ description: Aprén més sobre aquest tema del projecte Artífex.
 # FASE 2: IDENTITAT
 
 <div class="learning-objectives-box">
-  <div class="box-title">🎯 Objectius d'aprenentatge</div>
+  <div class="box-title">Objectius d'aprenentatge</div>
   <ul>
     <li><strong>ADN de Marca:</strong> Comprendre els quatre components clau de la identitat corporativa (nom, logotip, colors i tipografia).</li>
     <li><strong>Criteri de disseny:</strong> Desenvolupar un criteri estètic i comunicatiu avaluant encerts i errors de logotips simulats.</li>

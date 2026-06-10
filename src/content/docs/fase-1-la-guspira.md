@@ -6,7 +6,7 @@ description: Aprén més sobre aquest tema del projecte Artífex.
 # FASE 1: LA GUSPIRA
 
 <div class="learning-objectives-box">
-  <div class="box-title">🎯 Objectius d'aprenentatge</div>
+  <div class="box-title">Objectius d'aprenentatge</div>
   <ul>
     <li><strong>Inspiració personal:</strong> Identificar records, orígens o passions pròpies com a font d'inspiració per a la col·lecció.</li>
     <li><strong>Creació de Moodboard:</strong> Dissenyar un tauler d'inspiració gràfica aplicant criteris clau de jerarquia, harmonia, aire i equilibri.</li>

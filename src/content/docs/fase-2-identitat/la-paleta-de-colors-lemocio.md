@@ -6,7 +6,7 @@ description: Aprén més sobre aquest tema del projecte Artífex.
 # LA PALETA DE COLORS (L'Emoció)
 
 <div class="learning-objectives-box">
-  <div class="box-title">🎯 Objectius d'aprenentatge</div>
+  <div class="box-title">Objectius d'aprenentatge</div>
   <ul>
     <li><strong>Psicologia del color:</strong> Analitzar la influència dels colors en la transmissió de valors i emocions de marca.</li>
     <li><strong>Harmonies cromàtiques:</strong> Utilitzar regles cromàtiques (anàlegs, complementaris, monocromàtics) mitjançant Adobe Color.</li>

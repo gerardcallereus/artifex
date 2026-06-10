@@ -6,7 +6,7 @@ description: Aprén més sobre aquest tema del projecte Artífex.
 # FASE 3: DISSENY TÈCNIC
 
 <div class="learning-objectives-box">
-  <div class="box-title">🎯 Objectius d'aprenentatge</div>
+  <div class="box-title">Objectius d'aprenentatge</div>
   <ul>
     <li><strong>Llenguatge de fabricació:</strong> Comprendre la importància del disseny tècnic i els arxius CAD per a la comunicació amb les màquines.</li>
     <li><strong>Modelatge digital:</strong> Utilitzar TinkerCAD per dissenyar geometries exactes en format 2D (per a tall làser) i 3D (per a impressió).</li>

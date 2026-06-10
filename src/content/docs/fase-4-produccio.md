@@ -6,7 +6,7 @@ description: Aprén més sobre aquest tema del projecte Artífex.
 # FASE 4: PRODUCCIÓ
 
 <div class="learning-objectives-box">
-  <div class="box-title">🎯 Objectius d'aprenentatge</div>
+  <div class="box-title">Objectius d'aprenentatge</div>
   <ul>
     <li><strong>Producció en sèrie:</strong> Conèixer el procés industrial i artesanal de reproducció mitjançant motlles de silicona.</li>
     <li><strong>Tècniques de laboratori:</strong> Adquirir habilitats en la dosificació de resines, barreja de components, fraguat i acabat de materials.</li>

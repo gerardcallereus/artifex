@@ -6,7 +6,7 @@ description: Aprén més sobre aquest tema del projecte Artífex.
 # EL LOGOTIP (La Cara)
 
 <div class="learning-objectives-box">
-  <div class="box-title">🎯 Objectius d'aprenentatge</div>
+  <div class="box-title">Objectius d'aprenentatge</div>
   <ul>
     <li><strong>Simbologia gràfica:</strong> Distingir les categories formals d'identitat visual (logotip, isotip, imagotip i isologotip) i el seu ús correcte.</li>
     <li><strong>Regles d'or del disseny:</strong> Conèixer i aplicar els principis de simplicitat, llegibilitat i escalabilitat a un logo.</li>
