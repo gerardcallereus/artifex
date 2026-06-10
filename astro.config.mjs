@@ -35,6 +35,7 @@ export default defineConfig({
         { label: 'FASE 1: La guspira', link: '/fase-1-la-guspira/' },
         {
           label: 'FASE 2: Identitat',
+          collapsed: true,
           items: [
             { label: 'Introducció', link: '/fase-2-identitat/' },
             { label: 'El Naming (El Nom)', link: '/fase-2-identitat/el-naming-el-nom/' },
