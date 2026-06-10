@@ -28,6 +28,8 @@ Darrere de qualsevol producte d'èxit no hi ha sort ni màgia: hi ha un FULL DE 
 
 Crear una marca és un viatge que sempre segueix uns passos concrets i ordenats. No pots començar a vendre si no has fabricat, i no pots fabricar si no has dissenyat. En aquest projecte "Artífex", vosaltres seguireu exactament aquest mateix camí.
 
+---
+
 ## Què heu de fer en aquesta activitat?
 En la següent activitat trobareu les sis Fases de Creació d'una marca totalment desordenades. La vostra missió és posar ordre al caos. Hauràs de relacionar tres columnes per a cada fase:
 - **El NOM de la fase** (Quin pas és?).

@@ -22,6 +22,8 @@ Tota gran empresa comença amb una idea invisible: Benvinguts a la Fase 1: La Gu
 
 ![La guspira d'inspiració](/artifex/media/guspira.png)
 
+---
+
 ## Trobar el meu "Motiu" (Individual)
 Les marques que realment ens emocionen no són les que tenen el logo més perfecte, sinó les que tenen ànima. I l'ànima no es pot copiar d'Internet; l'has de trobar dins teu.
 Per crear la teva col·lecció de joies, primer necessites una "Guspira": una emoció, un record o una sensació que sigui només teva. No busquem només fer objectes "bonics", busquem també crear objectes que signifiquin alguna cosa. Volem capturar un trosset de la teva història i convertir-lo en una joia perquè algú altre la pugui portar.
@@ -48,6 +50,8 @@ Aquí tens els 5 consells clau per tenir en compte abans de començar a dissenya
 - **AIRE - Deixa espais en blanc:** No intentis omplir cada racó del full. Deixar marges i espai buit entre les fotos fa que el disseny es vegi més net, elegant i professional.
 - **VARIETAT - Juga amb les distàncies:** Barreja primers plans (textures, detalls) amb plans generals (persones, paisatges) per donar ritme a la composició.
 - **EQUILIBRI - Busca l'equilibri visual:** Imagina que el full és una balança. Si poses una foto molt fosca o gran a un costat, n'has de posar una altra a l'altre costat per compensar el pes i que no "caigui".
+
+---
 
 ## Exemples de Moodboard
 A continuació tens diversos exemples de Moodboard. Justament el que pots veure a sota és el que jo he dissenyat sobre l'any que vaig viure a Bolívia. Les fotografies són dels diversos viatges que vaig fer i on he volgut destacar els colors verd, blau i marró dels paisatges. De fons, he ficat la tela d'un aguayo, el tèxtil típic de la cultura andina.

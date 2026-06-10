@@ -31,6 +31,8 @@ El procés de producció es divideix en 6 etapes tècniques:
 | 5. Postprocessament | Netejar i polir les peces | Eliminar rebaves i imperfeccions |
 | 6. Muntatge i engarzat | Afegir components metàl·lics | Ajustar ganxos i acabats |
 
+---
+
 ## 1. OBTENCIÓ DEL MÀSTER (Impressió 3D)
 El primer pas és la materialització del prototip o "peça màster". Utilitzarem la impressora 3D per obtenir el model físic positiu.
 - **Requisits:** Aquesta peça ha de tenir una qualitat superficial excel·lent, ja que qualsevol defecte o línia d'impressió es copiarà al motlle i, per tant, a totes les còpies posteriors.

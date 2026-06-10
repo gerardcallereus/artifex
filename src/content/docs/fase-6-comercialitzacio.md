@@ -22,6 +22,8 @@ Benvinguts a l'última etapa! Un cop que les arracades estiguin acabades, hem de
 
 Si les dones dins d'una bossa de paper o plàstic arrugada, el teu producte semblarà barat, encara que sigui d'or. Però si les poses en una capsa dissenyada a mida, amb el teu logotip i combinant colors, el valor es multiplica.
 
+---
+
 ## L'Art de l'Unboxing
 El Packaging (envàs) té tres funcions vitals que heu de complir:
 - **Protecció**: La joia ha d'arribar sana i estàlvia a casa del client.
@@ -37,7 +39,7 @@ Per fer una capsa, no n'hi ha prou amb agafar unes tisores i "provar sort". Nece
 
 Per sort, no cal que calculeu els angles a mà. Farem servir [TemplateMaker.nl](https://www.templatemaker.nl/es/). Aquesta web és un generador paramètric: tu li dius què vols dissenyar i les seves mides i ella t'ajuda a dibuixar els plànols exactes per retallar.
 
-
+---
 
 ## Com fer el teu envàs
 
@@ -78,6 +80,8 @@ Fes una foto al teu full i afegeix-la al Diari d'Aprenentatge, i respon a aquest
 - Per què has triat aquest model concret?
 - Com s'obrirà la teva capsa? És fàcil i ràpid, o és com un petit regal sorpresa?
 - Per què has decidit posar el logo en aquest lloc i amb aquesta mida?
+
+---
 
 ## Templates i descàrrega
 1. **Troba el teu model:** Selecciona exactament el mateix tipus de capsa que vas dibuixar al teu esbós.

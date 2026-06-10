@@ -22,6 +22,8 @@ El nom és la primera presa de contacte. Ha de ser fàcil de pronunciar, fàcil 
 
 ![Logotip Munay](/artifex/media/nom_munay.png)
 
+---
+
 ## 1. Nom del Fundador (Marca Personal)
 Exemple: Disney (The Walt Disney Company).
 Per què funciona? Tot i ser avui un imperi mediàtic gegant, el nom ens remet directament al seu creador, Walt Disney. Transmet valors d'imaginació, màgia i la visió personal d'un artista. El nom actua com a garantia de "qualitat familiar" i fantasia, mantenint viu l'esperit del fundador gairebé un segle després.
@@ -34,6 +36,9 @@ Per què funciona? Jeff Bezos va triar aquest nom no perquè vengués coses de l
 Exemple: The North Face.
 Per què funciona? Literalment significa "la cara nord" (el costat més fred, difícil i perillós d'una muntanya). La marca no ven només abrics; ven l'emoció de l'aventura, la superació personal i l'exploració extrema. El nom apel·la a l'aspiració del client de sentir-se un explorador valent, fins i tot si només porta la jaqueta per anar per la ciutat.
 ![The North Face](/artifex/media/thenorthface.png)
+
+---
+
 ## Diari d'aprenentatge: Nom de la marca
 Obre el Classroom i entra en la tasca del diari d'aprenentatge:
 Afegeix una nova pàgina anomenada "Nom de la marca" on:

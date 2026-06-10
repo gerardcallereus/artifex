@@ -24,6 +24,8 @@ Un producte sense marca és només un objecte anònim. Però quan li afegim una 
 
 Per què reconeixeu una llauna de Coca-Cola a 10 metres de distància? O per què sabeu que un anunci és d'Apple abans que surti el logo? Perquè tenen una identitat forta.
 
+---
+
 ## Els 4 pilars de la identitat
 | Pilar | Què treballa |
 | --- | --- |
@@ -33,6 +35,9 @@ Per què reconeixeu una llauna de Coca-Cola a 10 metres de distància? O per qu�
 | LA TIPOGRAFIA (La Veu) | La lletra que dona personalitat i to a la marca. |
 
 L'Objectiu: Al final d'aquesta fase, el vostre projecte deixarà de ser només una idea al vostre cap i passarà a ser una marca real, amb nom i cognoms, llesta per presentar-se al món.
+
+---
+
 ## Entrena la teva mirada
 Tens l'ADN d'un dissenyador gràfic? Abans de començar a pensar la vostra identitat, hem de fer un pas enrere. El disseny no consisteix només a fer coses "boniques"; el disseny és comunicació. Si un logo no comunica el missatge correcte, no serveix per a res, per molt artístic que sigui.
 Us he preparat un repte interactiu: El Jurat de Disseny.

@@ -20,6 +20,8 @@ Aquests apartats serveixen per valorar el teu aprenentatge, identificar fortales
 
 Hem arribat al final del camí. Fa unes setmanes vam començar aquest projecte imaginant com seria crear una marca des de zero. Avui, malgrat que encara no hem pogut finalitzar del tot el producte físic per falta de temps o imprevistos, us endueu tota una experiència d'aprenentatge que ningú us podrà treure. Heu pensat, dissenyat i treballat com a autèntics Artífex.
 
+---
+
 ## Diari d'aprenentatge: Tancament del projecte
 Obre el teu Diari d'Aprenentatge i crea 4 pàgines noves. Llegeix bé les preguntes i respon amb detall i sinceritat:
 

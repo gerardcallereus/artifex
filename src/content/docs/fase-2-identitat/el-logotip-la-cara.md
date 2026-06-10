@@ -79,6 +79,9 @@ Text i símbol junts (ex: Lacoste o Burger King). És el més versàtil per come
     <img src="/artifex/media/manscave.png" alt="Mans Cave" />
   </div>
 </div>
+
+---
+
 ## Com fer un bon logotip?
 Un logotip no és dibuix aleatori, una il·lustració complexa, una fotografia o simplement una lletra bonica sobre un fons de colors.
 Un logotip ha de ser simple, reconeixible i funcional en qualsevol mida. El teu logotip no és un quadre del Museu del Prado, si no es pot reproduir fàcilment, no compleix la seva funció.
@@ -89,6 +92,9 @@ Per saber si tens un bon logotip, ha de complir aquests 5 requisits:
 3. Atemporal: No es basa en modes passatgeres.
 4. Representatiu: Comunica l'essència del que fas.
 5. Tècnicament viable: Funciona sense dependre de colors.
+
+---
+
 ## La Prova de Foc: El Blanc i Negre
 Aquesta és la regla d'or:
 **Si el teu logotip no funciona en blanc i negre pur, no funciona.**
@@ -110,10 +116,14 @@ Afegeix una nova pàgina anomenada **"Logotip: Font d'inspiració"** on facis un
 
 ![Font d'inspiració](/artifex/media/logotip_fontinspiracio.png)
 
+---
+
 ## Diari d'aprenentatge: Logotip: Pluja d'idees
 Afegeix una nova pàgina anomenada **"Logotip: Pluja d'idees"** on, a partir de les teves fonts d'inspiració, dibuixis diferents esbossos/idees de tipus Isologotip per a la teva marca. A continuació pots veure un exemple de la meva marca:
 
 ![Pluja d'idees](/artifex/media/logotip_pluja_idees.png)
+
+---
 
 ## Diari d'aprenentatge: Logotip: Esbós Final
 Afegeix una nova pàgina anomenada **"Logotip: Esbós Final"** on, a partir de la teva pluja d'idees, seleccionis el teu logotip i realitzis un dibuix més afinat. A continuació pots veure un exemple del meu esbós final.

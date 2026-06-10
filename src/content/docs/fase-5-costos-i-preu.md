@@ -22,6 +22,8 @@ Benvinguts al departament financer. Avui farem números, però abans de calcular
 
 Per fabricar les vostres joies esteu fent servir màquines que valen milers d'euros. En una empresa real, hauríeu de pagar-les. Aquí, la "Cooperativa Artífex" (el centre) us les deixa gratis.
 
+---
+
 ## Components del cost
 | Categoria | Què inclou |
 | --- | --- |

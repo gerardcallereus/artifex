@@ -22,6 +22,8 @@ Avui hem rebut la visita de l'Isa, dissenyadora gràfica i creadora de la marca 
 
 Ens ha ensenyat que darrere d'unes arracades hi ha una gran feina de disseny, valors i comunicació per aconseguir emocionar el client.
 
+---
+
 :::note[Presentació de la xerrada]
 Pots veure la presentació completa de l'Isa a continuació o descarregar-la fent clic en el següent enllaç:
 

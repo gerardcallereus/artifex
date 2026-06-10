@@ -40,6 +40,9 @@ Observa la següent col·lecció de rellotges Swatch i fixa't en les emocions qu
     <img src="/artifex/media/rellotge3.png" alt="Rellotges Swatch en tons vius i contrastats" />
   </div>
 </div>
+
+---
+
 ## Adobe Color
 Adobe Color és una eina en línia gratuïta d’Adobe que permet crear, explorar i gestionar combinacions de colors per a projectes de disseny gràfic, il·lustració, web, fotografia i altres disciplines creatives. És una eina molt utilitzada per dissenyadors i creadors de contingut per garantir una coherència cromàtica en els seus projectes.
 ## 1. Funcionalitats principals d’Adobe Color: [Creació de paletes de colors](https://color.adobe.com/es/create/color-wheel)
@@ -56,12 +59,18 @@ Els usuaris poden explorar i utilitzar paletes de colors creades per altres diss
 
 ## 5. Funcionalitats principals d’Adobe Color: Exportar paleta de colors a JPG
 Dintre de totes aquestes funcions sempre podreu exportar la vostra paleta de colors a una imatge per després poder afegir-la al vostre diari d'aprenentatge.
+
+---
+
 ## Diari d'aprenentatge: Paleta de colors
 Obre el Classroom i entra en la tasca del diari d'aprenentatge:
 Afegeix una nova pàgina anomenada "Paleta de colors" on:
 1. - En aquesta pàgina has de presentar la identitat visual de la teva marca utilitzant alguna de les funcionalitats comentades de l'Adobe Color. Explica quina has triat i el teu motiu.
 A continuació pots veure un exemple de la meva marca, és important que el teu nom tingui relació amb el teu Moodboard. En el meu cas, el meu Moodboard feia referència a l'etapa quan vaig viure a Bolívia i, per inspirar-me, he fet servir una fotografia d'un tèxtil amb els colors tradicionals de la cultura Quítxua.
 ![Exemple de Moodboard amb els colors de Quítxua](/artifex/media/nom_munay.png)
+
+---
+
 ## El Repte del Contrast
 En el disseny de joieria, el packaging i el logotip han de ser impactants. Però, què passa si triem colors molt bonics que no es poden llegir? Proveu aquesta aplicació per entendre com funciona la teoria de colors i el contrast i saber per què són tan importants a l'hora de dissenyar una marca.
 
@@ -86,6 +95,9 @@ En què us heu de fixar?
 - Els "Pass" o "Fail" (Aprovat o Suspès): L'eina t'ensenya si la teva combinació passa el test en dos nivells:
   - AA: És el mínim acceptat. Es llegeix bé per a la majoria de la gent.
   - AAA: És l'excel·lent. Fins i tot persones amb dificultats visuals o sota una llum de sol molt forta podran llegir-ho.
+
+---
+
 ## Diari d'aprenentatge: El test del contrast de colors
 Obre el Classroom i entra en la tasca del diari d'aprenentatge:
 Afegeix una nova pàgina anomenada "Contrast de colors" on:

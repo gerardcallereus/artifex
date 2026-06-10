@@ -20,6 +20,8 @@ Entra a l'enllaç de Socrative, indica el teu nom i respon a les **20 preguntes*
 
 Hem arribat al final de la **Fase 2: Identitat**. Ara és el moment de demostrar que has après a construir l'ADN visual d'una marca.
 
+---
+
 ## Continguts avaluats
 
 La prova repassa tot el que hem treballat en aquesta fase:
@@ -30,6 +32,8 @@ La prova repassa tot el que hem treballat en aquesta fase:
 | **El Logotip** | Tipus (logotip, isotip, isologotip) i els 5 requisits d'un bon logo |
 | **La Paleta de Colors** | Psicologia del color, regles cromàtiques (anàlegs, complementaris, monocromàtics) |
 | **La Tipografia** | Famílies tipogràfiques (Serifa, Pal Sec, Manuscrita, Decorativa) i les seves emocions |
+
+---
 
 ## Accedir a la prova
 

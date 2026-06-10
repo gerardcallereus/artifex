@@ -28,6 +28,8 @@ Comença el projecte i el primer que heu de saber és que deixarem de ser una cl
 Si al teu company li surt bé la barreja de resina, aprens d'ell. Si tu domines el disseny vectorial, ajudes als altres.
 :::
 
+---
+
 ## El Debat dels Diners (Debat grup classe)
 Com a cooperativa, hem de prendre una decisió democràtica molt important abans de començar: Què farem amb els beneficis?
 
@@ -38,6 +40,9 @@ Quan venguem les joies al final del projecte i recuperem els diners que han cost
 - Reinvertim en millor material per a l'aula?
 - Teniu altres idees?
 ![Treball en equip cooperatiu](/artifex/media/cooperativa.png)
+
+---
+
 ## Diari d'aprenentatge: El Debat dels Diners
 Afegeix una nova pàgina "El Debat dels diners" on, a partir del debat a classe expliquis:
 - Quan s'ha plantejat la pregunta "Què farem amb els beneficis?", quina ha estat la teva primera opció? Per què creies que aquesta era la millor opció? Què et feia pensar així?

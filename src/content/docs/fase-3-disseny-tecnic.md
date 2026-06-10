@@ -22,6 +22,8 @@ Benvinguts a la Fase 3: Disseny Tècnic. Fins ara heu treballat la part creativa
 
 Alguna vegada heu muntat un moble d'IKEA o una joguina? Us heu fixat que les instruccions no tenen text? No importa si ets català, japonès o alemany: tothom entén el dibuix.
 
+---
+
 ## El Dibuix com a Llenguatge
 En el món professional, el dibuix no serveix per fer "coses boniques", serveix per donar ordres precises a les màquines.
 
@@ -31,6 +33,8 @@ El Dibuix Tècnic és l'idioma universal de la tecnologia. Es basa en:
 - Geometria: línies, arcs i volums exactes.
 - Cotes: mesures numèriques reals (X, Y, Z).
 - Escales: la proporció real de l'objecte.
+
+---
 
 ## TinkerCAD
 Per passar de l'esbós artístic al model digital, farem servir TinkerCAD. Aquest programari de modelatge 3D ens permetrà crear els volums de la vostra arracada (per a la impressora 3D) i extreure'n els perfils per al logotip (per a la talladora làser).
