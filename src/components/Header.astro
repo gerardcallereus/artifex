@@ -1,15 +1,11 @@
 ---
 import type { Props } from '@astrojs/starlight/props';
 import SiteTitle from 'virtual:starlight/components/SiteTitle';
-import Search from 'virtual:starlight/components/Search';
 ---
 
 <div class="header-content sl-flex">
   <div class="mobile-title">
     <SiteTitle {...Astro.props} />
-  </div>
-  <div class="mobile-search">
-    <Search {...Astro.props} />
   </div>
 </div>
 

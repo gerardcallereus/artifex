@@ -3,14 +3,12 @@ import type { Props } from '@astrojs/starlight/props';
 import SidebarSublist from '@astrojs/starlight/components/SidebarSublist.astro';
 import MobileMenuFooter from 'virtual:starlight/components/MobileMenuFooter';
 import SiteTitle from 'virtual:starlight/components/SiteTitle';
-import Search from 'virtual:starlight/components/Search';
 
 const { sidebar } = Astro.props;
 ---
 
 <div class="sidebar-header sl-hidden md:sl-flex">
   <SiteTitle {...Astro.props} />
-  <Search {...Astro.props} />
 </div>
 
 <SidebarSublist sublist={sidebar} />

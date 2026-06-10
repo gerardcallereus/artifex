@@ -18,6 +18,7 @@ export default defineConfig({
     suppressSitemapErrors,
     starlight({
       title: 'Artífex',
+      pagefind: false,
       components: {
         Header: './src/components/Header.astro',
         Sidebar: './src/components/Sidebar.astro',
