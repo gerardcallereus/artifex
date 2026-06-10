@@ -1,0 +1,27 @@
+---
+import type { Props } from '@astrojs/starlight/props';
+---
+
+{/* Lock theme to light mode to avoid FOUC */}
+<script is:inline>
+	window.StarlightThemeProvider = (() => {
+		document.documentElement.dataset.theme = 'light';
+		if (typeof localStorage !== 'undefined') {
+			localStorage.setItem('starlight-theme', 'light');
+		}
+		return {
+			updatePickers(theme = 'light') {
+				document.querySelectorAll('starlight-theme-select').forEach((picker) => {
+					const select = picker.querySelector('select');
+					if (select) select.value = 'light';
+				});
+			},
+		};
+	})();
+</script>
+
+<template id="theme-icons">
+	<svg class="light"></svg>
+	<svg class="dark"></svg>
+	<svg class="auto"></svg>
+</template>

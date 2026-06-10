@@ -1,0 +1,56 @@
+---
+import type { Props } from '@astrojs/starlight/props';
+import SidebarSublist from '@astrojs/starlight/components/SidebarSublist.astro';
+import MobileMenuFooter from 'virtual:starlight/components/MobileMenuFooter';
+import SiteTitle from 'virtual:starlight/components/SiteTitle';
+import Search from 'virtual:starlight/components/Search';
+
+const { sidebar } = Astro.props;
+---
+
+<div class="sidebar-header sl-hidden md:sl-flex">
+  <SiteTitle {...Astro.props} />
+  <Search {...Astro.props} />
+</div>
+
+<SidebarSublist sublist={sidebar} />
+
+<div class="md:sl-hidden">
+  <MobileMenuFooter {...Astro.props} />
+</div>
+
+<style>
+  .sidebar-header {
+    flex-direction: column;
+    gap: 1rem;
+    padding-bottom: 1.5rem;
+    border-bottom: 1px solid rgba(255, 255, 255, 0.15);
+    margin-bottom: 1.5rem;
+  }
+
+  /* Force search button to take full width and look good in sidebar */
+  :global(.sidebar-header starlight-search) {
+    width: 100%;
+  }
+
+  :global(.sidebar-header starlight-search button) {
+    width: 100% !important;
+    justify-content: flex-start !important;
+    padding-inline: 0.75rem !important;
+    background: rgba(255, 255, 255, 0.1) !important;
+    border: 1px solid rgba(255, 255, 255, 0.2) !important;
+    color: #ffffff !important;
+    border-radius: 8px !important;
+  }
+
+  :global(.sidebar-header starlight-search button:hover) {
+    background: rgba(255, 255, 255, 0.2) !important;
+  }
+
+  :global(.sidebar-header starlight-search kbd) {
+    margin-inline-start: auto !important;
+    background: rgba(255, 255, 255, 0.15) !important;
+    color: #ffffff !important;
+    border-color: rgba(255, 255, 255, 0.2) !important;
+  }
+</style>

@@ -18,6 +18,11 @@ export default defineConfig({
     suppressSitemapErrors,
     starlight({
       title: 'Artífex',
+      components: {
+        Header: './src/components/Header.astro',
+        Sidebar: './src/components/Sidebar.astro',
+        ThemeProvider: './src/components/ThemeProvider.astro',
+      },
       customCss: ['./src/styles/custom.css'],
       pagination: false,
       tableOfContents: false,
