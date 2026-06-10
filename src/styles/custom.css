@@ -549,6 +549,12 @@ footer {
   background: rgba(193, 40, 114, 0.06);
 }
 
+.custom-grid-2 > *,
+.custom-grid-3 > *,
+.custom-grid-4 > * {
+  margin-top: 0 !important;
+}
+
 .custom-grid-2 > .custom-card,
 .custom-grid-3 > .custom-card,
 .custom-grid-4 > .custom-card {
