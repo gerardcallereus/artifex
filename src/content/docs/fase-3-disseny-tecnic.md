@@ -50,7 +50,9 @@ Replica el logo de Munay abans de dissenyar el teu propi logotip. Això t'ajudar
 
 Dins de TinkerCAD trobareu tres reptes que heu de completar en ordre:
 1. **Entrenament: Logo MUNAY:** Abans de fer el vostre, heu de demostrar que domineu l'eina. Heu de replicar exactament el logotip de la marca "Munay" que vam veure a la fase d'identitat. A continuació teniu un vídeo per ajudar-vos per a poder seguir pas a pas com fer el logo de MUNAY.
-   > 🎬 **Vídeo d'ajuda:** `YouCut_20260113_175455552.mp4`
+   > 🎬 **Vídeo d'ajuda:** [Veure tutorial a YouTube](https://youtu.be/EgTj1iHCwH4)
+   >
+   > <iframe src="https://www.youtube.com/embed/EgTj1iHCwH4" title="Tutorial TinkerCAD Logo Munay" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen style="width: 100%; aspect-ratio: 16/9; border-radius: 8px; border: 1px solid rgba(193, 40, 114, 0.2); margin-top: 0.5rem; box-shadow: 0 4px 15px rgba(0,0,0,0.1);"></iframe>
 2. **El Vostre Logotip (Tall Làser):** Dissenyareu la "cara" de la vostra marca. Recordeu: ha de ser una silueta clara, ja que el làser ressegueix línies. Menys és més.
 3. **La Vostra Arracada (Impressió 3D):** Dissenyareu el producte final.
 
