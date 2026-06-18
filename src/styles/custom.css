@@ -7,8 +7,8 @@
    - Fons dark sidebar: #212121
    =================================================== */
 
-/* Importar font Lato (igual que Google Sites) */
-@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,300;0,400;0,700;1,300;1,400;1,700&display=swap');
+/* Importar font Lato i fonts addicionals per a tipografies del dossier */
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,300;0,400;0,700;1,300;1,400;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,400&family=Caveat:wght@500;700&family=Lobster&display=swap');
 
 /* ==========================================
    Starlight CSS Variables - Light Mode
@@ -248,7 +248,7 @@ nav.sidebar,
   text-align: center;
   font-size: 0.82rem;
   color: rgba(33,33,33,0.6);
-  margin-top: -0.8rem;
+  margin-top: 0.3rem;
   margin-bottom: 1.5rem;
   font-style: italic;
 }
@@ -826,4 +826,269 @@ starlight-theme-select {
   box-shadow: none !important;
   margin: 0 !important;
   display: inline-block !important;
+}
+
+/* ==========================================
+   Print / PDF Export Styles
+   ========================================== */
+@media print {
+  /* Control page margins (2cm) for PDF conversion */
+  @page {
+    margin: 2cm !important;
+  }
+  
+  body {
+    margin: 0 !important;
+    padding: 0 !important;
+    background: #ffffff !important;
+    color: #000000 !important;
+  }
+
+  /* Hide Starlight UI elements and browser chrome that shouldn't be printed */
+  header,
+  footer,
+  aside,
+  nav,
+  button,
+  header.header,
+  nav.sidebar,
+  .sidebar-pane,
+  .right-sidebar-panel,
+  .pagination-links,
+  .no-print,
+  starlight-theme-select,
+  .mobile-preferences,
+  .toc-toggle,
+  starlight-menu-button,
+  .starlight-toc {
+    display: none !important;
+  }
+
+  /* Reset main content width and paddings */
+  html,
+  .page,
+  .main-frame,
+  main,
+  .content-panel,
+  .sl-container,
+  .sl-markdown-content {
+    width: 100% !important;
+    max-width: 100% !important;
+    margin: 0 !important;
+    padding: 0 !important;
+    background: #ffffff !important;
+    color: #000000 !important;
+    box-shadow: none !important;
+    border: none !important;
+  }
+
+  /* Remove any animations to prevent page content rendering issues */
+  .sl-markdown-content {
+    animation: none !important;
+    transform: none !important;
+    opacity: 1 !important;
+    font-size: 0.85rem !important;
+    line-height: 1.4 !important;
+  }
+
+  /* Optimize text sizing and spacing for printing */
+  .sl-markdown-content h1 {
+    font-size: 1.6rem !important;
+    margin-top: 0.8rem !important;
+    margin-bottom: 0.4rem !important;
+    padding-bottom: 0.3rem !important;
+    border-bottom: 2px solid #000000 !important;
+    color: #000000 !important;
+    page-break-after: avoid !important;
+    break-after: avoid !important;
+  }
+
+  .sl-markdown-content h2 {
+    font-size: 1.25rem !important;
+    margin-top: 1.25rem !important;
+    margin-bottom: 0.5rem !important;
+    color: #000000 !important;
+    page-break-after: avoid !important;
+    break-after: avoid !important;
+  }
+
+  .sl-markdown-content h2::before {
+    display: none !important;
+  }
+
+  .sl-markdown-content h3 {
+    font-size: 1.05rem !important;
+    color: #000000 !important;
+    margin-top: 1rem !important;
+    margin-bottom: 0.25rem !important;
+    page-break-after: avoid !important;
+    break-after: avoid !important;
+  }
+
+  /* Shrink margins on lists, paragraphs, and blockquotes */
+  .sl-markdown-content p,
+  .sl-markdown-content li,
+  .sl-markdown-content blockquote {
+    margin-top: 0.2rem !important;
+    margin-bottom: 0.4rem !important;
+    line-height: 1.35 !important;
+  }
+
+  /* Shrink write-in lines heights to save vertical space */
+  [style*="border-bottom: 1px dashed"] {
+    height: 45px !important;
+    margin-bottom: 1rem !important;
+  }
+
+  /* Shrink logo sketches box size on paper */
+  [style*="border: 2px dashed"] {
+    height: 250px !important;
+    margin-top: 0.5rem !important;
+    margin-bottom: 0.5rem !important;
+  }
+
+  /* Print borders on tables with smaller paddings and font size */
+  .sl-markdown-content table {
+    box-shadow: none !important;
+    border: 1px solid #666666 !important;
+    margin: 0.75rem 0 !important;
+    page-break-inside: avoid !important;
+    break-inside: avoid !important;
+  }
+
+  .sl-markdown-content thead {
+    background: #e0e0e0 !important;
+    color: #000000 !important;
+  }
+
+  .sl-markdown-content thead th {
+    color: #000000 !important;
+    border-bottom: 2px solid #666666 !important;
+    border-right: 1px solid #666666 !important;
+    padding: 0.4rem 0.6rem !important;
+    font-size: 0.8rem !important;
+  }
+
+  .sl-markdown-content tbody tr:nth-child(odd) {
+    background: #f9f9f9 !important;
+  }
+
+  .sl-markdown-content tbody tr:nth-child(even) {
+    background: #ffffff !important;
+  }
+
+  .sl-markdown-content tbody td {
+    color: #000000 !important;
+    border-bottom: 1px solid #cccccc !important;
+    border-right: 1px solid #666666 !important;
+    padding: 0.3rem 0.6rem !important;
+    font-size: 0.8rem !important;
+  }
+
+  /* Control of page breaks to avoid splitting questions */
+  .question-block {
+    page-break-inside: avoid !important;
+    break-inside: avoid !important;
+    margin-bottom: 2rem !important;
+    display: block !important;
+  }
+
+  /* Force cover page to stay on a single page */
+  .cover-page-container {
+    page-break-inside: avoid !important;
+    break-inside: avoid !important;
+    page-break-after: always !important;
+    break-after: page !important;
+    margin-bottom: 0 !important;
+    padding: 1.5rem !important;
+  }
+
+  .cover-page-container h1 {
+    font-size: 1.8rem !important;
+    margin-bottom: 0.5rem !important;
+    border-bottom: none !important;
+  }
+
+  .cover-page-container p {
+    font-size: 1rem !important;
+    margin-top: 0.25rem !important;
+    margin-bottom: 0.5rem !important;
+  }
+
+  .cover-page-container .instructions-block {
+    margin-top: 0.75rem !important;
+    margin-bottom: 0.75rem !important;
+    padding: 0.5rem !important;
+    font-size: 0.85rem !important;
+  }
+
+  .cover-page-container .index-block {
+    margin-bottom: 1rem !important;
+    padding: 0.75rem !important;
+  }
+
+  .cover-page-container .index-block ul {
+    line-height: 1.3 !important;
+    font-size: 0.8rem !important;
+  }
+
+  .cover-page-container .flex-container {
+    margin-top: 1rem !important;
+  }
+
+  /* Don't break elements inside a section */
+  .custom-card,
+  blockquote,
+  pre,
+  .learning-objectives-box,
+  .competencies-box,
+  tr,
+  li,
+  p {
+    page-break-inside: avoid !important;
+    break-inside: avoid !important;
+  }
+
+  /* Remove backdrop filters, glows, shadows */
+  * {
+    box-shadow: none !important;
+    text-shadow: none !important;
+  }
+
+  /* Simplify links */
+  .sl-markdown-content a {
+    color: #000000 !important;
+    text-decoration: underline !important;
+  }
+
+  /* Scale down images for print layout (avoid oversized logos) */
+  .sl-markdown-content img {
+    max-height: 120px !important;
+    width: auto !important;
+    margin: 0.5rem auto !important;
+    display: block !important;
+  }
+
+  /* Keep case study logos larger and rectangular */
+  .sl-markdown-content img[src*="placehold.co"] {
+    max-height: 180px !important;
+  }
+
+  /* Keep the financial graph larger for legibility */
+  .sl-markdown-content img[src*="grafica"] {
+    max-height: 320px !important;
+  }
+
+  /* Spacing for image captions on print */
+  .sl-markdown-content img + em,
+  .sl-markdown-content p > em:only-child {
+    margin-top: 0.4rem !important;
+    margin-bottom: 1rem !important;
+  }
+
+  /* Allow breaking inside the news box to prevent forced page split before the text */
+  .news-box {
+    page-break-inside: auto !important;
+    break-inside: auto !important;
+  }
 }
