@@ -86,12 +86,18 @@ Aquí pots veure fantàstics Moodboards creats per alumnes de 2n d'ESO en edicio
     <p style="font-weight: bold; font-size: 0.9rem; margin: 0; color: var(--sl-color-accent-high);">✨ Paula Jurado — Concepte Elegància Vermella & Força</p>
     <p style="font-size: 0.82rem; color: #666; margin: 0.2rem 0 0 0;">Exemple de composició fotogràfica estructurada amb contrast de vermell intens, blanc i negre.</p>
   </div>
-</div>
 
-<div style="background: #ffffff; border: 1px solid #e5e7eb; border-radius: 10px; padding: 1rem; box-shadow: 0 4px 12px rgba(0,0,0,0.05); margin-bottom: 1.5rem;">
-  <img src="/artifex/media/moodboard_Tiago_Ballaz.jpg" alt="Moodboard de Tiago Ballaz" style="width: 100%; border-radius: 6px; margin-bottom: 0.5rem;" />
-  <p style="font-weight: bold; font-size: 0.9rem; margin: 0; color: var(--sl-color-accent-high);">✨ Tiago Ballaz — Concepte Neu, Muntanya & Esports d'Hivern</p>
-  <p style="font-size: 0.82rem; color: #666; margin: 0.2rem 0 0 0;">Exemple de dinamisme en composició diagonal amb paleta freda de violetes, blaus i neu.</p>
+  <div style="background: #ffffff; border: 1px solid #e5e7eb; border-radius: 10px; padding: 1rem; box-shadow: 0 4px 12px rgba(0,0,0,0.05);">
+    <img src="/artifex/media/moodboard_Tiago_Ballaz.jpg" alt="Moodboard de Tiago Ballaz" style="width: 100%; border-radius: 6px; margin-bottom: 0.5rem;" />
+    <p style="font-weight: bold; font-size: 0.9rem; margin: 0; color: var(--sl-color-accent-high);">✨ Tiago Ballaz — Concepte Neu, Muntanya & Esports d'Hivern</p>
+    <p style="font-size: 0.82rem; color: #666; margin: 0.2rem 0 0 0;">Exemple de dinamisme en composició diagonal amb paleta freda de violetes, blaus i neu.</p>
+  </div>
+
+  <div style="background: #ffffff; border: 1px solid #e5e7eb; border-radius: 10px; padding: 1rem; box-shadow: 0 4px 12px rgba(0,0,0,0.05);">
+    <img src="/artifex/media/moodboard_Aran_Gonzalez.jpg" alt="Moodboard d'Aran González" style="width: 100%; border-radius: 6px; margin-bottom: 0.5rem;" />
+    <p style="font-weight: bold; font-size: 0.9rem; margin: 0; color: var(--sl-color-accent-high);">✨ Aran González — Concepte Bàsquet & Cultura Urbana</p>
+    <p style="font-size: 0.82rem; color: #666; margin: 0.2rem 0 0 0;">Exemple d'expressivitat urbana, iconografia esportiva (NBA, Nike), grafiti i tonalitats fúcsia.</p>
+  </div>
 </div>
 
 <div class="custom-card" style="margin: 2rem 0; padding: 1.25rem; border-left: 5px solid var(--sl-color-accent-high); background: rgba(193, 40, 114, 0.04); text-align: center;">
