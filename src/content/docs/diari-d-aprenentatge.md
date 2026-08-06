@@ -80,27 +80,112 @@ Respon a les preguntes per situar el teu punt de partida:
 
 ---
 
-# BLOC 2: COM CREEM LA NOSTRA MARCA? (COMPRENSIÓ LECTORA I PROCESSO DE RESOLUCIÓ DE PROBLEMES)
+# BLOC 2: COM CREEM LA NOSTRA MARCA? (ACTIVITATS COMPETENCIALS DE MARQUES REALS)
 
-## 2.1 Text de Lectura: El Full de Ruta de Nike i el Cicle de Vida del Producte
-> *En l'àmbit de la tecnologia i l'emprenedoria (Decret 175/2022), la resolució de problemes no és un procés caòtic sinó una seqüència ordenada d'etapes anomenada **Cicle de Vida del Producte**. Tinker Hatfield, un dels dissenyadors més emblemàtics de la companyia Nike, va revolucionar el calçat esportiu quan va crear la saga Air Max. Hatfield no va començar a fabricar ni a dibuixar la sabatilla final directament. Primer va analitzar les necessitats dels atletes (Cerca d'informació), va definir l'estètica d'inspiració arquitectònica del Centre Pompidou de París (La Guspira), va triar la paleta de colors i la tipografia (Identitat), va dibuixar els plànols tècnics de les cambres d'aire (Disseny CAD 2D/3D), va avaluar els costos de vulcanitzat (Estudi Econòmic) i va dissenyar el packaging per a la seva comercialització.*
+## DOSSIER DE L'ALUMNAT
 
-## 2.2 Prova Competencial de Comprensió Lectora i Resolució de Problemes
+### Activitat 1: L'odissea de crear una marca amb impacte social (Cas Ecoalf)
 
-1. **Analitza el procés tecnològic descrit al text. Per quins motius és imprescindible seguir un "Full de Ruta" ordenat en lloc de començar a fabricar directament el producte físic?**
+<div style="text-align: center; margin: 1.5rem 0;">
+  <img src="/artifex/media/Nike.png" alt="Ecoalf: Moda sostenible des del fons del mar" style="width: 70%; max-height: 250px; object-fit: cover; border-radius: 10px; box-shadow: 0 4px 15px rgba(0,0,0,0.1); margin: 0 auto; display: block;" />
+  <em style="display: block; font-size: 0.85rem; color: #666; margin-top: 0.4rem;">Ecoalf: Fabricació de peces de vestir i joieria urbana a partir de residus plàstics reciclats de l'oceà. Referència web: <a href="https://ecoalf.com/" target="_blank" rel="noopener noreferrer">https://ecoalf.com/</a></em>
+</div>
+
+#### LECTURA 1: Del fons del mar a l'aparador
+L'any 2009, després del naixement del seu fill Alfredo, Javier Goyeneche va sentir frustració per l'ús excessiu dels recursos naturals del planeta i la quantitat de residus que acumulaven els oceans. Aquesta va ser la seva **guspira (IDEA)**: crear una marca de moda que utilitzés materials reciclats (ampolles de plàstic, xarxes de pesca, pneumàtics) per netejar els oceans, però amb la mateixa qualitat i disseny que els materials no reciclats.
+
+Així va néixer la **IDENTITAT (MARCA)** d'Ecoalf (jugant amb les paraules Ecologia i Alfredo). El seu missatge i filosofia es van resumir en un lema clar que els acompanyaria sempre: *"Because there is no planet B"* (Perquè no hi ha un planeta B). L'objectiu no era només fer roba, sinó conscienciar.
+
+#### LECTURA 2: Els obstacles de la realitat
+Tenir la idea va ser fàcil, però portar-la a terme va ser un repte tècnic majúscul. Durant la fase de **DISSENY TÈCNIC**, l'equip d'Ecoalf es va trobar que els fils reciclats que existien al mercat eren de molt baixa qualitat. Van haver d'invertir dos anys viatjant pel món per trobar aliances amb centres de recerca i desenvolupar la tecnologia necessària per triturar el plàstic marí, netejar-lo, fondre'l i filar-lo fins a obtenir un fil de polièster reciclat de primera qualitat.
+
+Un cop aconseguit el fil, va arribar la fase de **PRODUCCIÓ**. La complexitat aquí va ser convèncer les fàbriques tèxtils tradicionals. Moltes es negaven a introduir aquest fil nou a les seves màquines per por que es trenquessin o perquè els volums inicials de comanda d'Ecoalf eren massa petits.
+
+Tota aquesta inversió en recerca va impactar directament en la fase de **COSTOS I PREU**. Produir una jaqueta amb plàstic del mar costava molt més que fer-ho amb plàstic verge derivat del petroli. Finalment, en la fase de **COMERCIALITZACIÓ (VENDA)**, el gran repte va ser convèncer el consumidor final: com podien justificar un preu de 150 € per una jaqueta feta, literalment, d'escombraries?
+
+#### ANÀLISI DE DADES I GRÀFIQUES
+
+**Taula 1: Comparativa de l'estructura de costos de producció (per unitat)**
+
+| Concepte de Cost | Jaqueta Tradicional (Polièster verge) | Jaqueta Ecoalf (Plàstic reciclat) |
+| --- | --- | --- |
+| Matèria primera | 4,00 € | 2,50 € (Escombraries marines) |
+| I+D i Procés de reciclatge | 0,00 € | 18,00 € |
+| Confecció (Fàbrica) | 12,00 € | 22,00 € (Sèries curtes i maquinària adaptada) |
+| Màrqueting i disseny | 8,00 € | 8,00 € |
+| Logística i distribució | 6,00 € | 6,00 € |
+| **COST TOTAL FABRICACIÓ** | **30,00 €** | **56,50 €** |
+
+<br />
+
+**Gràfic 1: Previsió temporal vs. Realitat (Primers 3 anys del projecte)**  
+*(Mesos transcorreguts des de la Fase 1 fins a la Fase 6)*
+
+| Fase del projecte | Previsió inicial (Planificació) | Realitat (El que va trigar realment) |
+| --- | --- | --- |
+| Idea i Marca (F1 i F2) | 2 mesos | 2 mesos |
+| Disseny Tècnic (F3) | 6 mesos | 24 mesos (Endarreriment tecnològic) |
+| Producció (F4) | 3 mesos | 8 mesos (Cerca de fàbriques) |
+| Comercialització (F6) | Mes 11 | Mes 34 |
+
+#### PREGUNTES (Respon a l'espai indicat)
+
+1. **Comprensió lectora (Fases 1 i 2):**  
+Quina va ser la "guspira" que va motivar el creador d'Ecoalf a iniciar el projecte, i com es reflecteix aquesta motivació en la identitat de la seva marca?
+<div class="response-box" style="min-height: 100px;"></div>
+
+2. **Deducció i lògica (Fases 3 i 4):**  
+Segons el text, per què la fase de Producció va suposar un obstacle per a l'empresa just després d'haver aconseguit tancar la fase de Disseny Tècnic?
+<div class="response-box" style="min-height: 100px;"></div>
+
+3. **Anàlisi de dades (Fase 5):**  
+Observa la Taula 1. Si comparem el preu de la matèria primera de la jaqueta tradicional (4,00€) amb la d'Ecoalf (2,50€), sembla que fer roba amb escombraries és més barat. Per què, aleshores, el cost total de fabricació d'Ecoalf és gairebé el doble? Argumenta la teva resposta utilitzant dades de la taula.
 <div class="response-box" style="min-height: 110px;"></div>
 
-2. **Ordena cronològicament les 6 fases del projecte Artífex (1 a 6) i justifica quin paper juga la fase de "Disseny Tècnic CAD" en la prevenció d'errors al taller:**
-   - [ ] Comercialització i Packaging
-   - [ ] La Guspira i Moodboard
-   - [ ] Costos i Preu de Venda
-   - [ ] Identitat Visual (Naming, Logo, Colors, Tipografia)
-   - [ ] Disseny Tècnic (TinkerCAD 2D/3D)
-   - [ ] Producció i Taller de Motlles
+4. **Interpretació de taules de planificació (Fase 6):**  
+Observa el "Gràfic 1". L'empresa tenia previst començar a vendre les jaquetes al mes 11 després de tenir la idea.  
+a) En quin mes van començar a vendre-les realment?  
+b) Quin error de planificació van cometre en el calendari? Quin factor extern, no previst, va provocar aquest endarreriment?
 <div class="response-box" style="min-height: 110px;"></div>
 
-3. **Quina de les fases tecnològiques o econòmiques creus que requerirà un major nivell de perseverança i atenció al detall? Argumenta la teva resposta des de la perspectiva d'un emprenedor:**
+5. **Esperit crític i resolució de problemes:**  
+Imagina que ets l'encarregat/da de fixar el Preu i la Comercialització (Fases 5 i 6). Un inversor et diu que el cost de 56,50 € és massa alt i et proposa eliminar el procés de reciclatge i comprar fil de polièster verge per abaratir el producte i vendre més. Per què acceptar aquesta proposta seria un error gravíssim per a l'empresa tenint en compte les Fases 1 i 2?
 <div class="response-box" style="min-height: 110px;"></div>
+
+<div class="page-break"></div>
+
+---
+
+### Activitat 2: Joieria social i desenvolupament comunitari (Cas Sidai Designs)
+
+<div style="text-align: center; margin: 1.5rem 0;">
+  <img src="/artifex/media/mucha_joya_visita.jpg" alt="Artesanes de Sidai Designs elaborant joieria tradicional i contemporània" style="width: 70%; max-height: 250px; object-fit: cover; border-radius: 10px; box-shadow: 0 4px 15px rgba(0,0,0,0.1); margin: 0 auto; display: block;" />
+  <em style="display: block; font-size: 0.85rem; color: #666; margin-top: 0.4rem;">Artesanes de la marca social Sidai Designs elaborant joies de comerç just. Referència web: <a href="https://sidaidesigns.com/" target="_blank" rel="noopener noreferrer">https://sidaidesigns.com/</a></em>
+</div>
+
+El projecte de Sidai Designs va néixer de la voluntat d'unir l'artesania tradicional de la joieria amb l'empoderament econòmic de les dones en situació de vulnerabilitat. La idea inicial o guspira del projecte va ser crear una marca de joies contemporànies que aprofités el saber fer ancestral de les artesanes per oferir-los una font d'ingressos estable i digna. Per aconseguir-ho, van haver de construir una identitat de marca potent basada en els valors del comerç just, l'artesania d'alta qualitat i el respecte per la cultura local, evitant presentar el producte com una simple caritat i posicionant-lo com una opció de disseny exclusiu al mercat internacional.
+
+Tanmateix, transformar una tradició artesanal en un projecte viable va comportar nombroses dificultats en la planificació. Durant la fase de disseny tècnic, l'equip va haver d'adaptar els patrons tradicionals a mides estàndard i línies modernes per tal que les joies agradessin a clients d'arreu del món, tot assegurant que les peces fossin còmodes i duradores. Quan van passar a la fase de producció, el principal obstacle va ser la coordinació del taller i la homogeneïtat del treball: cada artesana treballava a un ritme diferent i amb tècniques manuals pròpies, la qual cosa generava petites diferències entre peces que dificultaven la venda en sèrie. Per solucionar-ho, van haver de formar les artesanes en el control de qualitat i l'ús d'eines de mesura precises.
+
+L'organització econòmica va ser una altra de les grans complexitats. A la fase de costos i preu, l'empresa va decidir pagar sous dignes que triplicaven l'ingrés mitjà de la zona, a més de cobrir despeses de transport, matèries primeres de qualitat i embalatge. Això va elevar el cost final de cada joia, obligant a calcular un preu de venda adequat per no treballar a pèrdues i poder reinvertir els beneficis en serveis de salut i educació per a les famílies. Finalment, a la fase de comercialització i venda, el repte va ser dissenyar un packaging atractiu i sostenible que expliqués la història de la dona que havia fabricat cada joia, convertint la compra en una experiència d'impacte social positiu per al consumidor.
+
+#### PREGUNTES DE REFLEXIÓ I ANÀLISI SOCIAL
+
+1. **La Guspira i la Identitat de Marca:**  
+Explica amb les teves paraules quina va ser la idea inicial de Sidai Designs i per quina raó van decidir posicionar la joia com un producte de disseny d'alta qualitat en lloc de vendre'l com una simple donació de caritat.
+<div class="response-box" style="min-height: 100px;"></div>
+
+2. **Dificultats de Producció en equip:**  
+Quins problemes van sorgir durant la producció artesanal quan van intentar fabricar moltes joies per vendre en sèrie, i quina solució van trobar per mantenir la qualitat sense perdre el treball artesanal?
+<div class="response-box" style="min-height: 100px;"></div>
+
+3. **Costos, Preu i Impacte Social:**  
+En un projecte d'empresa social, quin impacte té fixar un preu de venda que inclogui un sou digne per a les treballadores en lloc de buscar el preu més barat possible?
+<div class="response-box" style="min-height: 100px;"></div>
+
+4. **Comercialització i Storytelling:**  
+Per què és tan important el packaging i l'explicació de la història de l'artesana en el moment de la venda final al client?
+<div class="response-box" style="min-height: 100px;"></div>
 
 <div class="page-break"></div>
 
