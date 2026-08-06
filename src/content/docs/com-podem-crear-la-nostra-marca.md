@@ -9,24 +9,21 @@ description: Aprén més sobre aquest tema del projecte Artífex.
   <div class="box-title">Objectius d'aprenentatge</div>
   <ul>
     <li><strong>Full de ruta:</strong> Comprendre les diferents fases del procés de creació d'una marca des de la idea inicial fins a la venda.</li>
-    <li><strong>Exemple real:</strong> Analitzar l'ordre lògic del disseny, producció i comercialització mitjançant el cas pràctic de Nike.</li>
-    <li><strong>Reflexió personal:</strong> Analitzar les teves habilitats i expectatives respecte als reptes econòmics, creatius i tècnics del projecte.</li>
+    <li><strong>Casos reals:</strong> Analitzar casos reals de creació d'empreses amb les seves dificultats en les diferents fases.</li>
   </ul>
 </div>
 
-:::tip[El recorregut d'una marca]
-No es tracta només de dissenyar una joia: es tracta de seguir un procés des de la idea fins al client.
-:::
-
-![Tinker Hatfield, dissenyador de Nike](/artifex/media/Nike.png)
-
-> _Tinker Hatfield, dissenyador de Nike_
-
-Alguna vegada us heu preguntat com neix una empresa com Nike, Apple o una marca de roba? Us penseu que algú es desperta un dia, fa un dibuix i es fa ric a l'instant? La resposta és no.
-
-Darrere de qualsevol producte d'èxit no hi ha sort ni màgia: hi ha un FULL DE RUTA.
-
-Crear una marca és un viatge que sempre segueix uns passos concrets i ordenats. No pots començar a vendre si no has fabricat, i no pots fabricar si no has dissenyat. En aquest projecte "Artífex", vosaltres seguireu exactament aquest mateix camí.
+<div class="custom-grid-2" style="align-items: center; margin: 2rem 0;">
+  <div>
+    <img src="/artifex/media/Nike.png" alt="Tinker Hatfield, dissenyador de Nike" style="width: 100%; border-radius: 12px; box-shadow: 0 8px 25px rgba(0,0,0,0.12);" />
+    <em style="display: block; text-align: center; font-size: 0.85rem; color: #666; margin-top: 0.5rem;">Tinker Hatfield, dissenyador de Nike</em>
+  </div>
+  <div>
+    <p class="text-md">Alguna vegada us heu preguntat com neix una empresa com Nike, Apple o una marca de roba? Us penseu que algú es desperta un dia, fa un dibuix i es fa ric a l'instant? La resposta és no.</p>
+    <p class="text-md">Darrere de qualsevol producte d'èxit no hi ha sort ni màgia: hi ha un <strong>FULL DE RUTA</strong>.</p>
+    <p class="text-md" style="margin-bottom: 0;">Crear una marca és un viatge que sempre segueix uns passos concrets i ordenats. No pots començar a vendre si no has fabricat, i no pots fabricar si no has dissenyat. En aquest projecte "Artífex", vosaltres seguireu exactament aquest mateix camí.</p>
+  </div>
+</div>
 
 ---
 
@@ -38,7 +35,7 @@ En la següent activitat trobareu les sis Fases de Creació d'una marca totalmen
 
 <div class="app-wrapper" id="app-crea-la-teva-marca">
   <div class="app-header">
-    <span class="app-title">Simulador: Crea la teva marca</span>
+    <span class="app-title">Com podem crear la nostra marca?</span>
     <button class="app-fullscreen-btn" onclick="document.getElementById('app-crea-la-teva-marca').requestFullscreen()">
       <svg viewBox="0 0 24 24" width="16" height="16" fill="currentColor" style="display:inline-block; vertical-align:middle; margin-right:4px;">
         <path d="M7 14H5v5h5v-2H7v-3zm-2-4h2V7h3V5H5v5zm12 7h-3v2h5v-5h-2v3zM14 5v2h3v3h2V5h-5z"/>
