@@ -566,37 +566,61 @@ Però, en què es diferencia exactament el model organitzatiu de La Fageda del d
 
 
 
-# BLOC 5: FASE 1 — LA GUSPIRA I MOODBOARD (JERARQUIA VISUAL)
+# BLOC 5: FASE 1 — LA GUSPIRA
 
-### Activitat 5.1: Definició del "Motiu" Personal
+### Activitat 5.1: Trobar el meu "Motiu" (Individual)
 
-Respon als eixos d'inspiració que serviran de base per a la teva col·lecció:
+Les marques que realment ens emocionen no són les que tenen el logo més perfecte, sinó les que tenen ànima. I l'ànima no es pot copiar d'Internet; l'has de trobar dins teu. Per crear la teva col·lecció de joies, primer necessites una "Guspira": una emoció, un record o una sensació que sigui només teva. No busquem només fer objectes "bonics", busquem també crear objectes que signifiquin alguna cosa. Volem capturar un trosset de la teva història i convertir-lo en una joia perquè algú altre la pugui portar.
 
-- **Orígens / Palette de referència:** <span style="border-bottom: 1.5px dashed #666; display: inline-block; width: 65%;"></span>
-- **Sensació / Record a capturar:** <span style="border-bottom: 1.5px dashed #666; display: inline-block; width: 65%;"></span>
-- **Simbolisme del talismà:** <span style="border-bottom: 1.5px dashed #666; display: inline-block; width: 65%;"></span>
+Relaxa't i deixa que aquestes preguntes t'ajudin a trobar el teu motiu. No les has de respondre totes, només busca aquella o aquelles que et facin sentir una espurna especial per a la teva col·lecció:
 
----
+1. **Orígens:** Si tanques els ulls i penses en el país o el poble d'on ve la teva família, quins colors veus? (Taronja de la terra, blau del mar, verd de muntanya, gris de la ciutat...):
+   <div class="response-box" style="min-height: 65px;"></div>
 
-### Activitat 5.2: Disseny i Esbós del Moodboard
+2. **Records:** Pensa en les millors vacances de la teva vida, aquell moment exacte on et vas sentir totalment lliure i feliç. Quina llum feia? Quina sensació vols guardar d'aquell dia per sempre?:
+   <div class="response-box" style="min-height: 65px;"></div>
 
-Dibuixa o esquematitza la composició visual del teu Moodboard (tauler d'inspiració):
+3. **Significat (Amulet / Talismà):** Si la teva joia no fos un simple adorn, sinó un amulet o un talismà màgic, quin poder donaria a la persona que el porta? (Calma i pau, energia i foc, protecció...):
+   <div class="response-box" style="min-height: 65px;"></div>
 
-<div style="border: 2px dashed #888; border-radius: 8px; height: 260px; display: flex; align-items: center; justify-content: center; color: #666; margin: 1rem 0; background: #fafafa;">
-  [ Requadre per al collage / esbós del Moodboard ]
-</div>
+4. **Natura / Tresor:** Quan camines per la natura o per la platja, quin és aquell petit tresor que sempre acabes collint del terra i guardant a la butxaca? (Pedra llisa, petxina trencada, vidre de mar, pinya...):
+   <div class="response-box" style="min-height: 65px;"></div>
 
----
+5. **Personalitat:** Si haguessis d'explicar qui ets sense fer servir paraules, només amb una forma i un color, com series? (Caos, taques i colors elèctrics / Ordre, geometria i colors suaus):
+   <div class="response-box" style="min-height: 65px;"></div>
 
-### Activitat 5.3: Anàlisi Competencial dels 5 Principis de Composició
+6. **Passió:** Quina és aquella cosa (hobby, música, passió) que, quan la fas, fa que el temps passi volant i t'oblidis de tot? Com podries transformar aquesta passió en un objecte?:
+   <div class="response-box" style="min-height: 65px;"></div>
 
-1. **Jerarquia (La Imatge Reina):** Quina imatge ocupa el punt focal principal i quin missatge visual transmet per sobre de les altres?
-   
-   <div class="response-box" style="min-height: 75px;"></div>
+- **La meva Guspira / Motiu principal seleccionat:** <span style="border-bottom: 1.5px dashed #666; display: inline-block; width: 60%;"></span>
 
-2. **Harmonia i Aire:** Com has seleccionat la paleta reduïda de 3-4 colors i com utilitzes els espais buits per evitar la saturació visual?
-   
-   <div class="response-box" style="min-height: 75px;"></div>
+<div class="page-break"></div>
+
+### Activitat 5.2: Creació del Moodboard Digital a Google Classroom (Dibuixos de Google)
+
+Entra a la tasca corresponent de **Google Classroom** per elaborar el teu Moodboard digital de la Fase 1.
+
+> ⚠️ **REGLA MANDATÒRIA D'EINA TÈCNICA:**  
+> Aquest Moodboard s'ha de crear **ÚNICAMENT I EXCLUSIVAMENT utilitzant Dibuixos de Google (Google Drawings)**. Queda **totalment prohibita la utilització de plataformes automàtiques o plantilles com Canva o similars**. L'objectiu és que desenvolupis la teva pròpia capacitat de composició manual, selecció de paletes, enquadrament i jerarquia visual sense plantilles prefabricades.
+
+Assegura't d'aplicar els 5 criteris clau de composició visual en el teu disseny a Dibuixos de Google:
+- **Jerarquia (Imatge Reina):** Tria una imatge protagonista més gran que la resta.
+- **Harmonia (Colors):** Selecciona només 3 o 4 colors principals coherents.
+- **Aire (Espais buits):** Deixa marges i espais nets per evitar la saturació.
+- **Varietat (Plans):** Barreja primers plans de textures amb plans generals.
+- **Equilibri:** Compensa els pesos visuals i colors foscos a banda i banda del full.
+
+<br />
+
+- **Títol del teu Moodboard a Dibuixos de Google:** <span style="border-bottom: 1.5px dashed #666; display: inline-block; width: 55%;"></span>
+- **Paleta de 3-4 colors principals seleccionats:** <span style="border-bottom: 1.5px dashed #666; display: inline-block; width: 55%;"></span>
+
+<br />
+
+**Autovaloració de la composició del Moodboard:**  
+Explica breument per què has triat la teva "Imatge Reina", quina paleta de colors has utilitzat i com has aplicat l'aire i l'equilibri en el teu disseny a Dibuixos de Google:
+
+<div class="response-box" style="min-height: 180px;"></div>
 
 <div class="page-break"></div>
 
