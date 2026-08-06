@@ -63,12 +63,4 @@ En aquesta aplicació us convertireu en jutges professionals. Veureu 10 marques 
   <iframe src="/artifex/apps/artifex-jurat-de-disseny/index.html" allowfullscreen></iframe>
 </div>
 
----
 
-## Diari d'aprenentatge: Jurat de disseny
-Obre el Classroom i entra en la tasca del diari d'aprenentatge:
-
-1. Afegeix una nova pàgina **"Jurat de disseny"** on expliquis: 
-   - Creus que la puntuació reflecteix la teva habilitat real? T'ha costat més del que esperaves? 
-   - El joc et donava un "Consell Pro" a cada ronda. Quin és el consell que t'ha semblat més útil i que penses aplicar quan dissenyis el teu propi logotip? 
-   - A partir de les marques que has vist al joc, fes captura de pantalla i afegeix un exemple de marca ben dissenyada i una altra de marca mal dissenyada i explica amb les teves paraules quines característiques tenien cada una.

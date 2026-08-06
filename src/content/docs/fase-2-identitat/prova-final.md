@@ -47,14 +47,6 @@ Fes clic al botó per accedir a Socrative. Com a **nom d'aula**, introdueix:
 Repassa les pàgines anteriors d'aquesta fase si tens dubtes: El Naming, El Logotip, La Paleta de Colors i La Tipografia. Recorda els exemples reals que hem analitzat (Disney, Amazon, Nike, Apple...).
 :::
 
----
 
-## Diari d'aprenentatge: Reflexió post-prova
-
-Un cop acabada la prova, obre el teu Diari d'Aprenentatge i crea una nova pàgina titulada **"Reflexió Fase 2: Identitat"**. Respon a les preguntes següents:
-
-1. **Com t'has sentit?** La prova t'ha resultat fàcil o difícil? Hi havia alguna pregunta que t'ha sorprès especialment?
-2. **Quina part de la Fase 2 t'ha semblat més interessant** i per què? (El naming, el logotip, els colors o la tipografia?)
-3. **Aplicació al teu projecte:** Amb tot el que has après en aquesta fase, com creus que ha canviat la manera com planteges el disseny de la teva marca? Cita un exemple concret.
 
 

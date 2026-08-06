@@ -66,21 +66,11 @@ Els usuaris poden explorar i utilitzar paletes de colors creades per altres diss
 ![Biblioteca de temes de color](/artifex/media/biblioteca_colors.png)
 
 ## 5. Funcionalitats principals d’Adobe Color: Exportar paleta de colors a JPG
-Dintre de totes aquestes funcions sempre podreu exportar la vostra paleta de colors a una imatge per després poder afegir-la al vostre diari d'aprenentatge.
+Dintre de totes aquestes funcions sempre podreu exportar la vostra paleta de colors a una imatge.
 
 ![Exportar paleta de colors a JPG](/artifex/media/exporta_paleta.png)
 
----
 
-## Diari d'aprenentatge: Paleta de colors
-Obre el Classroom i entra en la tasca del diari d'aprenentatge:
-Afegeix una nova pàgina anomenada "Paleta de colors" on:
-1. - En aquesta pàgina has de presentar la identitat visual de la teva marca utilitzant alguna de les funcionalitats comentades de l'Adobe Color. Explica quina has triat i el teu motiu.
-A continuació pots veure un exemple de la meva marca, és important que el teu nom tingui relació amb el teu Moodboard. En el meu cas, el meu Moodboard feia referència a l'etapa quan vaig viure a Bolívia i, per inspirar-me, he fet servir una fotografia d'un tèxtil amb els colors tradicionals de la cultura Quítxua.
-![Exemple de Moodboard amb els colors de Quítxua](/artifex/media/nom_munay.png)
-![Paleta de colors Munay](/artifex/media/paleta_munay.png)
-
----
 
 ## El Repte del Contrast
 En el disseny de joieria, el packaging i el logotip han de ser impactants. Però, què passa si triem colors molt bonics que no es poden llegir? Proveu aquesta aplicació per entendre com funciona la teoria de colors i el contrast i saber per què són tan importants a l'hora de dissenyar una marca.
@@ -109,13 +99,6 @@ En què us heu de fixar?
 
 ![Analitzador de Contrast](/artifex/media/analitzador_contrast.png)
 
----
 
-## Diari d'aprenentatge: El test del contrast de colors
-Obre el Classroom i entra en la tasca del diari d'aprenentatge:
-Afegeix una nova pàgina anomenada "Contrast de colors" on:
-1. - A partir de [l'eina d'anàlisis de contrast](https://color.adobe.com/es/create/color-contrast-analyzer)de l'Adobe color, poseu a prova els colors de la vostra paleta de colors sobre un text en blanc i sobre un text en negre i mireu si passa la normativa WCAG AA. Afegiu captures de finestra i comenteu els resultats obtinguts i si us esperàveu aquest veredicte. A continuació podeu veure com el meu primer color, passa la prova amb un text en blanc, però, en canvi, suspèn la prova quan el text és de color negre.
-
-![Resultats del test de contrast](/artifex/media/test_contrast.png)
 
 

@@ -37,12 +37,4 @@ Exemple: The North Face.
 Per què funciona? Literalment significa "la cara nord" (el costat més fred, difícil i perillós d'una muntanya). La marca no ven només abrics; ven l'emoció de l'aventura, la superació personal i l'exploració extrema. El nom apel·la a l'aspiració del client de sentir-se un explorador valent, fins i tot si només porta la jaqueta per anar per la ciutat.
 ![The North Face](/artifex/media/thenorthface.png)
 
----
 
-## Diari d'aprenentatge: Nom de la marca
-Obre el Classroom i entra en la tasca del diari d'aprenentatge:
-Afegeix una nova pàgina anomenada "Nom de la marca" on:
-1. - Generis un núvol de paraules amb diferents idees de noms per la teva marca. Per fer-ho, fes servir l'eina: [https://www.nubedepalabras.es/](https://www.nubedepalabras.es/) - Seleccionis el nom que vols per la teva marca i justifiquis, el perquè has triat aquest nom.
-A continuació pots veure un exemple de la meva marca, és important que el teu nom tingui relació amb el teu Moodboard. En el meu cas, el meu Moodboard feia referència a l'etapa quan vaig viure a Bolívia i, com a nom, he buscat paraules en l'idioma Quítxua. Finalment, entre totes aquestes paraules he elegit la paraula Munay, que significa "fet amb amor".
-
-![Exemple de Naming Munay](/artifex/media/nom_munay.png)

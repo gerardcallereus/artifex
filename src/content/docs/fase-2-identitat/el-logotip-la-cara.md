@@ -107,27 +107,6 @@ Abans de donar el disseny per bo, fes-te aquesta pregunta o, millor encara, fes 
 - **Si la resposta és SÍ:** Felicitats, tens un logo tot terreny.
 - **Si la resposta és NO** *(perquè tens degradats, lletres massa fines o formes obertes)*: Toca simplificar.
 
----
 
-## Diari d'aprenentatge: Logotip: Font d'inspiració
-Obre el Classroom i entra en la tasca del diari d'aprenentatge:
-
-Afegeix una nova pàgina anomenada **"Logotip: Font d'inspiració"** on facis una recerca de formes, imatges, logotips... que poden ser de font d'inspiració per a la creació del teu logotip i justifiquis el motiu. A continuació pots veure un exemple de la meva marca, on pots veure que m'he inspirat en la geometria dels pobles andins.
-
-![Font d'inspiració](/artifex/media/logotip_fontinspiracio.png)
-
----
-
-## Diari d'aprenentatge: Logotip: Pluja d'idees
-Afegeix una nova pàgina anomenada **"Logotip: Pluja d'idees"** on, a partir de les teves fonts d'inspiració, dibuixis diferents esbossos/idees de tipus Isologotip per a la teva marca. A continuació pots veure un exemple de la meva marca:
-
-![Pluja d'idees](/artifex/media/logotip_pluja_idees.png)
-
----
-
-## Diari d'aprenentatge: Logotip: Esbós Final
-Afegeix una nova pàgina anomenada **"Logotip: Esbós Final"** on, a partir de la teva pluja d'idees, seleccionis el teu logotip i realitzis un dibuix més afinat. A continuació pots veure un exemple del meu esbós final.
-
-![Esbós Final](/artifex/media/logotip_esbos_final.png)
 
 

@@ -65,21 +65,7 @@ Ara pensa en la capsa tancada.
 El packaging ha de connectar amb el teu logo, la paleta de colors i l'estil visual de la marca.
 :::
 
----
 
-## Diari d'aprenentatge: Ideació del packaging
-Crea una nova pàgina al teu diari titulada **"Ideació del Packaging"**.
-
-Què has de fer? Agafa un full en blanc i fes un ESBÓS A MÀ ALÇADA de la teva futura capsa. El dibuix ha d'incloure obligatòriament:
-- **La Forma:** Dibuixa com serà la capsa tancada (fes-ho en perspectiva 3D).
-- **Les Mides:** Escriu al costat del dibuix les mesures que tindrà (Llarg, Ample i Alt).
-- **El Logo:** Dibuixa el teu logotip a la cara de la capsa on vols que vagi.
-- **El Model:** Escriu el nom del model de TemplateMaker que has triat (ex: "Caja Cojín").
-
-Fes una foto al teu full i afegeix-la al Diari d'Aprenentatge, i respon a aquestes preguntes:
-- Per què has triat aquest model concret?
-- Com s'obrirà la teva capsa? És fàcil i ràpid, o és com un petit regal sorpresa?
-- Per què has decidit posar el logo en aquest lloc i amb aquesta mida?
 
 ---
 

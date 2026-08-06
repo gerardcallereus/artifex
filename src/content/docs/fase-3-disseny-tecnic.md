@@ -63,17 +63,4 @@ Dins de TinkerCAD trobareu tres reptes que heu de completar en ordre:
 2. **El Vostre Logotip (Tall Làser):** Dissenyareu la "cara" de la vostra marca. Recordeu: ha de ser una silueta clara, ja que el làser ressegueix línies. Menys és més.
 3. **La Vostra Arracada (Impressió 3D):** Dissenyareu el producte final.
 
----
 
-## Diari d'aprenentatge: Disseny tècnic
-Obre el teu Diari i crea dues pàgines noves amb el contingut següent:
-
-### 1. Disseny Tècnic: Logotip
-En aquesta pàgina has de documentar la creació del teu logotip:
-- Insereix una imatge del teu disseny vist des de dalt (Planta).
-- Quines formes geomètriques bàsiques has fet servir per construir-lo? *(Exemple: "He unit dos cercles i he restat un triangle al mig")*.
-
-### 2. Disseny Tècnic: Arracada
-En aquesta pàgina has de documentar la creació de l'arracada:
-- Insereix una imatge del disseny en 3D (Perspectiva) on es vegin les cotes (mesures) d'alçada i amplada.
-- Quines formes geomètriques bàsiques has fet servir per construir-lo? Per què aquest disseny representa la teva marca? Creus que serà fàcil d'imprimir, o té parts massa fines que es podrien trencar?

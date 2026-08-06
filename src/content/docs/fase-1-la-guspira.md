@@ -39,10 +39,8 @@ Relaxa't i deixa que aquestes preguntes t'ajudin a trobar el teu motiu. No les h
 
 ---
 
-## Diari d'aprenentatge: Trobar el meu "Motiu"
-Afegeix una nova pàgina **"Trobar el meu motiu"** on, a partir de les preguntes anteriors realitzis un Moodboard.
-
-Un Moodboard és un mur d'inspiració que consisteix en un collage d'imatges, materials, textos i altres elements gràfics. El seu objectiu principal és definir i comunicar l'estil, l'atmosfera i la "personalitat" d'un projecte abans de començar a dissenyar-lo realment. A partir de les preguntes anteriors, fes una cerca a Google Images o Pinterest i cerca diferents imatges que representin les vostres respostes i fes un muntatge a la teva presentació.
+## Què és un Moodboard?
+Un Moodboard és un mur d'inspiració que consisteix en un collage d'imatges, materials, textos i altres elements gràfics. El seu objectiu principal és definir i comunicar l'estil, l'atmosfera i la "personalitat" d'un projecte abans de començar a dissenyar-lo realment.
 
 Aquí tens els 5 consells clau per tenir en compte abans de començar a dissenyar:
 - **JERARQUIA - Tria la teva imatge "Reina":** Abans d'enganxar res, escull quina foto serà la protagonista. Fes-la més gran que la resta; serà el centre d'atenció i la que marqui el tema.

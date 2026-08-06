@@ -36,16 +36,4 @@ Pots veure la presentació completa de l'Isa a continuació o descarregar-la fen
 
 <iframe src="/artifex/media/PRESENTACIO_MUCHAJOYA.pdf" style="width: 100%; height: 900px; border: 1px solid rgba(193, 40, 114, 0.2); border-radius: 8px; margin-top: 15px; box-shadow: 0 4px 15px rgba(0,0,0,0.1);"></iframe>
 
----
 
-## Diari d'aprenentatge: MUCHA JOYA
-Ara és el moment de reflexionar sobre el que hem après i com ho pots aplicar al teu propi projecte. Obre el teu Diari d'Aprenentatge, crea una pàgina titulada **"Mucha Joya"** i respon amb detall a les següents preguntes:
-
-1. **Què no sabies?**
-Abans de la xerrada de l'Isa, segurament pensaves que tenir una marca de joies era només asseure's i fabricar arracades. De tot el procés de preparació que ens ha explicat (definir els valors, pensar a qui t'adreces, fer un moodboard d'inspiració...), què és el que no sabies que formava part de la feina d'un dissenyador?
-2. **Què t'ha sorprès?**
-Durant la presentació hem vist molts detalls tècnics i curiositats, des de les mil proves que va fer per trobar el logo fins a la importància que dona a l'embalatge (packaging) on entrega la joia. Quina dada, consell o detall del seu procés t'ha sorprès més i per què?
-3. **Què has après?**
-L'Isa ha insistit molt en el fet que una marca no és només un logotip bonic, sinó que ha de tenir una personalitat, explicar una història (storytelling) i emocionar el client. Amb les teves pròpies paraules, què has après avui sobre què significa realment "crear una marca"?
-4. **Amb què et quedes?**
-Ara és el teu torn de convertir-te en "Artífex". De tota aquesta xerrada d'una professional real, amb quina idea, concepte o "truc" d'experta et quedes per aplicar-ho directament a la creació de la teva pròpia marca de joies?

@@ -50,7 +50,8 @@ export default defineConfig({
         { label: 'FASE 5: Costos i preu', link: '/fase-5-costos-i-preu/' },
         { label: 'FASE 6: Comercialització', link: '/fase-6-comercialitzacio/' },
         { label: 'Tancament del projecte', link: '/tancament-del-projecte/' },
-        { label: 'Dossier de recuperació', link: '/dossier-recuperacio/' }
+        { label: 'Dossier de recuperació', link: '/dossier-recuperacio/' },
+        { label: "Dossier: Diari d'aprenentatge", link: '/diari-d-aprenentatge/' }
       ],
     }),
   ],
