@@ -97,11 +97,11 @@ description: Projecte educatiu de marca personal, disseny gràfic i producció d
 <hr />
 
 <div class="custom-card" style="margin: 2.5rem 0; padding: 2rem; border-left: 6px solid var(--sl-color-accent-high); background: linear-gradient(135deg, rgba(193, 40, 114, 0.08), rgba(193, 40, 114, 0.02)); text-align: center;">
-  <h2 style="margin-top: 0; font-size: 1.8rem; color: var(--sl-color-accent-high);">📝 Dossier del Diari d'Aprenentatge</h2>
+  <h2 style="margin-top: 0; font-size: 1.8rem; color: var(--sl-color-accent-high);">📝 Carpeta d'aprenentatge</h2>
   <p class="text-md" style="margin: 1rem auto 1.5rem auto; max-width: 750px; line-height: 1.6;">
-    Pots consultar, descarregar o imprimir directament el <strong>Dossier de treball en format A4</strong> amb totes les activitats competencials, comprensió lectora, anàlisi de dades, gràfics i espais de reflexió de tot el projecte.
+    Pots consultar, descarregar o imprimir directament la <strong>Carpeta d'aprenentatge en format A4</strong> amb totes les activitats competencials, comprensió lectora, anàlisi de dades, gràfics i espais de reflexió de tot el projecte.
   </p>
-  <a href="/artifex/diari-d-aprenentatge/" style="display: inline-block; padding: 0.9rem 2rem; font-size: 1.1rem; font-weight: 700; color: #ffffff !important; background-color: var(--sl-color-accent-high); border-radius: 8px; text-decoration: none !important; box-shadow: 0 4px 14px rgba(193, 40, 114, 0.4);">
-    📄 Obrir i Imprimir el Dossier (A4)
+  <a href="/artifex/diari-d-aprenentatge/" target="_blank" rel="noopener noreferrer" style="display: inline-block; padding: 0.9rem 2rem; font-size: 1.1rem; font-weight: 700; color: #ffffff !important; background-color: var(--sl-color-accent-high); border-radius: 8px; text-decoration: none !important; box-shadow: 0 4px 14px rgba(193, 40, 114, 0.4);">
+    📄 Obrir la Carpeta d'aprenentatge (A4)
   </a>
 </div>

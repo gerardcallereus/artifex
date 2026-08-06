@@ -51,7 +51,7 @@ export default defineConfig({
         { label: 'FASE 6: Comercialització', link: '/fase-6-comercialitzacio/' },
         { label: 'Tancament del projecte', link: '/tancament-del-projecte/' },
         { label: 'Dossier de recuperació', link: '/dossier-recuperacio/' },
-        { label: "Dossier: Diari d'aprenentatge", link: '/diari-d-aprenentatge/' }
+        { label: "Carpeta d'aprenentatge", link: '/diari-d-aprenentatge/' }
       ],
     }),
   ],

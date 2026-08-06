@@ -1,11 +1,11 @@
 ---
-title: "Dossier del Diari d'Aprenentatge"
-description: Dossier de treball imprimible en format A4 amb totes les activitats competencials, reflexions i exercicis del projecte Artífex.
+title: "Carpeta d'aprenentatge"
+description: Carpeta d'aprenentatge imprimible en format A4 amb totes les activitats competencials, reflexions i exercicis del projecte Artífex.
 ---
 
 <div class="cover-page-container">
   <div style="text-align: center; margin-bottom: 1.5rem;">
-    <h1 style="font-size: 3rem; font-weight: 800; color: var(--sl-color-accent-high); margin-bottom: 0.3rem; border-bottom: none; letter-spacing: 1px;">DIARI D'APRENENTATGE</h1>
+    <h1 style="font-size: 3rem; font-weight: 800; color: var(--sl-color-accent-high); margin-bottom: 0.3rem; border-bottom: none; letter-spacing: 1px;">CARPETA D'APRENENTATGE</h1>
     <p style="font-size: 1.6rem; font-weight: 700; color: var(--sl-color-text-accent); margin: 0.2rem 0;">PROJECTE ARTÍFEX</p>
     <p style="font-size: 1.25rem; font-weight: 600; color: var(--sl-color-text); margin-top: 0.2rem;">PCT 2n d'ESO</p>
   </div>
@@ -102,8 +102,6 @@ A partir de la lectura i l'experimentació amb el *Simulador: Crea la teva marca
 
 <div class="page-break"></div>
 
----
-
 ### Activitat 2: L'odissea de crear una marca amb impacte social (Cas Ecoalf)
 
 <div style="text-align: center; margin: 1.5rem 0;">
@@ -122,6 +120,9 @@ Un cop aconseguit el fil, va arribar la complexitat de la **PRODUCCIÓ**. La maj
 
 #### ANÀLISI DE DADES I GRÀFIQUES
 
+> **📖 Què veureu en aquestes dades de costos?**  
+> La Taula 1 desglossa l'estructura econòmica comparativa per fabricar una unitat de jaqueta tradicional (polièster verge derivat del petroli) versus la jaqueta sostenible d'Ecoalf (plàstic PET reciclat de l'oceà). Observeu com, tot i que el plàstic recollit del mar és més barat com a matèria primera (2,50 € vs 4,00 €), els costos associats a la recerca tecnològica (18,00 €) i a l'adaptació de les fàbriques (22,00 €) fan que el cost total de fabricació d'Ecoalf sigui de 56,50 € (gairebé el doble que els 30,00 € de la peça tradicional).
+
 **Taula 1: Comparativa de l'estructura de costos de producció (per unitat)**
 
 | Concepte de Cost | Jaqueta Tradicional (Polièster verge) | Jaqueta Ecoalf (Plàstic reciclat) |
@@ -134,6 +135,9 @@ Un cop aconseguit el fil, va arribar la complexitat de la **PRODUCCIÓ**. La maj
 | **COST TOTAL FABRICACIÓ** | **30,00 €** | **56,50 €** |
 
 <br />
+
+> **📖 Què veureu en aquest gràfic de temps acumulat?**  
+> El Gràfic 1 mostra l'acumulació progressiva del temps en mesos (eix vertical Y) al llarg de la seqüència de fases del projecte (eix horitzontal X). La **línia blava discontínua** indica el temps acumulat que l'empresa tenia previst en el seu pla inicial (2m ➔ 8m ➔ 11m), mentre que la **línia vermella contínua** mostra la realitat del projecte (2m ➔ 26m ➔ 34m). Podreu observar clarament la gran desviació que es produeix a la Fase 3 (Disseny Tècnic), on la investigació per aconseguir fil de polièster reciclat de qualitat va generar un retard acumulat de +18 mesos que va moure el llançament final del mes 11 al mes 34.
 
 <div class="custom-card" style="margin: 1.5rem 0; padding: 1.5rem; border-left: 5px solid var(--sl-color-accent-high); background: #fafafa; border-radius: 10px; box-shadow: 0 4px 12px rgba(0,0,0,0.05);">
   <h4 style="margin-top: 0; color: var(--sl-color-accent-high); font-size: 1.15rem; text-align: center;">📊 Gràfic 1: Previsió Temporal vs. Realitat (Temps Acumulat en l'Eix Vertical Y)</h4>
@@ -150,74 +154,55 @@ Un cop aconseguit el fil, va arribar la complexitat de la **PRODUCCIÓ**. La maj
     </div>
   </div>
 
-  <svg viewBox="0 0 600 320" style="width: 100%; height: auto; font-family: system-ui, sans-serif; background: #ffffff; border: 1px solid #e5e7eb; border-radius: 8px;">
-    <!-- Grid Lines (Y axis: 0, 5, 10, 15, 20, 25, 30, 35 mesos) -->
-    <line x1="60" y1="260" x2="570" y2="260" stroke="#e5e7eb" stroke-width="1" />
-    <text x="50" y="264" font-size="11" text-anchor="end" fill="#6b7280">0m</text>
-
-    <line x1="60" y1="225" x2="570" y2="225" stroke="#f3f4f6" stroke-width="1" stroke-dasharray="4,4" />
-    <text x="50" y="229" font-size="11" text-anchor="end" fill="#6b7280">5m</text>
-
-    <line x1="60" y1="190" x2="570" y2="190" stroke="#f3f4f6" stroke-width="1" stroke-dasharray="4,4" />
-    <text x="50" y="194" font-size="11" text-anchor="end" fill="#6b7280">10m</text>
-
-    <line x1="60" y1="155" x2="570" y2="155" stroke="#f3f4f6" stroke-width="1" stroke-dasharray="4,4" />
-    <text x="50" y="159" font-size="11" text-anchor="end" fill="#6b7280">15m</text>
-
-    <line x1="60" y1="120" x2="570" y2="120" stroke="#f3f4f6" stroke-width="1" stroke-dasharray="4,4" />
-    <text x="50" y="124" font-size="11" text-anchor="end" fill="#6b7280">20m</text>
-
-    <line x1="60" y1="85" x2="570" y2="85" stroke="#f3f4f6" stroke-width="1" stroke-dasharray="4,4" />
-    <text x="50" y="89" font-size="11" text-anchor="end" fill="#6b7280">25m</text>
-
-    <line x1="60" y1="50" x2="570" y2="50" stroke="#f3f4f6" stroke-width="1" stroke-dasharray="4,4" />
-    <text x="50" y="54" font-size="11" text-anchor="end" fill="#6b7280">30m</text>
-
-    <line x1="60" y1="20" x2="570" y2="20" stroke="#f3f4f6" stroke-width="1" stroke-dasharray="4,4" />
-    <text x="50" y="24" font-size="11" text-anchor="end" fill="#6b7280">35m</text>
-
-    <!-- Axes -->
-    <line x1="60" y1="20" x2="60" y2="260" stroke="#374151" stroke-width="2" />
-    <line x1="60" y1="260" x2="570" y2="260" stroke="#374151" stroke-width="2" />
-
-    <!-- X Axis Labels -->
-    <text x="60" y="280" font-size="10" text-anchor="middle" font-weight="bold" fill="#374151">Inici (M0)</text>
-    <text x="180" y="280" font-size="10" text-anchor="middle" font-weight="bold" fill="#374151">F1+F2: Idea/Marca</text>
-    <text x="310" y="280" font-size="10" text-anchor="middle" font-weight="bold" fill="#374151">F3: Disseny Tècnic</text>
-    <text x="440" y="280" font-size="10" text-anchor="middle" font-weight="bold" fill="#374151">F4: Producció</text>
-    <text x="550" y="280" font-size="10" text-anchor="middle" font-weight="bold" fill="#374151">F6: Comercialització</text>
-
-    <!-- PLANNED LINE (Blue) -->
-    <polyline points="60,260 180,246 310,204 440,183 550,183" fill="none" stroke="#2563eb" stroke-width="3" stroke-dasharray="6,4" />
-    <circle cx="60" cy="260" r="5" fill="#2563eb" />
-    <circle cx="180" cy="246" r="5" fill="#2563eb" />
-    <text x="180" y="240" font-size="10" font-weight="bold" text-anchor="middle" fill="#1e40af">2m</text>
-
-    <circle cx="310" cy="204" r="5" fill="#2563eb" />
-    <text x="310" y="198" font-size="10" font-weight="bold" text-anchor="middle" fill="#1e40af">8m</text>
-
-    <circle cx="440" cy="183" r="5" fill="#2563eb" />
-    <text x="440" y="177" font-size="10" font-weight="bold" text-anchor="middle" fill="#1e40af">11m</text>
-
-    <circle cx="550" cy="183" r="5" fill="#2563eb" />
-    <text x="550" y="177" font-size="10" font-weight="bold" text-anchor="middle" fill="#1e40af">11m (Final)</text>
-
-    <!-- REALITY LINE (Red) -->
-    <polyline points="60,260 180,246 310,78 440,22 550,22" fill="none" stroke="#dc2626" stroke-width="3.5" />
-    <circle cx="60" cy="260" r="5" fill="#dc2626" />
-    <circle cx="180" cy="246" r="5" fill="#dc2626" />
-
-    <circle cx="310" cy="78" r="6" fill="#dc2626" />
-    <text x="310" y="70" font-size="10" font-weight="bold" text-anchor="middle" fill="#991b1b">26m (+18m)</text>
-
-    <circle cx="440" cy="22" r="6" fill="#dc2626" />
-    <text x="440" y="14" font-size="10" font-weight="bold" text-anchor="middle" fill="#991b1b">34m (+23m)</text>
-
-    <circle cx="550" cy="22" r="6" fill="#dc2626" />
-    <text x="550" y="14" font-size="10" font-weight="bold" text-anchor="middle" fill="#991b1b">34m (Llançament Real)</text>
-
-    <!-- Divergence Marker -->
-    <line x1="310" y1="204" x2="310" y2="84" stroke="#dc2626" stroke-width="1.5" stroke-dasharray="3,3" />
+  <div style="width: 100%; overflow-x: auto; background: #ffffff; border: 1px solid #e5e7eb; border-radius: 8px; padding: 10px 0;">
+    <svg viewBox="0 0 600 320" style="width: 100%; height: auto; display: block; font-family: system-ui, sans-serif;">
+      <line x1="60" y1="260" x2="570" y2="260" stroke="#e5e7eb" stroke-width="1" />
+      <text x="50" y="264" font-size="11" text-anchor="end" fill="#6b7280">0m</text>
+      <line x1="60" y1="225" x2="570" y2="225" stroke="#f3f4f6" stroke-width="1" stroke-dasharray="4,4" />
+      <text x="50" y="229" font-size="11" text-anchor="end" fill="#6b7280">5m</text>
+      <line x1="60" y1="190" x2="570" y2="190" stroke="#f3f4f6" stroke-width="1" stroke-dasharray="4,4" />
+      <text x="50" y="194" font-size="11" text-anchor="end" fill="#6b7280">10m</text>
+      <line x1="60" y1="155" x2="570" y2="155" stroke="#f3f4f6" stroke-width="1" stroke-dasharray="4,4" />
+      <text x="50" y="159" font-size="11" text-anchor="end" fill="#6b7280">15m</text>
+      <line x1="60" y1="120" x2="570" y2="120" stroke="#f3f4f6" stroke-width="1" stroke-dasharray="4,4" />
+      <text x="50" y="124" font-size="11" text-anchor="end" fill="#6b7280">20m</text>
+      <line x1="60" y1="85" x2="570" y2="85" stroke="#f3f4f6" stroke-width="1" stroke-dasharray="4,4" />
+      <text x="50" y="89" font-size="11" text-anchor="end" fill="#6b7280">25m</text>
+      <line x1="60" y1="50" x2="570" y2="50" stroke="#f3f4f6" stroke-width="1" stroke-dasharray="4,4" />
+      <text x="50" y="54" font-size="11" text-anchor="end" fill="#6b7280">30m</text>
+      <line x1="60" y1="20" x2="570" y2="20" stroke="#f3f4f6" stroke-width="1" stroke-dasharray="4,4" />
+      <text x="50" y="24" font-size="11" text-anchor="end" fill="#6b7280">35m</text>
+      <line x1="60" y1="20" x2="60" y2="260" stroke="#374151" stroke-width="2" />
+      <line x1="60" y1="260" x2="570" y2="260" stroke="#374151" stroke-width="2" />
+      <text x="60" y="280" font-size="10" text-anchor="middle" font-weight="bold" fill="#374151">Inici (M0)</text>
+      <text x="180" y="280" font-size="10" text-anchor="middle" font-weight="bold" fill="#374151">F1+F2: Idea/Marca</text>
+      <text x="310" y="280" font-size="10" text-anchor="middle" font-weight="bold" fill="#374151">F3: Disseny Tècnic</text>
+      <text x="440" y="280" font-size="10" text-anchor="middle" font-weight="bold" fill="#374151">F4: Producció</text>
+      <text x="550" y="280" font-size="10" text-anchor="middle" font-weight="bold" fill="#374151">F6: Comercialització</text>
+      <polyline points="60,260 180,246 310,204 440,183 550,183" fill="none" stroke="#2563eb" stroke-width="3" stroke-dasharray="6,4" />
+      <circle cx="60" cy="260" r="5" fill="#2563eb" />
+      <circle cx="180" cy="246" r="5" fill="#2563eb" />
+      <text x="180" y="240" font-size="10" font-weight="bold" text-anchor="middle" fill="#1e40af">2m</text>
+      <circle cx="310" cy="204" r="5" fill="#2563eb" />
+      <text x="310" y="198" font-size="10" font-weight="bold" text-anchor="middle" fill="#1e40af">8m</text>
+      <circle cx="440" cy="183" r="5" fill="#2563eb" />
+      <text x="440" y="177" font-size="10" font-weight="bold" text-anchor="middle" fill="#1e40af">11m</text>
+      <circle cx="550" cy="183" r="5" fill="#2563eb" />
+      <text x="550" y="177" font-size="10" font-weight="bold" text-anchor="middle" fill="#1e40af">11m (Final)</text>
+      <polyline points="60,260 180,246 310,78 440,22 550,22" fill="none" stroke="#dc2626" stroke-width="3.5" />
+      <circle cx="60" cy="260" r="5" fill="#dc2626" />
+      <circle cx="180" cy="246" r="5" fill="#dc2626" />
+      <circle cx="310" cy="78" r="6" fill="#dc2626" />
+      <text x="310" y="70" font-size="10" font-weight="bold" text-anchor="middle" fill="#991b1b">26m (+18m)</text>
+      <circle cx="440" cy="22" r="6" fill="#dc2626" />
+      <text x="440" y="14" font-size="10" font-weight="bold" text-anchor="middle" fill="#991b1b">34m (+23m)</text>
+      <circle cx="550" cy="22" r="6" fill="#dc2626" />
+      <text x="550" y="14" font-size="10" font-weight="bold" text-anchor="middle" fill="#991b1b">34m (Llançament Real)</text>
+      <line x1="310" y1="204" x2="310" y2="84" stroke="#dc2626" stroke-width="1.5" stroke-dasharray="3,3" />
+      <text x="320" y="140" font-size="10" font-weight="bold" fill="#dc2626">⚠️ Desviació Tècnica (I+D Fil)</text>
+    </svg>
+  </div>
+</div>troke="#dc2626" stroke-width="1.5" stroke-dasharray="3,3" />
     <text x="320" y="140" font-size="10" font-weight="bold" fill="#dc2626">⚠️ Desviació Tècnica (I+D Fil)</text>
   </svg>
 </div>

@@ -1163,3 +1163,63 @@ starlight-theme-select {
   border: 1px solid rgba(193, 40, 114, 0.3);
   margin-bottom: 0.5rem;
 }
+
+/* Screen view as realistic A4 paper sheets for Carpeta d'aprenentatge */
+@media screen {
+  body:has(.cover-page-container) nav.sidebar,
+  body:has(.cover-page-container) .sidebar-pane,
+  body:has(.cover-page-container) .right-sidebar {
+    display: none !important;
+  }
+
+  body:has(.cover-page-container) .main-frame {
+    padding-left: 0 !important;
+    max-width: 100% !important;
+  }
+
+  body:has(.cover-page-container) .main-pane {
+    max-width: 220mm !important;
+    margin: 0 auto !important;
+    background-color: #f3f4f6 !important;
+    padding: 1.5rem 0 !important;
+  }
+
+  body:has(.cover-page-container) .content-panel {
+    padding: 0 !important;
+  }
+
+  body:has(.cover-page-container) .sl-markdown-content {
+    background-color: #f3f4f6 !important;
+  }
+
+  body:has(.cover-page-container) .cover-page-container {
+    background: #ffffff !important;
+    width: 210mm !important;
+    min-height: 285mm !important;
+    margin: 1rem auto 2rem auto !important;
+    padding: 20mm !important;
+    box-shadow: 0 8px 30px rgba(0, 0, 0, 0.12) !important;
+    border-radius: 4px !important;
+    box-sizing: border-box !important;
+  }
+
+  body:has(.cover-page-container) .page-break {
+    display: flex !important;
+    align-items: center !important;
+    justify-content: center !important;
+    margin: 2rem 0 !important;
+    height: 36px !important;
+    border-top: 2px dashed #9ca3af !important;
+    border-bottom: 2px dashed #9ca3af !important;
+    background: #e5e7eb !important;
+    color: #4b5563 !important;
+    font-size: 0.85rem !important;
+    font-weight: 700 !important;
+    letter-spacing: 1px !important;
+    text-transform: uppercase !important;
+  }
+
+  body:has(.cover-page-container) .page-break::after {
+    content: "📄 Salt de Pàgina A4 (Format d'impressió)";
+  }
+}
