@@ -5,27 +5,25 @@ description: Dossier de treball imprimible en format A4 amb totes les activitats
 
 <div class="cover-page-container">
   <div style="text-align: center; margin-bottom: 1.5rem;">
-    <h1 style="font-size: 2.6rem; font-weight: 800; color: var(--sl-color-accent-high); margin-bottom: 0.25rem; border-bottom: none;">DOSSIER DEL DIARI D'APRENENTATGE</h1>
-    <p style="font-size: 1.3rem; font-weight: 600; color: var(--sl-color-text-accent); margin-top: 0;">PROJECTE ARTÍFEX — DISSENY I PRODUCCIÓ DE JOIERIA</p>
+    <h1 style="font-size: 3rem; font-weight: 800; color: var(--sl-color-accent-high); margin-bottom: 0.3rem; border-bottom: none; letter-spacing: 1px;">DIARI D'APRENENTATGE</h1>
+    <p style="font-size: 1.6rem; font-weight: 700; color: var(--sl-color-text-accent); margin: 0.2rem 0;">PROJECTE ARTÍFEX</p>
+    <p style="font-size: 1.25rem; font-weight: 600; color: var(--sl-color-text); margin-top: 0.2rem;">PCT 2n d'ESO</p>
   </div>
 
-
-
-  <div style="text-align: center; margin-bottom: 1.5rem;">
-    <img src="/artifex/media/AnnaPuig.png" alt="Anna Puig treballant al seu estudi de Tàrrega" style="width: 55%; max-height: 220px; object-fit: cover; border-radius: 12px; box-shadow: 0 8px 25px rgba(0,0,0,0.15); margin: 0 auto; display: block;" />
-    <em style="display: block; font-size: 0.85rem; color: #666; margin-top: 0.4rem;">Anna Puig treballant al seu estudi de Tàrrega</em>
+  <div style="text-align: center; margin: 1.5rem 0;">
+    <img src="/artifex/media/AnnaPuig.png" alt="Anna Puig treballant al seu estudi de Tàrrega" style="width: 85%; max-height: 380px; object-fit: cover; border-radius: 16px; box-shadow: 0 10px 30px rgba(0,0,0,0.18); margin: 0 auto; display: block;" />
+    <em style="display: block; font-size: 0.9rem; color: #666; margin-top: 0.5rem;">Anna Puig treballant al seu estudi de Tàrrega</em>
   </div>
 
-  <div class="custom-card index-block" style="margin-bottom: 1.5rem; border-left: 4px solid var(--sl-color-accent-high); padding: 1.25rem;">
-    <h3 style="margin-top: 0; font-size: 1.15rem; color: var(--sl-color-accent-high);">Identificació de l'Alumne / Alumna</h3>
-    <table style="width: 100%; border-collapse: collapse; margin-top: 0.5rem;">
-      <tr>
-        <td style="width: 30%; font-weight: bold; padding: 0.6rem; font-size: 1.05rem;">Nom i Cognoms:</td>
-        <td style="border-bottom: 1.5px dashed #666; padding: 0.6rem;"></td>
+  <div class="custom-card index-block" style="margin-top: 2rem; margin-bottom: 1.5rem; border-left: 6px solid var(--sl-color-accent-high); padding: 1.5rem; background: linear-gradient(135deg, rgba(193, 40, 114, 0.05), rgba(193, 40, 114, 0.01)); border-radius: 12px; box-shadow: 0 4px 15px rgba(0,0,0,0.05);">
+    <table style="width: 100%; border-collapse: collapse; margin: 0;">
+      <tr style="height: 48px;">
+        <td style="width: 25%; font-weight: 700; padding: 0.75rem 0.5rem; font-size: 1.15rem; color: var(--sl-color-accent-high);">Nom i Cognoms:</td>
+        <td style="border-bottom: 2px solid rgba(193, 40, 114, 0.4); padding: 0.75rem 0.5rem;"></td>
       </tr>
-      <tr>
-        <td style="font-weight: bold; padding: 0.6rem; font-size: 1.05rem;">Curs i Grup:</td>
-        <td style="border-bottom: 1.5px dashed #666; padding: 0.6rem;"></td>
+      <tr style="height: 48px;">
+        <td style="font-weight: 700; padding: 0.75rem 0.5rem; font-size: 1.15rem; color: var(--sl-color-accent-high);">Curs i Grup:</td>
+        <td style="border-bottom: 2px solid rgba(193, 40, 114, 0.4); padding: 0.75rem 0.5rem;"></td>
       </tr>
     </table>
   </div>
