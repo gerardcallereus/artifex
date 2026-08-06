@@ -1080,9 +1080,9 @@ starlight-theme-select {
     text-decoration: underline !important;
   }
 
-  /* Scale down images for print layout (avoid oversized logos) */
+  /* Scale down content images for print layout */
   .sl-markdown-content img {
-    max-height: 120px !important;
+    max-height: 140px !important;
     width: auto !important;
     margin: 0.5rem auto !important;
     display: block !important;
@@ -1098,41 +1098,32 @@ starlight-theme-select {
     max-height: 320px !important;
   }
 
-  /* Spacing for image captions on print */
-  .sl-markdown-content img + em,
-  .sl-markdown-content p > em:only-child {
-    margin-top: 0.4rem !important;
-    margin-bottom: 1rem !important;
+  /* Ensure cover page image is large on print */
+  .cover-page-container img,
+  .sl-markdown-content img[src*="AnnaPuig"] {
+    max-height: 360px !important;
+    width: 85% !important;
+    margin: 1rem auto !important;
   }
 
-  /* Allow breaking inside the news box to prevent forced page split before the text */
-  .news-box {
-    page-break-inside: auto !important;
-    break-inside: auto !important;
-  }
-
-  .page-break {
-    page-break-after: always !important;
-    break-after: page !important;
-  }
-
-  .response-lines {
-    background: repeating-linear-gradient(transparent, transparent 27px, #999999 28px) !important;
-  }
-
-  .response-box {
-    border: 1px solid #666666 !important;
+  /* Force identical background for both rows in identification table */
+  .index-block tr,
+  .index-block tbody tr:nth-child(odd),
+  .index-block tbody tr:nth-child(even),
+  .index-block td {
     background: #ffffff !important;
-    box-shadow: none !important;
-    page-break-inside: avoid !important;
-    break-inside: avoid !important;
+    border-right: none !important;
   }
 
-  .competency-badge {
-    border: 1px solid #333333 !important;
-    color: #000000 !important;
-    background: #f0f0f0 !important;
+  /* Remove hr lines on print */
+  .sl-markdown-content hr {
+    display: none !important;
   }
+}
+
+/* Remove hr lines on screen view */
+.sl-markdown-content hr {
+  display: none !important;
 }
 
 /* Page break, response box and badge utilities for screen view */

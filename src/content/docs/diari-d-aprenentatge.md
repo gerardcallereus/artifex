@@ -15,15 +15,15 @@ description: Dossier de treball imprimible en format A4 amb totes les activitats
     <em style="display: block; font-size: 0.9rem; color: #666; margin-top: 0.5rem;">Anna Puig treballant al seu estudi de Tàrrega</em>
   </div>
 
-  <div class="custom-card index-block" style="margin-top: 2rem; margin-bottom: 1.5rem; border-left: 6px solid var(--sl-color-accent-high); padding: 1.5rem; background: linear-gradient(135deg, rgba(193, 40, 114, 0.05), rgba(193, 40, 114, 0.01)); border-radius: 12px; box-shadow: 0 4px 15px rgba(0,0,0,0.05);">
-    <table style="width: 100%; border-collapse: collapse; margin: 0;">
-      <tr style="height: 48px;">
-        <td style="width: 25%; font-weight: 700; padding: 0.75rem 0.5rem; font-size: 1.15rem; color: var(--sl-color-accent-high);">Nom i Cognoms:</td>
-        <td style="border-bottom: 2px solid rgba(193, 40, 114, 0.4); padding: 0.75rem 0.5rem;"></td>
+  <div class="custom-card index-block" style="margin-top: 2rem; margin-bottom: 1.5rem; border-left: 6px solid var(--sl-color-accent-high); padding: 1.5rem; background: rgba(193, 40, 114, 0.03); border-radius: 12px; box-shadow: 0 4px 15px rgba(0,0,0,0.05);">
+    <table style="width: 100%; border-collapse: collapse; margin: 0; background: transparent;">
+      <tr style="height: 48px; background: transparent;">
+        <td style="width: 28%; font-weight: 700; padding: 0.75rem 0.5rem; font-size: 1.15rem; color: var(--sl-color-accent-high); background: transparent; border: none;">Nom i Cognoms:</td>
+        <td style="border: none; border-bottom: 2px solid rgba(193, 40, 114, 0.4); padding: 0.75rem 0.5rem; background: transparent;"></td>
       </tr>
-      <tr style="height: 48px;">
-        <td style="font-weight: 700; padding: 0.75rem 0.5rem; font-size: 1.15rem; color: var(--sl-color-accent-high);">Curs i Grup:</td>
-        <td style="border-bottom: 2px solid rgba(193, 40, 114, 0.4); padding: 0.75rem 0.5rem;"></td>
+      <tr style="height: 48px; background: transparent;">
+        <td style="font-weight: 700; padding: 0.75rem 0.5rem; font-size: 1.15rem; color: var(--sl-color-accent-high); background: transparent; border: none;">Curs i Grup:</td>
+        <td style="border: none; border-bottom: 2px solid rgba(193, 40, 114, 0.4); padding: 0.75rem 0.5rem; background: transparent;"></td>
       </tr>
     </table>
   </div>
