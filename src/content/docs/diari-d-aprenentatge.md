@@ -9,10 +9,7 @@ description: Dossier de treball imprimible en format A4 amb totes les activitats
     <p style="font-size: 1.3rem; font-weight: 600; color: var(--sl-color-text-accent); margin-top: 0;">PROJECTE ARTÍFEX — DISSENY I PRODUCCIÓ DE JOIERIA</p>
   </div>
 
-  <div style="text-align: center; margin-bottom: 1.5rem;">
-    <img src="/artifex/media/AnnaPuig.png" alt="Anna Puig treballant al seu estudi de Tàrrega" style="width: 55%; max-height: 220px; object-fit: cover; border-radius: 12px; box-shadow: 0 8px 25px rgba(0,0,0,0.15); margin: 0 auto; display: block;" />
-    <em style="display: block; font-size: 0.85rem; color: #666; margin-top: 0.4rem;">Anna Puig treballant al seu estudi de Tàrrega</em>
-  </div>
+
 
   <div class="custom-card index-block" style="margin-bottom: 1.5rem; border-left: 4px solid var(--sl-color-accent-high); padding: 1.25rem;">
     <h3 style="margin-top: 0; font-size: 1.15rem; color: var(--sl-color-accent-high);">Identificació de l'Alumne / Alumna</h3>
@@ -282,7 +279,6 @@ Emplena les fitxes de l'informe tècnic de taller per a cadascun dels 6 passos d
 ## 9.1 Interpretació de la Gràfica del Punt d'Equilibri ($PE$)
 Observa el gràfic de l'estudi financer de la Cooperativa Artífex:
 
-![Gràfica de Punt d'Equilibri Financer](/artifex/media/grafica_financer.png)
 
 1. **Lectura de la línia de Costos Totals (Línia Vermella):** Per què la línia de costos comença en un valor superior a zero en l'eix vertical ($Y$)? Què representen els costos fixos inicials?
 <div class="response-box" style="min-height: 90px;"></div>
