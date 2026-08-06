@@ -47,6 +47,12 @@ Fes clic al botó per accedir a Socrative. Com a **nom d'aula**, introdueix:
 Repassa les pàgines anteriors d'aquesta fase si tens dubtes: El Naming, El Logotip, La Paleta de Colors i La Tipografia. Recorda els exemples reals que hem analitzat (Disney, Amazon, Nike, Apple...).
 :::
 
+<div class="custom-card" style="margin: 2rem 0; padding: 1.25rem; border-left: 5px solid var(--sl-color-accent-high); background: rgba(193, 40, 114, 0.04); text-align: center;">
+  <p class="text-md" style="margin: 0; font-weight: 700; color: var(--sl-color-accent-high);">
+    ✏️ Un cop hagis acabat la FASE 2, realitza les activitats del <strong>BLOC 6: FASE 2 - IDENTITAT</strong> a la teva <strong>Carpeta d'aprenentatge</strong>.
+  </p>
+</div>
+
 
 
 

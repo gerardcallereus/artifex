@@ -10,17 +10,19 @@ description: Aprén més sobre aquest tema del projecte Artífex.
   <ul>
     <li><strong>Inspiració personal:</strong> Identificar records, orígens o passions pròpies com a font d'inspiració per a la col·lecció.</li>
     <li><strong>Creació de Moodboard:</strong> Dissenyar un tauler d'inspiració gràfica aplicant criteris clau de jerarquia, harmonia, aire i equilibri.</li>
-    <li><strong>Síntesi conceptual:</strong> Traduir idees intangibles i relats personals en una identitat visual coherent.</li>
   </ul>
 </div>
 
-:::note[Fase d'inspiració]
-En aquesta fase busquem la teva guspira: aquella emoció, record o sensació que connecta el teu projecte amb la teva història personal.
-:::
-
-Tota gran empresa comença amb una idea invisible: Benvinguts a la Fase 1: La Guspira.
-
-![La guspira d'inspiració](/artifex/media/guspira.png)
+<div class="custom-grid-2" style="align-items: center; margin-top: 1.5rem;">
+  <div>
+    <p class="text-md" style="font-size: 1.05rem; line-height: 1.8;">
+      Tota gran empresa i marca professional comença sempre amb una idea invisible: benvinguts a la <strong>Fase 1: La Guspira</strong>. En aquesta etapa inicial d'inspiració, l'objectiu principal és trobar la teva guspira creativa, aquella emoció, record, textura o sensació profunda que connecta de manera única el teu projecte de joieria amb la teva pròpia història personal, transformant idees intangibles en el punt de partida autèntic de la teva col·lecció.
+    </p>
+  </div>
+  <div>
+    <img src="/artifex/media/guspira.png" alt="La guspira d'inspiració" style="width: 100%; border-radius: 12px; box-shadow: 0 8px 30px rgba(0,0,0,0.15); margin: 0;" />
+  </div>
+</div>
 
 ---
 
@@ -31,7 +33,7 @@ Per crear la teva col·lecció de joies, primer necessites una "Guspira": una em
 Relaxa't i deixa que aquestes preguntes t'ajudin a trobar el teu motiu. No les has de respondre totes, només busca aquella que et faci sentir una espurna especial:
 
 - **Orígens:** Si tanques els ulls i penses en el país o el poble d'on ve la teva família, quins colors veus? És el taronja de la terra? El blau intens del mar? El verd de la muntanya o el gris dels carrers de la ciutat?
-- **Records:** Pensa en les millors vacances de la teva vida, aquell moment exacte on et vas sentir totalment lliure i feliç. Quina llum feia? Quina sensació vols guardar d'aquell dia per sempre?
+- **Records:** Pensa en les millors vacances de la teva vida, aquell moment exacte on et vas sentir totalment lliure i feliç. Quina llum feia? Quina sensació vols guardar d'aquell day per sempre?
 - **Significat:** Si la teva joia no fos un simple adorn, sinó un amulet o un talismà màgic, quin poder donaria a la persona que el porta? Li donaria calma i pau? Li donaria energia i foc? Li donaria protecció?
 - **Natura:** Quan camines per la natura o per la platja, quin és aquell "petit tresor" que sempre acabes collint del terra i guardant a la butxaca? Una pedra llisa? Una petxina trencada? Un tros de vidre de mar? Una pinya?
 - **Personalitat:** Si haguessis d'explicar qui ets sense fer servir paraules, només amb una forma i un color, com series? Ets caos, taques i colors elèctrics? O ets ordre, geometria i colors suaus?
@@ -56,3 +58,9 @@ A continuació tens diversos exemples de Moodboard. Justament el que pots veure 
 
 ![Exemple de Moodboard 1](/artifex/media/moodboard_example1.png)
 ![Exemple de Moodboard 3](/artifex/media/moodboard_example3.png)
+
+<div class="custom-card" style="margin: 2rem 0; padding: 1.25rem; border-left: 5px solid var(--sl-color-accent-high); background: rgba(193, 40, 114, 0.04); text-align: center;">
+  <p class="text-md" style="margin: 0; font-weight: 700; color: var(--sl-color-accent-high);">
+    ✏️ Un cop hagis explorat aquesta pàgina d'introducció, completa el <strong>BLOC 5: FASE 1 - LA GUSPIRA</strong> a la teva <strong>Carpeta d'aprenentatge</strong>.
+  </p>
+</div>

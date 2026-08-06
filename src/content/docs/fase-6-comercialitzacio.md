@@ -75,3 +75,9 @@ El packaging ha de connectar amb el teu logo, la paleta de colors i l'estil visu
 3. **Configuració del fitxer:** Selecciona **PDF**.
 4. **Descarrega:** Baixa el fitxer al teu ordinador.
 5. **Entrega al Classroom:** Busca la tasca anomenada "Entrega del packaging (PDF)" i puja el fitxer que acabes de descarregar.
+
+<div class="custom-card" style="margin: 2rem 0; padding: 1.25rem; border-left: 5px solid var(--sl-color-accent-high); background: rgba(193, 40, 114, 0.04); text-align: center;">
+  <p class="text-md" style="margin: 0; font-weight: 700; color: var(--sl-color-accent-high);">
+    ✏️ Un cop hagis explorat la FASE 6, realitza les activitats del <strong>BLOC 10: FASE 6 - COMERCIALITZACIÓ</strong> a la teva <strong>Carpeta d'aprenentatge</strong>.
+  </p>
+</div>

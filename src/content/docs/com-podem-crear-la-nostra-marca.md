@@ -45,6 +45,8 @@ En la següent activitat trobareu les sis Fases de Creació d'una marca totalmen
   <iframe src="/artifex/apps/artifex-crea-la-teva-marca/index.html" allowfullscreen></iframe>
 </div>
 
-:::tip[Pensa com un estrateg]
-El teu objectiu és identificar l'ordre del procés: idea, disseny, producció, preu, packaging i venda.
-:::
+<div class="custom-card" style="margin: 2rem 0; padding: 1.25rem; border-left: 5px solid var(--sl-color-accent-high); background: rgba(193, 40, 114, 0.04); text-align: center;">
+  <p class="text-md" style="margin: 0; font-weight: 700; color: var(--sl-color-accent-high);">
+    ✏️ Un cop hagis acabat d'ordenar les fases a l'activitat interactiva, realitza les activitats del <strong>BLOC 2: COM CREEM LA NOSTRA MARCA?</strong> a la teva <strong>Carpeta d'aprenentatge</strong>.
+  </p>
+</div>

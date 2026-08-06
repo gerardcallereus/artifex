@@ -61,8 +61,8 @@ description: Projecte educatiu de marca personal, disseny gràfic i producció d
     <p class="text-md" style="margin-bottom: 0;">Entendrem el dibuix tècnic com un llenguatge universal, aplicant correctament projeccions, acotacions, mesures i escales per definir el nostre producte abans de fabricar-lo.</p>
   </div>
   <div class="custom-card">
-    <h3 class="custom-card-title">4. Cooperativa i Viabilitat</h3>
-    <p class="text-md" style="margin-bottom: 0;">Impulsarem una cooperativa escolar gestionant tot el seu cicle de vida: des de la idea inicial i el packaging fins a la viabilitat econòmica i la comercialització, prenent decisions democràtiques.</p>
+    <h3 class="custom-card-title">4. Món Empresarial i Emprenedoria</h3>
+    <p class="text-md" style="margin-bottom: 0;">Entendrem com funciona el món de l'empresa i la creació de valor, analitzant les seves diferents fases i la viabilitat econòmica. Explorarem el model de cooperativa i desenvoluparem les habilitats emprenedores clau (iniciativa, treball en equip, responsabilitat i presa de decisions).</p>
   </div>
   <div class="custom-card">
     <h3 class="custom-card-title">5. Pensament Creatiu i Millora</h3>
@@ -74,10 +74,10 @@ description: Projecte educatiu de marca personal, disseny gràfic i producció d
 
 <h2>Què avaluarem en aquest projecte?</h2>
 
-<div class="custom-grid-3">
+<div class="custom-grid-5">
   <div class="custom-card">
     <h3 class="custom-card-title">1. Carpeta d'aprenentatge</h3>
-    <p class="text-md">És el recull organitzat de tot el teu treball individual. Avaluarem que estigui complet, endreçat i presentat de forma clara (amb portada i índex). També tindrem en compte la teva reflexió constant sobre el teu aprenentatge: "Què he après?", "Com ho he superat?", "Quines dificultats he tingut?", tot seguint el guió establert.</p>
+    <p class="text-md">És el recull organitzat de tot el teu treball individual. Avaluarem que estigui complet, endreçat i presentat de forma clara (amb portada i índex). També tindrem en compte la teva reflexió constant sobre el teu aprenentatge seguint la rúbrica d'avaluació.</p>
   </div>
   <div class="custom-card">
     <h3 class="custom-card-title">2. Habilitats Socioemocionals</h3>
@@ -92,16 +92,18 @@ description: Projecte educatiu de marca personal, disseny gràfic i producció d
     <h3 class="custom-card-title">3. Procés de Fabricació a l'Aula Maker</h3>
     <p class="text-md">Avaluarem durant tot el procés la qualitat del teu treball al taller i l'ús correcte i segur de l'espai, materials, màquines i eines.</p>
   </div>
+  <div class="custom-card">
+    <h3 class="custom-card-title">4. Procés de Disseny</h3>
+    <p class="text-md">Avaluarem el desenvolupament creatiu i tècnic de la teva marca: des de la recerca d'inspiració i la creació del Moodboard fins a la construcció del logotip (vectorització CAD 2D) i el disseny 3D de les joies.</p>
+  </div>
+  <div class="custom-card">
+    <h3 class="custom-card-title">5. Prova Escrita Final</h3>
+    <p class="text-md">Realitzarem una prova escrita individual al final del projecte que avaluarà de manera integrada tots els continguts trets durant la unitat (fases de creació de marca, anàlisi de dades, costos, packaging i lectura de cas real).</p>
+  </div>
 </div>
 
-<hr />
-
-<div class="custom-card" style="margin: 2.5rem 0; padding: 2rem; border-left: 6px solid var(--sl-color-accent-high); background: linear-gradient(135deg, rgba(193, 40, 114, 0.08), rgba(193, 40, 114, 0.02)); text-align: center;">
-  <h2 style="margin-top: 0; font-size: 1.8rem; color: var(--sl-color-accent-high);">📝 Carpeta d'aprenentatge</h2>
-  <p class="text-md" style="margin: 1rem auto 1.5rem auto; max-width: 750px; line-height: 1.6;">
-    Pots consultar, descarregar o imprimir directament la <strong>Carpeta d'aprenentatge en format A4</strong> amb totes les activitats competencials, comprensió lectora, anàlisi de dades, gràfics i espais de reflexió de tot el projecte.
+<div class="custom-card" style="margin: 2rem 0; padding: 1.25rem; border-left: 5px solid var(--sl-color-accent-high); background: rgba(193, 40, 114, 0.04); text-align: center;">
+  <p class="text-md" style="margin: 0; font-weight: 700; color: var(--sl-color-accent-high);">
+    ✏️ Un cop hagis explorat aquesta pàgina d'introducció, completa el <strong>BLOC 1: PRESENTACIÓ, HABILITATS I CONEIXEMENTS PREVIS</strong> a la teva <strong>Carpeta d'aprenentatge</strong>.
   </p>
-  <a href="/artifex/diari-d-aprenentatge/" target="_blank" rel="noopener noreferrer" style="display: inline-block; padding: 0.9rem 2rem; font-size: 1.1rem; font-weight: 700; color: #ffffff !important; background-color: var(--sl-color-accent-high); border-radius: 8px; text-decoration: none !important; box-shadow: 0 4px 14px rgba(193, 40, 114, 0.4);">
-    📄 Obrir la Carpeta d'aprenentatge (A4)
-  </a>
 </div>

@@ -63,4 +63,10 @@ Dins de TinkerCAD trobareu tres reptes que heu de completar en ordre:
 2. **El Vostre Logotip (Tall Làser):** Dissenyareu la "cara" de la vostra marca. Recordeu: ha de ser una silueta clara, ja que el làser ressegueix línies. Menys és més.
 3. **La Vostra Arracada (Impressió 3D):** Dissenyareu el producte final.
 
+<div class="custom-card" style="margin: 2rem 0; padding: 1.25rem; border-left: 5px solid var(--sl-color-accent-high); background: rgba(193, 40, 114, 0.04); text-align: center;">
+  <p class="text-md" style="margin: 0; font-weight: 700; color: var(--sl-color-accent-high);">
+    ✏️ Un cop hagis explorat la FASE 3, realitza les activitats del <strong>BLOC 7: FASE 3 - DISSENY TÈCNIC</strong> a la teva <strong>Carpeta d'aprenentatge</strong>.
+  </p>
+</div>
+
 

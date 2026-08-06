@@ -47,4 +47,10 @@ Observa el següent simulador del Departament Financer Artífex:
   <iframe src="/artifex/apps/artifex-financer/index.html" allowfullscreen style="height: 650px;"></iframe>
 </div>
 
+<div class="custom-card" style="margin: 2rem 0; padding: 1.25rem; border-left: 5px solid var(--sl-color-accent-high); background: rgba(193, 40, 114, 0.04); text-align: center;">
+  <p class="text-md" style="margin: 0; font-weight: 700; color: var(--sl-color-accent-high);">
+    ✏️ Un cop hagis explorat la FASE 5, realitza les activitats del <strong>BLOC 9: FASE 5 - COSTOS I PREU</strong> a la teva <strong>Carpeta d'aprenentatge</strong>.
+  </p>
+</div>
+
 

@@ -57,7 +57,35 @@
   --sl-color-bg-sidebar:     #1e1e1e;
 
   --sl-color-text:           #f0f0f0;
-  --sl-color-text-accent:    #ff8ec3;
+}
+
+/* ==========================================
+   Tipografia general: Text justificat i interlineat de lectura
+   ========================================== */
+.sl-markdown-content p,
+.text-md,
+p {
+  text-align: justify;
+  line-height: 1.75;
+  hyphens: auto;
+  -webkit-hyphens: auto;
+  -ms-hyphens: auto;
+}
+
+/* Excepcions d'alineació per a títols, subtítols, peus d'imatge i taules */
+h1, h2, h3, h4, h5, h6,
+.box-title,
+.custom-card-title,
+figcaption,
+em,
+.cover-page-container p,
+[style*="text-align: center"],
+[style*="text-align: center"] p,
+.text-center,
+.competency-badge,
+th,
+td {
+  text-align: initial;
 }
 
 /* ==========================================
@@ -851,9 +879,22 @@ starlight-theme-select {
    Print / PDF Export Styles
    ========================================== */
 @media print {
-  /* Control page margins (2cm) for PDF conversion */
+  :root {
+    --sl-sidebar-width: 0px !important;
+    --sl-content-width: 100% !important;
+    --sl-nav-height: 0px !important;
+  }
+
+  /* Standard A4 print page margins (20mm / 2cm) */
   @page {
-    margin: 2cm !important;
+    size: A4 portrait;
+    margin: 20mm !important;
+  }
+
+  *,
+  *::before,
+  *::after {
+    box-sizing: border-box !important;
   }
   
   body {
@@ -861,6 +902,8 @@ starlight-theme-select {
     padding: 0 !important;
     background: #ffffff !important;
     color: #000000 !important;
+    width: 100% !important;
+    max-width: 100% !important;
   }
 
   /* Hide Starlight UI elements and browser chrome that shouldn't be printed */
@@ -871,8 +914,11 @@ starlight-theme-select {
   button,
   header.header,
   nav.sidebar,
+  .sidebar,
   .sidebar-pane,
+  .right-sidebar,
   .right-sidebar-panel,
+  [class*="sidebar"],
   .pagination-links,
   .no-print,
   starlight-theme-select,
@@ -881,24 +927,44 @@ starlight-theme-select {
   starlight-menu-button,
   .starlight-toc {
     display: none !important;
+    visibility: hidden !important;
+    width: 0 !important;
+    height: 0 !important;
+    margin: 0 !important;
+    padding: 0 !important;
+    border: none !important;
+    background: transparent !important;
   }
 
   /* Reset main content width and paddings */
   html,
+  body,
   .page,
   .main-frame,
+  .main-pane,
   main,
   .content-panel,
   .sl-container,
-  .sl-markdown-content {
+  .sl-markdown-content,
+  .cover-page-container,
+  .rubric-page-landscape {
+    display: block !important;
+    float: none !important;
+    position: static !important;
     width: 100% !important;
     max-width: 100% !important;
+    min-width: 0 !important;
     margin: 0 !important;
     padding: 0 !important;
     background: #ffffff !important;
+    background-color: #ffffff !important;
     color: #000000 !important;
     box-shadow: none !important;
     border: none !important;
+    border-right: none !important;
+    border-left: none !important;
+    outline: none !important;
+    overflow: visible !important;
   }
 
   /* Remove any animations to prevent page content rendering issues */
@@ -908,6 +974,8 @@ starlight-theme-select {
     opacity: 1 !important;
     font-size: 0.85rem !important;
     line-height: 1.4 !important;
+    width: 100% !important;
+    max-width: 100% !important;
   }
 
   /* Optimize text sizing and spacing for printing */
@@ -1221,5 +1289,26 @@ starlight-theme-select {
 
   body:has(.cover-page-container) .page-break::after {
     content: "📄 Salt de Pàgina A4 (Format d'impressió)";
+  }
+
+  body:has(.cover-page-container) .rubric-page-landscape {
+    background: #ffffff !important;
+    width: 100% !important;
+    max-width: 270mm !important;
+    margin: 2rem auto !important;
+    padding: 15mm !important;
+    box-shadow: 0 8px 30px rgba(0, 0, 0, 0.12) !important;
+    border-radius: 4px !important;
+    box-sizing: border-box !important;
+  }
+}
+
+/* Print landscape orientation for rubric */
+@media print {
+  .rubric-page-landscape {
+    page-break-before: always !important;
+    page-break-after: always !important;
+    break-before: page !important;
+    break-after: page !important;
   }
 }

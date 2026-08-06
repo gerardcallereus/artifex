@@ -61,6 +61,12 @@ Les peces sortides del motlle requereixen un tractament superficial per assolir 
 Fase final d'assemblatge dels components metàl·lics.
 - **Manipulació del metall i conformat:** Utilitzarem filferro i alicates de precisió (punta rodona i plana) per crear el ganxo i unir-lo amb la peça de resina.
 
+<div class="custom-card" style="margin: 2rem 0; padding: 1.25rem; border-left: 5px solid var(--sl-color-accent-high); background: rgba(193, 40, 114, 0.04); text-align: center;">
+  <p class="text-md" style="margin: 0; font-weight: 700; color: var(--sl-color-accent-high);">
+    ✏️ Un cop hagis explorat la FASE 4, realitza les activitats del <strong>BLOC 8: FASE 4 - PRODUCCIÓ</strong> a la teva <strong>Carpeta d'aprenentatge</strong>.
+  </p>
+</div>
+
 
 
 

@@ -49,9 +49,9 @@ export default defineConfig({
         { label: 'FASE 4: Producció', link: '/fase-4-produccio/' },
         { label: 'FASE 5: Costos i preu', link: '/fase-5-costos-i-preu/' },
         { label: 'FASE 6: Comercialització', link: '/fase-6-comercialitzacio/' },
-        { label: 'Tancament del projecte', link: '/tancament-del-projecte/' },
         { label: 'Dossier de recuperació', link: '/dossier-recuperacio/' },
-        { label: "Carpeta d'aprenentatge", link: '/diari-d-aprenentatge/' }
+        { label: "Carpeta d'aprenentatge", link: '/carpeta-d-aprenentatge/' },
+        { label: "Prova escrita final", link: '/prova-escrita-final/' }
       ],
     }),
   ],
