@@ -29,18 +29,12 @@ description: Dossier de treball imprimible en format A4 amb totes les activitats
   </div>
 </div>
 
-<div class="page-break"></div>
-
----
-
 # BLOC 1: PRESENTACIÓ, HABILITATS I CONEIXEMENTS PREVIS
 
 ## 1.1 Presentació i Expectatives
 Presenta't i explica quins són els teus interessos, motivacions i expectatives respecte al projecte Artífex. Què és el que més t'atrau (la resina, el disseny per ordinador, la creació de la marca, la venda...)?
 
 <div class="response-box" style="min-height: 120px;"></div>
-
----
 
 ## 1.2 Avaluació Inicial d'Habilitats Socioemocionals
 Explica quines facilitats o dificultats preveus que tindràs en cadascuna d'aquestes tres habilitats:
@@ -53,8 +47,6 @@ Explica quines facilitats o dificultats preveus que tindràs en cadascuna d'aque
 
 3. **Gestió de l'Error (Resiliència davant imprevistos o equivocacions):**
 <div class="response-box" style="min-height: 80px;"></div>
-
----
 
 ## 1.3 Activació de Coneixements Previs
 Respon a les preguntes per situar el teu punt de partida:
@@ -76,8 +68,6 @@ Respon a les preguntes per situar el teu punt de partida:
 
 <div class="page-break"></div>
 
----
-
 # BLOC 2: COM CREEM LA NOSTRA MARCA? (ACTIVITATS COMPETENCIALS DE MARQUES REALS)
 
 ## DOSSIER DE L'ALUMNAT
@@ -85,21 +75,18 @@ Respon a les preguntes per situar el teu punt de partida:
 ### Activitat 1: L'odissea de crear una marca amb impacte social (Cas Ecoalf)
 
 <div style="text-align: center; margin: 1.5rem 0;">
-  <img src="/artifex/media/Nike.png" alt="Ecoalf: Moda sostenible des del fons del mar" style="width: 70%; max-height: 250px; object-fit: cover; border-radius: 10px; box-shadow: 0 4px 15px rgba(0,0,0,0.1); margin: 0 auto; display: block;" />
-  <em style="display: block; font-size: 0.85rem; color: #666; margin-top: 0.4rem;">Ecoalf: Fabricació de peces de vestir i joieria urbana a partir de residus plàstics reciclats de l'oceà. Referència web: <a href="https://ecoalf.com/" target="_blank" rel="noopener noreferrer">https://ecoalf.com/</a></em>
+  <img src="/artifex/media/ecoalf_sostenibilitat.jpg" alt="Procés de transformació del plàstic reciclat d'Ecoalf" style="width: 80%; max-height: 320px; object-fit: cover; border-radius: 12px; box-shadow: 0 6px 20px rgba(0,0,0,0.12); margin: 0 auto; display: block;" />
+  <em style="display: block; font-size: 0.85rem; color: #666; margin-top: 0.4rem;">Procés de transformació de residus marins (PET reciclat) en fil i peces de vestir d'alta gamma d'Ecoalf. Fonts oficials: <a href="https://ecoalf.com/pages/memoria-de-sostenibilidad" target="_blank" rel="noopener noreferrer">Memòria de Sostenibilitat Ecoalf</a> i <a href="https://cdn.shopify.com/s/files/1/0553/2804/7279/files/ECOALF_Memoria_sostenibilidad_2022_271123_74e090ae-a3e7-4db4-8937-a99858727dea.pdf?v=1701110292" target="_blank" rel="noopener noreferrer">Informe en PDF (2022)</a>.</em>
 </div>
 
-#### LECTURA 1: Del fons del mar a l'aparador
-L'any 2009, després del naixement del seu fill Alfredo, Javier Goyeneche va sentir frustració per l'ús excessiu dels recursos naturals del planeta i la quantitat de residus que acumulaven els oceans. Aquesta va ser la seva **guspira (IDEA)**: crear una marca de moda que utilitzés materials reciclats (ampolles de plàstic, xarxes de pesca, pneumàtics) per netejar els oceans, però amb la mateixa qualitat i disseny que els materials no reciclats.
+#### LECTURA: Del fons del mar a l'aparador — Els obstacles de la realitat
+L'any 2009, després del naixement del seu fill Alfredo, Javier Goyeneche va sentir frustració per l'ús excessiu dels recursos naturals del planeta i la quantitat massiva de residus plàstics que acumulaven els oceans. Aquesta va ser la seva **guspira (IDEA)**: crear una marca de moda i complements que utilitzés materials 100% reciclats (ampolles de plàstic PET, xarxes de pesca abandonades, pneumàtics vells) per netejar els oceans, oferint la mateixa qualitat i disseny que els productes no reciclats de primera línia.
 
-Així va néixer la **IDENTITAT (MARCA)** d'Ecoalf (jugant amb les paraules Ecologia i Alfredo). El seu missatge i filosofia es van resumir en un lema clar que els acompanyaria sempre: *"Because there is no planet B"* (Perquè no hi ha un planeta B). L'objectiu no era només fer roba, sinó conscienciar.
+Així va néixer la **IDENTITAT (MARCA)** d'Ecoalf (jugant amb les paraules *Ecologia* i *Alfredo*). El seu missatge i filosofia es van resumir en un lema clar que els acompanyaria sempre: *"Because there is no planet B"* (Perquè no hi ha un planeta B). L'objectiu no era només vendre roba o complements, sinó conscienciar la societat sobre la sostenibilitat del planeta.
 
-#### LECTURA 2: Els obstacles de la realitat
-Tenir la idea va ser fàcil, però portar-la a terme va ser un repte tècnic majúscul. Durant la fase de **DISSENY TÈCNIC**, l'equip d'Ecoalf es va trobar que els fils reciclats que existien al mercat eren de molt baixa qualitat. Van haver d'invertir dos anys viatjant pel món per trobar aliances amb centres de recerca i desenvolupar la tecnologia necessària per triturar el plàstic marí, netejar-lo, fondre'l i filar-lo fins a obtenir un fil de polièster reciclat de primera qualitat.
+Tanmateix, tenir la idea va ser la part fàcil; portar-la a la pràctica va suposar un repte tècnic majúscul. Durant la fase de **DISSENY TÈCNIC**, l'equip d'Ecoalf es va trobar que els fils reciclats existents al mercat eren de molt baixa qualitat. Van haver d'invertir més de dos anys viatjant pel món per trobar aliances amb centres de recerca i desenvolupar la tecnologia necessària per recollir el plàstic marí amb l'ajuda de pescadors locals (projecte *Upcycling the Oceans*), triturar-lo, netejar-lo, fondre'l i filar-lo fins a obtenir un fil de polièster reciclat de màxima resistència. Segons la seva Memòria de Sostenibilitat oficial, per cada quilo de fil reciclat s'estalvia un 52% d'aigua i un 40% d'emissions de $CO_2$ respecte al polièster verge.
 
-Un cop aconseguit el fil, va arribar la fase de **PRODUCCIÓ**. La complexitat aquí va ser convèncer les fàbriques tèxtils tradicionals. Moltes es negaven a introduir aquest fil nou a les seves màquines per por que es trenquessin o perquè els volums inicials de comanda d'Ecoalf eren massa petits.
-
-Tota aquesta inversió en recerca va impactar directament en la fase de **COSTOS I PREU**. Produir una jaqueta amb plàstic del mar costava molt més que fer-ho amb plàstic verge derivat del petroli. Finalment, en la fase de **COMERCIALITZACIÓ (VENDA)**, el gran repte va ser convèncer el consumidor final: com podien justificar un preu de 150 € per una jaqueta feta, literalment, d'escombraries?
+Un cop aconseguit el fil, va arribar la complexitat de la **PRODUCCIÓ**. La majoria de fàbriques tèxtils tradicionals es negaven a introduir aquest fil nou a les seves màquines per por que es trenquessin o perquè els volums inicials de comanda d'Ecoalf eren massa petits. Tota aquesta inversió en recerca i adaptació industrial va impactar directament en la fase de **COSTOS I PREU**: produir una peça amb plàstic del mar costava molt més que fer-ho amb plàstic verge derivat del petroli. Finalment, en la fase de **COMERCIALITZACIÓ (VENDA)**, el gran repte va ser convèncer el consumidor final de justificar un preu de 150 € per una jaqueta feta, literalment, d'escombraries recuperades del mar.
 
 #### ANÀLISI DE DADES I GRÀFIQUES
 
@@ -116,15 +103,77 @@ Tota aquesta inversió en recerca va impactar directament en la fase de **COSTOS
 
 <br />
 
-**Gràfic 1: Previsió temporal vs. Realitat (Primers 3 anys del projecte)**  
-*(Mesos transcorreguts des de la Fase 1 fins a la Fase 6)*
+<div class="custom-card" style="margin: 1.5rem 0; padding: 1.25rem; border-left: 5px solid var(--sl-color-accent-high); background: rgba(0,0,0,0.02);">
+  <h4 style="margin-top: 0; color: var(--sl-color-accent-high); font-size: 1.1rem; text-align: center;">📊 Gràfic 1: Previsió Temporal vs. Realitat (Comparativa d'Endarreriment en Mesos)</h4>
+  <p style="font-size: 0.85rem; color: #555; text-align: center; margin-bottom: 1.25rem;"><em>Comparació entre el calendari previst (planificació inicial) i el temps real necessari per dur a terme cada fase del projecte.</em></p>
+  
+  <div style="display: flex; justify-content: center; gap: 2rem; margin-bottom: 1.25rem; font-size: 0.85rem; font-weight: bold;">
+    <div style="display: flex; align-items: center; gap: 0.5rem;">
+      <span style="display: inline-block; width: 18px; height: 12px; background: #3b82f6; border-radius: 3px;"></span>
+      <span>Planificació Inicial (Previst)</span>
+    </div>
+    <div style="display: flex; align-items: center; gap: 0.5rem;">
+      <span style="display: inline-block; width: 18px; height: 12px; background: #ef4444; border-radius: 3px;"></span>
+      <span>Realitat (Execució Real)</span>
+    </div>
+  </div>
 
-| Fase del projecte | Previsió inicial (Planificació) | Realitat (El que va trigar realment) |
-| --- | --- | --- |
-| Idea i Marca (F1 i F2) | 2 mesos | 2 mesos |
-| Disseny Tècnic (F3) | 6 mesos | 24 mesos (Endarreriment tecnològic) |
-| Producció (F4) | 3 mesos | 8 mesos (Cerca de fàbriques) |
-| Comercialització (F6) | Mes 11 | Mes 34 |
+  <div style="margin-bottom: 1rem;">
+    <strong style="font-size: 0.9rem;">Fases 1 i 2: Idea i Identitat de Marca</strong>
+    <div style="display: flex; flex-direction: column; gap: 4px; margin-top: 4px;">
+      <div style="display: flex; align-items: center; gap: 8px;">
+        <span style="width: 85px; font-size: 0.8rem; color: #444;">Planificat:</span>
+        <div style="background: #3b82f6; width: 6%; height: 18px; border-radius: 4px; color: #fff; font-size: 0.75rem; display: flex; align-items: center; padding-left: 6px; font-weight: bold; min-width: 55px;">2 mesos</div>
+      </div>
+      <div style="display: flex; align-items: center; gap: 8px;">
+        <span style="width: 85px; font-size: 0.8rem; color: #444;">Realitat:</span>
+        <div style="background: #ef4444; width: 6%; height: 18px; border-radius: 4px; color: #fff; font-size: 0.75rem; display: flex; align-items: center; padding-left: 6px; font-weight: bold; min-width: 55px;">2 mesos</div>
+      </div>
+    </div>
+  </div>
+
+  <div style="margin-bottom: 1rem;">
+    <strong style="font-size: 0.9rem;">Fase 3: Disseny Tècnic i Recerca de Fil Reciclat</strong>
+    <div style="display: flex; flex-direction: column; gap: 4px; margin-top: 4px;">
+      <div style="display: flex; align-items: center; gap: 8px;">
+        <span style="width: 85px; font-size: 0.8rem; color: #444;">Planificat:</span>
+        <div style="background: #3b82f6; width: 18%; height: 18px; border-radius: 4px; color: #fff; font-size: 0.75rem; display: flex; align-items: center; padding-left: 6px; font-weight: bold;">6 mesos</div>
+      </div>
+      <div style="display: flex; align-items: center; gap: 8px;">
+        <span style="width: 85px; font-size: 0.8rem; color: #444;">Realitat:</span>
+        <div style="background: #ef4444; width: 72%; height: 18px; border-radius: 4px; color: #fff; font-size: 0.75rem; display: flex; align-items: center; padding-left: 6px; font-weight: bold;">24 mesos (⚠️ +18 mesos d'endarreriment)</div>
+      </div>
+    </div>
+  </div>
+
+  <div style="margin-bottom: 1rem;">
+    <strong style="font-size: 0.9rem;">Fase 4: Producció i Adaptació Industrial</strong>
+    <div style="display: flex; flex-direction: column; gap: 4px; margin-top: 4px;">
+      <div style="display: flex; align-items: center; gap: 8px;">
+        <span style="width: 85px; font-size: 0.8rem; color: #444;">Planificat:</span>
+        <div style="background: #3b82f6; width: 9%; height: 18px; border-radius: 4px; color: #fff; font-size: 0.75rem; display: flex; align-items: center; padding-left: 6px; font-weight: bold;">3 mesos</div>
+      </div>
+      <div style="display: flex; align-items: center; gap: 8px;">
+        <span style="width: 85px; font-size: 0.8rem; color: #444;">Realitat:</span>
+        <div style="background: #ef4444; width: 24%; height: 18px; border-radius: 4px; color: #fff; font-size: 0.75rem; display: flex; align-items: center; padding-left: 6px; font-weight: bold;">8 mesos (⚠️ Adaptació de fàbriques)</div>
+      </div>
+    </div>
+  </div>
+
+  <div style="margin-bottom: 0.5rem;">
+    <strong style="font-size: 0.9rem;">Fase 6: Comercialització i Venda Final</strong>
+    <div style="display: flex; flex-direction: column; gap: 4px; margin-top: 4px;">
+      <div style="display: flex; align-items: center; gap: 8px;">
+        <span style="width: 85px; font-size: 0.8rem; color: #444;">Planificat:</span>
+        <div style="background: #3b82f6; width: 33%; height: 18px; border-radius: 4px; color: #fff; font-size: 0.75rem; display: flex; align-items: center; padding-left: 6px; font-weight: bold;">Mes 11</div>
+      </div>
+      <div style="display: flex; align-items: center; gap: 8px;">
+        <span style="width: 85px; font-size: 0.8rem; color: #444;">Realitat:</span>
+        <div style="background: #ef4444; width: 95%; height: 18px; border-radius: 4px; color: #fff; font-size: 0.75rem; display: flex; align-items: center; padding-left: 6px; font-weight: bold;">Mes 34 (Llançament real)</div>
+      </div>
+    </div>
+  </div>
+</div>
 
 #### PREGUNTES (Respon a l'espai indicat)
 
