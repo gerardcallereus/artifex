@@ -54,11 +54,6 @@ Aquí tens els 5 consells clau per tenir en compte abans de començar a dissenya
 ---
 
 ## Exemples de Moodboard
-A continuació tens diversos exemples de Moodboard. El primer és un tauler d'exemple inspirat en Bolívia, on es busquen destacar els colors verd, blau i marró dels paisatges amb un fons d'aguayo andí:
-
-![Exemple de Moodboard Bolívia](/artifex/media/moodboard_example1.png)
-
-### Exemples reals d'alumnes del projecte Artífex
 
 Aquí pots veure fantàstics Moodboards creats per alumnes de 2n d'ESO en edicions anteriors del projecte Artífex, aplicant la jerarquia visual, el contrast i la selecció de paletes de color:
 
