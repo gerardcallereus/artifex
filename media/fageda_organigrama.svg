@@ -1,56 +1,77 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 620 250" width="100%" height="auto">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 480" width="100%" height="auto">
   <style>
-    .bg-sa { fill: #fff5f5; stroke: #ef4444; stroke-width: 2px; }
     .header-sa { fill: #dc2626; }
-    .card-sa { fill: #ffffff; stroke: #fca5a5; stroke-width: 1.5px; }
+    .card-sa-main { fill: #fef2f2; stroke: #ef4444; stroke-width: 3.5px; }
+    .card-sa-sec { fill: #ffffff; stroke: #fca5a5; stroke-width: 3px; }
     
-    .bg-sccl { fill: #f0fdf4; stroke: #16a34a; stroke-width: 2px; }
     .header-sccl { fill: #15803d; }
-    .card-sccl { fill: #ffffff; stroke: #86efac; stroke-width: 1.5px; }
-    .gold-sccl { fill: #dcfce7; stroke: #22c55e; stroke-width: 1.5px; }
+    .card-sccl-main { fill: #f0fdf4; stroke: #16a34a; stroke-width: 3.5px; }
+    .gold-sccl { fill: #dcfce7; stroke: #22c55e; stroke-width: 3.5px; }
 
-    .title-txt { font-family: 'Lato', system-ui, sans-serif; font-size: 11px; font-weight: bold; fill: #ffffff; text-anchor: middle; }
-    .bold-red { font-family: 'Lato', system-ui, sans-serif; font-size: 11px; font-weight: bold; fill: #991b1b; }
-    .sub-red { font-family: 'Lato', system-ui, sans-serif; font-size: 10px; fill: #7f1d1d; }
-    .bold-gray { font-family: 'Lato', system-ui, sans-serif; font-size: 11px; font-weight: bold; fill: #374151; }
-    .sub-gray { font-family: 'Lato', system-ui, sans-serif; font-size: 10px; fill: #6b7280; }
+    .header-title { font-family: 'Lato', system-ui, -apple-system, sans-serif; font-size: 20px; font-weight: 900; fill: #ffffff; text-anchor: middle; }
+    .header-sub { font-family: 'Lato', system-ui, -apple-system, sans-serif; font-size: 17px; font-weight: 800; fill: #fee2e2; text-anchor: middle; }
+    .header-sub-green { font-family: 'Lato', system-ui, -apple-system, sans-serif; font-size: 17px; font-weight: 800; fill: #dcfce7; text-anchor: middle; }
     
-    .bold-green { font-family: 'Lato', system-ui, sans-serif; font-size: 11px; font-weight: bold; fill: #166534; }
-    .sub-green { font-family: 'Lato', system-ui, sans-serif; font-size: 10px; fill: #14532d; }
-    .gold-title { font-family: 'Lato', system-ui, sans-serif; font-size: 11px; font-weight: bold; fill: #15803d; text-anchor: middle; }
-    .gold-sub { font-family: 'Lato', system-ui, sans-serif; font-size: 9.5px; fill: #166534; text-anchor: middle; }
+    .bold-red { font-family: 'Lato', system-ui, -apple-system, sans-serif; font-size: 21px; font-weight: 900; fill: #991b1b; }
+    .sub-red { font-family: 'Lato', system-ui, -apple-system, sans-serif; font-size: 19px; font-weight: 700; fill: #7f1d1d; }
+    
+    .bold-gray { font-family: 'Lato', system-ui, -apple-system, sans-serif; font-size: 21px; font-weight: 900; fill: #1f2937; }
+    .sub-gray { font-family: 'Lato', system-ui, -apple-system, sans-serif; font-size: 19px; font-weight: 700; fill: #374151; }
+    
+    .bold-green { font-family: 'Lato', system-ui, -apple-system, sans-serif; font-size: 21px; font-weight: 900; fill: #166534; }
+    .sub-green { font-family: 'Lato', system-ui, -apple-system, sans-serif; font-size: 19px; font-weight: 700; fill: #14532d; }
+    
+    .gold-title { font-family: 'Lato', system-ui, -apple-system, sans-serif; font-size: 22.5px; font-weight: 900; fill: #15803d; text-anchor: middle; }
+    .gold-sub { font-family: 'Lato', system-ui, -apple-system, sans-serif; font-size: 19px; font-weight: 800; fill: #166534; text-anchor: middle; }
   </style>
 
   <!-- COLUMN 1: EMPRESA MERCANTIL TRADICIONAL (SA) -->
-  <rect x="15" y="15" width="285" height="220" rx="8" class="bg-sa" />
-  <rect x="25" y="25" width="265" height="32" rx="5" class="header-sa" />
-  <text x="157" y="45" class="title-txt">EMPRESA MERCANTIL (Multinacional SA)</text>
+  <!-- Header Bar -->
+  <rect x="6" y="6" width="236" height="64" rx="10" class="header-sa" />
+  <text x="124" y="32" class="header-title">EMPRESA MERCANTIL</text>
+  <text x="124" y="55" class="header-sub">(Multinacional SA)</text>
   
-  <rect x="35" y="70" width="245" height="58" rx="6" class="card-sa" />
-  <text x="45" y="90" class="bold-red">🔴 Accionista Majoritari (51% accions):</text>
-  <text x="45" y="108" class="sub-red">Decideix ell sol directament (El seu vot val 51%).</text>
+  <!-- Card 1: Majoritari -->
+  <rect x="6" y="82" width="236" height="145" rx="12" class="card-sa-main" />
+  <text x="16" y="115" class="bold-red">🔴 Accionista Majoritari</text>
+  <text x="16" y="142" class="bold-red">(51% de les accions):</text>
+  <text x="16" y="178" class="sub-red">Decideix ell sol directament.</text>
+  <text x="16" y="206" class="sub-red">El seu vot val el 51% total.</text>
   
-  <path d="M 157 128 L 157 146" stroke="#dc2626" stroke-width="2" />
-  <polygon points="157,150 153,142 161,142" fill="#dc2626" />
+  <!-- Arrow -->
+  <path d="M 124 227 L 124 252" stroke="#dc2626" stroke-width="4.5" />
+  <polygon points="124,260 115,243 133,243" fill="#dc2626" />
   
-  <rect x="35" y="152" width="245" height="58" rx="6" class="card-sa" />
-  <text x="45" y="172" class="bold-gray">⚪ Treballadors i operaris de la fàbrica:</text>
-  <text x="45" y="190" class="sub-gray">No tenen cap vot ni decisió (0% de poder).</text>
+  <!-- Card 2: Operaris -->
+  <rect x="6" y="262" width="236" height="205" rx="12" class="card-sa-sec" />
+  <text x="16" y="298" class="bold-gray">⚪ Treballadors i operaris</text>
+  <text x="16" y="325" class="bold-gray">de la fàbrica:</text>
+  <text x="16" y="361" class="sub-gray">No tenen cap vot ni decisió.</text>
+  <text x="16" y="389" class="sub-gray">Poder de vot: 0% total.</text>
+  <text x="16" y="417" class="sub-gray">Només obeeixen ordres.</text>
   
   <!-- COLUMN 2: COOPERATIVA SOCIAL (La Fageda SCCL) -->
-  <rect x="320" y="15" width="285" height="220" rx="8" class="bg-sccl" />
-  <rect x="330" y="25" width="265" height="32" rx="5" class="header-sccl" />
-  <text x="462" y="45" class="title-txt">COOPERATIVA SOCIAL (La Fageda SCCL)</text>
+  <!-- Header Bar -->
+  <rect x="258" y="6" width="236" height="64" rx="10" class="header-sccl" />
+  <text x="376" y="32" class="header-title">COOPERATIVA SOCIAL</text>
+  <text x="376" y="55" class="header-sub-green">(La Fageda SCCL)</text>
   
-  <rect x="340" y="70" width="245" height="58" rx="6" class="card-sccl" />
-  <text x="350" y="90" class="bold-green">🟢 ASSEMBLEA GENERAL DE SOCIS:</text>
-  <text x="350" y="108" class="sub-green">Tots els socis treballadors tenen veu i vot.</text>
+  <!-- Card 1: Assemblea -->
+  <rect x="258" y="82" width="236" height="145" rx="12" class="card-sccl-main" />
+  <text x="268" y="115" class="bold-green">🟢 ASSEMBLEA GENERAL</text>
+  <text x="268" y="142" class="bold-green">DE SOCIS TREBALLADORS:</text>
+  <text x="268" y="178" class="sub-green">Tots els socis i treballadors</text>
+  <text x="268" y="206" class="sub-green">tenen veu i vot a les reunions.</text>
   
-  <path d="M 462 128 L 462 146" stroke="#16a34a" stroke-width="2" />
-  <polygon points="462,150 458,142 466,142" fill="#16a34a" />
+  <!-- Arrow -->
+  <path d="M 376 227 L 376 252" stroke="#16a34a" stroke-width="4.5" />
+  <polygon points="376,260 367,243 385,243" fill="#16a34a" />
   
-  <rect x="340" y="152" width="245" height="68" rx="6" class="gold-sccl" />
-  <text x="462" y="172" class="gold-title">Regla d'or: 1 PERSONA = 1 VOT</text>
-  <text x="462" y="190" class="gold-sub">(El vot del Director val EXACTAMENT EL MATEIX</text>
-  <text x="462" y="204" class="gold-sub">que el d'un operari de neteja).</text>
+  <!-- Card 2: 1 Persona = 1 Vot -->
+  <rect x="258" y="262" width="236" height="205" rx="12" class="gold-sccl" />
+  <text x="376" y="298" class="gold-title">⭐ REGLA D'OR:</text>
+  <text x="376" y="326" class="gold-title">1 PERSONA = 1 VOT</text>
+  <text x="376" y="363" class="gold-sub">El vot del Director General</text>
+  <text x="376" y="391" class="gold-sub">val EXACTAMENT EL MATEIX</text>
+  <text x="376" y="419" class="gold-sub">que el d'un operari de neteja.</text>
 </svg>

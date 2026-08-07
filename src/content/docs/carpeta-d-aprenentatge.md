@@ -459,8 +459,8 @@ Però, en què es diferencia exactament el model organitzatiu de La Fageda del d
 <div class="custom-card" style="margin: 1.5rem 0; padding: 1.25rem; border-left: 5px solid var(--sl-color-accent-high); background: #fafafa; border-radius: 10px; box-shadow: 0 4px 12px rgba(0,0,0,0.05);">
   <h4 style="margin-top: 0; color: var(--sl-color-accent-high); font-size: 1.1rem; text-align: center;">📊 Gràfic 1: Com es pren una decisió estratègica? (Exemple: Comprar una màquina nova de 500.000 €)</h4>
   
-  <div style="width: 100%; background: #ffffff; border: 1px solid #e5e7eb; border-radius: 8px; padding: 12px; margin-top: 0.75rem; text-align: center;">
-    <img src="/artifex/media/fageda_organigrama.svg" alt="Gràfic 1: Organigrama i presa de decisions a La Fageda" style="width: 100%; max-width: 620px; height: auto; display: block; margin: 0 auto;" />
+  <div style="width: 100%; background: #ffffff; border: 1px solid #e5e7eb; border-radius: 8px; padding: 6px; margin-top: 0.75rem; text-align: center;">
+    <img src="/artifex/media/fageda_organigrama.svg" alt="Gràfic 1: Organigrama i presa de decisions a La Fageda" style="width: 100%; height: auto; display: block; margin: 0 auto;" />
   </div>
 </div>
 
@@ -542,25 +542,25 @@ Però, en què es diferencia exactament el model organitzatiu de La Fageda del d
     Analitza la relació entre la filosofia d'empresa i l'organització del treball:  
     a) Quin percentatge de la plantilla de La Fageda són persones amb discapacitat o en risc d'exclusió, i com es compara amb el mínim legal del 2% d'una empresa mercantil?  
     b) Explica per què La Fageda limita la seva escala salarial a una diferència màxima d'1 a 6 entre el sou més baix i el més alt, mentre que en una multinacional el Director pot cobrar fins a 100 vegades més. Quina relació té això amb els valors cooperatius?  
-    <div class="response-box" style="min-height: 120px;"></div>
+    <div class="response-box" style="min-height: 170px;"></div>
 
 13. **Anàlisi d'eficiència comercial (Taula 2):**  
     Analitza la relació entre la despesa en publicitat i la quota de mercat:  
     a) Quin percentatge del mercat de iogurts a Catalunya aconsegueix La Fageda?  
     b) Raona com és possible que La Fageda aconsegueixi gairebé un quart de totes les vendes de Catalunya (24%) gastant només 200.000 € en publicitat, mentre que Danone en gasta 12,5 milions. Quins valors o factors fan que el consumidor triï La Fageda?  
-    <div class="response-box" style="min-height: 120px;"></div>
+    <div class="response-box" style="min-height: 170px;"></div>
 
 14. **Simulació de presa de decisions (Gràfic 1):**  
     Imagina que l'empresa ha de decidir si aprova la construcció d'una nova residència/habitatge per als seus treballadors jubilats amb discapacitat (una inversió molt cara que no donarà beneficis econòmics directes):  
     - Com es prendria aquesta decisió en una Multinacional SA tradicional i quina seria la resposta raonable dels seus accionistes?  
     - Com es prendria aquesta decisió a l'Assemblea General de La Fageda i quin creus que seria el resultat de la votació? Justifica la teva resposta basant-te en la regla de "1 persona = 1 vot".  
-    <div class="response-box" style="min-height: 130px;"></div>
+    <div class="response-box" style="min-height: 185px;"></div>
 
 15. **Resolució d'un dilema de planificació:**  
     Un consultor extern proposa a La Fageda acomiadar 20 treballadors amb discapacitat intel·lectual i substituir-los per un robot industrial automàtic per estalviar 400.000 € a l'any.  
     - Explica per què aquest canvi seria aprovat ràpidament en una empresa mercantil tradicional.  
     - Per què aquesta proposta serà rebutjada categòricament per l'Assemblea de La Fageda? Relaciona la teva resposta amb la missió fundacional de la cooperativa.  
-    <div class="response-box" style="min-height: 130px;"></div>
+    <div class="response-box" style="min-height: 185px;"></div>
 
 <div class="page-break"></div>
 
@@ -592,9 +592,10 @@ Relaxa't i deixa que aquestes preguntes t'ajudin a trobar el teu motiu. No les h
 6. **Passió:** Quina és aquella cosa (hobby, música, passió) que, quan la fas, fa que el temps passi volant i t'oblidis de tot? Com podries transformar aquesta passió en un objecte?:
    <div class="response-box" style="min-height: 65px;"></div>
 
-- **La meva Guspira / Motiu principal seleccionat:** <span style="border-bottom: 1.5px dashed #666; display: inline-block; width: 60%;"></span>
+- **La meva Guspira / Motiu principal seleccionat:** A partir del que has respost en les preguntes d'abans, troba entre 8 i 10 paraules que marcaran la teva guspira i seran la teva font d'inspiració pel teu moodboard:
+  <div class="response-box" style="min-height: 80px;"></div>
 
-<div class="page-break"></div>
+---
 
 ### Activitat 5.2: Creació del Moodboard Digital a Google Classroom (Dibuixos de Google)
 
@@ -610,68 +611,65 @@ Assegura't d'aplicar els 5 criteris clau de composició visual en el teu disseny
 - **Varietat (Plans):** Barreja primers plans de textures amb plans generals.
 - **Equilibri:** Compensa els pesos visuals i colors foscos a banda i banda del full.
 
-<br />
-
-- **Títol del teu Moodboard a Dibuixos de Google:** <span style="border-bottom: 1.5px dashed #666; display: inline-block; width: 55%;"></span>
-- **Paleta de 3-4 colors principals seleccionats:** <span style="border-bottom: 1.5px dashed #666; display: inline-block; width: 55%;"></span>
-
-<br />
-
-**Autovaloració de la composició del Moodboard:**  
-Explica breument per què has triat la teva "Imatge Reina", quina paleta de colors has utilitzat i com has aplicat l'aire i l'equilibri en el teu disseny a Dibuixos de Google:
-
-<div class="response-box" style="min-height: 180px;"></div>
-
 <div class="page-break"></div>
 
 ---
 
-# BLOC 6: FASE 2 — IDENTITAT VISUAL (ACCESSABILITAT WCAG AA I COLORS)
+# BLOC 6: FASE 2 — IDENTITAT VISUAL
 
-### Activitat 6.1: El Naming i el Logotip Corporatiu
+### Activitat 6.1: Qüestionari d'Anàlisi Crítica: Jurat de Disseny (8 preguntes)
 
-- **Nom final de la marca:** <span style="border-bottom: 1.5px dashed #666; display: inline-block; width: 70%;"></span>
+A partir de la teva experiència i anàlisi com a membre del **Jurat de Disseny** (simulador interactiu de la web), respon al següent qüestionari sobre els consells clau i la teoria del disseny gràfic, la psicologia del color, la llegibilitat i l'accessibilitat visual:
 
-- **Justificació de la relació del nom amb el teu Moodboard:**
-  
-  <div class="response-box" style="min-height: 80px;"></div>
+1. **Principi fonamental del Contrast Visual:** Quina és la regla d'or per assegurar-te que el nom o el logotip de la teva marca es pugui llegir sense dificultats?
+   - [ ] A) Utilitzar lletra blanca sobre fons groc brillant per donar molta llum al disseny.
+   - [ ] B) Utilitzar colors similars entre el text i el fons per aconseguir un estil uniforme i suau.
+   - [ ] C) Col·locar sempre lletra fosca sobre fons clar, o lletra clara sobre fons fosc, evitant combinacions de clar sobre clar.
+   - [ ] D) Afegir molts efectes de degradat i ombres 3D per compensar la falta de contrast.
 
-Dibuixa a mà alçada el desenvolupament del teu Isologotip:
+2. **La tècnica d'autoxec de llegibilitat:** En el Jurat de Disseny es recomana un truc molt senzill per comprovar ràpidament si el contrast d'un logotip funciona. En què consisteix?
+   - [ ] A) Entretancar els ulls: si el text i el fons sembla que es barallen, vibren o es confonen, falta contrast.
+   - [ ] B) Mirar el disseny des d'una distància de 10 metres amb les llums apagades.
+   - [ ] C) Augmentar la brillantor de la pantalla del mòbil al màxim nivell permès.
+   - [ ] D) Canviar la font de lletra a una de tipus cursiva manuscrita.
 
-<div style="display: grid; grid-template-columns: 1fr 1fr; gap: 1rem; margin: 1rem 0;">
-  <div style="border: 2px dashed #888; border-radius: 8px; height: 200px; text-align: center; padding: 0.5rem; color: #666; background: #ffffff;">
-    <strong>1. Pluja d'Esbossos Inicials</strong>
-  </div>
-  <div style="border: 2px dashed #888; border-radius: 8px; height: 200px; text-align: center; padding: 0.5rem; color: #666; background: #ffffff;">
-    <strong>2. Esbós Final Definitiu</strong>
-  </div>
-</div> 
+3. **Conflicte de colors (Cromostereòpsia):** Per què s'evita absolutament combinar text vermell intens sobre un fons blau pur o viceversa en disseny gràfic?
+   - [ ] A) Perquè el vermell i el blau són colors que estan prohibits per les normes internacionals de marques.
+   - [ ] B) Perquè l'ull humà no pot enfocar aquests dos colors alhora, creant una vibració que mareja visualment.
+   - [ ] C) Perquè aquesta combinació només la poden fer servir les empreses d'esports.
+   - [ ] D) Perquè el color blau fa que el text vermell s'esborri quan s'imprimeix en paper.
 
----
+4. **Psicologia del Color segons el públic objectiu:** Si estàs dissenyant la identitat d'una marca de joieria o productes adreçats a un públic infantil o juvenil, quina paleta de colors és la més adequada?
+   - [ ] A) Tonalitats grises, negres i marrons foscos per transmetre seriositat i burocràcia.
+   - [ ] B) Colors vius, càlids i saturats (com vermells, grocs i blaus intensos) que transmeten energia i alegria.
+   - [ ] C) Fons totalment transparents sense cap tipus de coloració.
+   - [ ] D) Colors pastel apagats i descolorits per no cridar l'atenció de ningú.
 
-### Activitat 6.2: Taula d'Anàlisi Numèrica de Contrast Cromàtic (Normativa WCAG AA)
+<div class="page-break"></div>
 
-L'accessibilitat digital exigeix que el contrast entre el text/logotip i el fons compleixi la normativa **WCAG AA** (ràtio mínim de 4.5:1 per a text normal). Avalua la teva paleta a Adobe Color i omple la taula de dades:
+5. **Prova de validesa en Blanc i Negre:** Abans de triar la paleta de colors definitiva o afegir efectes al teu logotip, quina prova ha de superar primer per garantir que és un bon disseny?
+   - [ ] A) Ha de veure's bé quan s'imprimeix en una mida gegant de 5 metres.
+   - [ ] B) Ha de funcionar i ser perfectament llegible en escala de grisos (blanc i negre).
+   - [ ] C) Ha de tenir almenys 6 colors diferents per semblar modern.
+   - [ ] D) Ha d'incloure obligatòriament la imatge d'una joia real dibuixada en 3D.
 
-| Element / Color     | Codi Hex (#) | Contrast amb Blanc (#FFFFFF) | Veredicte WCAG (Pass/Fail) | Contrast amb Negre (#000000) | Veredicte WCAG (Pass/Fail) |
-| ------------------- | ------------ | ---------------------------- | -------------------------- | ---------------------------- | -------------------------- |
-| Color Principal     |              | : 1                          |                            | : 1                          |                            |
-| Color Secundari     |              | : 1                          |                            | : 1                          |                            |
-| Color d'Accentuació |              | : 1                          |                            | : 1                          |                            |
+6. **Elecció de la Tipografia segons la personalitat:** Si la teva marca de joies vol transmetre força, solidesa, potència i seriositat, quina tipografia hauries de seleccionar?
+   - [ ] A) Una font de lletra fina, punteguda i difícil de llegir.
+   - [ ] B) Una lletra d'estil infantil o de còmic de dibuixos animats.
+   - [ ] C) Una tipografia de lletres gruixudes, rectes i en majúscules (block/bold).
+   - [ ] D) Una lletra cursiva molt carregada amb molts detalls florals al voltant.
 
-- **Anàlisi de dades i resolució de problemes:** Si alguna de les combinacions ha obtingut un "Fail", quines modificacions de lluminositat o saturació has de fer per aconseguir l'aprovat en accessibilitat visual?
-  
-  <div class="response-box" style="min-height: 90px;"></div>
+7. **Disseny i elegància (Espaiat i fons fosc):** Quin efecte visual s'aconsegueix quan utilitzem un fons fosc profund (com el gris carbó o el negre) amb lletres blanques i un espaiat (aire) generós entre lletres?
+   - [ ] A) Fa que la marca sembli barata i poc treballada.
+   - [ ] B) Transmet immediatament elegància, luxe, claredat i tecnologia de qualitat.
+   - [ ] C) Provoca que el lector no pugui trobar el nom de la marca.
+   - [ ] D) És una combinació que només serveix per a anuncis de cotxes antics.
 
----
-
-### Activitat 6.3: Tipografia i Avaluació Socrative (20 preguntes)
-
-- **Família tipogràfica seleccionada (Serifa / Pal Sec / Manuscrita / Decorativa):** <span style="border-bottom: 1.5px dashed #666; display: inline-block; width: 45%;"></span>
-
-- **Resum de la reflexió post-prova Socrative (Com ha canviat el teu criteri de disseny?):**
-  
-  <div class="response-box" style="min-height: 80px;"></div>
+8. **Funció principal del logotip i del disseny gràfic:** Com es resumeix el principal consell del Jurat de Disseny sobre el propòsit d'un logotip?
+   - [ ] A) El disseny és principalment decoració artística i no té cap funció de comunicació.
+   - [ ] B) Un logo ha de ser el més complex possible per demostrar que s'han utilitzat moltes eines diferents.
+   - [ ] C) El disseny és comunicació: si un logotip no comunica el missatge correcte ni es pot llegir clarament, no serveix de res per molt "bonic" que sigui.
+   - [ ] D) El més important d'un logo és que tingui la imatge més gran possible que hi quedi.
 
 <div class="page-break"></div>
 

@@ -978,6 +978,19 @@ starlight-theme-select {
     max-width: 100% !important;
   }
 
+  /* Force SVG images and diagrams to expand to 100% full width when printed */
+  .sl-markdown-content img[src*=".svg"],
+  .sl-markdown-content img,
+  svg {
+    width: 100% !important;
+    max-width: 100% !important;
+    height: auto !important;
+    display: block !important;
+    margin: 1.2rem auto !important;
+    page-break-inside: avoid !important;
+    break-inside: avoid !important;
+  }
+
   /* Optimize text sizing and spacing for printing */
   .sl-markdown-content h1 {
     font-size: 1.6rem !important;

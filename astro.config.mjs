@@ -39,10 +39,7 @@ export default defineConfig({
           items: [
             { label: 'Introducció', link: '/fase-2-identitat/' },
             { label: 'El Naming (El Nom)', link: '/fase-2-identitat/el-naming-el-nom/' },
-            { label: 'El Logotip (La Cara)', link: '/fase-2-identitat/el-logotip-la-cara/' },
-            { label: 'La Paleta de Colors', link: '/fase-2-identitat/la-paleta-de-colors-lemocio/' },
-            { label: 'La Tipografia (La Veu)', link: '/fase-2-identitat/la-tipografia-la-veu/' },
-            { label: 'Prova Final', link: '/fase-2-identitat/prova-final/' }
+            { label: 'El Logotip (La Cara)', link: '/fase-2-identitat/el-logotip-la-cara/' }
           ]
         },
         { label: 'FASE 3: Disseny Tècnic', link: '/fase-3-disseny-tecnic/' },
