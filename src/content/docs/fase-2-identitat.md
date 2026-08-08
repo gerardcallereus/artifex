@@ -54,7 +54,7 @@ En aquesta aplicació us convertireu en jutges professionals. Veureu 10 marques 
 ### Instruccions per a l'activitat:
 1. **Juga la partida:** Fixa't bé en la categoria de l'empresa (a dalt de la imatge) abans de votar.
 2. **Llegeix el feedback:** Quan encertes o falles, llegeix atentament "L'Anàlisi de l'Expert". Allà hi ha la teoria que necessites.
-3. **Captura el millor consell:** Al final de cada ronda apareix un "Consell Pro". Copia en un document el que et sembli més útil per aplicar al teu futur logotip.
+3. **Llegeix el consell pro:** Al final de cada ronda apareix un "Consell Pro" amb la teoria clau de disseny.
 
 **Estàs preparat per jutjar? Comença la partida ara!**
 

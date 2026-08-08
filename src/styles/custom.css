@@ -88,6 +88,15 @@ td {
   text-align: initial;
 }
 
+/* Títols d'activitats (h3) amb el color bordeus fosc de marca Artífex */
+.sl-markdown-content h3 {
+  color: #7F1146 !important;
+  font-weight: 700;
+}
+[data-theme='dark'] .sl-markdown-content h3 {
+  color: #ff8ec3 !important;
+}
+
 /* ==========================================
    Capçalera de pàgina (Hero / Header)
    ========================================== */
@@ -1040,11 +1049,11 @@ starlight-theme-select {
     margin-bottom: 1rem !important;
   }
 
-  /* Shrink logo sketches box size on paper */
+  /* Allow dashed sketch boxes to maintain their full height on paper */
   [style*="border: 2px dashed"] {
-    height: 250px !important;
     margin-top: 0.5rem !important;
     margin-bottom: 0.5rem !important;
+    page-break-inside: auto !important;
   }
 
   /* Print borders on tables with smaller paddings and font size */

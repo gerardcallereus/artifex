@@ -10,13 +10,8 @@ description: Guia de programació paramètrica 3D per al disseny d'arracades amb
   <ul>
     <li><strong>Pensament Computacional 3D:</strong> Utilitzar la programació per blocs per dissenyar formes tridimensionals precises.</li>
     <li><strong>Parametrització:</strong> Definir mesures exactes de radi, alçada, eixos i rotacions per a la col·lecció d'arracades.</li>
-    <li><strong>Operacions Booleanes (Unió i Forat):</b> Generar el volum de l'arracada i el forat funcional per penjar el ganxo de joieria.</li>
   </ul>
 </div>
-
-:::note[Programar el volum 3D]
-**Tinkercad Codeblocks** combina el disseny 3D amb la programació. En lloc de moure objectes amb el ratolí a l'atzar, escrius el "codi" de la teva joia utilitzant blocs visuals.
-:::
 
 ---
 
@@ -48,8 +43,22 @@ description: Guia de programació paramètrica 3D per al disseny d'arracades amb
 
 ---
 
+## 📌 Tasca 3: Arracada 3D Paramètrica (Tinkercad Blocs / Codeblocks)
+
+Per a la tercera tasca del lliurament de Google Classroom, hauràs de crear el modelat 3D de la teva arracada utilitzant **exclusivament l'eina de Tinkercad Blocs (Codeblocks)**.  
+
+⚠️ **Requisits obligatoris de la peça:**  
+- **Sense eines clàssiques:** Tota la peça s'ha de programar paramètricament amb blocs de codi visuals (no es poden utilitzar les eines de disseny 3D tradicionals).  
+- **Mida màxima d'arracada:** La mida de l'arracada **no pot ser més gran de 4 × 4 × 0,5 cm** (40 × 40 × 5 mm).
+
+💡 **Com aprendre a utilitzar Tinkercad Blocs?**  
+Per familiaritzar-te amb la programació 3D per blocs, pots seguir la proposta del teu **Pla Personal** o fer un tastet interactiu guiat pas a pas a través de la següent presentació:  
+➡️ **[Accedeix al Tastet de Tinkercad Blocs (Guia Genially)](https://view.genially.com/63e9fe297b59920018684b42)**
+
+---
+
 <div class="custom-card" style="margin: 2rem 0; padding: 1.25rem; border-left: 5px solid var(--sl-color-accent-high); background: rgba(193, 40, 114, 0.04); text-align: center;">
   <p class="text-md" style="margin: 0; font-weight: 700; color: var(--sl-color-accent-high);">
-    ✏️ Accedeix a Tinkercad Codeblocks a l'ordinador del taller i programa el disseny 3D de la teva col·lecció d'arracades!
+    ✏️ Connecta't a la classe de Tinkercad Classroom, obre l'editor de Codeblocks i lliura la teva arracada 3D paramètrica!
   </p>
 </div>

@@ -84,7 +84,7 @@ description: Carpeta d'aprenentatge imprimible en format A4 amb totes les activi
 
 ### Observacions, fortaleses i suggeriments de millora:
 
-<div class="response-box" style="min-height: 550px;"></div>
+<div class="response-box" style="min-height: 715px;"></div>
 
 <div class="page-break"></div>
 
@@ -164,15 +164,15 @@ Dissenya un diagrama de flux complet que connecti ordenadament les 6 fases del p
    
    - [ ] D) Perquè el packaging és l'única cosa que veu el client.
 
-3. **Quin avantatge té utilitzar la vectorització 2D i el disseny 3D (Fase 3: Disseny Tècnic) abans de fabricar els motlles?**
+3. **Quin avantatge principal té realitzar el disseny 2D/3D (Fase 3: Disseny Tècnic) a l'ordinador abans de la fabricació al taller?**
    
-   - [ ] A) Permet detectar errors de mides, cotes o voladissos i corregir-los a l'ordinador sense malgastar material.
+   - [ ] A) Permet detectar errors de mides, cotes o proporcions i corregir-los digitalment sense malgastar temps ni material.
    
-   - [ ] B) Garanteix que la joia es me quedi venuda abans de fabricar-la.
+   - [ ] B) Garanteix que la joia es quedi venuda abans de produir-la.
    
-   - [ ] C) Elimina la necessitat de fer motlles de silicona.
+   - [ ] C) Elimina per complet la necessitat de fer motlles o prototips físics.
    
-   - [ ] D) Perquè fa que el producte es fabriqui automàticament sense intervenció humana.
+   - [ ] D) Produeix el producte final automàticament sense cap tipus d'intervenció humana.
 
 4. **Si una empresa fixa el Preu de Venda al Públic (Fase 5) basant-se només en la intuïció i sense mirar els costos reals de producció (Fase 4), quin risc corre?**
    
@@ -310,15 +310,15 @@ Un cop aconseguit el fil, va arribar la complexitat de la **PRODUCCIÓ**. La maj
    
    - [ ] D) A la Fase 6 (Comercialització), on es va avançar el llançament 5 mesos abans d'hora.
 
-3. **Quina va ser la causa tècnica directa de l'endarreriment acumulat de 18 mesos durant la Fase 3 (Disseny Tècnic)?**
+3. **Com es demostra en el cas Ecoalf la importància de la Fase 3 (Disseny Tècnic) abans de poder passar a la fabricació?**
    
-   - [ ] A) La falta de dissenyadors per dibuixar el logotip de la marca.
+   - [ ] A) Demostra que en la Fase 3 només cal dibuixar el logotip de la marca en diferents colors.
    
-   - [ ] B) La necessitat de fer I+D per desenvolupar la tecnologia que permetés convertir el plàstic marí en un fil de polièster de primera qualitat.
+   - [ ] B) Demostra que abans de produir cal fer I+D, prototips i proves tècniques de materials per aconseguir un teixit de qualitat, encara que requereixi més temps del previst.
    
-   - [ ] C) La decisió de canviar el nom de la marca i la paleta de colors.
+   - [ ] C) Demostra que es pot començar a vendre a les botigues sense haver resolt la viabilitat tècnica del producte.
    
-   - [ ] D) La falta d'interès dels pescadors per recollir residus de l'oceà.
+   - [ ] D) Demostra que el disseny tècnic d'un producte no influeix mai en la resta de fases del projecte.
 
 4. **Observa la Taula 1 de Costos. Malgrat que la matèria primera recollida del mar és més barata (2,50 € vs 4,00 €), per quina raó el cost total de fabricació d'Ecoalf (56,50 €) gairebé duplica el de la jaqueta tradicional (30,00 €)?**
    
@@ -350,9 +350,7 @@ Un cop aconseguit el fil, va arribar la complexitat de la **PRODUCCIÓ**. La maj
 
 Què és el més important que has après en aquest bloc sobre les 6 fases de creació d'una marca? Quines dificultats o sorpreses has tingut en analitzar els casos reals (Nike i Ecoalf) i quins aspectes tindràs en compte quan creïs la teva pròpia marca?
 
-<div class="response-box" style="min-height: 280px;"></div>
-
-<div class="page-break"></div>
+<div class="response-box" style="min-height: 250px;"></div>
 
 ---
 
@@ -418,51 +416,31 @@ Però, en què es diferencia exactament el model organitzatiu de La Fageda del d
 
 <div class="page-break"></div>
 
-#### ANÀLISI DE DADES I GRÀFIQUES (CAS LA FAGEDA)
+#### ANÀLISI DE DADES (CAS LA FAGEDA)
 
-> 📖 **Què veureu en aquesta taula comparativa de filosofia i gestió?**
-> Aquesta taula resumeix les diferències clau entre el model d'una empresa mercantil tradicional (Societat Anònima) orientada al benefici privat i el model d'una cooperativa d'iniciativa social (La Fageda) centrada en les persones i la utilitat social.
+> 📖 **Instruccions d'anàlisi de dades:**  
+> Compara les dues taules següents: la **Taula 1** resumeix les diferències de filosofia i gestió entre una empresa mercantil tradicional (SA) i la cooperativa social La Fageda. La **Taula 2** mostra la relació entre la inversió en publicitat i la quota de mercat aconseguida a Catalunya.
 
 **Taula 1: Comparativa de Filosofia i Gestió**
 
-| Concepte | Empresa Mercantil Tradicional (ex: Multinacional) | Cooperativa Social (La Fageda) |
+| Concepte | Empresa Mercantil Tradicional (ex: SA) | Cooperativa Social (La Fageda) |
 | --- | --- | --- |
 | **Finalitat principal** | Maximitzar el benefici de l'accionista | Integració social i laboral de col·lectius vulnerables |
-| **Treballadors amb discapacitat** | Mínim legal (2% si tenen més de 50 treballadors) | Més del 50% de la plantilla de la cooperativa |
-| **Destí dels beneficits nets** | Repartiment de dividends entre accionistes | 100% Reversió en la millora de la cooperativa i serveis socials |
-| **Presa de decisions** | Segons el número d'accions que té cada inversor | Assemblea de Socis (1 persona = 1 vot) |
-| **Escala salarial (Diferència de sou)** | El Director pot cobrar fins a 50 o 100 vegades més que un operari | Escala salarial ètica limitada (màxim de 1 a 6 aproximadament) |
+| **Treballadors amb discapacitat** | Mínim legal (2% si tenen +50 treballadors) | Més del 50% de la plantilla de la cooperativa |
+| **Destí dels beneficits nets** | Repartiment de dividends entre accionistes | 100% Reversió en millora social i de la cooperativa |
+| **Presa de decisions** | Segons el número d'accions | Assemblea de Socis (1 persona = 1 vot) |
+| **Escala salarial (sou max/min)** | El Director cobra fins a 50-100x més | Escala salarial ètica (màxim de 1 a 6) |
 
 <br />
 
-##### Dades A: Competitivitat Comercial i Publicitat a Catalunya
+**Taula 2: Inversió en Publicitat vs. Quota de Mercat a Catalunya**
 
-> 📖 **Què veureu en aquesta taula de dades de mercat?**
-> Aquesta taula mostra la despesa anual en publicitat (televisió, premsa i xarxes socials) i la quota de mercat que té cada tipus d'empresa a Catalunya. Fixa't en la gran diferència entre els milions que gasta una multinacional (Danone) i el pressupost d'una cooperativa local (La Fageda), i compara les vendes que aconsegueix cadascuna per analitzar-ne l'eficiència comercial.
-
-**Taula 2: Inversió en Publicitat vs. Quota de Mercat**
-
-| Marca | Tipus d'Empresa | Inversió anual en Publicitat (TV, Xarxes, Premsa) | Quota de Mercat a Catalunya |
+| Marca | Tipus d'Empresa | Inversió anual Publicitat | Quota de Mercat |
 | --- | --- | --- | --- |
-| **Danone** | Multinacional (Societat Anònima - SA) | 12.500.000 € | 38% |
+| **Danone** | Multinacional (SA) | 12.500.000 € | 38% |
 | **La Fageda** | Cooperativa Social (SCCL) | 200.000 € | 24% |
 | **Marca Blanca** | Diversos proveïdors (Mercadona, Carrefour...) | Variable | 26% |
 | **Altres** | Petites granges i marques ecològiques | < 100.000 € | 12% |
-
-<br />
-
-##### Dades B: Organigrama i Presa de Decisions
-
-> 📖 **Què veureu en aquest gràfic d'organigrama empresarial?**
-> Aquest diagrama compara com es pren una decisió d'inversió molt important (com comprar una màquina de 500.000 €) en dos models d'empresa totalment oposats: una empresa mercantil tradicional (Societat Anònima) on mana el capital privat, i una cooperativa d'iniciativa social (La Fageda) on s'aplica la regla democràtica d'1 persona = 1 vot.
-
-<div class="custom-card" style="margin: 1.5rem 0; padding: 1.25rem; border-left: 5px solid var(--sl-color-accent-high); background: #fafafa; border-radius: 10px; box-shadow: 0 4px 12px rgba(0,0,0,0.05);">
-  <h4 style="margin-top: 0; color: var(--sl-color-accent-high); font-size: 1.1rem; text-align: center;">📊 Gràfic 1: Com es pren una decisió estratègica? (Exemple: Comprar una màquina nova de 500.000 €)</h4>
-  
-  <div style="width: 100%; background: #ffffff; border: 1px solid #e5e7eb; border-radius: 8px; padding: 6px; margin-top: 0.75rem; text-align: center;">
-    <img src="/artifex/media/fageda_organigrama.svg" alt="Gràfic 1: Organigrama i presa de decisions a La Fageda" style="width: 100%; height: auto; display: block; margin: 0 auto;" />
-  </div>
-</div>
 
 <div class="page-break"></div>
 
@@ -486,85 +464,71 @@ Però, en què es diferencia exactament el model organitzatiu de La Fageda del d
    - [ ] C) Els transfereix a bancs internacionals per pagar menys impostos.
    - [ ] D) Els crema o els destrueix perquè no vol diners.
 
-4. **Observant el Gràfic 1, quina diferència principal hi ha en la presa de decisions entre una empresa SA i la cooperativa La Fageda?**
-   - [ ] A) A La Fageda decideix sempre el Director General sense preguntar a ningú.
-   - [ ] B) A l'empresa SA mana qui té més diners/accions, mentre que a La Fageda cada soci té un vot.
-   - [ ] C) A La Fageda les decisions les prenent els clients mitjançant enquestes a les xarxes socials.
-   - [ ] D) No hi ha cap diferència, les dues empreses funcionen exactament igual.
-
-5. **Observant la Taula 2 (Inversió en Publicitat vs. Quota de Mercat), quants diners gasta Danone en publicitat per cada 1 € que hi gasta La Fageda?**
+4. **Observant la Taula 2 (Inversió en Publicitat vs. Quota de Mercat), quants diners gasta Danone en publicitat per cada 1 € que hi gasta La Fageda?**
    - [ ] A) Gasta exactament el mateix.
    - [ ] B) Gasta el doble (2 vegades més).
    - [ ] C) Gasta 62,5 vegades més diners en publicitat.
    - [ ] D) Gasta 10 vegades menys diners.
 
-6. **Quina és la raó principal per la qual La Fageda no destina milions d'euros a fer anuncis de televisió?**
+5. **Quina és la raó principal per la qual La Fageda no destina milions d'euros a fer anuncis de televisió?**
    - [ ] A) Perquè no tenen servei d'internet ni mitjans tècnics a la Garrotxa.
    - [ ] B) Perquè prefereixen retenir o reinvertir els diners en la millora de condicions socials, serveis i sous dels seus socis treballadors.
    - [ ] C) Perquè la llei els prohibeix fer anuncis a la televisió pública.
    - [ ] D) Perquè no volen que la gent conegui la seva marca.
 
-7. **Si sumem la quota de mercat de La Fageda (24%) i la de la resta de petites granges/ecològiques (12%) a la Taula 2, quin percentatge del mercat del iogurt a Catalunya controlen les marques locals petites/mitjanes en comparació amb la multinacional Danone (38%)?**
+6. **Si sumem la quota de mercat de La Fageda (24%) i la de la resta de petites granges/ecològiques (12%) a la Taula 2, quin percentatge del mercat del iogurt a Catalunya controlen les marques locals petites/mitjanes en comparació amb la multinacional Danone (38%)?**
    - [ ] A) Un 24%, exactament el mateix que La Fageda sola.
    - [ ] B) Un 36%, quedant-se a només 2 punts percentuals de la quota de Danone.
    - [ ] C) Un 50%, superant clarament la marca Danone.
    - [ ] D) Un 12%, ja que les marques petites no sumen.
 
-8. **A la Taula 2 es veu que les "Marques Blanques" (Mercadona, Carrefour, etc.) tenen un 26% del mercat. Quin percentatge del mercat del iogurt a Catalunya sumen entre La Fageda i la Marca Blanca?**
+7. **A la Taula 2 es veu que les "Marques Blanques" (Mercadona, Carrefour, etc.) tenen un 26% del mercat. Quin percentatge del mercat del iogurt a Catalunya sumen entre La Fageda i la Marca Blanca?**
    - [ ] A) 38%
    - [ ] B) 64%
    - [ ] C) 50%
    - [ ] D) 26%
 
-9. **Observant el Gràfic 1, si un inversor privat aconsegueix comprar el 51% de les accions d'una empresa mercantil tradicional (SA), quina capacitat de decisió real tenen el 100% dels treballadors de la fàbrica?**
-   - [ ] A) Tenen el 49% del poder de decisió.
-   - [ ] B) Poden bloquejar qualsevol decisió en l'Assemblea.
-   - [ ] C) Tenen un 0% de capacitat de decisió en l'organigrama empresarial.
-   - [ ] D) Decideixen la meitat de les coses en votació secreta.
-
-10. **Si en l'Assemblea General de La Fageda es vota una proposta i hi assisteixen el Director General, 3 enginyers i 20 operaris de producció, quin percentatge del total de vots representen els 20 operaris?**
+8. **Si en l'Assemblea General de La Fageda es vota una proposta i hi assisteixen el Director General, 3 enginyers i 20 operaris de producció, quin percentatge del total de vots representen els 20 operaris?**
    - [ ] A) El 20% dels vots.
-   - [ ] B) Aproximadament el 83,3% dels vots ($20 \text{ vots} / 24 \text{ vots totals}$).
+   - [ ] B) Aproximadament el 83,3% dels vots (20 vots d'un total de 24 vots).
    - [ ] C) El 50% dels vots, perquè es divideix per categories.
    - [ ] D) Un 0%, ja que els operaris no tenen dret a vot.
 
-11. **Analitzant la Taula 2, quina conclusió sobre l'eficiència de la publicitat es pot extreure si comparem Danone i La Fageda?**
+9. **Analitzant la Taula 2, quina conclusió sobre l'eficiència de la publicitat es pot extreure si comparem Danone i La Fageda?**
    - [ ] A) Com més diners gastes en publicitat, més percentatge exactament de mercat guanyes de forma proporcional.
    - [ ] B) La Fageda aconsegueix un 24% de mercat sense gastar milions en publicitat, demostrant que la reputació social i la qualitat de proximitat poden substituir la publicitat massiva.
    - [ ] C) Danone gasta masses pocs diners per la quota de mercat que té.
    - [ ] D) La publicitat no serveix de res per a cap tipus d'empresa.
 
-<div class="page-break"></div>
-
 #### PREGUNTES DESCRIPTIVES I D'ANÀLISI CRÍTICA (CAS LA FAGEDA)
 
-12. **Anàlisi de filosofia i gestió empresarial (Taula 1):**  
+10. **Anàlisi de filosofia i gestió empresarial (Taula 1):**  
     Analitza la relació entre la filosofia d'empresa i l'organització del treball:  
     a) Quin percentatge de la plantilla de La Fageda són persones amb discapacitat o en risc d'exclusió, i com es compara amb el mínim legal del 2% d'una empresa mercantil?  
     b) Explica per què La Fageda limita la seva escala salarial a una diferència màxima d'1 a 6 entre el sou més baix i el més alt, mentre que en una multinacional el Director pot cobrar fins a 100 vegades més. Quina relació té això amb els valors cooperatius?  
-    <div class="response-box" style="min-height: 170px;"></div>
+    <div class="response-box" style="min-height: 220px;"></div>
 
-13. **Anàlisi d'eficiència comercial (Taula 2):**  
+11. **Anàlisi d'eficiència comercial (Taula 2):**  
     Analitza la relació entre la despesa en publicitat i la quota de mercat:  
     a) Quin percentatge del mercat de iogurts a Catalunya aconsegueix La Fageda?  
     b) Raona com és possible que La Fageda aconsegueixi gairebé un quart de totes les vendes de Catalunya (24%) gastant només 200.000 € en publicitat, mentre que Danone en gasta 12,5 milions. Quins valors o factors fan que el consumidor triï La Fageda?  
-    <div class="response-box" style="min-height: 170px;"></div>
+    <div class="response-box" style="min-height: 220px;"></div>
 
-14. **Simulació de presa de decisions (Gràfic 1):**  
-    Imagina que l'empresa ha de decidir si aprova la construcció d'una nova residència/habitatge per als seus treballadors jubilats amb discapacitat (una inversió molt cara que no donarà beneficis econòmics directes):  
-    - Com es prendria aquesta decisió en una Multinacional SA tradicional i quina seria la resposta raonable dels seus accionistes?  
-    - Com es prendria aquesta decisió a l'Assemblea General de La Fageda i quin creus que seria el resultat de la votació? Justifica la teva resposta basant-te en la regla de "1 persona = 1 vot".  
-    <div class="response-box" style="min-height: 185px;"></div>
-
-15. **Resolució d'un dilema de planificació:**  
+12. **Resolució d'un dilema de planificació:**  
     Un consultor extern proposa a La Fageda acomiadar 20 treballadors amb discapacitat intel·lectual i substituir-los per un robot industrial automàtic per estalviar 400.000 € a l'any.  
     - Explica per què aquest canvi seria aprovat ràpidament en una empresa mercantil tradicional.  
     - Per què aquesta proposta serà rebutjada categòricament per l'Assemblea de La Fageda? Relaciona la teva resposta amb la missió fundacional de la cooperativa.  
-    <div class="response-box" style="min-height: 185px;"></div>
+    <div class="response-box" style="min-height: 240px;"></div>
+
+<br />
+
+### Activitat 4.3: Reflexió de Tancament del Bloc 4: La Cooperativa Artífex
+
+Què és el més important que has après en aquest bloc sobre el model cooperatiu i la gestió democràtica d'una empresa? Quines sorpreses o reflexions has tingut en analitzar el cas real de La Fageda i el debat dels diners, i com aplicaràs aquests valors (igualtat, empatia, presa de decisions per votació i responsabilitat social) durant el treball en equip a la nostra col·lectivitat emprenedora Artífex?
+
+<div class="response-box" style="min-height: 280px;"></div>
 
 <div class="page-break"></div>
-
-
 
 # BLOC 5: FASE 1 — LA GUSPIRA
 
@@ -645,8 +609,6 @@ A partir de la teva experiència i anàlisi com a membre del **Jurat de Disseny*
    - [ ] C) Fons totalment transparents sense cap tipus de coloració.
    - [ ] D) Colors pastel apagats i descolorits per no cridar l'atenció de ningú.
 
-<div class="page-break"></div>
-
 5. **Prova de validesa en Blanc i Negre:** Abans de triar la paleta de colors definitiva o afegir efectes al teu logotip, quina prova ha de superar primer per garantir que és un bon disseny?
    - [ ] A) Ha de veure's bé quan s'imprimeix en una mida gegant de 5 metres.
    - [ ] B) Ha de funcionar i ser perfectament llegible en escala de grisos (blanc i negre).
@@ -673,9 +635,9 @@ A partir de la teva experiència i anàlisi com a membre del **Jurat de Disseny*
 
 ---
 
-### Activitat 6.2: Anàlisi Crítica de 3 Noms de l'Atles (Les 5 Regles d'Or)
+### Activitat 6.2: Anàlisi Crítica de 2 Noms de l'Atles (Les 5 Regles d'Or)
 
-Després d'explorar les cartes interactives de l'**Atles de 100 Noms de Marca** al web, selecciona 3 marques que t'hagin cridat l'atenció i avalua cadascuna d'elles segons **Les 5 Regles d'Or del Naming**. Marca amb una creu [X] les regles que compleix i redacta una breu conclusió sobre si és un bon nom o no i per quina raó:
+Després d'explorar les cartes interactives de l'**Atles de 100 Noms de Marca** al web, selecciona 2 marques que t'hagin cridat l'atenció i avalua cadascuna d'elles segons **Les 5 Regles d'Or del Naming**. Marca amb una creu [X] les regles que compleix i redacta una breu conclusió sobre si és un bon nom o no i per quina raó:
 
 #### 1. Primera Marca Seleccionada
 - **Nom de la marca:** <span style="border-bottom: 1.5px dashed #666; display: inline-block; width: 35%;"></span> | **Tipologia:** <span style="border-bottom: 1.5px dashed #666; display: inline-block; width: 35%;"></span>
@@ -693,21 +655,6 @@ Després d'explorar les cartes interactives de l'**Atles de 100 Noms de Marca** 
 <br />
 
 #### 2. Segona Marca Seleccionada
-- **Nom de la marca:** <span style="border-bottom: 1.5px dashed #666; display: inline-block; width: 35%;"></span> | **Tipologia:** <span style="border-bottom: 1.5px dashed #666; display: inline-block; width: 35%;"></span>
-
-- **Avaluació segons les 5 Regles d'Or del Naming:**
-  - [ ] **Simplicitat:** Nom curt (2-3 síl·labes), sonor i fàcil de pronunciar i escriure.
-  - [ ] **Memorabilitat:** Es queda gravat fàcilment a la memòria a la primera.
-  - [ ] **Coherència:** Té connexió directa amb el concepte, origen o emoció que representa.
-  - [ ] **Versatilitat:** Permet ampliar l'empresa sense limitar el tipus de producte.
-  - [ ] **Originalitat:** Distintiu i fàcilment diferenciable de la competència.
-
-- **Conclusió sobre l'efectivitat del nom:** (És un bon nom? Per quina raó?)
-  <div class="response-box" style="min-height: 65px;"></div>
-
-<br />
-
-#### 3. Tercera Marca Seleccionada
 - **Nom de la marca:** <span style="border-bottom: 1.5px dashed #666; display: inline-block; width: 35%;"></span> | **Tipologia:** <span style="border-bottom: 1.5px dashed #666; display: inline-block; width: 35%;"></span>
 
 - **Avaluació segons les 5 Regles d'Or del Naming:**
@@ -740,6 +687,11 @@ A partir de la teoria treballada al web (💡 **Les 5 Regles d'Or del Naming** i
    - [ ] **Versatilitat:** Et permetrà crear diferents tipus de joies en el futur?
    - [ ] **Originalitat:** És un nom distintiu que no es confon amb marques existents?
 
+3. **Conclusió sobre l'efectivitat del nom:** (És un bon nom? Per quina raó?)  
+   Justifica per què el nom que has triat és una bona opció comercial per a la teva col·lecció de joies:
+   
+   <div class="response-box" style="min-height: 160px;"></div>
+
 <div class="page-break"></div>
 
 ---
@@ -753,32 +705,34 @@ Observa els **dos casos reals de logotips mal dissenyats** que apareixen a la we
   <img src="/artifex/media/bad_logo_ejido.png" alt="Logo C. Pvo. Ejido" style="max-height: 200px; border: 1px solid #ddd; border-radius: 8px; padding: 0.5rem; background: #fff;" />
 </div>
 
-- **Avaluació dels criteris de disseny visual:**
-  - [ ] **Simplicitat i Síntesi:** Disseny neta sense acumulació ni saturació de dibuixos/cliparts.
-  - [ ] **Llegibilitat i Tipografia:** Text clar i fàcil de llegir immediatament sense esforç.
-  - [ ] **Escalabilitat:** Es veu bé quan es redueix a mides petites (avatar mòbil o gravat).
-  - [ ] **Jerarquia Visual:** Hi ha un ordre d'importància visual clar i ben estructurat.
-  - [ ] **Compatibilitat Monocrom:** Funciona perfectament en 1 sol color (blanc i negre pur / làser).
+- **Avaluació dels Criteris de Disseny Visual:**
+  - [ ] **1. Simplicitat:** Disseny net i directe, sense ornaments ni detalls recarregats.
+  - [ ] **2. Escalabilitat:** Manté la claredat visual tant en gran com reduït a un gravat de 10 mm.
+  - [ ] **3. Jerarquia i Llegibilitat:** El nom de la marca destaca i es llegeix a la primera mirada.
+  - [ ] **4. Atemporalitat i Valors:** Transmet la personalitat de la marca i resisteix el pas del temps.
+  - [ ] **5. Viabilitat Tècnica (Prova de les Tisores):** Formes netes i línies unificades, apte per a vinil de tall, gravat làser i fabricació de taller.
+  - [ ] **6. Prova del Blanc i Negre (1 Color):** Funciona 100% en un sol color pur, sense ombres ni degradats.
 
 - **Reflexió final d'anàlisi crítica i propostes de millora:** (Quins errors greus comet? Com el redissenyaries des de zero?)
-  <div class="response-box" style="min-height: 75px;"></div>
+  <div class="response-box" style="min-height: 190px;"></div>
 
-<br />
+<div class="page-break"></div>
 
 #### 2. Cas 2: Logotip del Reykjavík Art Museum (Listasafn Hafnarhús)
 <div style="text-align: center; margin: 0.75rem 0;">
   <img src="/artifex/media/bad_logo_reykjavik.jpg" alt="Logo Reykjavik Art Museum" style="max-height: 200px; border: 1px solid #ddd; border-radius: 8px; padding: 0.5rem; background: #fff;" />
 </div>
 
-- **Avaluació dels criteris de disseny visual:**
-  - [ ] **Simplicitat i Síntesi:** Disseny neta sense acumulació ni saturació de dibuixos/cliparts.
-  - [ ] **Llegibilitat i Tipografia:** Text clar i fàcil de llegir immediatament sense esforç.
-  - [ ] **Escalabilitat:** Es veu bé quan es redueix a mides petites (avatar mòbil o gravat).
-  - [ ] **Jerarquia Visual:** Hi ha un ordre d'importància visual clar i ben estructurat.
-  - [ ] **Compatibilitat Monocrom:** Funciona perfectament en 1 sol color (blanc i negre pur / làser).
+- **Avaluació dels Criteris de Disseny Visual:**
+  - [ ] **1. Simplicitat:** Disseny net i directe, sense ornaments ni detalls recarregats.
+  - [ ] **2. Escalabilitat:** Manté la claredat visual tant en gran com reduït a un gravat de 10 mm.
+  - [ ] **3. Jerarquia i Llegibilitat:** El nom de la marca destaca i es llegeix a la primera mirada.
+  - [ ] **4. Atemporalitat i Valors:** Transmet la personalitat de la marca i resisteix el pas del temps.
+  - [ ] **5. Viabilitat Tècnica (Prova de les Tisores):** Formes netes i línies unificades, apte per a vinil de tall, gravat làser i fabricació de taller.
+  - [ ] **6. Prova del Blanc i Negre (1 Color):** Funciona 100% en un sol color pur, sense ombres ni degradats.
 
 - **Reflexió final d'anàlisi crítica i propostes de millora:** (Quins errors greus comet? Com el redissenyaries des de zero?)
-  <div class="response-box" style="min-height: 75px;"></div>
+  <div class="response-box" style="min-height: 190px;"></div>
 
 <div class="page-break"></div>
 
@@ -786,64 +740,77 @@ Observa els **dos casos reals de logotips mal dissenyats** que apareixen a la we
 
 ### Activitat 6.5: Desenvolupament i Esbós del Logotip Corporatiu
 
-Aplica **Les 5 Regles d'Or d'un Bon Logo**, la **Tècnica de les Tisores** (silueta retallable) i la **Tècnica del Blanc i Negre** (1 sol color) per crear la imatge visual de la marca:
+Aplica la **Guia de Disseny de Logotips** treballada a la web per crear la identitat visual de la teva marca. Assegura't que el teu disseny compleixi **Les Regles d'Or d'un Bon Logo** (*simplicitat, escalabilitat, jerarquia visual i atemporalitat*), superi la **Viabilitat Tècnica amb la Prova de les Tisores** (*formes netes i línies unificades aptes per a vinil i làser*) i funcioni en la **Prova del Blanc i Negre** (*1 sol color pur sense ombres ni degradats*):
 
-#### 1. Pluja d'Idees i Esbossos Inicials del Logotip (Mitja Pàgina de Disseny)
-<div style="border: 2px dashed #888; border-radius: 10px; height: 320px; text-align: center; padding: 0.75rem; color: #666; background: #ffffff; margin: 0.75rem 0;">
-  <strong>[ Espai Gran per a la Pluja d'Idees, Proves de Siluetes i Dibuix d'Esbossos del Logotip ]</strong>
-</div>
-
-#### 2. Esbós Definitiu del Logotip Seleccionat
-<div style="border: 2px solid var(--sl-color-accent); border-radius: 10px; height: 170px; text-align: center; padding: 0.75rem; color: var(--sl-color-accent-high); background: #fffcf8; margin: 0.75rem 0;">
-  <strong>[ Dibuix Definitiu de l'Isologotip de la Marca ]</strong>
-</div>
-
-- **Verificació de qualitat del disseny:**  
-  a) Passa la Prova de les Tisores (silueta tancada i neta sense detalls que es trenquin)? <span style="border-bottom: 1.5px dashed #666; display: inline-block; width: 20%;"></span>  
-  b) Funciona 100% en Blanc i Negre pur (apte per a gravat làser i encuny)? <span style="border-bottom: 1.5px dashed #666; display: inline-block; width: 20%;"></span>
-
-### Activitat 6.6: Pluja d'Idees i Disseny de la Línia de Joieria (Full Sencer)
-
-> 🎨 **FULL SENCER D'ESBOSSOS DE LA COL·LECCIÓ D'ARRACADES:**  
-> Utilitza tot aquest full per dibuixar a mà alçada diferents idees, variacions de formes geomètriques, motius vegetals o estructures inspirades en la teva font d'inspiració (Natura, Geometria, Art o Simbolisme):
-
-<div style="border: 2px dashed #7F1146; border-radius: 12px; height: 520px; text-align: center; padding: 1rem; color: #7F1146; background: #ffffff; margin: 1rem 0;">
-  <strong>[ ESPAI DE FULL SENCER PER A LA PLUJA D'IDEES I DISSENY DE LA LÍNIA D'ARRACADES ]</strong>
-  <p style="font-size: 0.85rem; color: #777; margin-top: 0.5rem;">Dibuixa almenys 3 o 4 propostes d'arracades que comparteixin la mateixa paleta, línies i estil visual.</p>
-</div>
-
-- **Font d'inspiració principal seleccionada (Natura / Geometria / Art / Simbolisme):** <span style="border-bottom: 1.5px dashed #666; display: inline-block; width: 45%;"></span>
-- **Elements comuns que unifiquen tota la col·lecció:**
-  <div class="response-box" style="min-height: 70px;"></div>
+#### 1. Pluja d'Idees i Esbossos Inicials del Logotip (Full Sencer)
 
 <div class="page-break"></div>
 
+#### 2. Esbós Definitiu del Logotip Seleccionat
+<div style="border: 2px solid var(--sl-color-accent); border-radius: 10px; height: 295px; background: #fffcf8; margin: 0.75rem 0;"></div>
+
+#### 3. Avaluació dels Criteris de Disseny i Verificació de Qualitat
+Marca amb una [X] les caselles de les regles i proves que COMPLEIX el teu disseny definitiu:
+- [ ] **1. Simplicitat:** Disseny net i directe, sense ornaments ni detalls recarregats.
+- [ ] **2. Escalabilitat:** Manté la claredat visual tant en gran com reduït a un gravat de 10 mm.
+- [ ] **3. Jerarquia i Llegibilitat:** El nom de la marca destaca i es llegeix a la primera mirada.
+- [ ] **4. Atemporalitat i Valors:** Transmet la personalitat de la marca i resisteix el pas del temps.
+- [ ] **5. Viabilitat Tècnica (Prova de les Tisores):** Formes netes i línies unificades, apte per a vinil de tall, gravat làser i fabricació de taller.
+- [ ] **6. Prova del Blanc i Negre (1 Color):** Funciona 100% en un sol color pur, sense ombres ni degradats.
+
+#### 4. Reflexió Final i Justificació de Qualitat del Logotip
+Justifica per què consideres que el logotip seleccionat és un bon disseny i de quina manera transmet la identitat i els valors de la teva marca:
+
+<div class="response-box" style="min-height: 120px;"></div>
+
+<div class="page-break"></div>
+
+### Activitat 6.6: Pluja d'Idees i Disseny de la Línia de Joieria (Full Sencer)
+
+Dibuixa a mà alçada diferents esbossos i propostes de peces per a la teva col·lecció de joies (arracades, penjolls, etc.). Assegura't que totes les peces comparteixin una mateixa línia estètica i justifica la seva connexió amb la història i l'origen que has definit al teu Moodboard (la teva Guspira):
+
+- **Font d'inspiració principal seleccionada (Natura / Geometria / Art / Simbolisme):** <span style="border-bottom: 1.5px dashed #666; display: inline-block; width: 45%;"></span>
+
+<div style="border: 2px dashed #7F1146; border-radius: 12px; height: 550px; background: #ffffff; margin: 1rem 0;"></div>
+
+- **Justificació de la connexió de la col·lecció amb la teva història (Moodboard / Guspira):**
+  <div class="response-box" style="min-height: 120px;"></div>
+
+<div class="page-break"></div>
+
+# BLOC 7: FASE 3 — DISSENY TÈCNIC
+
+### Activitat 7.1: Tasca Avaluable de Disseny Tècnic a Google Classroom
+
+En aquesta fase realitzaràs **1 tasca avaluable a Google Classroom** anomenada **Disseny Tècnic**. Per dur-la a terme, et connectaràs a la classe oficial de **Tinkercad Classroom** i hauràs de crear i lliurar les següents **3 tasques de disseny digital**:
+
 ---
 
-# BLOC 7: FASE 3 — DISSENY TÈCNIC (CAD 2D/3D I CODEBLOCKS)
+#### 📌 Tasca 1: Logo Munay (Pràctica Guiada)
+* **Descripció:** Reproducció del logotip Munay pas a pas seguint el videotutorial explicatiu disponible a la pàgina web del projecte.
+* **Eina:** Tinkercad (Dibuix / Disseny 2D).
+* **Estat de lliurament:** [ ] Completat i lliurat a Tinkercad Classroom
 
-### Activitat 7.1: Operacions Booleanes en Disseny CAD 2D/3D (TinkerCAD)
+#### 📌 Tasca 2: Logotip Corporatiu Propi (Vectorització 2D)
+* **Descripció:** Disseny del teu propi logotip utilitzant l'eina **"Extrude Sketch"** per crear el dibuix en 2D en format vectorial.
+* **Requisit tècnic:** La mida del logotip **no pot superar els 10 × 10 cm** (100 × 100 mm).
+* **Estat de lliurament:** [ ] Completat i lliurat a Tinkercad Classroom
 
-En el disseny assistit per ordinador, les peces complexes es construeixen mitjançant combinacions de formes primitives utilitzant operacions d'**Unió** (afegir volum) i **Resta / Forat** (subtreure volum).
-
-1. **Analitza el teu logotip vectoritzat (2D): Quines figures geomètriques bàsiques (cercles, rectangles, polígons) has unit o restat per construir la silueta?**
-   
-   <div class="response-box" style="min-height: 80px;"></div>
-
-<div style="border: 2px dashed #888; border-radius: 8px; height: 180px; text-align: center; padding: 0.5rem; color: #666; margin: 0.75rem 0; background: #ffffff;">
-  [ Dibuix en Planta 2D del Logotip Vectorial amb indicació d'operacions ]
-</div>
+#### 📌 Tasca 3: Arracada 3D Paramètrica (Tinkercad Blocs / Codeblocks)
+* **Descripció:** Creació del modelat 3D de l'arracada de la teva col·lecció utilitzant l'eina **Tinkercad Blocs (Codeblocks)** amb programació visual de blocs. **No es poden utilitzar les eines de disseny 3D clàssiques**.
+* **Requisit tècnic de mides:** La mida de l'arracada **no pot ser més gran de 4 × 4 × 0,5 cm** (40 × 40 × 5 mm).
+* **Recursos d'aprenentatge:** Per aprendre a utilitzar Tinkercad Blocs, pots seguir la proposta del teu **Pla Personal** o fer un tastet interactiu a la guia Genially: [https://view.genially.com/63e9fe297b59920018684b42](https://view.genially.com/63e9fe297b59920018684b42).
+* **Estat de lliurament:** [ ] Completat i lliurat a Tinkercad Classroom
 
 ---
 
-### Activitat 7.2: Programació i Cotes a Tinkercad Codeblocks
+#### 📝 Registre i Reflexió de la Tasca de Disseny Tècnic
 
-Indica les mesures reals en mil·límetres (cotes) de la peça dissenyada per a fabricació:
+1. **Nom d'usuari a Tinkercad Classroom:** <span style="border-bottom: 1.5px dashed #666; display: inline-block; width: 50%;"></span>
+2. **Explica breument quines dificultats has tingut al dissenyar el logo amb l'eina "Extrude Sketch" i com les has solucionat:**
+   <div class="response-box" style="min-height: 90px;"></div>
 
-* **Alçada ($h$):** <span style="border-bottom: 1.5px dashed #666; display: inline-block; width: 15%;"></span> mm | **Amplada ($w$):** <span style="border-bottom: 1.5px dashed #666; display: inline-block; width: 15%;"></span> mm | **Gruix ($t$):** <span style="border-bottom: 1.5px dashed #666; display: inline-block; width: 15%;"></span> mm
-
-- **Codi de blocs utilitzat:** Explica breument quins blocs visuals has fet servir a Codeblocks per crear la forma base, el forat del ganxo i el parell simètric d'arracades:
-   
+3. **Explica quin avantatge t'ha aportat utilitzar Tinkercad Blocs (Codeblocks) per crear l'arracada 3D respecte al disseny tradicional:**
    <div class="response-box" style="min-height: 90px;"></div>
 
 <div class="page-break"></div>
@@ -873,7 +840,7 @@ Abans d'analitzar el cas pràctic, és fonamental entendre les diferències conc
 > 📖 **LECTURA DEL CAS REAL DE FABRICACIÓ A CATALUNYA:**  
 > Dues empreses de joieria reconegudes a Catalunya fabriquen col·leccions d'arracades i complements utilitzant dos sistemes de producció completament oposats:  
 > 
-> **1. El Taller d'Artesania Joiera d'Autor (ex. Majoral Joiers - Formentera / Barcelona):** Un mestre joier artesà amb carnet oficial d'Artesania de Catalunya fabrica cada parell d'arracades manualment a mà alçada, modelant, forjant, polint i incrustant peça per peça. Cada joia requereix **3 hores de feina d'alta orfebreria** ($25 \text{ €/hora}$ de mà d'obra). La producció és molt reduïda (10 a 15 parells a la setmana), però cada joia és un objecte d'autor únic, irrepetible i exclusiu.  
+> **1. El Taller d'Artesania Joiera d'Autor (ex. Majoral Joiers - Formentera / Barcelona):** Un mestre joier artesà amb carnet oficial d'Artesania de Catalunya fabrica cada parell d'arracades manualment a mà alçada, modelant, forjant, polint i incrustant peça per peça. Cada joia requereix **3 hores de feina d'alta orfebreria** (25 €/hora de mà d'obra). La producció és molt reduïda (10 a 15 parells a la setmana), però cada joia és un objecte d'autor únic, irrepetible i exclusiu.  
 > 
 > **2. La Fàbrica Industrial Automatitzada (ex. TOUS - Sabadell / Manresa):** Produeix icones de joieria en una línia de **producció en cadena automatitzada** amb microfusió en sèrie, tall per làser industrial i electroformació 3D. La instal·lació requereix una inversió de **120.000 €**, però produeix 1 parell d'arracades cada **45 segons** (0,75 minuts), requerint només la supervisió d'un operari tècnic.
 
@@ -884,7 +851,7 @@ Abans d'analitzar el cas pràctic, és fonamental entendre les diferències conc
 | **Temps per parell** | 180 minuts (3 hores)                    | 0.75 minuts (45 segons)       |
 | **Volum setmanal**   | 10-15 parells / setmana                 | 3.500 parells / setmana       |
 | **Inversió en eines**| 800 € (banc de treball i eines manuals)| 120.000 € (línia làser i electroformació) |
-| **Cost mà d'obra/u** | 75.00 € / parell ($3\text{h} \times 25\text{€}$) | 0.35 € / parell (supervisió)  |
+| **Cost mà d'obra/u** | 75.00 € / parell (3 h × 25 €/h)         | 0.35 € / parell (supervisió)  |
 | **Tipus de producte**| Peces úniques d'autor amb carnet d'artesà | Peces 100% idèntiques en sèrie industrial |
 | **Preu de venda al públic**| Alt (180 € - 350 €)                   | Assequible/Mitjà (35 € - 85 €)|
 
@@ -940,26 +907,29 @@ Emplena les fitxes de l'informe tècnic de taller per al procés de fabricació 
 > 📖 **LECTURA DEL CAS FINANCER DE LA COOPERATIVA:**  
 > La Cooperativa Artífex ha calculat l'estructura de costos per a la producció de la seva col·lecció d'arracades:  
 > 
-> - **Costos Fixos ($CF$):** **600 €** (inclou l'amortització de les màquines de l'aula, llicències i publicitat inicial).  
-> - **Cost Variable Unitari ($CV_u$):** **1,50 €** per parell d'arracades (fusta, acrílic, enganxalls de metall i packaging).  
-> - **Preu de Venda al Públic ($P$):** **6,50 €** per parell d'arracades.  
+> - **Costos Fixos (CF):** **600 €** (inclou l'amortització de les màquines de l'aula, llicències i publicitat inicial).  
+> - **Cost Variable Unitari (CVu):** **1,50 €** per parell d'arracades (fusta, acrílic, enganxalls de metall i packaging).  
+> - **Preu de Venda al Públic (P):** **6,50 €** per parell d'arracades.  
 > 
-> El **Punt d'Equilibri ($PE$)** indica la quantitat exacta de parells d'arracades que la cooperativa ha de vendre per cobrir tots els costos ($CF + CV$). A partir d'aquesta quantitat, l'empresa comença a obtenir **beneficis nets**.
+> El **Punt d'Equilibri (PE)** indica la quantitat exacta de parells d'arracades que la cooperativa ha de vendre per cobrir tots els costos (CF + CV). A partir d'aquesta quantitat, l'empresa comença a obtenir **beneficis nets**.
 
 ![Gràfica del Punt d'Equilibri Financer](/artifex/media/grafica_break_even.svg)
 
-#### FÓRMULA MATEMÀTICA DEL PUNT D'EQUILIBRI
-$$PE = \frac{\text{Costos Fixos}}{\text{Preu de Venda} - \text{Cost Variable Unitari}} = \frac{CF}{P - CV_u}$$
+#### FÓRMULA DEL PUNT D'EQUILIBRI
+
+<div style="background: #fafafa; border-left: 5px solid var(--sl-color-accent-high); padding: 0.85rem 1.25rem; border-radius: 8px; font-weight: bold; text-align: center; margin: 1rem 0; color: var(--sl-color-accent-high);">
+  Punt d'Equilibri (PE) = Costos Fixos / (Preu de Venda - Cost Variable Unitari) = CF / (P - CVu)
+</div>
 
 <br />
 
 #### PREGUNTES TIPUS TEST FINANCERES
 
-1. **Quin és el Punt d'Equilibri ($PE$) de la Cooperativa Artífex segons les dades del cas?**
-   - [ ] A) $PE = 600 / (6.50 - 1.50) = 120 \text{ parells d'arracades}$.
-   - [ ] B) $PE = 600 / 6.50 = 92.3 \text{ parells d'arracades}$.
-   - [ ] C) $PE = 600 \times 1.50 = 900 \text{ parells d'arracades}$.
-   - [ ] D) $PE = 0 \text{ parells}$, ja que es guanyen diners des del primer dia.
+1. **Quin és el Punt d'Equilibri (PE) de la Cooperativa Artífex segons les dades del cas?**
+   - [ ] A) PE = 600 / (6,50 - 1,50) = 120 parells d'arracades.
+   - [ ] B) PE = 600 / 6,50 = 92,3 parells d'arracades.
+   - [ ] C) PE = 600 × 1,50 = 900 parells d'arracades.
+   - [ ] D) PE = 0 parells, ja que es guanyen diners des del primer dia.
 
 2. **Què passa si la cooperativa ven exactament 120 parells d'arracades?**
    - [ ] A) Té pèrdues de 300 €.
@@ -973,8 +943,8 @@ $$PE = \frac{\text{Costos Fixos}}{\text{Preu de Venda} - \text{Cost Variable Uni
 
 3. **Càlcul de Benefici Net:**  
    Si la cooperativa aconsegueix vendre **200 parells d'arracades** durant la fira de l'institut:  
-   a) Quins seran els ingressos totals ($200 \times 6,50 \text{ €}$)?  
-   b) Quins seran els costos totals ($CF + 200 \times CV_u$)?  
+   a) Quins seran els ingressos totals (200 × 6,50 €)?  
+   b) Quins seran els costos totals (CF + 200 × CVu)?  
    c) Quin serà el **benefici net final** de la cooperativa?  
    <div class="response-box" style="min-height: 130px;"></div>
 

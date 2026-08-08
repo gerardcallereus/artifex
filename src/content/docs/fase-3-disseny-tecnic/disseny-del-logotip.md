@@ -14,10 +14,6 @@ description: Guia de vectorització 2D i dibuix tècnic del logotip corporatiu.
   </ul>
 </div>
 
-:::note[Vectoritzar és definir matemàticament]
-Una imatge de mapa de píxels es pixela en ampliar-la; un vector es basa en equacions de corba que mantenen una nítidesa perfecta a qualsevol mida.
-:::
-
 ---
 
 ## ✒️ Què és el Dibuix Vectorial 2D?
@@ -30,9 +26,16 @@ A diferència d'una fotografia presa amb el mòbil (formada per milions de punts
 
 ---
 
-## 🛠️ Passos per Vectoritzar el teu Logo
+## 🛠️ Tasques de Disseny de Logotip a Tinkercad Classroom
 
-1. **Captura de l'esbós:** Fes una foto neta o escaneja el teu esbós a mà alçada de la Carpeta d'aprenentatge.
-2. **Calcat de silueta:** Utilitza eines de traçat per definir les línies exteriors neta.
-3. **Simplificació geomètrica:** Substitueix línies irregulars per cercles, polígons regulars i corbes suaus.
-4. **Verificació de la Prova de les Tisores:** Assegura't que el fitxer vectorial manté una silueta tancada sense línies soltes.
+En aquesta secció de disseny de logotip realitzaràs les **dues primeres tasques** del lliurament de Google Classroom:
+
+1. **📌 Tasca 1: Logo Munay (Pràctica Guiada)**  
+   Reproducció del logotip Munay pas a pas seguint el videotutorial explicatiu. Aquesta tasca et permetrà aprendre les eines bàsiques de dibuix 2D a Tinkercad:
+
+   > 🎬 **Videotutorial pas a pas:** [Veure tutorial a YouTube](https://youtu.be/EgTj1iHCwH4)
+   >
+   > <iframe src="https://www.youtube.com/embed/EgTj1iHCwH4" title="Tutorial TinkerCAD Logo Munay" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen style="width: 100%; aspect-ratio: 16/9; border-radius: 8px; border: 1px solid rgba(193, 40, 114, 0.2); margin-top: 0.5rem; margin-bottom: 1rem; box-shadow: 0 4px 15px rgba(0,0,0,0.1);"></iframe>.
+2. **📌 Tasca 2: Logotip Corporatiu Propi (Vectoritzat 2D)**  
+   Crea el disseny vectorial del teu propi logotip utilitzant l'eina **"Extrude Sketch"**.  
+   ⚠️ **Requisit d'alçada i cotes:** La mida final del teu logotip **no pot ser més gran de 10 × 10 cm (100 × 100 mm)** per garantir una fabricació i gravat làser correctes.
