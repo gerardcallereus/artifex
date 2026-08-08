@@ -671,11 +671,156 @@ A partir de la teva experiència i anàlisi com a membre del **Jurat de Disseny*
    - [ ] C) El disseny és comunicació: si un logotip no comunica el missatge correcte ni es pot llegir clarament, no serveix de res per molt "bonic" que sigui.
    - [ ] D) El més important d'un logo és que tingui la imatge més gran possible que hi quedi.
 
+---
+
+### Activitat 6.2: Anàlisi Crítica de 3 Noms de l'Atles (Les 5 Regles d'Or)
+
+Després d'explorar les cartes interactives de l'**Atles de 100 Noms de Marca** al web, selecciona 3 marques que t'hagin cridat l'atenció i avalua cadascuna d'elles segons **Les 5 Regles d'Or del Naming**. Marca amb una creu [X] les regles que compleix i redacta una breu conclusió sobre si és un bon nom o no i per quina raó:
+
+#### 1. Primera Marca Seleccionada
+- **Nom de la marca:** <span style="border-bottom: 1.5px dashed #666; display: inline-block; width: 35%;"></span> | **Tipologia:** <span style="border-bottom: 1.5px dashed #666; display: inline-block; width: 35%;"></span>
+
+- **Avaluació segons les 5 Regles d'Or del Naming:**
+  - [ ] **Simplicitat:** Nom curt (2-3 síl·labes), sonor i fàcil de pronunciar i escriure.
+  - [ ] **Memorabilitat:** Es queda gravat fàcilment a la memòria a la primera.
+  - [ ] **Coherència:** Té connexió directa amb el concepte, origen o emoció que representa.
+  - [ ] **Versatilitat:** Permet ampliar l'empresa sense limitar el tipus de producte.
+  - [ ] **Originalitat:** Distintiu i fàcilment diferenciable de la competència.
+
+- **Conclusió sobre l'efectivitat del nom:** (És un bon nom? Per quina raó?)
+  <div class="response-box" style="min-height: 65px;"></div>
+
+<br />
+
+#### 2. Segona Marca Seleccionada
+- **Nom de la marca:** <span style="border-bottom: 1.5px dashed #666; display: inline-block; width: 35%;"></span> | **Tipologia:** <span style="border-bottom: 1.5px dashed #666; display: inline-block; width: 35%;"></span>
+
+- **Avaluació segons les 5 Regles d'Or del Naming:**
+  - [ ] **Simplicitat:** Nom curt (2-3 síl·labes), sonor i fàcil de pronunciar i escriure.
+  - [ ] **Memorabilitat:** Es queda gravat fàcilment a la memòria a la primera.
+  - [ ] **Coherència:** Té connexió directa amb el concepte, origen o emoció que representa.
+  - [ ] **Versatilitat:** Permet ampliar l'empresa sense limitar el tipus de producte.
+  - [ ] **Originalitat:** Distintiu i fàcilment diferenciable de la competència.
+
+- **Conclusió sobre l'efectivitat del nom:** (És un bon nom? Per quina raó?)
+  <div class="response-box" style="min-height: 65px;"></div>
+
+<br />
+
+#### 3. Tercera Marca Seleccionada
+- **Nom de la marca:** <span style="border-bottom: 1.5px dashed #666; display: inline-block; width: 35%;"></span> | **Tipologia:** <span style="border-bottom: 1.5px dashed #666; display: inline-block; width: 35%;"></span>
+
+- **Avaluació segons les 5 Regles d'Or del Naming:**
+  - [ ] **Simplicitat:** Nom curt (2-3 síl·labes), sonor i fàcil de pronunciar i escriure.
+  - [ ] **Memorabilitat:** Es queda gravat fàcilment a la memòria a la primera.
+  - [ ] **Coherència:** Té connexió directa amb el concepte, origen o emoció que representa.
+  - [ ] **Versatilitat:** Permet ampliar l'empresa sense limitar el tipus de producte.
+  - [ ] **Originalitat:** Distintiu i fàcilment diferenciable de la competència.
+
+- **Conclusió sobre l'efectivitat del nom:** (És un bon nom? Per quina raó?)
+  <div class="response-box" style="min-height: 65px;"></div>
+
+---
+
+### Activitat 6.3: Elecció i Anàlisi del Nom de la Marca (Naming de la Col·lecció)
+
+A partir de la teoria treballada al web (💡 **Les 5 Regles d'Or del Naming** i 🎯 **Tipologies de Naming**), defineix i analitza el nom comercial de la teva col·lecció de joies:
+
+- **Nom final seleccionat per a la marca:** <span style="border-bottom: 1.5px dashed #666; display: inline-block; width: 65%;"></span>
+- **Tipologia de Naming triada (Fundador / Conceptual / Emocional / Origen):** <span style="border-bottom: 1.5px dashed #666; display: inline-block; width: 40%;"></span>
+
+1. **Justificació de la relació del nom amb la teva Guspira / Moodboard:** Explica quin record, emoció, concepte o origen representa aquest nom:
+   
+   <div class="response-box" style="min-height: 90px;"></div>
+
+2. **Avaluació del Nom segons les 5 Regles d'Or del Naming:**
+   - [ ] **Simplicitat:** És un nom curt (2-3 síl·labes), sonor i fàcil d'escriure?
+   - [ ] **Memorabilitat:** Es queda fàcilment gravat a la memòria a la primera?
+   - [ ] **Coherència:** Té connexió directa amb el relat del teu Moodboard?
+   - [ ] **Versatilitat:** Et permetrà crear diferents tipus de joies en el futur?
+   - [ ] **Originalitat:** És un nom distintiu que no es confon amb marques existents?
+
 <div class="page-break"></div>
 
 ---
 
-# BLOC 7: FASE 3 — DISSENY TÈCNIC (CAD 2D/3D I GEOMETRIA)
+### Activitat 6.4: Anàlisi Crítica de Logotips Mal Dissenyats (Casos Reals)
+
+Observa els **dos casos reals de logotips mal dissenyats** que apareixen a la web del projecte (el del *Club Polideportivo Ejido* i el del *Reykjavík Art Museum*). Avalua cadascun d'ells segons tots els criteris de disseny gràfic treballats (Les 5 Regles d'Or i els principis visuals). Marca les caselles [X] de les regles que COMPLEIX i redacta una reflexió final sobre els seus errors i com el redissenyaries:
+
+#### 1. Cas 1: Logotip del Club Polideportivo Ejido
+<div style="text-align: center; margin: 0.75rem 0;">
+  <img src="/artifex/media/bad_logo_ejido.png" alt="Logo C. Pvo. Ejido" style="max-height: 200px; border: 1px solid #ddd; border-radius: 8px; padding: 0.5rem; background: #fff;" />
+</div>
+
+- **Avaluació dels criteris de disseny visual:**
+  - [ ] **Simplicitat i Síntesi:** Disseny neta sense acumulació ni saturació de dibuixos/cliparts.
+  - [ ] **Llegibilitat i Tipografia:** Text clar i fàcil de llegir immediatament sense esforç.
+  - [ ] **Escalabilitat:** Es veu bé quan es redueix a mides petites (avatar mòbil o gravat).
+  - [ ] **Jerarquia Visual:** Hi ha un ordre d'importància visual clar i ben estructurat.
+  - [ ] **Compatibilitat Monocrom:** Funciona perfectament en 1 sol color (blanc i negre pur / làser).
+
+- **Reflexió final d'anàlisi crítica i propostes de millora:** (Quins errors greus comet? Com el redissenyaries des de zero?)
+  <div class="response-box" style="min-height: 75px;"></div>
+
+<br />
+
+#### 2. Cas 2: Logotip del Reykjavík Art Museum (Listasafn Hafnarhús)
+<div style="text-align: center; margin: 0.75rem 0;">
+  <img src="/artifex/media/bad_logo_reykjavik.jpg" alt="Logo Reykjavik Art Museum" style="max-height: 200px; border: 1px solid #ddd; border-radius: 8px; padding: 0.5rem; background: #fff;" />
+</div>
+
+- **Avaluació dels criteris de disseny visual:**
+  - [ ] **Simplicitat i Síntesi:** Disseny neta sense acumulació ni saturació de dibuixos/cliparts.
+  - [ ] **Llegibilitat i Tipografia:** Text clar i fàcil de llegir immediatament sense esforç.
+  - [ ] **Escalabilitat:** Es veu bé quan es redueix a mides petites (avatar mòbil o gravat).
+  - [ ] **Jerarquia Visual:** Hi ha un ordre d'importància visual clar i ben estructurat.
+  - [ ] **Compatibilitat Monocrom:** Funciona perfectament en 1 sol color (blanc i negre pur / làser).
+
+- **Reflexió final d'anàlisi crítica i propostes de millora:** (Quins errors greus comet? Com el redissenyaries des de zero?)
+  <div class="response-box" style="min-height: 75px;"></div>
+
+<div class="page-break"></div>
+
+---
+
+### Activitat 6.5: Desenvolupament i Esbós del Logotip Corporatiu
+
+Aplica **Les 5 Regles d'Or d'un Bon Logo**, la **Tècnica de les Tisores** (silueta retallable) i la **Tècnica del Blanc i Negre** (1 sol color) per crear la imatge visual de la marca:
+
+#### 1. Pluja d'Idees i Esbossos Inicials del Logotip (Mitja Pàgina de Disseny)
+<div style="border: 2px dashed #888; border-radius: 10px; height: 320px; text-align: center; padding: 0.75rem; color: #666; background: #ffffff; margin: 0.75rem 0;">
+  <strong>[ Espai Gran per a la Pluja d'Idees, Proves de Siluetes i Dibuix d'Esbossos del Logotip ]</strong>
+</div>
+
+#### 2. Esbós Definitiu del Logotip Seleccionat
+<div style="border: 2px solid var(--sl-color-accent); border-radius: 10px; height: 170px; text-align: center; padding: 0.75rem; color: var(--sl-color-accent-high); background: #fffcf8; margin: 0.75rem 0;">
+  <strong>[ Dibuix Definitiu de l'Isologotip de la Marca ]</strong>
+</div>
+
+- **Verificació de qualitat del disseny:**  
+  a) Passa la Prova de les Tisores (silueta tancada i neta sense detalls que es trenquin)? <span style="border-bottom: 1.5px dashed #666; display: inline-block; width: 20%;"></span>  
+  b) Funciona 100% en Blanc i Negre pur (apte per a gravat làser i encuny)? <span style="border-bottom: 1.5px dashed #666; display: inline-block; width: 20%;"></span>
+
+### Activitat 6.6: Pluja d'Idees i Disseny de la Línia de Joieria (Full Sencer)
+
+> 🎨 **FULL SENCER D'ESBOSSOS DE LA COL·LECCIÓ D'ARRACADES:**  
+> Utilitza tot aquest full per dibuixar a mà alçada diferents idees, variacions de formes geomètriques, motius vegetals o estructures inspirades en la teva font d'inspiració (Natura, Geometria, Art o Simbolisme):
+
+<div style="border: 2px dashed #7F1146; border-radius: 12px; height: 520px; text-align: center; padding: 1rem; color: #7F1146; background: #ffffff; margin: 1rem 0;">
+  <strong>[ ESPAI DE FULL SENCER PER A LA PLUJA D'IDEES I DISSENY DE LA LÍNIA D'ARRACADES ]</strong>
+  <p style="font-size: 0.85rem; color: #777; margin-top: 0.5rem;">Dibuixa almenys 3 o 4 propostes d'arracades que comparteixin la mateixa paleta, línies i estil visual.</p>
+</div>
+
+- **Font d'inspiració principal seleccionada (Natura / Geometria / Art / Simbolisme):** <span style="border-bottom: 1.5px dashed #666; display: inline-block; width: 45%;"></span>
+- **Elements comuns que unifiquen tota la col·lecció:**
+  <div class="response-box" style="min-height: 70px;"></div>
+
+<div class="page-break"></div>
+
+---
+
+# BLOC 7: FASE 3 — DISSENY TÈCNIC (CAD 2D/3D I CODEBLOCKS)
 
 ### Activitat 7.1: Operacions Booleanes en Disseny CAD 2D/3D (TinkerCAD)
 
@@ -683,126 +828,199 @@ En el disseny assistit per ordinador, les peces complexes es construeixen mitjan
 
 1. **Analitza el teu logotip vectoritzat (2D): Quines figures geomètriques bàsiques (cercles, rectangles, polígons) has unit o restat per construir la silueta?**
    
-   <div class="response-box" style="min-height: 90px;"></div>
+   <div class="response-box" style="min-height: 80px;"></div>
 
-<div style="border: 2px dashed #888; border-radius: 8px; height: 190px; text-align: center; padding: 0.5rem; color: #666; margin: 0.75rem 0; background: #ffffff;">
+<div style="border: 2px dashed #888; border-radius: 8px; height: 180px; text-align: center; padding: 0.5rem; color: #666; margin: 0.75rem 0; background: #ffffff;">
   [ Dibuix en Planta 2D del Logotip Vectorial amb indicació d'operacions ]
 </div>
 
 ---
 
-### Activitat 7.2: Anàlisi de Cotes i Viabilitat de Fabricació en 3D
+### Activitat 7.2: Programació i Cotes a Tinkercad Codeblocks
 
-Indica les mesures reals en mil·límetres (cotes) de la peça dissenyada per a impressió en 3D:
+Indica les mesures reals en mil·límetres (cotes) de la peça dissenyada per a fabricació:
 
 * **Alçada ($h$):** <span style="border-bottom: 1.5px dashed #666; display: inline-block; width: 15%;"></span> mm | **Amplada ($w$):** <span style="border-bottom: 1.5px dashed #666; display: inline-block; width: 15%;"></span> mm | **Gruix ($t$):** <span style="border-bottom: 1.5px dashed #666; display: inline-block; width: 15%;"></span> mm
-2. **Avaluació de viabilitat mecànica:** Si una peça té un gruix inferior a 1.5 mm o voladissos sense suport, la impressora 3D pot fallar o la peça es pot trencar en desemmotllar. Analitza la solidesa del teu disseny:
+
+- **Codi de blocs utilitzat:** Explica breument quins blocs visuals has fet servir a Codeblocks per crear la forma base, el forat del ganxo i el parell simètric d'arracades:
    
    <div class="response-box" style="min-height: 90px;"></div>
 
-<div style="border: 2px dashed #888; border-radius: 8px; height: 200px; text-align: center; padding: 0.5rem; color: #666; margin: 0.75rem 0; background: #ffffff;">
-  [ Dibuix en Perspectiva 3D de l'Arracada amb Cotes de Dimensió ]
+<div class="page-break"></div>
+
+---
+
+# BLOC 8: FASE 4 — PRODUCCIÓ I FABRICACIÓ (CAS COMPETENCIAL REAL)
+
+### Activitat 8.1: Anàlisi Competencial de Producció (Artesanal vs. Industrial en Cadena)
+
+#### 💡 Conceptes Clau: Fabricació Manual (Artesanal) vs. Fabricació Industrial (en Cadena)
+
+Abans d'analitzar el cas pràctic, és fonamental entendre les diferències conceptuals i tècniques entre els dos grans models de producció:
+
+* **1. Fabricació Manual (Artesanal):**  
+  Procés de producció realitzat **peça per peça directament per les mans de l'artesà** o orfebre utilitzant eines de mà manuals (llimes, serres, alicates).  
+  - **Característiques:** Cada joia és **única, irrepetible i personalitzada**, ja que inclou les petites variacions o imperfeccions humanes que li donen un alt valor d'autor.  
+  - **Inconvenients:** El temps de fabricació per unitat és molt elevat (hores per peça), el volum de producció setmanal és molt baix i els costos de mà d'obra són alts, elevant el preu final de venda.
+
+* **2. Fabricació Industrial (en Cadena i Automatitzada):**  
+  Procés de producció massiu en sèrie utilitzant **maquinària especialitzada automatitzada** (tall per làser industrial, línies de microfusió, motlles de precisió o robòtica) i disseny assistit per ordinador (CAD/CAM).  
+  - **Característiques:** Es divideix el treball en tasques en sèrie. Permet fabricar milers d'unitats **100% idèntiques en un temps reduït** (segons per peça), repartint els costos de maquinària (economia d'escala) i oferint preus assequibles al mercat.  
+  - **Inconvenients:** Requereix una inversió inicial molt elevada en maquinària i no permet fer modificacions o personalitzacions individuals peça per peça.
+
+---
+
+> 📖 **LECTURA DEL CAS REAL DE FABRICACIÓ A CATALUNYA:**  
+> Dues empreses de joieria reconegudes a Catalunya fabriquen col·leccions d'arracades i complements utilitzant dos sistemes de producció completament oposats:  
+> 
+> **1. El Taller d'Artesania Joiera d'Autor (ex. Majoral Joiers - Formentera / Barcelona):** Un mestre joier artesà amb carnet oficial d'Artesania de Catalunya fabrica cada parell d'arracades manualment a mà alçada, modelant, forjant, polint i incrustant peça per peça. Cada joia requereix **3 hores de feina d'alta orfebreria** ($25 \text{ €/hora}$ de mà d'obra). La producció és molt reduïda (10 a 15 parells a la setmana), però cada joia és un objecte d'autor únic, irrepetible i exclusiu.  
+> 
+> **2. La Fàbrica Industrial Automatitzada (ex. TOUS - Sabadell / Manresa):** Produeix icones de joieria en una línia de **producció en cadena automatitzada** amb microfusió en sèrie, tall per làser industrial i electroformació 3D. La instal·lació requereix una inversió de **120.000 €**, però produeix 1 parell d'arracades cada **45 segons** (0,75 minuts), requerint només la supervisió d'un operari tècnic.
+
+#### TAULA COMPARATIVA DE DADES DE PRODUCCIÓ
+| Criteri de Producció | Taller d'Artesania d'Autor (ex. Majoral) | Fàbrica Industrial (ex. TOUS) |
+| -------------------- | --------------------------------------- | ----------------------------- |
+| **Model de producció** | Artesanal manual d'autor (peça a peça) | Producció en cadena automatitzada en sèrie |
+| **Temps per parell** | 180 minuts (3 hores)                    | 0.75 minuts (45 segons)       |
+| **Volum setmanal**   | 10-15 parells / setmana                 | 3.500 parells / setmana       |
+| **Inversió en eines**| 800 € (banc de treball i eines manuals)| 120.000 € (línia làser i electroformació) |
+| **Cost mà d'obra/u** | 75.00 € / parell ($3\text{h} \times 25\text{€}$) | 0.35 € / parell (supervisió)  |
+| **Tipus de producte**| Peces úniques d'autor amb carnet d'artesà | Peces 100% idèntiques en sèrie industrial |
+| **Preu de venda al públic**| Alt (180 € - 350 €)                   | Assequible/Mitjà (35 € - 85 €)|
+
+<br />
+
+#### PREGUNTES TIPUS TEST DE PRODUCCIÓ
+
+1. **Quina és la diferència principal en el procés de producció en cadena automatitzat de TOUS respecte al taller d'artesania d'autor com Majoral?**
+   - [ ] A) En la producció en cadena un sol treballador fa tota la joia manualment de principi a fi.
+   - [ ] B) Es divideix el procés en tasques sèrie automatitzades per ordinador i maquinària (làser/electroformació), reduint dràsticament el temps de fabricació per unitat.
+   - [ ] C) La producció en cadena industrial és més lenta però utilitza més bancs de treball manuals.
+   - [ ] D) En la producció en cadena les peces queden totes diferents i amb defectes d'acabat.
+
+2. **Per quina raó el cost de mà d'obra per unitat és de 75 € al taller artesanal i de només 0,35 € a la fàbrica industrial?**
+   - [ ] A) Perquè l'artesà dedica 3 hores de treball manual directe especialitzat per cada peça, mentre que la fàbrica distribueix el temps del tècnic entre milers d'unitats produïdes automàticament (economia d'escala).
+   - [ ] B) Perquè els materials de joieria a la fàbrica industrial són regalats.
+   - [ ] C) Perquè els enginyers i operaris de TOUS no cobren cap sou mensual.
+   - [ ] D) Perquè el taller d'artesania d'autor no paga cap impost ni lloguer.
+
+<div class="page-break"></div>
+
+#### PREGUNTES DESCRIPTIVES I D'ANÀLISI CRÍTICA
+
+3. **Anàlisi del model de fabricació de la teva Cooperativa Artífex:**  
+   En el vostre projecte escolar utilitzeu un model **híbrid** (disseny digital CAD/làser + acabats manuals i abocament de resina):  
+   a) Quines tasques del vostre procés al taller escolar són de tipus industrial/digital i quines són de tipus artesanal/manual?  
+   b) Quins avantatges té utilitzar eines digitals (tall làser/TinkerCAD) respecte a fer tot el procés 100% a mà a l'aula?  
+   <div class="response-box" style="min-height: 120px;"></div>
+
+4. **Resolució d'un dilema real de producció:**  
+   Un museu de Barcelona vol encarregar 600 parells d'arracades personalitzades com a record d'una exposició internacional i les necessita lliurades en només 5 dies:  
+   - Quin dels dos sistemes (el Taller d'Artesania d'Autor o la Fàbrica Industrial) pot acceptar la comanda i complir el termini? Justifica la teva resposta basant-te en les dades de la taula comparativa.  
+   <div class="response-box" style="min-height: 120px;"></div>
+
+---
+
+### Activitat 8.2: Fitxes Tècniques de Fabricació al Taller
+
+Emplena les fitxes de l'informe tècnic de taller per al procés de fabricació de la joia:
+
+- **Fitxa 1: Obtenir el Màster 3D / Tall Làser:** <span style="border-bottom: 1.5px dashed #666; display: inline-block; width: 60%;"></span>
+- **Fitxa 2: Elaboració del Motlle de Silicona / Preparació:** <span style="border-bottom: 1.5px dashed #666; display: inline-block; width: 50%;"></span>
+- **Fitxa 3: Buidatge de Resina / Poliment manual:** <span style="border-bottom: 1.5px dashed #666; display: inline-block; width: 55%;"></span>
+
+<div class="page-break"></div>
+
+---
+
+# BLOC 9: FASE 5 — COSTOS, PREU I PUNT D'EQUILIBRI (BREAK-EVEN)
+
+### Activitat 9.1: Anàlisi Competencial de Costos i Punt d'Equilibri
+
+> 📖 **LECTURA DEL CAS FINANCER DE LA COOPERATIVA:**  
+> La Cooperativa Artífex ha calculat l'estructura de costos per a la producció de la seva col·lecció d'arracades:  
+> 
+> - **Costos Fixos ($CF$):** **600 €** (inclou l'amortització de les màquines de l'aula, llicències i publicitat inicial).  
+> - **Cost Variable Unitari ($CV_u$):** **1,50 €** per parell d'arracades (fusta, acrílic, enganxalls de metall i packaging).  
+> - **Preu de Venda al Públic ($P$):** **6,50 €** per parell d'arracades.  
+> 
+> El **Punt d'Equilibri ($PE$)** indica la quantitat exacta de parells d'arracades que la cooperativa ha de vendre per cobrir tots els costos ($CF + CV$). A partir d'aquesta quantitat, l'empresa comença a obtenir **beneficis nets**.
+
+![Gràfica del Punt d'Equilibri Financer](/artifex/media/grafica_break_even.svg)
+
+#### FÓRMULA MATEMÀTICA DEL PUNT D'EQUILIBRI
+$$PE = \frac{\text{Costos Fixos}}{\text{Preu de Venda} - \text{Cost Variable Unitari}} = \frac{CF}{P - CV_u}$$
+
+<br />
+
+#### PREGUNTES TIPUS TEST FINANCERES
+
+1. **Quin és el Punt d'Equilibri ($PE$) de la Cooperativa Artífex segons les dades del cas?**
+   - [ ] A) $PE = 600 / (6.50 - 1.50) = 120 \text{ parells d'arracades}$.
+   - [ ] B) $PE = 600 / 6.50 = 92.3 \text{ parells d'arracades}$.
+   - [ ] C) $PE = 600 \times 1.50 = 900 \text{ parells d'arracades}$.
+   - [ ] D) $PE = 0 \text{ parells}$, ja que es guanyen diners des del primer dia.
+
+2. **Què passa si la cooperativa ven exactament 120 parells d'arracades?**
+   - [ ] A) Té pèrdues de 300 €.
+   - [ ] B) El benefici net és exactament 0 € (ha cobert tots els costos fixos i variables sense guanyar ni perdre diners).
+   - [ ] C) Aconsegueix un benefici net de 600 €.
+   - [ ] D) Ha de tancar l'empresa immediatament.
+
+<div class="page-break"></div>
+
+#### PREGUNTES DESCRIPTIVES I CÀLCUL FINANCER
+
+3. **Càlcul de Benefici Net:**  
+   Si la cooperativa aconsegueix vendre **200 parells d'arracades** durant la fira de l'institut:  
+   a) Quins seran els ingressos totals ($200 \times 6,50 \text{ €}$)?  
+   b) Quins seran els costos totals ($CF + 200 \times CV_u$)?  
+   c) Quin serà el **benefici net final** de la cooperativa?  
+   <div class="response-box" style="min-height: 130px;"></div>
+
+4. **Anàlisi del Simulador i de la Percepció de Mercat:**  
+   Utilitzant les dades del simulador de costos de la web, si decidiu augmentar el preu de venda a 9,00 €:  
+   a) Com afecta això al Punt d'Equilibri (es necessiten més o menys unitats per començar a guanyar diners)?  
+   b) Quin risc hi ha al mercat real si pugueu massa el preu d'unes arracades escolars?  
+   <div class="response-box" style="min-height: 130px;"></div>
+
+---
+
+# BLOC 10: FASE 6 — COMERCIALITZACIÓ I STORYTELLING
+
+### Activitat 10.1: Redacció de la Història Personal de la Joia (Storytelling per al client)
+
+Redacta el text complet de la **Targeta de la Història (Story Card)** que anirà inclosa dins del packaging de les teves arracades. El redactat ha de tenir sentit i connectar tots els passos del teu projecte:
+
+1. **La Guspira / Inspiració inicial del Moodboard:** Quina emoció, record o paisatge va ser el punt de partida?
+2. **El Naming i el Logotip:** Per què la teva marca es diu així i què representa la seva silueta?
+3. **La Línia d'Arracades i la Fabricació:** Què fa especials aquestes arracades creades amb joieria digital i acabats manuals?
+
+<br />
+
+#### 📜 EL MEU RELAT D'AUTOR (Storytelling final per al comprador)
+
+<div style="border: 2px solid var(--sl-color-accent); border-radius: 12px; padding: 1.25rem; background: #fffcf8; margin: 1rem 0;">
+  <p style="font-weight: bold; color: var(--sl-color-accent-high); margin-top: 0; text-align: center; font-size: 1.05rem;">
+    ✨ [Títol del Relat de la teva Col·lecció d'Arracades] ✨
+  </p>
+  
+  <div class="response-box" style="min-height: 230px; background: transparent; border: none;"></div>
 </div>
 
-<div class="page-break"></div>
-
 ---
 
-# BLOC 8: FASE 4 — PRODUCCIÓ I TALLER (FABRICACIÓ HÍBRIDA I MATERIALS)
+### Activitat 10.2: Disseny del Packaging i Suport de la Joia
 
-### Activitat 8.1: Fitxes Tècniques de Fabricació al Taller
+Dibuixa el disseny del suport de cartró i l'envoltori exterior que protegirà la teva joia:
 
-Emplena les fitxes de l'informe tècnic de taller per a cadascun dels 6 passos del procés de fabricació:
-
-#### Fitxa 1: Obtenir el Màster 3D
-
-- **Paràmetres i qualitat de la peça base:**
-  
-  <div class="response-box" style="min-height: 60px;"></div>
-
-#### Fitxa 2: Construcció de l'Encofrat
-
-- **Tècnica utilitzada per garantir l'estanqueïtat de la caixa i evitar fuites:**
-  
-  <div class="response-box" style="min-height: 60px;"></div>
-
-#### Fitxa 3: Elaboració del Motlle de Silicona Elastòmer
-
-- **Proporció de catalitzador i mètode d'abocament per evitar la formació de bombolles:**
-  
-  <div class="response-box" style="min-height: 60px;"></div>
-
-#### Fitxa 4: Buidatge de Resina Epoxi (A+B)
-
-- **Mescla químicament exacta (Component A + Component B) i pigments afegits:**
-  
-  <div class="response-box" style="min-height: 60px;"></div>
-
-#### Fitxa 5: Postprocessament i Acabats
-
-- **Procés de poliment manual i trepat de seguretat per a l'enganxall:**
-  
-  <div class="response-box" style="min-height: 60px;"></div>
-
-#### Fitxa 6: Muntatge i Engarzat Metàl·lic
-
-- **Ús d'eines de conformat (alicates de punta rodona/plana) i ajust final:**
-  
-  <div class="response-box" style="min-height: 60px;"></div>
-
-<div class="page-break"></div>
-
----
-
-# BLOC 9: FASE 5 — COSTOS, PREU I ANÀLISI DE GRÀFIQUES FINANCERES
-
-### Activitat 9.1: Interpretació de la Gràfica del Punt d'Equilibri (PE)
-
-Observa el gràfic de l'estudi financer de la Cooperativa Artífex:
-
-![Gràfica de Punt d'Equilibri Financer](/artifex/media/grafica_financer.png)
-
-1. **Lectura de la línia de Costos Totals (Línia Vermella):** Per què la línia de costos comença en un valor superior a zero en l'eix vertical ($Y$)? Què representen els costos fixos inicials?
-   
-   <div class="response-box" style="min-height: 90px;"></div>
-
-2. **Lectura de la línia d'Ingressos (Línia Verda):** Si augmentem el preu de venda de cada arracada de 5 € a 8 €, com varia el pendent (inclinació) de la línia d'ingressos i com afecta això a les coordenades del Punt d'Equilibri?
-   
-   <div class="response-box" style="min-height: 90px;"></div>
-
-3. **Resolució de problemes d'amortització de maquinària real:**
-   L'equació del Punt d'Equilibri és:
-   $$PE = \frac{\text{Costos Fixos}}{\text{Preu de Venda} - \text{Cost Variable Unitari}}$$
-   Si els costos fixos inclouen l'amortització real de les màquines de l'institut (**3.575 €**), el preu de venda és de **6 €** i el cost variable per peça és d'**1 €**:
-   
-   * *Càlcul matemàtic de les unitats necessàries:*
-   <div class="response-box" style="min-height: 100px;"></div>
-
-4. **Màrqueting vs Matemàtiques:** Explica per què un preu matemàticament calculat pot no ser viable al mercat real si no es té en compte la percepció del client.
-   
-   <div class="response-box" style="min-height: 90px;"></div>
-
-<div class="page-break"></div>
-
----
-
-# BLOC 10: FASE 6 — COMERCIALITZACIÓ I PACKAGING
-
-### Activitat 10.1: Esbós Tècnic del Packaging (TemplateMaker)
-
-Dibuixa el desenvolupament pla del teu envàs de cartró amb l'aplicació dels marges de seguretat (+5 mm) i la posició del logotip:
-
-<div style="border: 2px dashed #888; border-radius: 8px; height: 300px; text-align: center; padding: 0.5rem; color: #666; margin: 1rem 0; background: #ffffff;">
-  [ Dibuix del Desenvolupament 3D / Pla de la Capsa de Packaging ]
+<div style="border: 2px dashed #888; border-radius: 8px; height: 220px; text-align: center; padding: 0.5rem; color: #666; margin: 1rem 0; background: #ffffff;">
+  [ Dibuix del Suport de les Arracades i Caixa de Packaging ]
 </div>
 
-- **Model de capsa triat a TemplateMaker:** <span style="border-bottom: 1.5px dashed #666; display: inline-block; width: 60%;"></span>
+- **Material seleccionat per al packaging (sostenible/reciclat):** <span style="border-bottom: 1.5px dashed #666; display: inline-block; width: 50%;"></span>
 
-- **Dimensions reals amb marge (Llarg x Ample x Alt):** <span style="border-bottom: 1.5px dashed #666; display: inline-block; width: 60%;"></span>
-
-- **Justificació de l'experiència d'Unboxing i protecció del producte:**
-  
-  <div class="response-box" style="min-height: 90px;"></div>
+<div class="page-break"></div>
 
 <div class="page-break"></div>
 

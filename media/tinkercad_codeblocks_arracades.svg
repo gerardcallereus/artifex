@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 740 340" width="100%" height="auto">
+  <style>
+    .bg-code { fill: #f8fafc; stroke: #0284c7; stroke-width: 2.5px; }
+    .block-add { fill: #0284c7; }
+    .block-modify { fill: #d97706; }
+    .block-control { fill: #16a34a; }
+    .block-txt { font-family: 'Lato', system-ui, sans-serif; font-size: 14px; font-weight: 800; fill: #ffffff; }
+    .code-val { font-family: monospace; font-size: 13px; fill: #fef08a; font-weight: bold; }
+    
+    .bg-3d { fill: #f0fdf4; stroke: #16a34a; stroke-width: 2.5px; }
+    .title-3d { font-family: 'Lato', system-ui, sans-serif; font-size: 18px; font-weight: 900; fill: #15803d; text-anchor: middle; }
+    .txt-sub { font-family: 'Lato', system-ui, sans-serif; font-size: 14px; font-weight: 600; fill: #374151; }
+  </style>
+
+  <!-- LEFT: CODEBLOCKS PROGRAMMING STACK -->
+  <rect x="15" y="15" width="370" height="310" rx="14" class="bg-code" />
+  <text x="35" y="45" font-family="'Lato', sans-serif" font-size="18" font-weight="900" fill="#0369a1">🧩 Codi de Bloc Paramètric (Tinkercad)</text>
+
+  <!-- Block 1: Add Cylinder (Base Arracada) -->
+  <rect x="35" y="65" width="330" height="42" rx="8" class="block-add" />
+  <text x="50" y="91" class="block-txt">➕ Afegeix Cilindre <tspan class="code-val">[ R=12mm, H=2mm, costats=64 ]</tspan></text>
+
+  <!-- Block 2: Add Hole (Forat per al ganxo) -->
+  <rect x="35" y="115" width="330" height="42" rx="8" class="block-add" fill="#dc2626" />
+  <text x="50" y="141" class="block-txt">🕳️ Afegeix Cilindre (Forat) <tspan class="code-val">[ R=1.5mm, H=10mm ]</tspan></text>
+
+  <!-- Block 3: Move Hole -->
+  <rect x="35" y="165" width="330" height="42" rx="8" class="block-modify" />
+  <text x="50" y="191" class="block-txt">↗️ Moure <tspan class="code-val">[ X=0, Y=9.5, Z=0 ]</tspan></text>
+
+  <!-- Block 4: Repeat 2 times (Parell d'arracades) -->
+  <rect x="35" y="215" width="330" height="42" rx="8" class="block-control" />
+  <text x="50" y="241" class="block-txt">🔄 Repetir <tspan class="code-val">2 vegades</tspan> (Crea el parell d'arracades)</text>
+
+  <!-- Block 5: Create Group -->
+  <rect x="35" y="265" width="330" height="42" rx="8" class="block-modify" fill="#7c3aed" />
+  <text x="50" y="291" class="block-txt">📦 Crea Grup (Aplica operació booleana 3D)</text>
+
+  <!-- RIGHT: 3D MODEL RESULT -->
+  <rect x="405" y="15" width="320" height="310" rx="14" class="bg-3d" />
+  <text x="565" y="45" class="title-3d">💎 Resultat 3D Generat (Arracada)</text>
+
+  <!-- 3D Drawing Mockup -->
+  <g transform="translate(485, 80)">
+    <!-- Main Cylinder Ring -->
+    <ellipse cx="80" cy="70" rx="60" ry="40" fill="#c12872" stroke="#7f1d1d" stroke-width="3" />
+    <ellipse cx="80" cy="65" rx="60" ry="40" fill="#e0508a" stroke="#7f1d1d" stroke-width="2" />
+    <!-- Hole for earring hook -->
+    <ellipse cx="80" cy="35" rx="8" ry="5" fill="#f0fdf4" stroke="#7f1d1d" stroke-width="2" />
+    <!-- Earring Hook wire -->
+    <path d="M 80 32 C 80 15, 65 0, 50 15" stroke="#475569" stroke-width="3.5" fill="none" stroke-linecap="round" />
+  </g>
+
+  <text x="425" y="240" class="txt-sub">✅ **Precisió Mil·limètrica:** Canviant els números</text>
+  <text x="425" y="265" class="txt-sub">  del codi, l'arracada es redimensiona al moment.</text>
+  <text x="425" y="290" class="txt-sub">✅ **Exportació directa:** Apte per a gravat làser i 3D.</text>
+</svg>

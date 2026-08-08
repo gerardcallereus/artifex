@@ -1,72 +1,58 @@
 ---
-title: "Artífex - FASE 3: Disseny Tècnic"
-description: Aprén més sobre aquest tema del projecte Artífex.
+title: "FASE 3: DISSENY TÈCNIC - Introducció"
+description: La importància del dibuix tècnic i la comunicació visual en el disseny de joieria.
 ---
 
-# FASE 3: DISSENY TÈCNIC
+# FASE 3: DISSENY TÈCNIC - Introducció
 
 <div class="learning-objectives-box">
   <div class="box-title">Objectius d'aprenentatge</div>
   <ul>
-    <li><strong>Llenguatge de fabricació:</strong> Comprendre la importància del disseny tècnic i els arxius CAD per a la comunicació amb les màquines.</li>
-    <li><strong>Modelatge digital:</strong> Utilitzar TinkerCAD per dissenyar geometries exactes en format 2D (per a tall làser) i 3D (per a impressió).</li>
-    <li><strong>Anàlisi tècnica:</strong> Avaluar la viabilitat de fabricació del propi disseny analitzant formes, cotes i gruixos de les peces.</li>
+    <li><strong>El dibuix com a llenguatge universal:</strong> Entendre la importància de la representació gràfica per comunicar idees de disseny a la indústria i al taller.</li>
+    <li><strong>Del dibuix a mà al disseny digital:</strong> Veure l'evolució des dels esbossos manuals fins a la vectorització 2D i el modelat 3D paramètric.</li>
+    <li><strong>Normes de comunicació tècnica:</strong> Conèixer l'ús de cotes, escales, vistes i toleràncies necessàries per fabricar una peça real.</li>
   </ul>
 </div>
 
-:::note[Disseny tècnic]
-En aquesta fase convertirem les idees en instruccions precises per màquines. El dibuix tècnic és la llengua universal del procés de fabricació.
+:::note[El dibuix és la teva eina de comunicació]
+Un dissenyador o enginyer no dibuixa per fer quadres; dibuixa per explicar a una màquina o a un artesà com s'ha de construir exactament un objecte sense cap possibilitat d'error.
 :::
-
-Benvinguts a la Fase 3: Disseny Tècnic. Fins ara heu treballat la part creativa i emocional (la identitat). Però una idea brillant no serveix de res si no es pot fabricar. Avui deixem el llapis i el paper i ens asseiem davant de l'ordinador per convertir-nos en tècnics.
-
-Alguna vegada heu muntat un moble d'IKEA o una joguina? Us heu fixat que les instruccions no tenen text? No importa si ets català, japonès o alemany: tothom entén el dibuix.
-
-![Instruccions de muntatge d'IKEA](/artifex/media/ikea.png)
 
 ---
 
-## El Dibuix com a Llenguatge
-En el món professional, el dibuix no serveix per fer "coses boniques", serveix per donar ordres precises a les màquines.
+## 📐 El Dibuix Tècnic com a Eina de Comunicació
 
-Si envies un esbós fet a mà a una fàbrica de la Xina dient "vull una peça rodona", segurament t'arribarà malament. Però si envies un Arxiu CAD (Computer-Aided Design), la peça sortirà perfecta, amb una precisió de mil·límetres.
+Abans que existissin els ordinadors, les fressadores làser o les impressores 3D, el dibuix sobre paper ja era l'eina fonamental per construir la realitat. 
 
-El Dibuix Tècnic és l'idioma universal de la tecnologia. Es basa en:
-- Geometria: línies, arcs i volums exactes.
-- Cotes: mesures numèriques reals (X, Y, Z).
-- Escales: la proporció real de l'objecte.
+Si vols que la teva marca de joies passi de ser una simple idea al teu cap a ser una col·lecció d'arracades reals, **necessites comunicar-te amb la màquina de fabricació**. Les màquines no entenen de frases ni de sentiments; només entenen de coordenades, radi, gruix, angle i mil·límetres.
 
 ---
 
-## TinkerCAD
-Per passar de l'esbós artístic al model digital, farem servir TinkerCAD. Aquest programari de modelatge 3D ens permetrà crear els volums de la vostra arracada (per a la impressora 3D) i extreure'n els perfils per al logotip (per a la talladora làser).
+## 🔄 El Procés de Disseny Tècnic en 3 Passos
 
-![Interfície de TinkerCAD](/artifex/media/tinkercad.png)
+Per construir la col·lecció Artífex, el disseny tècnic es divideix en 3 etapes essencials:
 
-En el següent enllaç podreu entrar a la classe preparada per aquestes sessions dins del TinkerCAD:
-[TINKERCAD](https://www.tinkercad.com/joinclass/V4JGZXFWM)
+<div class="custom-grid-3" style="gap: 1.5rem; margin: 1.5rem 0;">
+  <div style="background: #ffffff; border: 1px solid #e5e7eb; border-radius: 10px; padding: 1.25rem; box-shadow: 0 4px 12px rgba(0,0,0,0.04);">
+    <strong style="color: var(--sl-color-accent-high); font-size: 1.05rem;">1. L'Esbós Manual</strong>
+    <p style="font-size: 0.9rem; color: #555; margin-top: 0.5rem;">Dibuix ràpid a mà alçada a la Carpeta d'aprenentatge per capturar idees, proporcions i siluetes inicials.</p>
+  </div>
 
-:::tip[Comença pel repte d'entrenament]
-Replica el logo de Munay abans de dissenyar el teu propi logotip. Això t'ajudarà a dominar les eines de TinkerCAD.
-:::
+  <div style="background: #ffffff; border: 1px solid #e5e7eb; border-radius: 10px; padding: 1.25rem; box-shadow: 0 4px 12px rgba(0,0,0,0.04);">
+    <strong style="color: var(--sl-color-accent-high); font-size: 1.05rem;">2. Vectorització 2D (Logo)</strong>
+    <p style="font-size: 0.9rem; color: #555; margin-top: 0.5rem;">Conversió de l'esbós del logotip a corbes matemàtiques (Vectores SVG) escalables sense perdre qualitat.</p>
+  </div>
 
-![Logo Munay](/artifex/media/nom_munay.png)
-
-Dins de TinkerCAD trobareu tres reptes que heu de completar en ordre:
-1. **Entrenament: Logo MUNAY:** Abans de fer el vostre, heu de demostrar que domineu l'eina. Heu de replicar exactament el logotip de la marca "Munay" que vam veure a la fase d'identitat. A continuació teniu un vídeo per ajudar-vos per a poder seguir pas a pas com fer el logo de MUNAY.
-
-   ![Model SVG de Munay en TinkerCAD](/artifex/media/munya_svg.png)
-
-   > 🎬 **Vídeo d'ajuda:** [Veure tutorial a YouTube](https://youtu.be/EgTj1iHCwH4)
-   >
-   > <iframe src="https://www.youtube.com/embed/EgTj1iHCwH4" title="Tutorial TinkerCAD Logo Munay" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen style="width: 100%; aspect-ratio: 16/9; border-radius: 8px; border: 1px solid rgba(193, 40, 114, 0.2); margin-top: 0.5rem; box-shadow: 0 4px 15px rgba(0,0,0,0.1);"></iframe>
-2. **El Vostre Logotip (Tall Làser):** Dissenyareu la "cara" de la vostra marca. Recordeu: ha de ser una silueta clara, ja que el làser ressegueix línies. Menys és més.
-3. **La Vostra Arracada (Impressió 3D):** Dissenyareu el producte final.
-
-<div class="custom-card" style="margin: 2rem 0; padding: 1.25rem; border-left: 5px solid var(--sl-color-accent-high); background: rgba(193, 40, 114, 0.04); text-align: center;">
-  <p class="text-md" style="margin: 0; font-weight: 700; color: var(--sl-color-accent-high);">
-    ✏️ Un cop hagis explorat la FASE 3, realitza les activitats del <strong>BLOC 7: FASE 3 - DISSENY TÈCNIC</strong> a la teva <strong>Carpeta d'aprenentatge</strong>.
-  </p>
+  <div style="background: #ffffff; border: 1px solid #e5e7eb; border-radius: 10px; padding: 1.25rem; box-shadow: 0 4px 12px rgba(0,0,0,0.04);">
+    <strong style="color: var(--sl-color-accent-high); font-size: 1.05rem;">3. Modelat 3D Paramètric</strong>
+    <p style="font-size: 0.9rem; color: #555; margin-top: 0.5rem;">Programació del disseny de les arracades amb <strong>Tinkercad Codeblocks</strong> mitjançant blocs de codi visuals.</p>
+  </div>
 </div>
 
+---
 
+## 🛠️ Explora les Sub-Pàgines de la Fase 3
+
+Navega a les dues seccions pràctiques de disseny tècnic:
+- ➡️ **[Disseny del Logotip](/artifex/fase-3-disseny-tecnic/disseny-del-logotip/):** Com vectoritzar i dibuixar tècnicament la imatge de marca.
+- ➡️ **[Disseny de les Arracades (Codeblocks)](/artifex/fase-3-disseny-tecnic/disseny-de-les-arracades/):** Guia completa per programar el teu model 3D amb blocs de codi.

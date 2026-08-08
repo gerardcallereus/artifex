@@ -58,40 +58,34 @@ Aquí tens els 5 consells clau per tenir en compte abans de començar a dissenya
 Aquí pots veure fantàstics Moodboards creats per alumnes de 2n d'ESO en edicions anteriors del projecte Artífex, aplicant la jerarquia visual, el contrast i la selecció de paletes de color:
 
 <div class="custom-grid-2" style="gap: 1.5rem; margin: 1.5rem 0;">
-  <div style="background: #ffffff; border: 1px solid #e5e7eb; border-radius: 10px; padding: 1rem; box-shadow: 0 4px 12px rgba(0,0,0,0.05);">
+  <div style="background: #ffffff; border: 1px solid #e5e7eb; border-radius: 10px; padding: 1rem; box-shadow: 0 4px 12px rgba(0,0,0,0.05); text-align: center;">
     <img src="/artifex/media/moodboard_Irene_Arteaga.png" alt="Moodboard d'Irene Arteaga" style="width: 100%; border-radius: 6px; margin-bottom: 0.5rem;" />
-    <p style="font-weight: bold; font-size: 0.9rem; margin: 0; color: var(--sl-color-accent-high);">✨ Irene Arteaga — Concepte Dansa & Urbà</p>
-    <p style="font-size: 0.82rem; color: #666; margin: 0.2rem 0 0 0;">Exemple d'alta jerarquia visual amb contrast fúcsia/negre, iconografia i tipografia elèctrica.</p>
+    <p style="font-weight: bold; font-size: 0.95rem; margin: 0; color: var(--sl-color-accent-high);">Irene Arteaga</p>
   </div>
 
-  <div style="background: #ffffff; border: 1px solid #e5e7eb; border-radius: 10px; padding: 1rem; box-shadow: 0 4px 12px rgba(0,0,0,0.05);">
+  <div style="background: #ffffff; border: 1px solid #e5e7eb; border-radius: 10px; padding: 1rem; box-shadow: 0 4px 12px rgba(0,0,0,0.05); text-align: center;">
     <img src="/artifex/media/moodboard_Lara_de_Paula.jpg" alt="Moodboard de Lara de Paula" style="width: 100%; border-radius: 6px; margin-bottom: 0.5rem;" />
-    <p style="font-weight: bold; font-size: 0.9rem; margin: 0; color: var(--sl-color-accent-high);">✨ Lara de Paula — Concepte Brasil & Mar</p>
-    <p style="font-size: 0.82rem; color: #666; margin: 0.2rem 0 0 0;">Exemple d'harmonia de colors de la natura, estampats geomètrics i fauna de la costa de Rio de Janeiro.</p>
+    <p style="font-weight: bold; font-size: 0.95rem; margin: 0; color: var(--sl-color-accent-high);">Lara de Paula</p>
   </div>
 
-  <div style="background: #ffffff; border: 1px solid #e5e7eb; border-radius: 10px; padding: 1rem; box-shadow: 0 4px 12px rgba(0,0,0,0.05);">
+  <div style="background: #ffffff; border: 1px solid #e5e7eb; border-radius: 10px; padding: 1rem; box-shadow: 0 4px 12px rgba(0,0,0,0.05); text-align: center;">
     <img src="/artifex/media/moodboard_Nicoletta_Revilla.jpg" alt="Moodboard de Nicoletta Revilla" style="width: 100%; border-radius: 6px; margin-bottom: 0.5rem;" />
-    <p style="font-weight: bold; font-size: 0.9rem; margin: 0; color: var(--sl-color-accent-high);">✨ Nicoletta Revilla — Concepte Summer Vibes & Aquàtic</p>
-    <p style="font-size: 0.82rem; color: #666; margin: 0.2rem 0 0 0;">Exemple d'aire i composició reticular neta amb tonalitats blaves, turqueses i tons pastel.</p>
+    <p style="font-weight: bold; font-size: 0.95rem; margin: 0; color: var(--sl-color-accent-high);">Nicoletta Revilla</p>
   </div>
 
-  <div style="background: #ffffff; border: 1px solid #e5e7eb; border-radius: 10px; padding: 1rem; box-shadow: 0 4px 12px rgba(0,0,0,0.05);">
+  <div style="background: #ffffff; border: 1px solid #e5e7eb; border-radius: 10px; padding: 1rem; box-shadow: 0 4px 12px rgba(0,0,0,0.05); text-align: center;">
     <img src="/artifex/media/moodboard_Paula_Jurado.png" alt="Moodboard de Paula Jurado" style="width: 100%; border-radius: 6px; margin-bottom: 0.5rem;" />
-    <p style="font-weight: bold; font-size: 0.9rem; margin: 0; color: var(--sl-color-accent-high);">✨ Paula Jurado — Concepte Elegància Vermella & Força</p>
-    <p style="font-size: 0.82rem; color: #666; margin: 0.2rem 0 0 0;">Exemple de composició fotogràfica estructurada amb contrast de vermell intens, blanc i negre.</p>
+    <p style="font-weight: bold; font-size: 0.95rem; margin: 0; color: var(--sl-color-accent-high);">Paula Jurado</p>
   </div>
 
-  <div style="background: #ffffff; border: 1px solid #e5e7eb; border-radius: 10px; padding: 1rem; box-shadow: 0 4px 12px rgba(0,0,0,0.05);">
+  <div style="background: #ffffff; border: 1px solid #e5e7eb; border-radius: 10px; padding: 1rem; box-shadow: 0 4px 12px rgba(0,0,0,0.05); text-align: center;">
     <img src="/artifex/media/moodboard_Tiago_Ballaz.jpg" alt="Moodboard de Tiago Ballaz" style="width: 100%; border-radius: 6px; margin-bottom: 0.5rem;" />
-    <p style="font-weight: bold; font-size: 0.9rem; margin: 0; color: var(--sl-color-accent-high);">✨ Tiago Ballaz — Concepte Neu, Muntanya & Esports d'Hivern</p>
-    <p style="font-size: 0.82rem; color: #666; margin: 0.2rem 0 0 0;">Exemple de dinamisme en composició diagonal amb paleta freda de violetes, blaus i neu.</p>
+    <p style="font-weight: bold; font-size: 0.95rem; margin: 0; color: var(--sl-color-accent-high);">Tiago Ballaz</p>
   </div>
 
-  <div style="background: #ffffff; border: 1px solid #e5e7eb; border-radius: 10px; padding: 1rem; box-shadow: 0 4px 12px rgba(0,0,0,0.05);">
+  <div style="background: #ffffff; border: 1px solid #e5e7eb; border-radius: 10px; padding: 1rem; box-shadow: 0 4px 12px rgba(0,0,0,0.05); text-align: center;">
     <img src="/artifex/media/moodboard_Aran_Gonzalez.jpg" alt="Moodboard d'Aran González" style="width: 100%; border-radius: 6px; margin-bottom: 0.5rem;" />
-    <p style="font-weight: bold; font-size: 0.9rem; margin: 0; color: var(--sl-color-accent-high);">✨ Aran González — Concepte Bàsquet & Cultura Urbana</p>
-    <p style="font-size: 0.82rem; color: #666; margin: 0.2rem 0 0 0;">Exemple d'expressivitat urbana, iconografia esportiva (NBA, Nike), grafiti i tonalitats fúcsia.</p>
+    <p style="font-weight: bold; font-size: 0.95rem; margin: 0; color: var(--sl-color-accent-high);">Aran González</p>
   </div>
 </div>
 

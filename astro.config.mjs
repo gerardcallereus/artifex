@@ -29,6 +29,7 @@ export default defineConfig({
       tableOfContents: false,
       sidebar: [
         { label: 'Inici', link: '/' },
+        { label: 'Pla personal', link: '/pla-personal/' },
         { label: 'Com podem crear la nostra marca?', link: '/com-podem-crear-la-nostra-marca/' },
         { label: 'Mucha Joya', link: '/mucha-joya/' },
         { label: 'Cooperativa Artífex', link: '/cooperativa-artifex/' },
@@ -38,14 +39,24 @@ export default defineConfig({
           collapsed: true,
           items: [
             { label: 'Introducció', link: '/fase-2-identitat/' },
-            { label: 'El Naming (El Nom)', link: '/fase-2-identitat/el-naming-el-nom/' },
-            { label: 'El Logotip (La Cara)', link: '/fase-2-identitat/el-logotip-la-cara/' }
+            { label: 'El Naming', link: '/fase-2-identitat/el-naming-el-nom/' },
+            { label: 'El Logotip', link: '/fase-2-identitat/el-logotip-la-cara/' },
+            { label: 'Línia de productes', link: '/fase-2-identitat/linia-de-productes/' },
+            { label: 'Tipografia i Paleta de colors', link: '/fase-2-identitat/tipografia-i-paleta-de-colors/' }
           ]
         },
-        { label: 'FASE 3: Disseny Tècnic', link: '/fase-3-disseny-tecnic/' },
+        {
+          label: 'FASE 3: Disseny Tècnic',
+          collapsed: true,
+          items: [
+            { label: 'Introducció', link: '/fase-3-disseny-tecnic/' },
+            { label: 'Disseny del logotip', link: '/fase-3-disseny-tecnic/disseny-del-logotip/' },
+            { label: 'Disseny de les arracades', link: '/fase-3-disseny-tecnic/disseny-de-les-arracades/' }
+          ]
+        },
         { label: 'FASE 4: Producció', link: '/fase-4-produccio/' },
         { label: 'FASE 5: Costos i preu', link: '/fase-5-costos-i-preu/' },
-        { label: 'FASE 6: Comercialització', link: '/fase-6-comercialitzacio/' },
+        { label: 'FASE 6: Comercialització i Storytelling', link: '/fase-6-comercialitzacio/' },
         { label: 'Dossier de recuperació', link: '/dossier-recuperacio/' },
         { label: "Carpeta d'aprenentatge", link: '/carpeta-d-aprenentatge/' },
         { label: "Prova escrita final", link: '/prova-escrita-final/' }

@@ -1325,3 +1325,193 @@ starlight-theme-select {
     break-after: page !important;
   }
 }
+
+/* ==========================================
+   Chromebook & Desktop Compact Sidebar Toggle (Hamburger ☰)
+   ========================================== */
+html.sidebar-collapsed {
+  --sl-sidebar-width: 4.25rem !important;
+}
+
+@media (min-width: 50rem) {
+  html.sidebar-collapsed nav.sidebar,
+  html.sidebar-collapsed .sidebar-pane,
+  html.sidebar-collapsed .sl-sidebar {
+    width: 4.25rem !important;
+    min-width: 4.25rem !important;
+    max-width: 4.25rem !important;
+    padding-inline: 0.5rem !important;
+    overflow-x: hidden !important;
+  }
+
+  html.sidebar-collapsed .main-frame {
+    margin-inline-start: 4.25rem !important;
+    width: calc(100% - 4.25rem) !important;
+    max-width: calc(100% - 4.25rem) !important;
+  }
+
+  html.sidebar-collapsed .sidebar-title-wrapper,
+  html.sidebar-collapsed .sidebar-content summary span,
+  html.sidebar-collapsed .sidebar-content a span,
+  html.sidebar-collapsed .sidebar-content .large,
+  html.sidebar-collapsed starlight-search,
+  html.sidebar-collapsed nav.sidebar summary svg,
+  html.sidebar-collapsed nav.sidebar details svg,
+  html.sidebar-collapsed nav.sidebar .caret,
+  html.sidebar-collapsed .sidebar-pane summary svg,
+  html.sidebar-collapsed .sidebar-pane details svg,
+  html.sidebar-collapsed .sidebar-pane .caret {
+    display: none !important;
+  }
+
+  html.sidebar-collapsed .sidebar-top-bar {
+    justify-content: center !important;
+  }
+
+  html.sidebar-collapsed .sidebar-content ul {
+    padding-inline-start: 0.25rem !important;
+  }
+
+  html.sidebar-collapsed .sidebar-content summary,
+  html.sidebar-collapsed .sidebar-content a {
+    justify-content: center !important;
+    text-align: center !important;
+    padding: 0.5rem 0.25rem !important;
+  }
+}
+
+/* ==========================================
+   Interactive 3D Naming Flip Cards (4 columns)
+   ========================================== */
+.flip-card-grid {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 1.25rem;
+  margin: 1.5rem 0;
+  perspective: 1000px;
+}
+
+@media (max-width: 80rem) {
+  .flip-card-grid {
+    grid-template-columns: repeat(3, 1fr);
+  }
+}
+
+@media (max-width: 55rem) {
+  .flip-card-grid {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+@media (max-width: 36rem) {
+  .flip-card-grid {
+    grid-template-columns: 1fr;
+  }
+}
+
+.flip-card {
+  background-color: transparent;
+  height: 330px;
+  perspective: 1000px;
+  cursor: pointer;
+}
+
+.flip-card-inner {
+  position: relative;
+  width: 100%;
+  height: 100%;
+  transition: transform 0.6s cubic-bezier(0.4, 0, 0.2, 1);
+  transform-style: preserve-3d;
+  box-shadow: 0 4px 15px rgba(0,0,0,0.06);
+  border-radius: 12px;
+}
+
+.flip-card:hover .flip-card-inner,
+.flip-card.flipped .flip-card-inner {
+  transform: rotateY(180deg);
+}
+
+.flip-card-front, .flip-card-back {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  -webkit-backface-visibility: hidden;
+  backface-visibility: hidden;
+  border-radius: 12px;
+  border: 1px solid #e2e8f0;
+  padding: 1.25rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  box-sizing: border-box;
+}
+
+.flip-card-front {
+  background: linear-gradient(135deg, #ffffff 0%, #f8fafc 100%);
+  color: #1e293b;
+  text-align: center;
+}
+
+.flip-card-front h3 {
+  font-size: 1.65rem !important;
+  margin: 0 0 0.5rem 0 !important;
+  color: var(--sl-color-accent-high) !important;
+  font-weight: 800 !important;
+}
+
+.flip-card-front .flip-hint {
+  font-size: 0.82rem;
+  color: #64748b;
+  margin-top: 1rem;
+  background: #f1f5f9;
+  padding: 0.35rem 0.85rem;
+  border-radius: 20px;
+  border: 1px solid #cbd5e1;
+  font-weight: 600;
+}
+
+.flip-card-back {
+  background: #ffffff;
+  color: #334155;
+  transform: rotateY(180deg);
+  text-align: left;
+  justify-content: flex-start;
+  overflow-y: auto;
+  border: 2px solid var(--sl-color-accent-high);
+}
+
+.flip-card-back .card-badge {
+  font-size: 0.78rem;
+  font-weight: 700;
+  color: var(--sl-color-accent-high);
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+  margin-bottom: 0.4rem;
+  background: rgba(193, 40, 114, 0.08);
+  padding: 0.25rem 0.6rem;
+  border-radius: 4px;
+  display: inline-block;
+}
+
+.flip-card-back .card-title {
+  font-size: 1.15rem;
+  font-weight: 800;
+  margin-bottom: 0.4rem;
+  color: #0f172a;
+}
+
+.flip-card-back p {
+  font-size: 0.88rem !important;
+  line-height: 1.55 !important;
+  color: #334155 !important;
+  margin: 0 !important;
+}
+
+
+
+
+
+
+
+

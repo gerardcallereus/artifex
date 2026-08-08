@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 240" width="100%" height="auto">
+  <rect width="500" height="240" rx="12" fill="#f0fdf4" stroke="#16a34a" stroke-width="2" />
+  <text x="250" y="32" font-family="'Lato', sans-serif" font-size="16" font-weight="900" fill="#15803d" text-anchor="middle">🌿 1. Natura i Biomimètica (Fulles i Formes Orgàniques)</text>
+
+  <!-- Leaf Earring 1 -->
+  <g transform="translate(100, 60)">
+    <path d="M 50 10 C 20 40, 20 90, 50 130 C 80 90, 80 40, 50 10 Z" fill="#22c55e" opacity="0.85" stroke="#15803d" stroke-width="2.5" />
+    <path d="M 50 10 L 50 130 M 50 40 L 30 60 M 50 60 L 70 80 M 50 80 L 35 100" stroke="#15803d" stroke-width="2" stroke-linecap="round" />
+    <circle cx="50" cy="5" r="4" fill="#15803d" />
+  </g>
+
+  <!-- Monstera Earring 2 -->
+  <g transform="translate(300, 60)">
+    <path d="M 50 10 C 10 30, 10 100, 50 135 C 90 100, 90 30, 50 10 Z" fill="#16a34a" stroke="#14532d" stroke-width="2.5" />
+    <!-- Cutouts -->
+    <ellipse cx="32" cy="50" rx="12" ry="5" fill="#f0fdf4" transform="rotate(-20, 32, 50)" />
+    <ellipse cx="68" cy="50" rx="12" ry="5" fill="#f0fdf4" transform="rotate(20, 68, 50)" />
+    <ellipse cx="35" cy="80" rx="14" ry="6" fill="#f0fdf4" transform="rotate(-15, 35, 80)" />
+    <ellipse cx="65" cy="80" rx="14" ry="6" fill="#f0fdf4" transform="rotate(15, 65, 80)" />
+    <line x1="50" y1="10" x2="50" y2="135" stroke="#14532d" stroke-width="2" />
+    <circle cx="50" cy="5" r="4" fill="#14532d" />
+  </g>
+
+  <text x="250" y="215" font-family="'Lato', sans-serif" font-size="13" font-weight="700" fill="#166534" text-anchor="middle">Joieria inspirada en la botànica, venes de fulles i simetria orgànica</text>
+</svg>

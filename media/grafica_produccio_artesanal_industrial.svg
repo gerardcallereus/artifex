@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 740 330" width="100%" height="auto">
+  <style>
+    .card-artesanal { fill: #fffbebf7; stroke: #d97706; stroke-width: 2.5px; }
+    .card-industrial { fill: #f0f9ff; stroke: #0284c7; stroke-width: 2.5px; }
+    .title-art { font-family: 'Lato', system-ui, sans-serif; font-size: 18px; font-weight: 900; fill: #b45309; text-anchor: middle; }
+    .title-ind { font-family: 'Lato', system-ui, sans-serif; font-size: 18px; font-weight: 900; fill: #0369a1; text-anchor: middle; }
+    .txt-body { font-family: 'Lato', system-ui, sans-serif; font-size: 14.5px; font-weight: 700; fill: #1f2937; }
+    .txt-sub { font-family: 'Lato', system-ui, sans-serif; font-size: 13.5px; font-weight: 500; fill: #4b5563; }
+  </style>
+
+  <!-- COLUMN 1: PRODUCCIÓ ARTESANAL -->
+  <rect x="15" y="15" width="345" height="300" rx="14" class="card-artesanal" />
+  <text x="187" y="45" class="title-art">🖐️ PRODUCCIÓ ARTESANAL (Taller)</text>
+  
+  <text x="35" y="82" class="txt-body">• Procés manual unitat a unitat (1 artesà / joier).</text>
+  <text x="35" y="110" class="txt-body">• Temps de producció per unitat: MOLT ELEVAT (2-4 hores).</text>
+  <text x="35" y="138" class="txt-body">• Volum total de producció: BAIX (10-20 unitats/setmana).</text>
+  <text x="35" y="166" class="txt-body">• Personalització i unicitat: ÚNICA (no n'hi ha 2 d'iguals).</text>
+  <text x="35" y="194" class="txt-body">• Costos d'inversió inicial en màquines: BAIX.</text>
+  <text x="35" y="222" class="txt-body">• Cost de mà d'obra per unitat: MOLT ALT.</text>
+
+  <rect x="35" y="245" width="305" height="50" rx="8" fill="#fef3c7" stroke="#f59e0b" stroke-width="1.5" />
+  <text x="187" y="275" font-family="'Lato', sans-serif" font-size="14" font-weight="800" fill="#92400e" text-anchor="middle">💡 Valor afegit: Exclusivitat, ànima i disseny d'autor</text>
+
+  <!-- COLUMN 2: PRODUCCIÓ INDUSTRIAL EN CADENA -->
+  <rect x="380" y="15" width="345" height="300" rx="14" class="card-industrial" />
+  <text x="552" y="45" class="title-ind">⚙️ PRODUCCIÓ INDUSTRIAL EN CADENA</text>
+  
+  <text x="400" y="82" class="txt-body">• Divisió del treball i automatització (Làser/Injecció).</text>
+  <text x="400" y="110" class="txt-body">• Temps de producció per unitat: MOLT BAIX (30 segons).</text>
+  <text x="400" y="138" class="txt-body">• Volum total de producció: MASSIIU (10.000 u/setmana).</text>
+  <text x="400" y="166" class="txt-body">• Homogeneïtat i estàndard: 100% IDENTIC (sense diferències).</text>
+  <text x="400" y="194" class="txt-body">• Costos d'inversió inicial en maquinària: MOLT ALT.</text>
+  <text x="400" y="222" class="txt-body">• Cost unitari de producció: MOLT BAIX (Economia d'escala).</text>
+
+  <rect x="400" y="245" width="305" height="50" rx="8" fill="#e0f2fe" stroke="#38bdf8" stroke-width="1.5" />
+  <text x="552" y="275" font-family="'Lato', sans-serif" font-size="14" font-weight="800" fill="#075985" text-anchor="middle">💡 Valor afegit: Baix preu, rapidesa i estandardització</text>
+</svg>

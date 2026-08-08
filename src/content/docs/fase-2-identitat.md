@@ -1,38 +1,45 @@
 ---
-title: "Artífex - FASE 2: Identitat"
+title: "FASE 2: IDENTITAT - Introducció"
 description: Aprén més sobre aquest tema del projecte Artífex.
 ---
 
-# FASE 2: IDENTITAT
+# FASE 2: IDENTITAT - Introducció
 
 <div class="learning-objectives-box">
   <div class="box-title">Objectius d'aprenentatge</div>
   <ul>
-    <li><strong>ADN de Marca:</strong> Comprendre els quatre components clau de la identitat corporativa (nom, logotip, colors i tipografia).</li>
+    <li><strong>ADN de Marca:</strong> Comprendre els components clau de la identitat corporativa (nom, logotip i línia de productes).</li>
     <li><strong>Criteri de disseny:</strong> Desenvolupar un criteri estètic i comunicatiu avaluant encerts i errors de logotips simulats.</li>
-    <li><strong>Feedback teòric:</strong> Extreure recomanacions pràctiques d'experts en disseny gràfic per a la creació del propi logotip.</li>
   </ul>
 </div>
 
-:::note[Objectiu de la fase]
-En aquesta etapa definim l'ADN de la teva marca: nom, imatge, colors i tipografia. Això és el que farà que el teu projecte sigui reconeixible i consistent.
-:::
-
-Benvinguts a la primera gran etapa del projecte. Abans de posar-nos a fabricar res, hem de respondre a la pregunta més important de totes: Qui som?
-
-Un producte sense marca és només un objecte anònim. Però quan li afegim una identitat, es converteix en alguna cosa amb personalitat, amb valors i amb capacitat d'emocionar.
-
-Per què reconeixeu una llauna de Coca-Cola a 10 metres de distància? O per què sabeu que un anunci és d'Apple abans que surti el logo? Perquè tenen una identitat forta.
+<div class="custom-grid-2" style="align-items: center; margin-top: 1.5rem;">
+  <div>
+    <p class="text-md" style="font-size: 1.05rem; line-height: 1.8;">
+      Benvinguts a la primera gran etapa del projecte. Abans de posar-nos a fabricar res, hem de respondre a la pregunta més important de totes: <strong>Qui som?</strong>
+    </p>
+    <p class="text-md" style="font-size: 1.05rem; line-height: 1.8;">
+      Un producte sense marca és només un objecte anònim. Però quan li afegim una identitat, es converteix en alguna cosa amb personalitat, amb valors i amb capacitat d'emocionar.
+    </p>
+    <p class="text-md" style="font-size: 1.05rem; line-height: 1.8;">
+      Per què reconeixeu una llauna de Coca-Cola a 10 metres de distància? O per què sabeu que un anunci és d'Apple abans que surti el logo? Perquè tenen una <strong>identitat forta</strong>.
+    </p>
+  </div>
+  <div>
+    <img src="/artifex/media/identitat_cafe.jpg" alt="Identitat visual i reconeixement de marca" style="width: 100%; border-radius: 12px; box-shadow: 0 8px 30px rgba(0,0,0,0.15); margin: 0;" />
+  </div>
+</div>
 
 ---
 
-## Els 4 pilars de la identitat
+## Els pilars de la identitat
 | Pilar | Què treballa |
 | --- | --- |
 | EL NAMING (El Nom) | Un nom fàcil, recordable i significatiu. |
 | EL LOGOTIP (La Cara) | La imatge visual que representarà la marca. |
-| LA PALETA DE COLORS (L'Emoció) | Els colors que transmeten l'atmosfera i valors. |
-| LA TIPOGRAFIA (La Veu) | La lletra que dona personalitat i to a la marca. |
+| LÍNIA DE PRODUCTES | Fonts d'inspiració i desenvolupament de la col·lecció d'arracades. |
+| LA PALETA DE COLORS (L'Emoció) | Els colors que transmeten l'atmosfera i valors de la marca. |
+| LA TIPOGRAFIA (La Veu) | La lletra que dona personalitat i to a la comunicació. |
 
 L'Objectiu: Al final d'aquesta fase, el vostre projecte deixarà de ser només una idea al vostre cap i passarà a ser una marca real, amb nom i cognoms, llesta per presentar-se al món.
 
@@ -63,4 +70,12 @@ En aquesta aplicació us convertireu en jutges professionals. Veureu 10 marques 
   <iframe src="/artifex/apps/artifex-jurat-de-disseny/index.html" allowfullscreen></iframe>
 </div>
 
+---
 
+<div class="custom-card" style="margin: 2rem 0; padding: 1.25rem; border-left: 5px solid var(--sl-color-accent-high); background: rgba(193, 40, 114, 0.04); text-align: center;">
+  <p class="text-md" style="margin: 0; font-weight: 700; color: var(--sl-color-accent-high);">
+    ✏️ Un cop hagis jugat al simulador del Jurat de Disseny, completa a la teva <strong>Carpeta d'aprenentatge</strong>:<br />
+    <strong>BLOC 6: FASE 2 — IDENTITAT VISUAL</strong><br />
+    <em>Activitat 6.1: Qüestionari d'Anàlisi Crítica: Jurat de Disseny (8 preguntes)</em>
+  </p>
+</div>

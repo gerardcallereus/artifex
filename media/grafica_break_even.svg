@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 360" width="100%" height="auto">
+  <style>
+    .axis { stroke: #374151; stroke-width: 2.5px; }
+    .grid { stroke: #e5e7eb; stroke-dasharray: 4,4; stroke-width: 1px; }
+    .line-fixed { stroke: #64748b; stroke-width: 3px; stroke-dasharray: 6,6; }
+    .line-total-cost { stroke: #dc2626; stroke-width: 3.5px; }
+    .line-revenue { stroke: #16a34a; stroke-width: 3.5px; }
+    
+    .txt-axis { font-family: 'Lato', system-ui, sans-serif; font-size: 13px; font-weight: 700; fill: #4b5563; }
+    .txt-label { font-family: 'Lato', system-ui, sans-serif; font-size: 14px; font-weight: 800; }
+    .txt-be { font-family: 'Lato', system-ui, sans-serif; font-size: 15px; font-weight: 900; fill: #1e3a8a; text-anchor: middle; }
+  </style>
+
+  <!-- BACKGROUND CARD -->
+  <rect x="10" y="10" width="700" height="340" rx="12" fill="#ffffff" stroke="#cbd5e1" stroke-width="2" />
+  
+  <text x="360" y="38" font-family="'Lato', sans-serif" font-size="18" font-weight="900" fill="#0f172a" text-anchor="middle">📈 ANÀLISI DE COSTOS I PUNT D'EQUILIBRI (BREAK-EVEN POINT)</text>
+
+  <!-- GRAPH AREA: Origin at (90, 290) -->
+  <!-- Grid lines -->
+  <line x1="90" y1="230" x2="650" y2="230" class="grid" />
+  <line x1="90" y1="170" x2="650" y2="170" class="grid" />
+  <line x1="90" y1="110" x2="650" y2="110" class="grid" />
+  
+  <!-- Break-even vertical line at Q = 370 -->
+  <line x1="370" y1="70" x2="370" y2="290" stroke="#2563eb" stroke-width="2" stroke-dasharray="5,5" />
+
+  <!-- Axes -->
+  <line x1="90" y1="290" x2="660" y2="290" class="axis" /> <!-- X-axis: Unitats produïdes -->
+  <line x1="90" y1="290" x2="90" y2="65" class="axis" />  <!-- Y-axis: Diners (€) -->
+  
+  <!-- Axis Arrows -->
+  <polygon points="665,290 655,285 655,295" fill="#374151" />
+  <polygon points="90,60 85,70 95,70" fill="#374151" />
+  
+  <text x="640" y="315" class="txt-axis">Quantitat Votada / Venuda (Q)</text>
+  <text x="25" y="80" class="txt-axis">Diners (€)</text>
+
+  <!-- COST & REVENUE LINES -->
+  <!-- Fixed Costs line (€400) at Y=230 -->
+  <line x1="90" y1="230" x2="650" y2="230" class="line-fixed" />
+  <text x="500" y="222" class="txt-label" fill="#64748b">Costos Fixos (Lloguer/Màquines)</text>
+
+  <!-- Total Costs Line (Starts at Y=230, ends at X=650, Y=100) -->
+  <line x1="90" y1="230" x2="650" y2="100" class="line-total-cost" />
+  <text x="540" y="85" class="txt-label" fill="#dc2626">Cost Total (Fix + Variable)</text>
+
+  <!-- Total Revenue Line (Starts at Origin X=90, Y=290, ends at X=650, Y=70) -->
+  <line x1="90" y1="290" x2="650" y2="70" class="line-revenue" />
+  <text x="540" y="60" class="txt-label" fill="#16a34a">Ingressos Totals (Vendes)</text>
+
+  <!-- BREAK-EVEN INTERSECTION POINT (370, 165) -->
+  <circle cx="370" cy="165" r="8" fill="#2563eb" stroke="#ffffff" stroke-width="2.5" />
+  
+  <rect x="250" y="115" width="240" height="38" rx="6" fill="#eff6ff" stroke="#2563eb" stroke-width="1.5" />
+  <text x="370" y="139" class="txt-be">📍 PUNT D'EQUILIBRI (Break-Even)</text>
+
+  <!-- Profit & Loss Zones -->
+  <text x="210" y="260" font-family="'Lato', sans-serif" font-size="14" font-weight="800" fill="#dc2626">🔴 Zona de Pèrdues</text>
+  <text x="460" y="160" font-family="'Lato', sans-serif" font-size="14" font-weight="800" fill="#16a34a">🟢 Zona de Beneficis</text>
+</svg>

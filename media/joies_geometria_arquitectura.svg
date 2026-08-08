@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 240" width="100%" height="auto">
+  <rect width="500" height="240" rx="12" fill="#f0f9ff" stroke="#0284c7" stroke-width="2" />
+  <text x="250" y="32" font-family="'Lato', sans-serif" font-size="16" font-weight="900" fill="#0369a1" text-anchor="middle">📐 2. Geometria i Arquitectura (Hexàgons i Arcs)</text>
+
+  <!-- Hexagon Architectural Earring 1 -->
+  <g transform="translate(100, 60)">
+    <polygon points="50,10 90,32 90,78 50,100 10,78 10,32" fill="#38bdf8" opacity="0.8" stroke="#0284c7" stroke-width="3" />
+    <polygon points="50,25 75,40 75,70 50,85 25,70 25,40" fill="#f0f9ff" stroke="#0369a1" stroke-width="2" />
+    <circle cx="50" cy="5" r="4" fill="#0369a1" />
+  </g>
+
+  <!-- Gothic Arch Earring 2 -->
+  <g transform="translate(300, 60)">
+    <path d="M 20 120 L 20 60 C 20 30, 50 10, 50 10 C 50 10, 80 30, 80 60 L 80 120 Z" fill="#0284c7" stroke="#0c4a6e" stroke-width="3" />
+    <path d="M 35 110 L 35 65 C 35 45, 50 28, 50 28 C 50 28, 65 45, 65 65 L 65 110 Z" fill="#f0f9ff" stroke="#0c4a6e" stroke-width="2" />
+    <circle cx="50" cy="5" r="4" fill="#0c4a6e" />
+  </g>
+
+  <text x="250" y="215" font-family="'Lato', sans-serif" font-size="13" font-weight="700" fill="#075985" text-anchor="middle">Joieria inspirada en línies rectes, arcs gòtics i patrons de tessel·lació</text>
+</svg>

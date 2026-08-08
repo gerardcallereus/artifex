@@ -1,83 +1,49 @@
 ---
-title: "Artífex - FASE 6: Comercialització"
-description: Aprén més sobre aquest tema del projecte Artífex.
+title: "Artífex - FASE 6: Comercialització i Storytelling"
+description: L'art de comunicar la història personal de la teva joia i dissenyar el seu packaging.
 ---
 
-# FASE 6: COMERCIALITZACIÓ
+# FASE 6: COMERCIALITZACIÓ I STORYTELLING
 
 <div class="learning-objectives-box">
   <div class="box-title">Objectius d'aprenentatge</div>
   <ul>
-    <li><strong>Funcions del Packaging:</strong> Comprendre les tres dimensions clau de l'envàs: protecció física, comunicació de la identitat i experiència emocional (unboxing).</li>
-    <li><strong>Disseny paramètric:</strong> Utilitzar l'aplicació TemplateMaker per generar plantilles d'envasos de cartró a partir de dimensions reals i marges de seguretat.</li>
-    <li><strong>Coherència gràfica:</strong> Dibuixar un esbós detallat de l'embalatge integrant la forma 3D, les cotes i la ubicació del logotip corporatiu.</li>
+    <li><strong>Storytelling (El Relat de Marca):</strong> Construir la història personal i emocional que connecta el Moodboard d'inspiració amb les arracades finals.</li>
+    <li><strong>Packaging (L'Empaquetat):</strong> Dissenyar la caixa, la targeta de presentació o l'envoltori que protegeix i dona valor a la joia.</li>
+    <li><strong>Comunicació amb el client:</strong> Redactar la targeta de la història que el comprador llegirà en obrir el paquet de les teves arracades.</li>
   </ul>
 </div>
 
-:::note[El packaging és part de la marca]
-El disseny del teu envàs pot multiplicar el valor percebut del teu producte. Aquí aprenem a fer que l'obertura sigui una experiència memorable.
+:::note[No vens només un objecte; vens una història]
+El valor d'una joia d'autor no està només en el material de fusta o acrílic; està en la història que hi ha al darrere: des de la guspira d'inspiració fins a les teves mans.
 :::
-
-Benvinguts a l'última etapa! Un cop que les arracades estiguin acabades, hem de decidir l'últim punt: com les entreguem al client?
-
-Si les dones dins d'una bossa de paper o plàstic arrugada, el teu producte semblarà barat, encara que sigui d'or. Però si les poses en una capsa dissenyada a mida, amb el teu logotip i combinant colors, el valor es multiplica.
 
 ---
 
-## L'Art de l'Unboxing
-El Packaging (envàs) té tres funcions vitals que heu de complir:
-- **Protecció**: La joia ha d'arribar sana i estàlvia a casa del client.
-- **Informació**: Qui ets? Com es diu la marca?
-- **L'Experiència**: El so del cartó, l'olor, l'ajust perfecte... això és màrqueting.
+## 📖 Què és el Storytelling en Joieria?
 
-:::tip[Pensa en l'obertura]
-El moment en què el client treu la joia de la capsa és una oportunitat per reforçar la marca.
-:::
+El **Storytelling** és l'art de comptar una història perquè el client entengui quin sentit té l'objecte que té a les mans. 
 
-## TemplateMaker
-Per fer una capsa, no n'hi ha prou amb agafar unes tisores i "provar sort". Necessitem matemàtiques. Si falles per 2 mil·límetres, la capsa no tancarà.
-
-Per sort, no cal que calculeu els angles a mà. Farem servir [TemplateMaker.nl](https://www.templatemaker.nl/es/). Aquesta web és un generador paramètric: tu li dius què vols dissenyar i les seves mides i ella t'ajuda a dibuixar els plànols exactes per retallar.
+Quan algú compra les teves arracades, no vol simplement dos peces de fusta gravada. Vol saber:
+- Quina emoció o record (La Guspira) va inspirar el teu **Moodboard** inicial.
+- Per què la teva marca es diu com es diu (**El Naming**).
+- Què significa la forma del teu **Logotip**.
+- Quin concepte o font d'inspiració uneix la teva **Línia d'Arracades**.
 
 ---
 
-## Com fer el teu envàs
+## 🎁 El Packaging: La Presentació de la Joia
 
-### 1. Investigació
-Entra a [TemplateMaker.nl](https://www.templatemaker.nl/es/) i fes una volta pel seu catàleg. No cliquis a res encara, només mira les formes.
-- T'agraden les capses quadrades clàssiques?
-- Prefereixes les que tenen forma de coixí (Pillow pack)?
-- O potser una amb tapa lliscant (Matchbox)?
-- Decisió: tria el model que millor encaixi amb l'estil de la teva marca.
+El **Packaging** (l'empaquetat) és la primera experiència física que té el client en obrir el seu regal:
 
-### 2. Les mides
-Pensa en les mides de les teves arracades i agafa un regle o un peu de rei.
-- Quant fan d'alt? I d'ample?
-- Quant ocupen de gruix quan les poses una sobre l'altra?
-- La Regla d'Or: Afegeix sempre +5 mm de marge a cada mesura.
-
-### 3. El disseny gràfic
-Ara pensa en la capsa tancada.
-- On es veurà millor el teu logo? Al centre de la tapa? Al lateral?
-- De quin color serà la cartolina?
-
-:::tip[Recorda la coherència]
-El packaging ha de connectar amb el teu logo, la paleta de colors i l'estil visual de la marca.
-:::
-
-
+1. **La Targeta de la Història (Story Card):** Un petit redactat breu i inspirador col·locat dins la caixa on s'explica el relat de la joia.
+2. **El Suport de les Arracades:** Una targeta de cartró o fusta on van clavades les arracades perquè no es treguin ni es malmetin.
+3. **L'Envoltori exterior:** Caixeta, bossa de cotó o embolcall sostenible que protegeix el producte i transmet la imatge de la marca.
 
 ---
-
-## Templates i descàrrega
-1. **Troba el teu model:** Selecciona exactament el mateix tipus de capsa que vas dibuixar al teu esbós.
-2. **Introdueix les dades:** Copia les mesures del teu esbós (Llarg, Ample, Alt) a les caselles corresponents.
-3. **Configuració del fitxer:** Selecciona **PDF**.
-4. **Descarrega:** Baixa el fitxer al teu ordinador.
-5. **Entrega al Classroom:** Busca la tasca anomenada "Entrega del packaging (PDF)" i puja el fitxer que acabes de descarregar.
 
 <div class="custom-card" style="margin: 2rem 0; padding: 1.25rem; border-left: 5px solid var(--sl-color-accent-high); background: rgba(193, 40, 114, 0.04); text-align: center;">
   <p class="text-md" style="margin: 0; font-weight: 700; color: var(--sl-color-accent-high);">
-    ✏️ Un cop hagis explorat la FASE 6, realitza les activitats del <strong>BLOC 10: FASE 6 - COMERCIALITZACIÓ</strong> a la teva <strong>Carpeta d'aprenentatge</strong>.
+    ✏️ Redacta la història personal de la teva col·lecció d'arracades a l'<strong>Activitat 10.1 de la Carpeta d'aprenentatge</strong>!
   </p>
 </div>
