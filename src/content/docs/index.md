@@ -3,15 +3,49 @@ title: Artífex
 description: Projecte educatiu de marca personal, disseny gràfic i producció de joieria. Una guia completa des de la ideació fins a la comercialització.
 ---
 
-<div class="custom-grid-2" style="align-items: center;">
-  <div style="display: flex; flex-direction: column; justify-content: center; text-align: center;">
-    <h1 style="border-bottom: none; margin-bottom: 1.5rem; font-size: 3.5rem; font-weight: 800; color: var(--sl-color-accent-high); line-height: 1.2;">Artífex</h1>
-    <p style="font-size: 1.35rem; font-weight: 600; line-height: 1.5; color: var(--sl-color-text-accent); max-width: 90%; margin: 1.5rem auto 0 auto; padding: 1.25rem 1.75rem; border-radius: 8px; border: 1px solid rgba(var(--sl-color-accent-high), 0.25); background: rgba(var(--sl-color-accent-high), 0.03);">
-      Com podem transformar una idea en una marca de joieria viable utilitzant el disseny i la fabricació digital?
-    </p>
+<div class="home-hero-container" style="background: linear-gradient(135deg, rgba(193, 40, 114, 0.06) 0%, rgba(37, 99, 235, 0.04) 100%); border: 1px solid rgba(193, 40, 114, 0.15); border-radius: 16px; padding: 2.25rem 2rem; margin-bottom: 2rem; box-shadow: 0 10px 30px rgba(0,0,0,0.05);">
+
+  <div style="margin-bottom: 1rem;">
+    <span style="display: inline-block; padding: 0.35rem 1.1rem; border-radius: 20px; font-size: 0.82rem; font-weight: 700; letter-spacing: 0.5px; background: rgba(193, 40, 114, 0.12); color: var(--sl-color-accent-high); border: 1px solid rgba(193, 40, 114, 0.25);">
+      ✨ PROJECTE EDUCATIU D'EMPRENEDORIA I FABRICACIÓ DIGITAL
+    </span>
   </div>
-  <div>
-    <video src="/artifex/media/IntroArtifex.mp4" controls style="width: 100%; border-radius: 12px; box-shadow: 0 8px 30px rgba(0,0,0,0.15);"></video>
+
+  <div class="custom-grid-2" style="align-items: center; gap: 2rem;">
+
+    <div style="display: flex; flex-direction: column; justify-content: center;">
+      <h1 style="border-bottom: none; margin: 0 0 0.75rem 0; font-size: 3.8rem; font-weight: 900; background: linear-gradient(135deg, #c12872 0%, #7f1146 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent; line-height: 1.15; text-align: left;">
+        Artífex
+      </h1>
+      
+      <div style="margin-top: 0.5rem; padding: 1.25rem 1.5rem; border-radius: 12px; background: #ffffff; border-left: 5px solid var(--sl-color-accent-high); box-shadow: 0 4px 20px rgba(0,0,0,0.06);">
+        <span style="display: block; font-size: 0.8rem; font-weight: 800; text-transform: uppercase; letter-spacing: 1px; color: var(--sl-color-accent-high); margin-bottom: 0.4rem;">
+          🎯 LA REPTA DEL PROJECTE:
+        </span>
+        <p style="font-size: 1.25rem; font-weight: 700; line-height: 1.45; color: var(--sl-color-text); margin: 0;">
+          “Com podem transformar una idea en una marca de joieria viable utilitzant el disseny i la fabricació digital?”
+        </p>
+      </div>
+
+      <div style="display: flex; gap: 0.75rem; margin-top: 1.25rem; flex-wrap: wrap;">
+        <a href="/artifex/com-podem-crear-la-nostra-marca/" style="padding: 0.6rem 1.25rem; border-radius: 8px; font-weight: 700; font-size: 0.9rem; background: var(--sl-color-accent-high); color: #ffffff; text-decoration: none; box-shadow: 0 4px 12px rgba(193, 40, 114, 0.25);">
+          🚀 Comença el Procés
+        </a>
+        <a href="/artifex/carpeta-d-aprenentatge/" style="padding: 0.6rem 1.25rem; border-radius: 8px; font-weight: 700; font-size: 0.9rem; background: #ffffff; color: var(--sl-color-accent-high); border: 1px solid var(--sl-color-accent-high); text-decoration: none;">
+          📖 Carpeta d'Aprenentatge
+        </a>
+      </div>
+    </div>
+
+    <div>
+      <div style="position: relative; border-radius: 14px; overflow: hidden; box-shadow: 0 12px 35px rgba(193, 40, 114, 0.18); border: 2px solid rgba(193, 40, 114, 0.2); background: #000000;">
+        <video src="/artifex/media/IntroArtifex.mp4" controls style="width: 100%; display: block; border-radius: 12px;"></video>
+      </div>
+      <span style="display: block; text-align: center; font-size: 0.8rem; color: #666; margin-top: 0.5rem; font-weight: 500;">
+        🎬 Vídeo d'introducció oficial del projecte Artífex
+      </span>
+    </div>
+
   </div>
 </div>
 
