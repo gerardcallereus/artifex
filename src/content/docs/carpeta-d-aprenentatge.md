@@ -406,6 +406,11 @@ Els inicis van ser duríssims. No tenien diners ni instal·lacions, i van comen�
 
 El gran punt d'inflecció va arribar l'any 1993. Espanya va entrar en una reforma de les quotes de la llet impulsada per la Unió Europea que obligava a reduir la producció o tancar. En lloc de rendir-se o vendre les vaques, la cooperativa va prendre una decisió estratègica i arriscada: transformar la seva pròpia llet en iogurts artesans de gran qualitat.
 
+<div style="text-align: center; margin: 1.25rem 0;">
+  <img src="/artifex/media/lafageda_fabrica.jpg" alt="Treballadors de La Fageda a la línia d'envasat i paletització" style="width: 85%; max-height: 360px; object-fit: cover; border-radius: 12px; box-shadow: 0 6px 20px rgba(0,0,0,0.12); margin: 0 auto; display: block;" />
+  <em style="display: block; font-size: 0.85rem; color: #666; margin-top: 0.4rem;">Treballadors de la cooperativa La Fageda a la línia d'envasat i paletització de iogurts a la fàbrica d'Olot.</em>
+</div>
+
 Avui dia, La Fageda és una Cooperativa d'Iniciativa Social i Sense Ànim de Lucre que dona feina a més de 400 persones (la majoria amb discapacitat o en risc d'exclusió) i fabrica milions de iogurts a l'any.
 
 Però, en què es diferencia exactament el model organitzatiu de La Fageda del d'una empresa mercantil tradicional com Danone o Nestlé?
@@ -414,7 +419,7 @@ Però, en què es diferencia exactament el model organitzatiu de La Fageda del d
 - **Propietat col·lectiva i sense dividends:** Com que és una cooperativa sense ànim de lucre, cap inversor extern pot comprar-la ni emportar-se diners a casa. El 100% dels beneficits s'han de reinvertir obligatòriament a millorar la fàbrica, pujar sous o crear serveis socials (com residències, serveis terapèutics i pisos assistits per als mateixos treballadors).
 - **Model Democràtic (1 Persona = 1 Vot):** Les decisions estratègiques no depenen dels diners que té cada soci, sinó que es debaten i es voten en Assemblea General, on el vot del Director val exactament el mateix que el d'un operari de la fàbrica.
 
-<div class="page-break"></div>
+---
 
 #### ANÀLISI DE DADES (CAS LA FAGEDA)
 
@@ -442,7 +447,7 @@ Però, en què es diferencia exactament el model organitzatiu de La Fageda del d
 | **Marca Blanca** | Diversos proveïdors (Mercadona, Carrefour...) | Variable | 26% |
 | **Altres** | Petites granges i marques ecològiques | < 100.000 € | 12% |
 
-<div class="page-break"></div>
+<br />
 
 #### PREGUNTES TIPUS TEST (CAS LA FAGEDA)
 
@@ -782,7 +787,7 @@ Dibuixa a mà alçada diferents esbossos i propostes de peces per a la teva col�
 
 ### Activitat 7.1: Tasca Avaluable de Disseny Tècnic a Google Classroom
 
-En aquesta fase realitzaràs **1 tasca avaluable a Google Classroom** anomenada **Disseny Tècnic**. Per dur-la a terme, et connectaràs a la classe oficial de **Tinkercad Classroom** i hauràs de crear i lliurar les següents **3 tasques de disseny digital**:
+En aquesta fase realitzaràs **1 tasca avaluable de Disseny Tècnic**. Per dur-la a terme, et connectaràs a la classe oficial de **Tinkercad Classroom** i hauràs de crear i lliurar les següents **3 tasques de disseny digital**:
 
 ---
 
@@ -799,19 +804,8 @@ En aquesta fase realitzaràs **1 tasca avaluable a Google Classroom** anomenada 
 #### 📌 Tasca 3: Arracada 3D Paramètrica (Tinkercad Blocs / Codeblocks)
 * **Descripció:** Creació del modelat 3D de l'arracada de la teva col·lecció utilitzant l'eina **Tinkercad Blocs (Codeblocks)** amb programació visual de blocs. **No es poden utilitzar les eines de disseny 3D clàssiques**.
 * **Requisit tècnic de mides:** La mida de l'arracada **no pot ser més gran de 4 × 4 × 0,5 cm** (40 × 40 × 5 mm).
-* **Recursos d'aprenentatge:** Per aprendre a utilitzar Tinkercad Blocs, pots seguir la proposta del teu **Pla Personal** o fer un tastet interactiu a la guia Genially: [https://view.genially.com/63e9fe297b59920018684b42](https://view.genially.com/63e9fe297b59920018684b42).
+* **Recursos d'aprenentatge:** Per aprendre a utilitzar Tinkercad Blocs, segueix la sèrie dels **8 videotutorials pas a pas** integrats directament a la pàgina web del projecte (dins la secció *Disseny de les Arracades*).
 * **Estat de lliurament:** [ ] Completat i lliurat a Tinkercad Classroom
-
----
-
-#### 📝 Registre i Reflexió de la Tasca de Disseny Tècnic
-
-1. **Nom d'usuari a Tinkercad Classroom:** <span style="border-bottom: 1.5px dashed #666; display: inline-block; width: 50%;"></span>
-2. **Explica breument quines dificultats has tingut al dissenyar el logo amb l'eina "Extrude Sketch" i com les has solucionat:**
-   <div class="response-box" style="min-height: 90px;"></div>
-
-3. **Explica quin avantatge t'ha aportat utilitzar Tinkercad Blocs (Codeblocks) per crear l'arracada 3D respecte al disseny tradicional:**
-   <div class="response-box" style="min-height: 90px;"></div>
 
 <div class="page-break"></div>
 
@@ -819,11 +813,70 @@ En aquesta fase realitzaràs **1 tasca avaluable a Google Classroom** anomenada 
 
 # BLOC 8: FASE 4 — PRODUCCIÓ I FABRICACIÓ (CAS COMPETENCIAL REAL)
 
-### Activitat 8.1: Anàlisi Competencial de Producció (Artesanal vs. Industrial en Cadena)
+### Activitat 8.1: Memòria del Procés de Fabricació al Taller
 
-#### 💡 Conceptes Clau: Fabricació Manual (Artesanal) vs. Fabricació Industrial (en Cadena)
+Redacta la memòria tècnica del procés de producció en sèrie a petita escala que has dut a terme al taller. Per a cadascun dels **6 passos del procés de fabricació**, respon a les preguntes adaptades i completa el requadre de resposta:
 
-Abans d'analitzar el cas pràctic, és fonamental entendre les diferències conceptuals i tècniques entre els dos grans models de producció:
+---
+
+#### Pas 1: Obtenció del Màster (Impressió 3D)
+
+Explica detalladament com heu realitzat la impressió 3D de la peça màster al taller: quines eines, impressores i materials heu utilitzat? Quines mesures de seguretat o precaucions heu hagut d'aplicar durant la fabricació? Quines dificultats o problemes tècnics han sorgit (adherència a la safata, línies d'impressió, ajust de paràmetres) i com els heu solucionat? Finalment, quin aprenentatge clau t'emportes d'aquesta primera fase?
+
+<div class="response-box" style="min-height: 185px;"></div>
+
+<h4 style="margin-top: 1rem;">Pas 2: Construcció de l'Encofrat</h4>
+
+Descriu el procés de preparació i construcció de la caixa d'encofrat al voltant del màster: quines eines de tall, fustes o contenidors i materials d'enganxat heu utilitzat? Quines mesures de seguretat heu seguit al taller? Quines dificultats heu tingut per assegurar l'estanqueïtat i evitar que la peça màster es desenganxi o suri quan s'aboca la silicona, com les heu resolt i què has après?
+
+<div class="response-box" style="min-height: 185px;"></div>
+
+<div class="page-break"></div>
+
+---
+
+#### Pas 3: Elaboració del Motlle (Silicona)
+
+Explica el procés de barrejat i abocament de la silicona líquida amb el catalitzador sobre les peces màster: quines eines de mesura, recipients i materials químics heu emprat? Quines mesures de seguretat i protecció personal (guants, ventilació...) heu hagut d'aplicar al taller? Quines dificultats heu tingut (presència de bombolles d'aire, proporció exacta de la mescla, temps de curat) i com les heu solucionat? Quin aprenentatge clau has extret d'aquest pas?
+
+<div class="response-box" style="min-height: 185px;"></div>
+
+<h4 style="margin-top: 1rem;">Pas 4: Buidatge de Resina (Còpia)</h4>
+
+Descriu el procés de preparació, pigmentació i buidatge de la resina epoxi (components A+B) dins del motlle de silicona: quins materials, pigments, purpurines i eines de mescla heu utilitzat? Quines mesures de seguretat (guants, protecció de la taula, mascareta) heu aplicat? Quines dificultats o problemes heu tingut durant la polimerització o acoloriment de les peces, com els heu resolt i què has après?
+
+<div class="response-box" style="min-height: 185px;"></div>
+
+<div class="page-break"></div>
+
+---
+
+#### Pas 5: Postprocessament i Acabats (Polit i Perforació)
+
+Explica com heu tractat la superfície de la peça de resina un cop desmotllada: quines eines (papers de vidre de diferents grans, trepant de precisió o Dremel, llimadures) heu fet servir? Quines mesures de seguretat (ulleres de protecció, mascareta per a la pols...) heu aplicat? Quins problemes o dificultats heu trobat en eliminar les rebaves o fer l'orifici de subjecció, com els heu superat i què has après?
+
+<div class="response-box" style="min-height: 185px;"></div>
+
+<h4 style="margin-top: 1rem;">Pas 6: Muntatge i Engarzat</h4>
+
+Descriu la fase final d'assemblatge dels components metàl·lics de l'arracada: quines eines de joieria (alicates de punta rodona, plana, filferro, anelles i ganxos) heu utilitzat? Quines mesures de seguretat o precaucions de manipulació heu tingut en compte? Quines dificultats heu tingut al tancar l'anella o donar forma al ganxo sense ferir la peça, com les heu solucionat i quin és l'aprenentatge final que t'emportes d'aquest projecte?
+
+<div class="response-box" style="min-height: 185px;"></div>
+
+<div class="page-break"></div>
+
+---
+
+### Activitat 8.2: Anàlisi Competencial de Producció (Artesanal vs. Industrial en Cadena)
+
+#### 💡 Conceptes Clau: Fabricació Manual vs. Fabricació Industrial
+
+Abans d'analitzar el cas pràctic, és fonamental entendre l'evolució històrica i les diferències conceptuals i tècniques entre els dos grans models de producció humana:
+
+* **🏛️ Perspectiva Històrica: De l'Artesania a la Revolució Industrial**  
+  Fins a mitjans del segle XVIII (abans de la **Primera Revolució Industrial** sorgida a Anglaterra), pràcticament tots els objectes del món (des d'una sabata o un vestit fins a una joia o una eina d'agricultura) es fabricaven de manera **artesanal en petits tallers familiars o gremis**. Cada mestre artesà dominava tot el procés de fabricació de principi a fi i dedicava hores o dies a crear una sola peça utilitzant la seva força muscular i eines de mà bàsiques. Els objectes eren escassos, cars i només a l'abast d'unes poques persones.  
+
+  Amb la invenció de la **màquina de vapor (James Watt, 1769)** i l'aparició de les primeres fàbriques tèxtiles i siderúrgiques, va començar la transformació cap a la **producció industrial**. Més endavant, a principis del segle XX, Henry Ford va popularitzar la **línia de muntatge en cadena automatitzada**, on el procés de treball es va dividir en tasques en sèrie altament especialitzades. Aquest canvi va permetre la **producció massiva en sèrie** i una reducció dràstica dels costos per unitat (l'anomenada *economia d'escala*), fent que els productes fossin molt més assequibles per a tota la societat, tot i que a costa de perdre la unicitat de la peça feta a mà.
 
 * **1. Fabricació Manual (Artesanal):**  
   Procés de producció realitzat **peça per peça directament per les mans de l'artesà** o orfebre utilitzant eines de mà manuals (llimes, serres, alicates).  
@@ -835,14 +888,45 @@ Abans d'analitzar el cas pràctic, és fonamental entendre les diferències conc
   - **Característiques:** Es divideix el treball en tasques en sèrie. Permet fabricar milers d'unitats **100% idèntiques en un temps reduït** (segons per peça), repartint els costos de maquinària (economia d'escala) i oferint preus assequibles al mercat.  
   - **Inconvenients:** Requereix una inversió inicial molt elevada en maquinària i no permet fer modificacions o personalitzacions individuals peça per peça.
 
+<div class="page-break"></div>
+
 ---
 
-> 📖 **LECTURA DEL CAS REAL DE FABRICACIÓ A CATALUNYA:**  
-> Dues empreses de joieria reconegudes a Catalunya fabriquen col·leccions d'arracades i complements utilitzant dos sistemes de producció completament oposats:  
-> 
-> **1. El Taller d'Artesania Joiera d'Autor (ex. Majoral Joiers - Formentera / Barcelona):** Un mestre joier artesà amb carnet oficial d'Artesania de Catalunya fabrica cada parell d'arracades manualment a mà alçada, modelant, forjant, polint i incrustant peça per peça. Cada joia requereix **3 hores de feina d'alta orfebreria** (25 €/hora de mà d'obra). La producció és molt reduïda (10 a 15 parells a la setmana), però cada joia és un objecte d'autor únic, irrepetible i exclusiu.  
-> 
-> **2. La Fàbrica Industrial Automatitzada (ex. TOUS - Sabadell / Manresa):** Produeix icones de joieria en una línia de **producció en cadena automatitzada** amb microfusió en sèrie, tall per làser industrial i electroformació 3D. La instal·lació requereix una inversió de **120.000 €**, però produeix 1 parell d'arracades cada **45 segons** (0,75 minuts), requerint només la supervisió d'un operari tècnic.
+#### 📖 LECTURA DEL CAS REAL DE FABRICACIÓ A CATALUNYA
+
+Dues empreses de joieria reconegudes a Catalunya fabriquen col·leccions d'arracades utilitzant dos sistemes de producció completament oposats:
+
+<div class="custom-grid-2" style="display: grid !important; grid-template-columns: repeat(2, minmax(0, 1fr)) !important; gap: 1.25rem !important; margin-bottom: 1.25rem; align-items: stretch; page-break-inside: avoid; break-inside: avoid;">
+
+  <div class="custom-card" style="border-left: 4px solid #c12872; background: rgba(193, 40, 114, 0.03); padding: 1.1rem; border-radius: 10px; display: flex; flex-direction: column; justify-content: space-between;">
+    <div>
+      <h5 style="margin-top: 0; margin-bottom: 0.6rem; color: #c12872; font-size: 1.05rem; font-weight: bold;">1. El Taller d'Artesania Joiera d'Autor (ex. Majoral Joiers - Formentera / Barcelona)</h5>
+      <p style="margin-bottom: 0.6rem; font-size: 0.88rem; line-height: 1.5; text-align: justify;">Un mestre joier artesà amb carnet oficial d'Artesania de Catalunya fabrica cada parell d'arracades manualment a mà alçada al seu taller de Formentera o Barcelona, modelant, forjant, polint i incrustant peça per peça sense utilitzar processos industrials automatitzats.</p>
+      <p style="margin-bottom: 0.6rem; font-size: 0.88rem; line-height: 1.5; text-align: justify;">Cada joia requereix <strong>3 hores de feina d'alta orfebreria</strong> (25 €/hora de mà d'obra). La producció és molt reduïda (de 10 a 15 parells a la setmana), però cada joia es converteix en un objecte d'autor <strong>únic, irrepetible i d'alta exclusivitat</strong>.</p>
+    </div>
+    <div style="text-align: center; margin-top: 0.8rem;">
+      <img src="/artifex/media/artesania_taller_joieria.jpg" alt="Taller d'Artesania d'Autor - Majoral Joiers" style="width: 100%; max-height: 150px; object-fit: cover; border-radius: 8px; border: 1px solid rgba(193, 40, 114, 0.25);" />
+      <em style="display: block; font-size: 0.78rem; color: #666; margin-top: 0.3rem;">Banc de treball i eines manuals de Majoral Joiers.</em>
+    </div>
+  </div>
+
+  <div class="custom-card" style="border-left: 4px solid #2b6cb0; background: rgba(43, 108, 176, 0.03); padding: 1.1rem; border-radius: 10px; display: flex; flex-direction: column; justify-content: space-between;">
+    <div>
+      <h5 style="margin-top: 0; margin-bottom: 0.6rem; color: #2b6cb0; font-size: 1.05rem; font-weight: bold;">2. La Fàbrica Industrial Automatitzada (ex. TOUS - Sabadell / Manresa)</h5>
+      <p style="margin-bottom: 0.6rem; font-size: 0.88rem; line-height: 1.5; text-align: justify;">L'empresa TOUS produeix les seves icones de joieria a les seves instal·lacions de Sabadell i Manresa utilitzant una línia de <strong>producció en cadena automatitzada</strong> equipada amb microfusió en sèrie, tall per làser industrial i electroformació 3D.</p>
+      <p style="margin-bottom: 0.6rem; font-size: 0.88rem; line-height: 1.5; text-align: justify;">La instal·lació ha exigit una inversió de <strong>120.000 €</strong> en maquinària, però produeix 1 parell d'arracades cada <strong>45 segons</strong> (3.500 parells setmanals) requerint només la supervisió d'un tècnic, oferint peces 100% idèntiques a un preu assequible.</p>
+    </div>
+    <div style="text-align: center; margin-top: 0.8rem;">
+      <img src="/artifex/media/industria_fabrica_tous.png" alt="Fàbrica Industrial Automatitzada - TOUS" style="width: 100%; max-height: 150px; object-fit: cover; border-radius: 8px; border: 1px solid rgba(43, 108, 176, 0.25);" />
+      <em style="display: block; font-size: 0.78rem; color: #666; margin-top: 0.3rem;">Línia automatitzada d'electroformació 3D de TOUS.</em>
+    </div>
+  </div>
+
+</div>
+
+<div class="page-break"></div>
+
+---
 
 #### TAULA COMPARATIVA DE DADES DE PRODUCCIÓ
 | Criteri de Producció | Taller d'Artesania d'Autor (ex. Majoral) | Fàbrica Industrial (ex. TOUS) |
@@ -861,7 +945,7 @@ Abans d'analitzar el cas pràctic, és fonamental entendre les diferències conc
 
 1. **Quina és la diferència principal en el procés de producció en cadena automatitzat de TOUS respecte al taller d'artesania d'autor com Majoral?**
    - [ ] A) En la producció en cadena un sol treballador fa tota la joia manualment de principi a fi.
-   - [ ] B) Es divideix el procés en tasques sèrie automatitzades per ordinador i maquinària (làser/electroformació), reduint dràsticament el temps de fabricació per unitat.
+   - [ ] B) Es divideix el procés en tasques en sèrie automatitzades per ordinador i maquinària (làser/electroformació), reduint dràsticament el temps de fabricació per unitat.
    - [ ] C) La producció en cadena industrial és més lenta però utilitza més bancs de treball manuals.
    - [ ] D) En la producció en cadena les peces queden totes diferents i amb defectes d'acabat.
 
@@ -871,30 +955,40 @@ Abans d'analitzar el cas pràctic, és fonamental entendre les diferències conc
    - [ ] C) Perquè els enginyers i operaris de TOUS no cobren cap sou mensual.
    - [ ] D) Perquè el taller d'artesania d'autor no paga cap impost ni lloguer.
 
-<div class="page-break"></div>
+3. **Quin volum de producció setmanal aconsegueix la fàbrica industrial automatitzada en comparació amb el taller artesanal d'autor?**
+   - [ ] A) Fabrican exactament la mateixa quantitat de peces (15 parells setmanals).
+   - [ ] B) El taller artesanal fabrica 3.500 parells i la fàbrica industrial només 10 parells.
+   - [ ] C) La fàbrica industrial produeix 3.500 parells setmanals davant dels 10-15 parells que pot elaborar l'artesà manualment.
+   - [ ] D) Cap dels dos models aconsegueix produir més d'un parell al mes.
 
-#### PREGUNTES DESCRIPTIVES I D'ANÀLISI CRÍTICA
+4. **Quina diferència d'inversió inicial en eines i maquinària requereixen aquests dos models de fabricació?**
+   - [ ] A) El taller artesanal requereix 120.000 € en eines manuals i la fàbrica 800 €.
+   - [ ] B) El taller artesanal requereix 800 € en eines de mà bàsiques, mentre que la línia automatitzada de la fàbrica exigeix una inversió de 120.000 €.
+   - [ ] C) Els dos models requereixen exactament la mateixa inversió de 50.000 €.
+   - [ ] D) La fabricació industrial no requereix cap tipus d'inversió en maquinària.
 
-3. **Anàlisi del model de fabricació de la teva Cooperativa Artífex:**  
-   En el vostre projecte escolar utilitzeu un model **híbrid** (disseny digital CAD/làser + acabats manuals i abocament de resina):  
-   a) Quines tasques del vostre procés al taller escolar són de tipus industrial/digital i quines són de tipus artesanal/manual?  
-   b) Quins avantatges té utilitzar eines digitals (tall làser/TinkerCAD) respecte a fer tot el procés 100% a mà a l'aula?  
-   <div class="response-box" style="min-height: 120px;"></div>
+5. **Quina és la característica principal que dona valor comercial a les joies fabricades al taller artesanal d'autor?**
+   - [ ] A) Que són peces fabricades en milers d'unitats idèntiques en un temps rècord.
+   - [ ] B) Que són peces 100% iguals fetes per robots industrials.
+   - [ ] C) Que cada joia és un objecte d'autor únic, irrepetible i exclusiu, elaborat manualment per un mestre joier artesà.
+   - [ ] D) Que són les joies més barates del mercat.
 
-4. **Resolució d'un dilema real de producció:**  
-   Un museu de Barcelona vol encarregar 600 parells d'arracades personalitzades com a record d'una exposició internacional i les necessita lliurades en només 5 dies:  
-   - Quin dels dos sistemes (el Taller d'Artesania d'Autor o la Fàbrica Industrial) pot acceptar la comanda i complir el termini? Justifica la teva resposta basant-te en les dades de la taula comparativa.  
-   <div class="response-box" style="min-height: 120px;"></div>
+6. **Com influeix el model de producció en el preu final de venda al públic de les joies?**
+   - [ ] A) La producció artesanal d'autor té un preu elevat (180 € - 350 €) pel cost de mà d'obra i exclusivitat, mentre que la producció industrial ofereix preus més assequibles (35 € - 85 €).
+   - [ ] B) La producció industrial és sempre molt més cara que la producció artesanal.
+   - [ ] C) El model de producció no afecta mai el preu de venda al públic.
+   - [ ] D) Les joies d'autor se regalen i les industrials es venen a milers d'euros.
 
----
+<br />
 
-### Activitat 8.2: Fitxes Tècniques de Fabricació al Taller
+#### PREGUNTES DE REFLEXIÓ I ANÀLISI CRÍTICA DE PRODUCCIÓ
 
-Emplena les fitxes de l'informe tècnic de taller per al procés de fabricació de la joia:
+7. **Anàlisi del model de fabricació de la teva Cooperativa Artífex:**  
+   En el projecte Artífex utilitzem un model **híbrid** que combina eines digitals (disseny 3D CAD/Codeblocks, impressió 3D / tall làser) amb processos manuals i artesanals de taller (encofrat, motlles de silicona, buidatge de resina, polit i muntatge):  
+   a) **Classificació de tasques:** Identifica quines etapes del vostre procés al taller escolar són de tipus digital/industrial i quines són de tipus artesanal/manual.  
+   b) **Avantatges i límits:** Quins avantatges us ha aportat utilitzar eines digitals (Tinkercad / impressió 3D) respecte a fer tot el procés 100% a mà, i quines dificultats artesanals heu trobat en treballar amb la silicona i la resina?  
 
-- **Fitxa 1: Obtenir el Màster 3D / Tall Làser:** <span style="border-bottom: 1.5px dashed #666; display: inline-block; width: 60%;"></span>
-- **Fitxa 2: Elaboració del Motlle de Silicona / Preparació:** <span style="border-bottom: 1.5px dashed #666; display: inline-block; width: 50%;"></span>
-- **Fitxa 3: Buidatge de Resina / Poliment manual:** <span style="border-bottom: 1.5px dashed #666; display: inline-block; width: 55%;"></span>
+   <div class="response-box" style="min-height: 280px;"></div>
 
 <div class="page-break"></div>
 
@@ -904,55 +998,63 @@ Emplena les fitxes de l'informe tècnic de taller per al procés de fabricació 
 
 ### Activitat 9.1: Anàlisi Competencial de Costos i Punt d'Equilibri
 
-> 📖 **LECTURA DEL CAS FINANCER DE LA COOPERATIVA:**  
-> La Cooperativa Artífex ha calculat l'estructura de costos per a la producció de la seva col·lecció d'arracades:  
-> 
-> - **Costos Fixos (CF):** **600 €** (inclou l'amortització de les màquines de l'aula, llicències i publicitat inicial).  
-> - **Cost Variable Unitari (CVu):** **1,50 €** per parell d'arracades (fusta, acrílic, enganxalls de metall i packaging).  
-> - **Preu de Venda al Públic (P):** **6,50 €** per parell d'arracades.  
-> 
-> El **Punt d'Equilibri (PE)** indica la quantitat exacta de parells d'arracades que la cooperativa ha de vendre per cobrir tots els costos (CF + CV). A partir d'aquesta quantitat, l'empresa comença a obtenir **beneficis nets**.
+#### PREGUNTES TIPUS TEST DE COMPRENSIÓ DE TAULES I GRÀFICS
 
-![Gràfica del Punt d'Equilibri Financer](/artifex/media/grafica_break_even.svg)
+1. **Quant costarà inicialment a la nostra cooperativa comprar la maquinària de l'aula (Taula 1: Impressora 3D, Talladora Làser, Ordinadors CAD)?**
+   - [ ] A) Haurà de pagar 3.575,00 € de la seva caixa.
+   - [ ] B) 0,00 €, perquè és una infraestructura que posa l'escola a la nostra disposició gratis.
+   - [ ] C) 41,98 €, corresponent a la fusta i la silicona.
+   - [ ] D) 92,42 €, que es descompten directament dels ingressos de la primera venda.
 
-#### FÓRMULA DEL PUNT D'EQUILIBRI
+2. **Quants diners en total (Taula 2 + Taula 3) ha d'invertir la cooperativa per comprar totes les eines manuals, motlles i materials del lot abans de començar a vendre?**
+   - [ ] A) 3.575,00 €
+   - [ ] B) 41,98 €
+   - [ ] C) 92,42 € (41,98 € de costos fixos + 50,44 € de materials)
+   - [ ] D) 500,00 €
 
-<div style="background: #fafafa; border-left: 5px solid var(--sl-color-accent-high); padding: 0.85rem 1.25rem; border-radius: 8px; font-weight: bold; text-align: center; margin: 1rem 0; color: var(--sl-color-accent-high);">
-  Punt d'Equilibri (PE) = Costos Fixos / (Preu de Venda - Cost Variable Unitari) = CF / (P - CVu)
-</div>
+3. **Al gràfic del simulador financer, què representa la línia vermella horitzontal (Inversió Total)?**
+   - [ ] A) Els diners que anem guanyant a cada venda.
+   - [ ] B) La suma total de diners que hem gastat en eines i materials abans de vendre cap joia (92,42 €).
+   - [ ] C) El preu de venda de cada parell d'arracades.
+   - [ ] D) El nombre d'alumnes que participen a la cooperativa.
+
+4. **Al gràfic del simulador financer, què representa la línia verda diagonal (Ingressos)?**
+   - [ ] A) Els diners totals acumulats per les vendes d'arracades a mesura que augmenta el nombre d'unitats venudes.
+   - [ ] B) El cost de la talladora làser i la impressora 3D.
+   - [ ] C) El descompte que ens fa el proveïdor de resina.
+   - [ ] D) El preu del packaging i cartolines.
+
+5. **En el Punt d'Equilibri (el punt on la línia verda d'Ingressos creua la línia vermella d'Inversió Total):**
+   - [ ] A) La cooperativa té unes pèrdues de 1.000 €.
+   - [ ] B) Els Ingressos per vendes igualen exactament la Inversió Total feta (Benefici Net = 0 €).
+   - [ ] C) L'empresa ha de tancar immediatament.
+   - [ ] D) Es regalen totes les arracades que queden al magatzem.
 
 <br />
 
-#### PREGUNTES TIPUS TEST FINANCERES
+#### ✏️ TREBALL DE REFLEXIÓ: "Estudi Econòmic: Comprensió del Gràfic"
 
-1. **Quin és el Punt d'Equilibri (PE) de la Cooperativa Artífex segons les dades del cas?**
-   - [ ] A) PE = 600 / (6,50 - 1,50) = 120 parells d'arracades.
-   - [ ] B) PE = 600 / 6,50 = 92,3 parells d'arracades.
-   - [ ] C) PE = 600 × 1,50 = 900 parells d'arracades.
-   - [ ] D) PE = 0 parells, ja que es guanyen diners des del primer dia.
+1. **Inversió Total (Línia Vermella):**  
+   Mira la línia vermella (*Inversió Total*). Per què és una línia plana horitzontal? Què passaria amb aquesta línia si decidíssim comprar el doble de resina abans de començar?  
+   <div class="response-box" style="min-height: 140px;"></div>
 
-2. **Què passa si la cooperativa ven exactament 120 parells d'arracades?**
-   - [ ] A) Té pèrdues de 300 €.
-   - [ ] B) El benefici net és exactament 0 € (ha cobert tots els costos fixos i variables sense guanyar ni perdre diners).
-   - [ ] C) Aconsegueix un benefici net de 600 €.
-   - [ ] D) Ha de tancar l'empresa immediatament.
+2. **Ingressos i Preu de Venda (Línia Verda):**  
+   Mira la línia verda (*Ingressos*). Si pugem el preu de venda, aquesta línia es farà més inclinada (més vertical) o més plana? Per què?  
+   <div class="response-box" style="min-height: 140px;"></div>
 
 <div class="page-break"></div>
 
-#### PREGUNTES DESCRIPTIVES I CÀLCUL FINANCER
+3. **El Punt d'Equilibri:**  
+   Què significa exactament el punt on es creuen? Si venem una arracada menys d'aquest nombre, perdem diners o en guanyem?  
+   <div class="response-box" style="min-height: 140px;"></div>
 
-3. **Càlcul de Benefici Net:**  
-   Si la cooperativa aconsegueix vendre **200 parells d'arracades** durant la fira de l'institut:  
-   a) Quins seran els ingressos totals (200 × 6,50 €)?  
-   b) Quins seran els costos totals (CF + 200 × CVu)?  
-   c) Quin serà el **benefici net final** de la cooperativa?  
-   <div class="response-box" style="min-height: 130px;"></div>
+4. **Càlcul d'Edició Limitada (10 unitats):**  
+   Volem recuperar la inversió venent només 10 parells d'arracades perquè és una edició limitada. A quin preu les hauríem de posar? *(Fes el càlcul a paper i després prova-ho a l'app).*  
+   <div class="response-box" style="min-height: 170px;"></div>
 
-4. **Anàlisi del Simulador i de la Percepció de Mercat:**  
-   Utilitzant les dades del simulador de costos de la web, si decidiu augmentar el preu de venda a 9,00 €:  
-   a) Com afecta això al Punt d'Equilibri (es necessiten més o menys unitats per començar a guanyar diners)?  
-   b) Quin risc hi ha al mercat real si pugueu massa el preu d'unes arracades escolars?  
-   <div class="response-box" style="min-height: 130px;"></div>
+5. **La Realitat Empresarial (Sense subvenció de l'escola):**  
+   Si l'escola no ens deixés les màquines i haguéssim de pagar els 3.575 € de la Taula 1, quantes arracades de 6 € hauríem de vendre? És viable? *(Fes el càlcul a paper).*  
+   <div class="response-box" style="min-height: 170px;"></div>
 
 ---
 
@@ -960,37 +1062,11 @@ Emplena les fitxes de l'informe tècnic de taller per al procés de fabricació 
 
 ### Activitat 10.1: Redacció de la Història Personal de la Joia (Storytelling per al client)
 
-Redacta el text complet de la **Targeta de la Història (Story Card)** que anirà inclosa dins del packaging de les teves arracades. El redactat ha de tenir sentit i connectar tots els passos del teu projecte:
-
-1. **La Guspira / Inspiració inicial del Moodboard:** Quina emoció, record o paisatge va ser el punt de partida?
-2. **El Naming i el Logotip:** Per què la teva marca es diu així i què representa la seva silueta?
-3. **La Línia d'Arracades i la Fabricació:** Què fa especials aquestes arracades creades amb joieria digital i acabats manuals?
-
-<br />
-
-#### 📜 EL MEU RELAT D'AUTOR (Storytelling final per al comprador)
+Redacta el text complet de la **Targeta de la Història (Story Card)** que anirà inclosa dins del packaging de les teves arracades. El redactat ha de tenir sentit, explicar una història personal i connectar tots els passos del teu projecte: Moodboard, Nom, logotip, línia de productes.
 
 <div style="border: 2px solid var(--sl-color-accent); border-radius: 12px; padding: 1.25rem; background: #fffcf8; margin: 1rem 0;">
-  <p style="font-weight: bold; color: var(--sl-color-accent-high); margin-top: 0; text-align: center; font-size: 1.05rem;">
-    ✨ [Títol del Relat de la teva Col·lecció d'Arracades] ✨
-  </p>
-  
-  <div class="response-box" style="min-height: 230px; background: transparent; border: none;"></div>
+  <div class="response-box" style="min-height: 460px; background: transparent; border: none;"></div>
 </div>
-
----
-
-### Activitat 10.2: Disseny del Packaging i Suport de la Joia
-
-Dibuixa el disseny del suport de cartró i l'envoltori exterior que protegirà la teva joia:
-
-<div style="border: 2px dashed #888; border-radius: 8px; height: 220px; text-align: center; padding: 0.5rem; color: #666; margin: 1rem 0; background: #ffffff;">
-  [ Dibuix del Suport de les Arracades i Caixa de Packaging ]
-</div>
-
-- **Material seleccionat per al packaging (sostenible/reciclat):** <span style="border-bottom: 1.5px dashed #666; display: inline-block; width: 50%;"></span>
-
-<div class="page-break"></div>
 
 <div class="page-break"></div>
 
@@ -998,32 +1074,41 @@ Dibuixa el disseny del suport de cartró i l'envoltori exterior que protegirà l
 
 # BLOC 11: TANCAMENT DEL PROJECTE I AUTOAVALUACIÓ FINAL
 
-### Activitat 11.1: Expectatives vs. Realitat
+### 1. Tancament del projecte: EXPECTATIVES vs. REALITAT
 
-1. **Balanç del procés:** Com ha canviat la teva visió de la feina tecnològica i emprenedora des del primer dia fins a la finalització del producte?
-   
-   <div class="response-box" style="min-height: 110px;"></div>
+* **El punt de partida:** Pensa en el primer dia que et vam presentar el projecte Artífex a l'aula. Sincerament, t'imaginaves que series capaç de dissenyar la teva pròpia marca de joieria, modelar en 3D amb ordinador, calcular costos empresarials i entendre el funcionament real d'un taller de fabricació? Com ha canviat la teva visió d'aquesta feina i com et sents respecte a tot el que has viscut des d'aquella primera "guspira" i el teu Moodboard inicial?
 
----
+* **Els alts i baixos del procés:** De totes les etapes que hem viscut al llarg del curs (recerca d'idees, disseny digital, treball al taller manual, estudi financer i comercialització), quina ha estat la que més has gaudit i per quins motius? I, per contra, en quina fase t'has sentit més encallat/da, frustrat/da o desmotivat/da, i com ho has superat?
 
-### Activitat 11.2: Autoavaluació de les 3 Habilitats Clau
+<div class="response-box" style="min-height: 440px;"></div>
 
-- **Creativitat:** Com has superat els moments de bloqueig? (Nota del 0 al 10: ____)
-  
-  <div class="response-box" style="min-height: 70px;"></div>
-
-- **Cura i Detall:** Has mantingut la precisió al disseny i la netedat al taller? (Nota del 0 al 10: ____)
-  
-  <div class="response-box" style="min-height: 70px;"></div>
-
-- **Gestió de l'Error:** Com has reaccionat davant els imprevistos tècnics? (Nota del 0 al 10: ____)
-  
-  <div class="response-box" style="min-height: 70px;"></div>
+<div class="page-break"></div>
 
 ---
 
-### Activitat 11.3: Conclusió Final
+### 2. Tancament del projecte: ANÀLISI SOCIOEMOCIONAL
 
-**Resum en una sola frase del teu aprenentatge principal en el projecte Artífex:**
+A l'inici del curs vas avaluar com te'n sortiries amb tres habilitats clau. Torna a llegir allò que vas escriure el primer dia i reflexiona:
 
-<div class="response-box" style="min-height: 70px; font-weight: bold;"></div>
+* **Creativitat:** T'has sentit bloquejat/da en algun moment a l'hora de tenir idees? Com ho has fet per superar-ho i arrencar? Creus que la marca que has dissenyat té una personalitat única i teva, o sents que s'assembla massa a les altres?
+* **Cura i Detall:** Pensa en la teva manera de treballar. Has llegit bé les instruccions abans de fer les tasques? T'has esforçat a contestar el diari amb detall? Has sigut precís/a dissenyant les mides i les formes a l'ordinador? Del 0 al 10, quina nota et posaries en "treball polit i ben fet"?
+* **Gestió de l'Error:** Durant tot el procés hi ha hagut obstacles (canvis o absències de professorat, bombolles a la resina, moments on et costava concentrar-te...). Com has gestionat aquests imprevistos? Creus que els has afrontat de la millor manera possible? Què faries diferent si et tornés a passar?
+
+<div class="response-box" style="min-height: 520px;"></div>
+
+<div class="page-break"></div>
+
+---
+
+### 3. Tancament del projecte: AVALUA EL PROJECTE ARTÍFEX
+
+Contesta a totes les preguntes una a una:
+
+* **a) Descripció general:** Si haguessis de descriure aquest projecte a un amic d'un altre institut, què li diries exactament?
+* **b) Disseny 3D:** Què t'ha semblat l'ús del programa TinkerCAD? Què ha estat el més fàcil i el més desesperant de fer-lo servir?
+* **c) Treball de taller:** Què t'ha semblat l'experiència de deixar l'ordinador i fabricar amb les teves mans (màquines, silicona, resina...)?
+* **d) Ritme i recursos:** Com has vist el ritme de treball? (Massa feina de cop, poc temps, ben equilibrat...?). Les explicacions i la pàgina Web t'han servit per aprendre i guiar-te?
+* **e) Carpeta d'aprenentatge:** La Carpeta d'aprenentatge t'ha ajudat a adonar-te del que anaves aprenent o se t'ha fet pesat de portar al dia?
+* **f) Consell per al futur:** Quin consell li donaries a un alumne de 1r d'ESO que farà aquest projecte l'any que ve perquè tingui èxit des del primer dia?
+
+<div class="response-box" style="min-height: 540px;"></div>

@@ -59,6 +59,7 @@ export default defineConfig({
         { label: 'FASE 6: Comercialització i Storytelling', link: '/fase-6-comercialitzacio/' },
         { label: 'Dossier de recuperació', link: '/dossier-recuperacio/' },
         { label: "Carpeta d'aprenentatge", link: '/carpeta-d-aprenentatge/' },
+        { label: "Carpeta d'aprenentatge (Adaptada)", link: '/carpeta-d-aprenentatge-adaptada/' },
         { label: "Prova escrita final", link: '/prova-escrita-final/' }
       ],
     }),

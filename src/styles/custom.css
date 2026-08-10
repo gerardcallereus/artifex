@@ -1158,6 +1158,15 @@ starlight-theme-select {
     break-inside: avoid !important;
   }
 
+  /* Force 2-column grid layout to stay 2-columns on print */
+  .custom-grid-2 {
+    display: grid !important;
+    grid-template-columns: repeat(2, minmax(0, 1fr)) !important;
+    gap: 1.25rem !important;
+    page-break-inside: avoid !important;
+    break-inside: avoid !important;
+  }
+
   /* Remove backdrop filters, glows, shadows */
   * {
     box-shadow: none !important;

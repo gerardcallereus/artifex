@@ -14,59 +14,130 @@ description: Aprén més sobre aquest tema del projecte Artífex.
   </ul>
 </div>
 
-:::note[Línia de fabricació]
-Ara ja tens un prototip. Aquestes pàgines expliquen com transformar-lo en una producció en sèrie a petita escala utilitzant motlles i resina.
-:::
-
-Entrem en l'etapa d'execució tècnica. L'objectiu d'aquesta fase és transformar el model digital que en un producte físic viable comercialment. No fabricarem una peça única (artesania pura), sinó que dissenyarem un sistema de producció en sèrie a petita escala.
+Entrem en l'etapa d'execució tècnica. L'objectiu d'aquesta fase és transformar el model digital en un producte físic viable comercialment. No fabricarem una peça única (artesania pura), sinó que dissenyarem un sistema de producció en sèrie a petita escala.
 
 El procés de producció es divideix en 6 etapes tècniques:
 
-| Pas | Objectiu | Clau |
-| --- | --- | --- |
-| 1. Obtenir el màster | Crear el model físic amb impressió 3D | Superfície neta i precisa |
-| 2. Construir l'encofrat | Preparar la caixa del motlle | Evitar fuites i desplaçaments |
-| 3. Elaborar el motlle | Fer el negatiu amb silicona | Controlar bombolles i curat |
-| 4. Buidatge de resina | Produir còpies amb resina | Mesclar bé A+B i pigmentar |
-| 5. Postprocessament | Netejar i polir les peces | Eliminar rebaves i imperfeccions |
-| 6. Muntatge i engarzat | Afegir components metàl·lics | Ajustar ganxos i acabats |
-
 ---
 
-## 1. OBTENCIÓ DEL MÀSTER (Impressió 3D)
-El primer pas és la materialització del prototip o "peça màster". Utilitzarem la impressora 3D per obtenir el model físic positiu.
-- **Requisits:** Aquesta peça ha de tenir una qualitat superficial excel·lent, ja que qualsevol defecte o línia d'impressió es copiarà al motlle i, per tant, a totes les còpies posteriors.
+## 🛠️ Fases del Procés de Fabricació
 
-## 2. CONSTRUCCIÓ DE L'ENCOFRAT
-Prepararem el contenidor on es realitzarà el motlle.
-- **Procediment:** Es construeix una estructura (caixa) al voltant del màster, deixant un marge de seguretat.
-- **Punt crític:** Cal assegurar l'estanqueïtat de la caixa i la correcta fixació de la peça al fons per evitar que suri quan aboquem la silicona.
+<div class="custom-card" style="margin: 1.75rem 0; padding: 1.5rem; border-radius: 12px; border: 1px solid rgba(193, 40, 114, 0.2); background: rgba(255, 255, 255, 0.02); box-shadow: 0 4px 20px rgba(0,0,0,0.05);">
+  <div class="custom-grid-2" style="align-items: center; gap: 1.5rem;">
+    <div>
+      <h3 style="margin-top: 0; color: var(--sl-color-accent-high); font-size: 1.2rem; font-weight: 800;">
+        1. OBTENCIÓ DEL MÀSTER (Impressió 3D)
+      </h3>
+      <p style="margin-bottom: 0.75rem;">El primer pas és la materialització del prototip o "peça màster". Utilitzarem la impressora 3D per obtenir el model físic positiu.</p>
+      <ul style="margin-bottom: 0; padding-left: 1.25rem;">
+        <li><strong>Requisits:</strong> Aquesta peça ha de tenir una qualitat superficial excel·lent, ja que qualsevol defecte o línia d'impressió es copiarà al motlle i, per tant, a totes les còpies posteriors.</li>
+      </ul>
+    </div>
+    <div>
+      <img src="/artifex/media/produccio_pas1_impressio3d.jpg" alt="Impressió 3D del prototip màster" style="width: 100%; max-height: 380px; object-fit: cover; border-radius: 10px; border: 1px solid rgba(193, 40, 114, 0.2); box-shadow: 0 4px 15px rgba(0,0,0,0.12);" />
+      <em style="display: block; text-align: center; font-size: 0.82rem; color: #666; margin-top: 0.4rem;">Procés d'impressió 3D de la peça màster a la safata de fabricació</em>
+    </div>
+  </div>
+</div>
 
-## 3. ELABORACIÓ DEL MOTLLE (Silicona)
-Crearem el negatiu de la peça utilitzant silicona d'emmotllament.
-- **Procés químic:** Barrejarem la base de silicona amb el catalitzador. Això inicia el procés de curat que transformarà el líquid en un elastòmer flexible.
-- **Tècnica:** L'abocament s'ha de fer de manera controlada (fil prim) per evitar la formació de bombolles d'aire a la superfície de la peça.
+<div class="custom-card" style="margin: 1.75rem 0; padding: 1.5rem; border-radius: 12px; border: 1px solid rgba(193, 40, 114, 0.2); background: rgba(255, 255, 255, 0.02); box-shadow: 0 4px 20px rgba(0,0,0,0.05);">
+  <div class="custom-grid-2" style="align-items: center; gap: 1.5rem;">
+    <div>
+      <h3 style="margin-top: 0; color: var(--sl-color-accent-high); font-size: 1.2rem; font-weight: 800;">
+        2. CONSTRUCCIÓ DE L'ENCOFRAT
+      </h3>
+      <p style="margin-bottom: 0.75rem;">Prepararem el contenidor on es realitzarà el motlle.</p>
+      <ul style="margin-bottom: 0; padding-left: 1.25rem;">
+        <li><strong>Procediment:</strong> Es construeix una estructura (caixa) al voltant del màster, deixant un marge de seguretat.</li>
+        <li><strong>Punt crític:</strong> Cal assegurar l'estanqueïtat de la caixa i la correcta fixació de la peça al fons per evitar que suri quan aboquem la silicona.</li>
+      </ul>
+    </div>
+    <div>
+      <img src="/artifex/media/produccio_pas2_encofrat.jpg" alt="Construcció de l'encofrat de fusta amb les peces màster" style="width: 100%; max-height: 380px; object-fit: cover; border-radius: 10px; border: 1px solid rgba(193, 40, 114, 0.2); box-shadow: 0 4px 15px rgba(0,0,0,0.12);" />
+      <em style="display: block; text-align: center; font-size: 0.82rem; color: #666; margin-top: 0.4rem;">Caixa d'encofrat de fusta amb les peces màster fixades al fons</em>
+    </div>
+  </div>
+</div>
 
-## 4. BUIDATGE DE RESINA (Còpia)
-Un cop obtingut el motlle, iniciem la producció en sèrie de les arracades.
-- **Polimerització:** Utilitzarem resina epoxi de dos components (A+B). La precisió en la proporció de la barreja és vital per garantir l'enduriment.
-- **Pigmentació:** En aquest punt s'apliquen els tints i càrregues (purpurina, elements incrustats) segons el disseny de la marca.
+<div class="custom-card" style="margin: 1.75rem 0; padding: 1.5rem; border-radius: 12px; border: 1px solid rgba(193, 40, 114, 0.2); background: rgba(255, 255, 255, 0.02); box-shadow: 0 4px 20px rgba(0,0,0,0.05);">
+  <div class="custom-grid-2" style="align-items: center; gap: 1.5rem;">
+    <div>
+      <h3 style="margin-top: 0; color: var(--sl-color-accent-high); font-size: 1.2rem; font-weight: 800;">
+        3. ELABORACIÓ DEL MOTLLE (Silicona)
+      </h3>
+      <p style="margin-bottom: 0.75rem;">Crearem el negatiu de la peça utilitzant silicona d'emmotllament.</p>
+      <ul style="margin-bottom: 0; padding-left: 1.25rem;">
+        <li><strong>Procés químic:</strong> Barrejarem la base de silicona amb el catalitzador. Això inicia el procés de curat que transformarà el líquid en un elastòmer flexible.</li>
+        <li><strong>Tècnica:</strong> L'abocament s'ha de fer de manera controlada (fil prim) per evitar la formació de bombolles d'aire a la superfície de la peça.</li>
+      </ul>
+    </div>
+    <div>
+      <img src="/artifex/media/produccio_pas3_motlle_silicona.jpg" alt="Abocament de silicona a la caixa d'encofrat" style="width: 100%; max-height: 380px; object-fit: cover; border-radius: 10px; border: 1px solid rgba(193, 40, 114, 0.2); box-shadow: 0 4px 15px rgba(0,0,0,0.12);" />
+      <em style="display: block; text-align: center; font-size: 0.82rem; color: #666; margin-top: 0.4rem;">Procés d'abocament de la silicona d'emmotllament sobre les peces màster</em>
+    </div>
+  </div>
+</div>
 
-## 5. POSTPROCESSAMENT I ACABATS
-Les peces sortides del motlle requereixen un tractament superficial per assolir la qualitat comercial.
-- **Polit:** Eliminació de rebaves (sobrants de material) i imperfeccions mitjançant paper de vidre de diferents grans i llimadures de precisió.
-- **Perforació:** Creació dels orificis de subjecció amb trepant manual per tal d'inserir les volanderes.
+<div class="custom-card" style="margin: 1.75rem 0; padding: 1.5rem; border-radius: 12px; border: 1px solid rgba(193, 40, 114, 0.2); background: rgba(255, 255, 255, 0.02); box-shadow: 0 4px 20px rgba(0,0,0,0.05);">
+  <div class="custom-grid-2" style="align-items: center; gap: 1.5rem;">
+    <div>
+      <h3 style="margin-top: 0; color: var(--sl-color-accent-high); font-size: 1.2rem; font-weight: 800;">
+        4. BUIDATGE DE RESINA (Còpia)
+      </h3>
+      <p style="margin-bottom: 0.75rem;">Un cop obtingut el motlle, iniciem la producció en sèrie de les arracades.</p>
+      <ul style="margin-bottom: 0; padding-left: 1.25rem;">
+        <li><strong>Polimerització:</strong> Utilitzarem resina epoxi de dos components (A+B). La precisió en la proporció de la barreja és vital per garantir l'enduriment.</li>
+        <li><strong>Pigmentació:</strong> En aquest punt s'apliquen els tints i càrregues (purpurina, elements incrustats) segons el disseny de la marca.</li>
+      </ul>
+    </div>
+    <div>
+      <img src="/artifex/media/produccio_pas4_buidatge_resina.jpg" alt="Preparació i buidatge de la resina acolorida al motlle" style="width: 100%; max-height: 380px; object-fit: cover; object-position: top; border-radius: 10px; border: 1px solid rgba(193, 40, 114, 0.2); box-shadow: 0 4px 15px rgba(0,0,0,0.12);" />
+      <em style="display: block; text-align: center; font-size: 0.82rem; color: #666; margin-top: 0.4rem;">Mescla de resina epoxi amb pigments i abocament meticulós al motlle de silicona</em>
+    </div>
+  </div>
+</div>
 
-## 6. MUNTATGE I ENGARZAT
-Fase final d'assemblatge dels components metàl·lics.
-- **Manipulació del metall i conformat:** Utilitzarem filferro i alicates de precisió (punta rodona i plana) per crear el ganxo i unir-lo amb la peça de resina.
+<div class="custom-card" style="margin: 1.75rem 0; padding: 1.5rem; border-radius: 12px; border: 1px solid rgba(193, 40, 114, 0.2); background: rgba(255, 255, 255, 0.02); box-shadow: 0 4px 20px rgba(0,0,0,0.05);">
+  <div class="custom-grid-2" style="align-items: center; gap: 1.5rem;">
+    <div>
+      <h3 style="margin-top: 0; color: var(--sl-color-accent-high); font-size: 1.2rem; font-weight: 800;">
+        5. POSTPROCESSAMENT I ACABATS
+      </h3>
+      <p style="margin-bottom: 0.75rem;">Les peces sortides del motlle requereixen un tractament superficial per assolir la qualitat comercial.</p>
+      <ul style="margin-bottom: 0; padding-left: 1.25rem;">
+        <li><strong>Polit:</strong> Eliminació de rebaves (sobrants de material) i imperfeccions mitjançant paper de vidre de diferents grans i llimadures de precisió.</li>
+        <li><strong>Perforació:</strong> Creació dels orificis de subjecció amb trepant manual per tal d'inserir les volanderes.</li>
+      </ul>
+    </div>
+    <div>
+      <img src="/artifex/media/produccio_pas5_postprocessament.jpg" alt="Perforació de precisió amb minitrepat Dremel" style="width: 100%; max-height: 380px; object-fit: cover; border-radius: 10px; border: 1px solid rgba(193, 40, 114, 0.2); box-shadow: 0 4px 15px rgba(0,0,0,0.12);" />
+      <em style="display: block; text-align: center; font-size: 0.82rem; color: #666; margin-top: 0.4rem;">Procés de perforació de la peça de resina amb trepant de precisió per al ganxo</em>
+    </div>
+  </div>
+</div>
+
+<div class="custom-card" style="margin: 1.75rem 0; padding: 1.5rem; border-radius: 12px; border: 1px solid rgba(193, 40, 114, 0.2); background: rgba(255, 255, 255, 0.02); box-shadow: 0 4px 20px rgba(0,0,0,0.05);">
+  <div class="custom-grid-2" style="align-items: center; gap: 1.5rem;">
+    <div>
+      <h3 style="margin-top: 0; color: var(--sl-color-accent-high); font-size: 1.2rem; font-weight: 800;">
+        6. MUNTATGE I ENGARZAT
+      </h3>
+      <p style="margin-bottom: 0.75rem;">Fase final d'assemblatge dels components metàl·lics.</p>
+      <ul style="margin-bottom: 0; padding-left: 1.25rem;">
+        <li><strong>Manipulació del metall i conformat:</strong> Utilitzarem filferro i alicates de precisió (punta rodona i plana) per crear el ganxo i unir-lo amb la peça de resina.</li>
+      </ul>
+    </div>
+    <div>
+      <img src="/artifex/media/produccio_pas6_muntatge.jpg" alt="Muntatge del ganxo metàl·lic amb alicates de precisió" style="width: 100%; max-height: 380px; object-fit: cover; border-radius: 10px; border: 1px solid rgba(193, 40, 114, 0.2); box-shadow: 0 4px 15px rgba(0,0,0,0.12);" />
+      <em style="display: block; text-align: center; font-size: 0.82rem; color: #666; margin-top: 0.4rem;">Assemblatge final del ganxo metàl·lic i anella utilitzant alicates de punta rodona</em>
+    </div>
+  </div>
+</div>
+
+---
 
 <div class="custom-card" style="margin: 2rem 0; padding: 1.25rem; border-left: 5px solid var(--sl-color-accent-high); background: rgba(193, 40, 114, 0.04); text-align: center;">
   <p class="text-md" style="margin: 0; font-weight: 700; color: var(--sl-color-accent-high);">
     ✏️ Un cop hagis explorat la FASE 4, realitza les activitats del <strong>BLOC 8: FASE 4 - PRODUCCIÓ</strong> a la teva <strong>Carpeta d'aprenentatge</strong>.
   </p>
 </div>
-
-
-
-

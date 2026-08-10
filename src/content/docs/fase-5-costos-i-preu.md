@@ -14,10 +14,6 @@ description: Aprén més sobre aquest tema del projecte Artífex.
   </ul>
 </div>
 
-:::note[El preu és part del disseny]
-No només compta el material. Compten les màquines, el temps, el packaging i la percepció del client.
-:::
-
 Benvinguts al departament financer. Avui farem números, però abans de calcular el preu de l'arracada, hem de ser conscients d'una cosa.
 
 Per fabricar les vostres joies esteu fent servir màquines que valen milers d'euros. En una empresa real, hauríeu de pagar-les. Aquí, la "Cooperativa Artífex" (el centre) us les deixa gratis.

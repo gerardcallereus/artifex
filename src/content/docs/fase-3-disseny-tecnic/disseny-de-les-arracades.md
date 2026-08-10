@@ -17,29 +17,149 @@ description: Guia de programació paramètrica 3D per al disseny d'arracades amb
 
 ## 🧩 Què és Tinkercad Codeblocks?
 
-**Tinkercad Codeblocks** és un entorn de modelat 3D paramètric. Funciona exactament com Scratch o Blockly: encaixes blocs acolorits de comandes (Afegeix forma, Moure, Girar, Repetir, Crear grup) per construir el model 3D de la teva arracada pas a pas.
-
-![Diagrama Tinkercad Codeblocks](/artifex/media/tinkercad_codeblocks_arracades.svg)
-
----
-
-## 💡 Per què fem servir Codeblocks per dissenyar arracades?
-
-1. **PRECISIÓ MIL·LIMÈTRICA:** Si l'arracada ha de mesurar exactament 24 mm de diàmetre i 2 mm de gruix, ho indiques al bloc i la màquina ho executa amb zero error.
-2. **MODIFICACIÓ INSTANTÀNIA (Paramètrica):** Si vols provar com queda l'arracada amb 5 mm més o amb un altre forat, només has de canviar un número al codi i tot el model s'actualitza automàticament.
-3. **CREACIÓ DEL PARELL D'ARRACADES (Duplicació simètrica):** Amb un bloc de bucle `Repetir (2 vegades)` i una translació a l'eix X, crees la parella d'arracades exactament idèntiques en un segon.
-4. **FORAT PER AL GANXO:** Afegint una forma definida com a "Forat" i agrupant-la amb la base de l'arracada, l'ordinador realitza una operació booleana de resta perfecta per poder-hi passar el ganxo metàl·lic de la joia.
+<div class="custom-grid-2" style="align-items: center; gap: 1.5rem; margin: 1.5rem 0;">
+  <div>
+    <p class="text-md"><strong>Tinkercad Codeblocks</strong> és un entorn de modelat 3D paramètric. Funciona exactament com Scratch o Blockly: encaixes blocs acolorits de comandes (Afegeix forma, Moure, Girar, Repetir, Crear grup) per construir el model 3D de la teva arracada pas a pas.</p>
+  </div>
+  <div>
+    <img src="/artifex/media/tinkercad_codeblocks_interface.png" alt="Interfície de Tinkercad Codeblocks" style="width: 100%; border-radius: 10px; border: 1px solid rgba(193, 40, 114, 0.2); box-shadow: 0 4px 15px rgba(0,0,0,0.1);" />
+    <em style="display: block; text-align: center; font-size: 0.85rem; color: #666; margin-top: 0.5rem;">Interfície de programació visual per blocs a Tinkercad Codeblocks</em>
+  </div>
+</div>
 
 ---
 
-## 📐 Estructura del Codi d'una Arracada en 4 Passos
+### 🎬 Videotutorials de Tinkercad Codeblocks
 
-```text
-[1. Afegeix Forma Base]  --> Cilindre / Polígon de la joia (Ex: R=12mm, H=2mm)
-[2. Afegeix Forat Ganxo] --> Cilindre buit (Ex: R=1.5mm) desplaçat a la part superior (Y=9mm)
-[3. Crea Grup]            --> Fusiona les formes i resta el forat automàticament
-[4. Duplica i Mou]        --> Crea la segona arracada simètrica per al parell
-```
+Per familiaritzar-te amb la programació 3D per blocs, pots seguir la proposta del teu **Pla Personal** o explorar la col·lecció de videotutorials pas a pas que trobaràs a continuació. Fes clic a qualsevol tutorial per desplegar el vídeo corresponent:
+
+<details style="background: rgba(193, 40, 114, 0.03); border: 1px solid rgba(193, 40, 114, 0.2); border-radius: 8px; margin-bottom: 0.75rem; padding: 0.75rem 1rem;">
+  <summary style="font-weight: 700; font-size: 1.05rem; cursor: pointer; color: var(--sl-color-accent-high);">
+    🎥 Tutorial 1: Primers passos
+  </summary>
+  <div style="margin-top: 1rem;">
+    <iframe 
+      src="https://player.vimeo.com/video/746983463" 
+      title="Tutorial 1: Primers passos" 
+      frameborder="0" 
+      allow="autoplay; fullscreen; picture-in-picture" 
+      allowfullscreen 
+      style="width: 100%; aspect-ratio: 16/9; border-radius: 8px; border: 1px solid rgba(193, 40, 114, 0.2); box-shadow: 0 4px 15px rgba(0,0,0,0.1);"
+    ></iframe>
+  </div>
+</details>
+
+<details style="background: rgba(193, 40, 114, 0.03); border: 1px solid rgba(193, 40, 114, 0.2); border-radius: 8px; margin-bottom: 0.75rem; padding: 0.75rem 1rem;">
+  <summary style="font-weight: 700; font-size: 1.05rem; cursor: pointer; color: var(--sl-color-accent-high);">
+    🎥 Tutorial 2: Moure elements
+  </summary>
+  <div style="margin-top: 1rem;">
+    <iframe 
+      src="https://player.vimeo.com/video/619848988?h=6319ec02b9" 
+      title="Tutorial 2: Moure elements" 
+      frameborder="0" 
+      allow="autoplay; fullscreen; picture-in-picture" 
+      allowfullscreen 
+      style="width: 100%; aspect-ratio: 16/9; border-radius: 8px; border: 1px solid rgba(193, 40, 114, 0.2); box-shadow: 0 4px 15px rgba(0,0,0,0.1);"
+    ></iframe>
+  </div>
+</details>
+
+<details style="background: rgba(193, 40, 114, 0.03); border: 1px solid rgba(193, 40, 114, 0.2); border-radius: 8px; margin-bottom: 0.75rem; padding: 0.75rem 1rem;">
+  <summary style="font-weight: 700; font-size: 1.05rem; cursor: pointer; color: var(--sl-color-accent-high);">
+    🎥 Tutorial 3: Desplaçament de figures
+  </summary>
+  <div style="margin-top: 1rem;">
+    <iframe 
+      src="https://player.vimeo.com/video/746983549" 
+      title="Tutorial 3: Desplaçament de figures" 
+      frameborder="0" 
+      allow="autoplay; fullscreen; picture-in-picture" 
+      allowfullscreen 
+      style="width: 100%; aspect-ratio: 16/9; border-radius: 8px; border: 1px solid rgba(193, 40, 114, 0.2); box-shadow: 0 4px 15px rgba(0,0,0,0.1);"
+    ></iframe>
+  </div>
+</details>
+
+<details style="background: rgba(193, 40, 114, 0.03); border: 1px solid rgba(193, 40, 114, 0.2); border-radius: 8px; margin-bottom: 0.75rem; padding: 0.75rem 1rem;">
+  <summary style="font-weight: 700; font-size: 1.05rem; cursor: pointer; color: var(--sl-color-accent-high);">
+    🎥 Tutorial 4: Rotar elements
+  </summary>
+  <div style="margin-top: 1rem;">
+    <iframe 
+      src="https://player.vimeo.com/video/619849223?h=b1e55ff20c" 
+      title="Tutorial 4: Rotar elements" 
+      frameborder="0" 
+      allow="autoplay; fullscreen; picture-in-picture" 
+      allowfullscreen 
+      style="width: 100%; aspect-ratio: 16/9; border-radius: 8px; border: 1px solid rgba(193, 40, 114, 0.2); box-shadow: 0 4px 15px rgba(0,0,0,0.1);"
+    ></iframe>
+  </div>
+</details>
+
+<details style="background: rgba(193, 40, 114, 0.03); border: 1px solid rgba(193, 40, 114, 0.2); border-radius: 8px; margin-bottom: 0.75rem; padding: 0.75rem 1rem;">
+  <summary style="font-weight: 700; font-size: 1.05rem; cursor: pointer; color: var(--sl-color-accent-high);">
+    🎥 Tutorial 5: Rotacions precises
+  </summary>
+  <div style="margin-top: 1rem;">
+    <iframe 
+      src="https://player.vimeo.com/video/746983749" 
+      title="Tutorial 5: Rotacions precises" 
+      frameborder="0" 
+      allow="autoplay; fullscreen; picture-in-picture" 
+      allowfullscreen 
+      style="width: 100%; aspect-ratio: 16/9; border-radius: 8px; border: 1px solid rgba(193, 40, 114, 0.2); box-shadow: 0 4px 15px rgba(0,0,0,0.1);"
+    ></iframe>
+  </div>
+</details>
+
+<details style="background: rgba(193, 40, 114, 0.03); border: 1px solid rgba(193, 40, 114, 0.2); border-radius: 8px; margin-bottom: 0.75rem; padding: 0.75rem 1rem;">
+  <summary style="font-weight: 700; font-size: 1.05rem; cursor: pointer; color: var(--sl-color-accent-high);">
+    🎥 Tutorial 6: Modelar polígons
+  </summary>
+  <div style="margin-top: 1rem;">
+    <iframe 
+      src="https://player.vimeo.com/video/619848940?h=a4cdca3342" 
+      title="Tutorial 6: Modelar polígons" 
+      frameborder="0" 
+      allow="autoplay; fullscreen; picture-in-picture" 
+      allowfullscreen 
+      style="width: 100%; aspect-ratio: 16/9; border-radius: 8px; border: 1px solid rgba(193, 40, 114, 0.2); box-shadow: 0 4px 15px rgba(0,0,0,0.1);"
+    ></iframe>
+  </div>
+</details>
+
+<details style="background: rgba(193, 40, 114, 0.03); border: 1px solid rgba(193, 40, 114, 0.2); border-radius: 8px; margin-bottom: 0.75rem; padding: 0.75rem 1rem;">
+  <summary style="font-weight: 700; font-size: 1.05rem; cursor: pointer; color: var(--sl-color-accent-high);">
+    🎥 Tutorial 7: Combinar elements i afegir text
+  </summary>
+  <div style="margin-top: 1rem;">
+    <iframe 
+      src="https://player.vimeo.com/video/619848855?h=11ca6ad8b1" 
+      title="Tutorial 7: Combinar elements i afegir text" 
+      frameborder="0" 
+      allow="autoplay; fullscreen; picture-in-picture" 
+      allowfullscreen 
+      style="width: 100%; aspect-ratio: 16/9; border-radius: 8px; border: 1px solid rgba(193, 40, 114, 0.2); box-shadow: 0 4px 15px rgba(0,0,0,0.1);"
+    ></iframe>
+  </div>
+</details>
+
+<details style="background: rgba(193, 40, 114, 0.03); border: 1px solid rgba(193, 40, 114, 0.2); border-radius: 8px; margin-bottom: 0.75rem; padding: 0.75rem 1rem;">
+  <summary style="font-weight: 700; font-size: 1.05rem; cursor: pointer; color: var(--sl-color-accent-high);">
+    🎥 Tutorial 8: Repetir patrons
+  </summary>
+  <div style="margin-top: 1rem;">
+    <iframe 
+      src="https://player.vimeo.com/video/619849098?h=c929b8a1bc" 
+      title="Tutorial 8: Repetir patrons" 
+      frameborder="0" 
+      allow="autoplay; fullscreen; picture-in-picture" 
+      allowfullscreen 
+      style="width: 100%; aspect-ratio: 16/9; border-radius: 8px; border: 1px solid rgba(193, 40, 114, 0.2); box-shadow: 0 4px 15px rgba(0,0,0,0.1);"
+    ></iframe>
+  </div>
+</details>
 
 ---
 
@@ -51,14 +171,3 @@ Per a la tercera tasca del lliurament de Google Classroom, hauràs de crear el m
 - **Sense eines clàssiques:** Tota la peça s'ha de programar paramètricament amb blocs de codi visuals (no es poden utilitzar les eines de disseny 3D tradicionals).  
 - **Mida màxima d'arracada:** La mida de l'arracada **no pot ser més gran de 4 × 4 × 0,5 cm** (40 × 40 × 5 mm).
 
-💡 **Com aprendre a utilitzar Tinkercad Blocs?**  
-Per familiaritzar-te amb la programació 3D per blocs, pots seguir la proposta del teu **Pla Personal** o fer un tastet interactiu guiat pas a pas a través de la següent presentació:  
-➡️ **[Accedeix al Tastet de Tinkercad Blocs (Guia Genially)](https://view.genially.com/63e9fe297b59920018684b42)**
-
----
-
-<div class="custom-card" style="margin: 2rem 0; padding: 1.25rem; border-left: 5px solid var(--sl-color-accent-high); background: rgba(193, 40, 114, 0.04); text-align: center;">
-  <p class="text-md" style="margin: 0; font-weight: 700; color: var(--sl-color-accent-high);">
-    ✏️ Connecta't a la classe de Tinkercad Classroom, obre l'editor de Codeblocks i lliura la teva arracada 3D paramètrica!
-  </p>
-</div>
