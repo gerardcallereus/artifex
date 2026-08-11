@@ -60,6 +60,7 @@ export default defineConfig({
         { label: 'Dossier de recuperació', link: '/dossier-recuperacio/' },
         { label: "Carpeta d'aprenentatge", link: '/carpeta-d-aprenentatge/' },
         { label: "Carpeta d'aprenentatge (Adaptada)", link: '/carpeta-d-aprenentatge-adaptada/' },
+        { label: "Guia del professorat", link: '/guia-professor-carpeta-d-aprenentatge/' },
         { label: "Prova escrita final", link: '/prova-escrita-final/' }
       ],
     }),

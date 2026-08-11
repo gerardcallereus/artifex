@@ -9,13 +9,11 @@ description: L'art de comunicar la història personal de la teva joia i dissenya
   <div class="box-title">Objectius d'aprenentatge</div>
   <ul>
     <li><strong>Storytelling (El Relat de Marca):</strong> Construir la història personal i emocional que connecta el Moodboard d'inspiració amb les arracades finals.</li>
-    <li><strong>Packaging (L'Empaquetat):</strong> Dissenyar la caixa, la targeta de presentació o l'envoltori que protegeix i dona valor a la joia.</li>
-    <li><strong>Comunicació amb el client:</strong> Redactar la targeta de la història que el comprador llegirà en obrir el paquet de les teves arracades.</li>
   </ul>
 </div>
 
 :::note[No vens només un objecte; vens una història]
-El valor d'una joia d'autor no està només en el material de fusta o acrílic; està en la història que hi ha al darrere: des de la guspira d'inspiració fins a les teves mans.
+El valor d'una joia d'autor no està només en la resina o els components metàl·lics; està en la història que hi ha al darrere: des de la guspira d'inspiració fins a les teves mans.
 :::
 
 ---
@@ -24,7 +22,7 @@ El valor d'una joia d'autor no està només en el material de fusta o acrílic; 
 
 El **Storytelling** és l'art de comptar una història perquè el client entengui quin sentit té l'objecte que té a les mans. 
 
-Quan algú compra les teves arracades, no vol simplement dos peces de fusta gravada. Vol saber:
+Quan algú compra les teves arracades, no vol simplement dues peces de resina. Vol saber:
 - Quina emoció o record (La Guspira) va inspirar el teu **Moodboard** inicial.
 - Per què la teva marca es diu com es diu (**El Naming**).
 - Què significa la forma del teu **Logotip**.

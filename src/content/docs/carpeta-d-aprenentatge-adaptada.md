@@ -146,8 +146,8 @@ Dissenya un esquema visual senzill que connecti en ordre les 6 fases per crear u
 
 1. **Quina és la funció principal de la Fase 1 (La Guspira / Idea inicial)?**
    - [ ] A) Definir el preu de venda de la joia.
-   - [ ] B) Trobar una font d'inspiració i definir la història de la marca.
-   - [ ] C) Comprar les màquines de taller.
+   - [ ] B) Comprar les màquines de taller.
+   - [ ] C) Trobar una font d'inspiració i definir la història de la marca.
    - [ ] D) Calcular els impostos de l'empresa.
 
 2. **Per què la Fase 2 (Identitat: Nom, Logo i Colors) es fa abans de dissenyar en 3D?**
@@ -157,16 +157,22 @@ Dissenya un esquema visual senzill que connecti en ordre les 6 fases per crear u
    - [ ] D) Perquè el packaging és l'única cosa que importa.
 
 3. **Quin avantatge té dissenyar en 2D/3D a l'ordinador (Fase 3) abans d'anar al taller?**
-   - [ ] A) Permet veure i corregir errors de mida a la pantalla sense gastar material.
-   - [ ] B) Fa que la joia es venda sola.
-   - [ ] C) Evita haver de fabricar la joia en realitat.
-   - [ ] D) No té cap avantatge.
+   - [ ] A) Fa que la joia es venda sola.
+   - [ ] B) Evita haver de fabricar la joia en realitat.
+   - [ ] C) No té cap avantatge.
+   - [ ] D) Permet veure i corregir errors de mida a la pantalla sense gastar material.
 
 4. **Si una empresa posa el preu de venda (Fase 5) sense saber quant li ha costat fer el producte (Fase 4), quin risc té?**
    - [ ] A) Guanyar molts diners des del primer dia.
    - [ ] B) Perdre diners i no poder cobrir les despeses dels materials.
    - [ ] C) Estalviar temps de feina.
    - [ ] D) Cap risc.
+
+### Activitat 2.4: Reflexió de Tancament del Bloc 2: Com creem la nostra marca?
+
+Què és el més important que has après sobre les 6 fases per crear una marca? Què tindràs en compte quan dissenyis la teva pròpia marca d'arracades?
+
+<div class="response-box" style="min-height: 160px;"></div>
 
 ---
 
@@ -259,16 +265,16 @@ Recorda seguir aquestes recomanacions bàsiques:
 Respon a les preguntes següents sobre com dissenyar un bon logotip i triar els colors adequats:
 
 1. **Quina és la regla principal de contrast entre el text i el fons?**
-   - [ ] A) Posar lletra blanca sobre fons groc clar.
-   - [ ] B) Posar colors molt similars.
-   - [ ] C) Posar lletra fosca sobre fons clar, o lletra clara sobre fons fosc.
+   - [ ] A) Posar lletra fosca sobre fons clar, o lletra clara sobre fons fosc.
+   - [ ] B) Posar lletra blanca sobre fons groc clar.
+   - [ ] C) Posar colors molt similars.
    - [ ] D) Afegir molts efectes i ombres.
 
 2. **Quin truc senzill serveix per comprovar si un nom es llegeix bé?**
-   - [ ] A) Entretancar els ulls: si el text es confon amb el fons, falta contrast.
-   - [ ] B) Apagar totes les llums de l'aula.
-   - [ ] C) Mirar la pantalla des de molt lluny.
-   - [ ] D) Canviar la lletra a una molt petita.
+   - [ ] A) Apagar totes les llums de l'aula.
+   - [ ] B) Mirar la pantalla des de molt lluny.
+   - [ ] C) Canviar la lletra a una molt petita.
+   - [ ] D) Entretancar els ulls: si el text es confon amb el fons, falta contrast.
 
 3. **Per què s'evita posar lletres vermelles sobre fons blau pur?**
    - [ ] A) Perquè està prohibit per llei.
@@ -278,21 +284,21 @@ Respon a les preguntes següents sobre com dissenyar un bon logotip i triar els 
 
 4. **Quins colors s'acostumen a triar per a un públic jove o infantil?**
    - [ ] A) Grisos i marrons foscos.
-   - [ ] B) Colors vius i alegres (vermell, groc, blau intens).
-   - [ ] C) Fons transparents sense color.
+   - [ ] B) Fons transparents sense color.
+   - [ ] C) Colors vius i alegres (vermell, groc, blau intens).
    - [ ] D) Colors molt descolorits.
 
 5. **Quina prova ha de superar un bo logotip abans de triar els colors?**
-   - [ ] A) S'ha de veure bé en una mida de 5 metres.
-   - [ ] B) S'ha de veure clarament en blanc i negre (un sol color).
+   - [ ] A) S'ha de veure clarament en blanc i negre (un sol color).
+   - [ ] B) S'ha de veure bé en una mida de 5 metres.
    - [ ] C) Ha de tenir més de 6 colors.
    - [ ] D) Ha de tenir la foto d'una joia real.
 
 6. **Quina tipografia s'utilitza si volem transmetre força i seriositat?**
    - [ ] A) Una lletra molt fina i punteguda.
    - [ ] B) Una lletra de dibuixos animats.
-   - [ ] C) Una lletra gruixuda, recta i en majúscules.
-   - [ ] D) Una lletra cursiva amb molts detalls.
+   - [ ] C) Una lletra cursiva amb molts detalls.
+   - [ ] D) Una lletra gruixuda, recta i en majúscules.
 
 7. **Quin efecte fa un fons fosc (negre/gris) amb lletres blanques i espaiades?**
    - [ ] A) Fa que la marca sembli barata.
@@ -460,8 +466,8 @@ Com heu posat les anelles i els ganxos de metall? Quin és el resultat final de 
 ### Activitat 9.1: Anàlisi Competencial de Costos i Punt d'Equilibri
 
 1. **Quant li costa a la nostra cooperativa la maquinària de l'aula (Impressora 3D, Talladora Làser, Ordinadors)?**
-   - [ ] A) 3.575,00 € de la nostra caixa.
-   - [ ] B) 0,00 €, perquè és una infraestructura que ens deixa l'escola de franc.
+   - [ ] A) 0,00 €, perquè és una infraestructura que ens deixa l'escola de franc.
+   - [ ] B) 3.575,00 € de la nostra caixa.
    - [ ] C) 41,98 €.
    - [ ] D) 92,42 €.
 
@@ -473,19 +479,19 @@ Com heu posat les anelles i els ganxos de metall? Quin és el resultat final de 
 
 3. **Al gràfic del simulador financer, què representa la línia vermella horitzontal (Inversió Total)?**
    - [ ] A) Els diners que anem guanyant.
-   - [ ] B) Els diners totals gastats abans de vendre cap joia (92,42 €).
-   - [ ] C) El preu de venda de l'arracada.
-   - [ ] D) El nombre d'alumnes del grup.
+   - [ ] B) El preu de venda de l'arracada.
+   - [ ] C) El nombre d'alumnes del grup.
+   - [ ] D) Els diners totals gastats abans de vendre cap joia (92,42 €).
 
 4. **Al gràfic del simulador financer, què representa la línia verda diagonal (Ingressos)?**
-   - [ ] A) Els diners acumulats per les vendes a mesura que venem més arracades.
-   - [ ] B) El cost de les màquines.
+   - [ ] A) El cost de les màquines.
+   - [ ] B) Els diners acumulats per les vendes a mesura que venem més arracades.
    - [ ] C) El descompte del proveïdor.
    - [ ] D) El preu del packaging.
 
 5. **En el Punt d'Equilibri (on es creuen la línia verda d'Ingressos i la vermella d'Inversió):**
-   - [ ] A) Tenim pèrdues de 1.000 €.
-   - [ ] B) Els Ingressos per vendes igualen exactament la Inversió feta (Benefici = 0 €).
+   - [ ] A) Els Ingressos per vendes igualen exactament la Inversió feta (Benefici = 0 €).
+   - [ ] B) Tenim pèrdues de 1.000 €.
    - [ ] C) L'empresa ha de tancar.
    - [ ] D) Es regalen totes les arracades.
 

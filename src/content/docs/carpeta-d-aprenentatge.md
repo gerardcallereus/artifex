@@ -148,9 +148,9 @@ Dissenya un diagrama de flux complet que connecti ordenadament les 6 fases del p
    
    - [ ] A) Definir el preu final de venda de la peça de joieria.
    
-   - [ ] B) Trobar una font d'inspiració sòlida i definir el concepte o la història que transmetrà la marca.
+   - [ ] B) Comprar la maquinària de taller i els pigments de resina.
    
-   - [ ] C) Comprar la maquinària de taller i els pigments de resina.
+   - [ ] C) Trobar una font d'inspiració sòlida i definir el concepte o la història que transmetrà la marca.
    
    - [ ] D) Calcular els costos fixos i els impostos de l'empresa.
 
@@ -166,13 +166,13 @@ Dissenya un diagrama de flux complet que connecti ordenadament les 6 fases del p
 
 3. **Quin avantatge principal té realitzar el disseny 2D/3D (Fase 3: Disseny Tècnic) a l'ordinador abans de la fabricació al taller?**
    
-   - [ ] A) Permet detectar errors de mides, cotes o proporcions i corregir-los digitalment sense malgastar temps ni material.
+   - [ ] A) Garanteix que la joia es quedi venuda abans de produir-la.
    
-   - [ ] B) Garanteix que la joia es quedi venuda abans de produir-la.
+   - [ ] B) Elimina per complet la necessitat de fer motlles o prototips físics.
    
-   - [ ] C) Elimina per complet la necessitat de fer motlles o prototips físics.
+   - [ ] C) Produeix el producte final automàticament sense cap tipus d'intervenció humana.
    
-   - [ ] D) Produeix el producte final automàticament sense cap tipus d'intervenció humana.
+   - [ ] D) Permet detectar errors de mides, cotes o proporcions i corregir-los digitalment sense malgastar temps ni material.
 
 4. **Si una empresa fixa el Preu de Venda al Públic (Fase 5) basant-se només en la intuïció i sense mirar els costos reals de producció (Fase 4), quin risc corre?**
    
@@ -286,6 +286,8 @@ Un cop aconseguit el fil, va arribar la complexitat de la **PRODUCCIÓ**. La maj
   </div>
 </div>
 
+<br />
+
 <div class="page-break"></div>
 
 #### PREGUNTES SOBRE EL CAS ECOALF
@@ -294,17 +296,17 @@ Un cop aconseguit el fil, va arribar la complexitat de la **PRODUCCIÓ**. La maj
    
    - [ ] A) 12 mesos segons la planificació inicial.
    
-   - [ ] B) 30 mesos en total (amb un retard acumulat de 18 mesos sobre el previst).
+   - [ ] B) 8 mesos en la fase de Disseny Tècnic.
    
-   - [ ] C) 8 mesos en la fase de Disseny Tècnic.
+   - [ ] C) 56 mesos de treball continu a les fàbriques.
    
-   - [ ] D) 56 mesos de treball continu a les fàbriques.
+   - [ ] D) 30 mesos en total (amb un retard acumulat de 18 mesos sobre el previst).
 
 2. **Segons el Gràfic 1, en quina fase del projecte es produeix la gran desviació de temps que va fer disparar el temps acumulat de 8 a 26 mesos?**
    
-   - [ ] A) A la Fase 1 (La Guspira / Idea), quan en Javier Goyeneche va tenir la idea del seu fill.
+   - [ ] A) A la Fase 3 (Disseny Tècnic), on el temps acumulat va saltar de 8 mesos previstos a 26 mesos reals (+18 mesos d'endarreriment).
    
-   - [ ] B) A la Fase 3 (Disseny Tècnic), on el temps acumulat va saltar de 8 mesos previstos a 26 mesos reals (+18 mesos d'endarreriment).
+   - [ ] B) A la Fase 1 (La Guspira / Idea), quan en Javier Goyeneche va tenir la idea del seu fill.
    
    - [ ] C) A la Fase 4 (Producció), on no hi va haver cap retard respecte al pla inicial.
    
@@ -314,9 +316,9 @@ Un cop aconseguit el fil, va arribar la complexitat de la **PRODUCCIÓ**. La maj
    
    - [ ] A) Demostra que en la Fase 3 només cal dibuixar el logotip de la marca en diferents colors.
    
-   - [ ] B) Demostra que abans de produir cal fer I+D, prototips i proves tècniques de materials per aconseguir un teixit de qualitat, encara que requereixi més temps del previst.
+   - [ ] B) Demostra que es pot començar a vendre a les botigues sense haver resolt la viabilitat tècnica del producte.
    
-   - [ ] C) Demostra que es pot començar a vendre a les botigues sense haver resolt la viabilitat tècnica del producte.
+   - [ ] C) Demostra que abans de produir cal fer I+D, prototips i proves tècniques de materials per aconseguir un teixit de qualitat, encara que requereixi més temps del previst.
    
    - [ ] D) Demostra que el disseny tècnic d'un producte no influeix mai en la resta de fases del projecte.
 
@@ -332,9 +334,9 @@ Un cop aconseguit el fil, va arribar la complexitat de la **PRODUCCIÓ**. La maj
 
 5. **Segons les dades oficials de la Memòria de Sostenibilitat d'Ecoalf, quin impacte ambiental té la fabricació amb fil reciclat respecte al polièster verge?**
    
-   - [ ] A) Augmenta les emissions de CO₂ un 20%.
+   - [ ] A) Estalvia un 52% d'aigua i redueix un 40% les emissions de CO₂ per kg de fil.
    
-   - [ ] B) Estalvia un 52% d'aigua i redueix un 40% les emissions de CO₂ per kg de fil.
+   - [ ] B) Augmenta les emissions de CO₂ un 20%.
    
    - [ ] C) Requereix el triple de consum d'aigua potable en les fàbriques.
    
@@ -342,9 +344,21 @@ Un cop aconseguit el fil, va arribar la complexitat de la **PRODUCCIÓ**. La maj
 
 6. **Si un inversor proposés eliminar el reciclatge i utilitzar plàstic verge per reduir el cost de 56,50 € a 30,00 €, per què seria una decisió destructiva per a Ecoalf?**
    - [ ] A) Perquè augmentaria el preu de venda al públic a 300 €.
-   - [ ] B) Perquè destruiria la Identitat de la marca (*"Because there is no planet B"*) i la confiança dels seus clients.
-   - [ ] C) Perquè la producció amb plàstic verge és tècnicament impossible de realitzar en fàbriques.
+   - [ ] B) Perquè la producció amb plàstic verge és tècnicament impossible de realitzar en fàbriques.
+   - [ ] C) Perquè destruiria la Identitat de la marca (*"Because there is no planet B"*) i la confiança dels seus clients.
    - [ ] D) Perquè s'endarreriria la Comercialització 10 mesos més.
+
+7. **Quin paper juga la col·laboració amb els pescadors locals (projecte *Upcycling the Oceans*) en la cadena de valor i la proposta d'impacte d'Ecoalf?**
+   - [ ] A) Permet reduir els costos de màrqueting i estalviar impostos de comerç internacional.
+   - [ ] B) Proporciona la matèria primera de plàstic marí recuperat alhora que neteja l'ecosistema i crea valor social i ambiental.
+   - [ ] C) Obliga a pagar sous desproporcionats que arruïnen l'empresa.
+   - [ ] D) És una estratègia per evitar haver de fer I+D en el filament de reciclatge.
+
+8. **Quina és la conclusió principal sobre el balanç entre la planificació temporal teòrica i la realitat d'una startup innovadora d'impacte com Ecoalf?**
+   - [ ] A) Que la planificació inicial sempre s'ha de complir dia per dia sense excepcions ni flexibilitat.
+   - [ ] B) Que la investigació i la innovació sostenible en la Fase 3 podran exigir més temps del previst (+18 mesos), però construeixen una diferenciació de marca inimitable i un valor real a llarg termini.
+   - [ ] C) Que és millor no fer mai planificacions temporals ni calendaris de treball.
+   - [ ] D) Que la Fase de Comercialització sempre s'ha de retardar exactament 30 mesos per norma general.
 
 ### Activitat 2.4: Reflexió de Tancament del Bloc 2: Com creem la nostra marca?
 
@@ -353,6 +367,8 @@ Què és el més important que has après en aquest bloc sobre les 6 fases de cr
 <div class="response-box" style="min-height: 250px;"></div>
 
 ---
+
+<div class="page-break"></div>
 
 # BLOC 3: MUCHA JOYA
 
@@ -453,37 +469,37 @@ Però, en què es diferencia exactament el model organitzatiu de La Fageda del d
 
 1. **Observant la Taula 1 (Comparativa de Filosofia i Gestió), quina diferència principal hi ha pel que fa al percentatge de treballadors amb discapacitat en la plantilla?**
    - [ ] A) A les empreses SA el 100% de la plantilla té discapacitat.
-   - [ ] B) A les empreses SA s'aplica el mínim legal (2%), mentre que a La Fageda representa més del 50% de la plantilla.
-   - [ ] C) La Fageda no contracta cap treballador amb discapacitat per motius de seguretat.
+   - [ ] B) La Fageda no contracta cap treballador amb discapacitat per motius de seguretat.
+   - [ ] C) A les empreses SA s'aplica el mínim legal (2%), mentre que a La Fageda representa més del 50% de la plantilla.
    - [ ] D) Les dues empreses tenen exactament la mateixa proporció de treballadors amb discapacitat.
 
 2. **Analitzant la Taula 1, quina és la diferència principal en l'escala salarial (diferència entre el sou més alt i el més baix)?**
-   - [ ] A) A La Fageda el Director cobra 100 vegades més que un operari de neteja.
-   - [ ] B) A les empreses tradicionals el Director pot cobrar entre 50 i 100 vegades més, mentre que a La Fageda l'escala salarial és ètica i limitada (màxim aproximat de 1 a 6).
+   - [ ] A) A les empreses tradicionals el Director pot cobrar entre 50 i 100 vegades més, mentre que a La Fageda l'escala salarial és ètica i limitada (màxim aproximat de 1 a 6).
+   - [ ] B) A La Fageda el Director cobra 100 vegades més que un operari de neteja.
    - [ ] C) Tots els treballadors de les empreses multinacionals cobren exactament el mateix sou.
    - [ ] D) A La Fageda els treballadors no cobren cap sou mensual.
 
 3. **Segons la Taula 1, què fa La Fageda amb el 100% dels seus beneficits nets al final d'un exercici econòmic?**
    - [ ] A) Els reparteix en forma de dividends entre els accionistes privats.
-   - [ ] B) Els reinverteix íntegrament en la millora de la cooperativa i en serveis socials per als treballadors.
-   - [ ] C) Els transfereix a bancs internacionals per pagar menys impostos.
-   - [ ] D) Els crema o els destrueix perquè no vol diners.
+   - [ ] B) Els transfereix a bancs internacionals per pagar menys impostos.
+   - [ ] C) Els crema o els destrueix perquè no vol diners.
+   - [ ] D) Els reinverteix íntegrament en la millora de la cooperativa i en serveis socials per als treballadors.
 
 4. **Observant la Taula 2 (Inversió en Publicitat vs. Quota de Mercat), quants diners gasta Danone en publicitat per cada 1 € que hi gasta La Fageda?**
    - [ ] A) Gasta exactament el mateix.
-   - [ ] B) Gasta el doble (2 vegades més).
-   - [ ] C) Gasta 62,5 vegades més diners en publicitat.
+   - [ ] B) Gasta 62,5 vegades més diners en publicitat.
+   - [ ] C) Gasta el doble (2 vegades més).
    - [ ] D) Gasta 10 vegades menys diners.
 
 5. **Quina és la raó principal per la qual La Fageda no destina milions d'euros a fer anuncis de televisió?**
    - [ ] A) Perquè no tenen servei d'internet ni mitjans tècnics a la Garrotxa.
-   - [ ] B) Perquè prefereixen retenir o reinvertir els diners en la millora de condicions socials, serveis i sous dels seus socis treballadors.
-   - [ ] C) Perquè la llei els prohibeix fer anuncis a la televisió pública.
-   - [ ] D) Perquè no volen que la gent conegui la seva marca.
+   - [ ] B) Perquè la llei els prohibeix fer anuncis a la televisió pública.
+   - [ ] C) Perquè no volen que la gent conegui la seva marca.
+   - [ ] D) Perquè prefereixen retenir o reinvertir els diners en la millora de condicions socials, serveis i sous dels seus socis treballadors.
 
 6. **Si sumem la quota de mercat de La Fageda (24%) i la de la resta de petites granges/ecològiques (12%) a la Taula 2, quin percentatge del mercat del iogurt a Catalunya controlen les marques locals petites/mitjanes en comparació amb la multinacional Danone (38%)?**
-   - [ ] A) Un 24%, exactament el mateix que La Fageda sola.
-   - [ ] B) Un 36%, quedant-se a només 2 punts percentuals de la quota de Danone.
+   - [ ] A) Un 36%, quedant-se a només 2 punts percentuals de la quota de Danone.
+   - [ ] B) Un 24%, exactament el mateix que La Fageda sola.
    - [ ] C) Un 50%, superant clarament la marca Danone.
    - [ ] D) Un 12%, ja que les marques petites no sumen.
 
@@ -501,9 +517,9 @@ Però, en què es diferencia exactament el model organitzatiu de La Fageda del d
 
 9. **Analitzant la Taula 2, quina conclusió sobre l'eficiència de la publicitat es pot extreure si comparem Danone i La Fageda?**
    - [ ] A) Com més diners gastes en publicitat, més percentatge exactament de mercat guanyes de forma proporcional.
-   - [ ] B) La Fageda aconsegueix un 24% de mercat sense gastar milions en publicitat, demostrant que la reputació social i la qualitat de proximitat poden substituir la publicitat massiva.
-   - [ ] C) Danone gasta masses pocs diners per la quota de mercat que té.
-   - [ ] D) La publicitat no serveix de res per a cap tipus d'empresa.
+   - [ ] B) Danone gasta masses pocs diners per la quota de mercat que té.
+   - [ ] C) La publicitat no serveix de res per a cap tipus d'empresa.
+   - [ ] D) La Fageda aconsegueix un 24% de mercat sense gastar milions en publicitat, demostrant que la reputació social i la qualitat de proximitat poden substituir la publicitat massiva.
 
 #### PREGUNTES DESCRIPTIVES I D'ANÀLISI CRÍTICA (CAS LA FAGEDA)
 
@@ -591,16 +607,16 @@ Assegura't d'aplicar els 5 criteris clau de composició visual en el teu disseny
 A partir de la teva experiència i anàlisi com a membre del **Jurat de Disseny** (simulador interactiu de la web), respon al següent qüestionari sobre els consells clau i la teoria del disseny gràfic, la psicologia del color, la llegibilitat i l'accessibilitat visual:
 
 1. **Principi fonamental del Contrast Visual:** Quina és la regla d'or per assegurar-te que el nom o el logotip de la teva marca es pugui llegir sense dificultats?
-   - [ ] A) Utilitzar lletra blanca sobre fons groc brillant per donar molta llum al disseny.
-   - [ ] B) Utilitzar colors similars entre el text i el fons per aconseguir un estil uniforme i suau.
-   - [ ] C) Col·locar sempre lletra fosca sobre fons clar, o lletra clara sobre fons fosc, evitant combinacions de clar sobre clar.
+   - [ ] A) Col·locar sempre lletra fosca sobre fons clar, o lletra clara sobre fons fosc, evitant combinacions de clar sobre clar.
+   - [ ] B) Utilitzar lletra blanca sobre fons groc brillant per donar molta llum al disseny.
+   - [ ] C) Utilitzar colors similars entre el text i el fons per aconseguir un estil uniforme i suau.
    - [ ] D) Afegir molts efectes de degradat i ombres 3D per compensar la falta de contrast.
 
 2. **La tècnica d'autoxec de llegibilitat:** En el Jurat de Disseny es recomana un truc molt senzill per comprovar ràpidament si el contrast d'un logotip funciona. En què consisteix?
-   - [ ] A) Entretancar els ulls: si el text i el fons sembla que es barallen, vibren o es confonen, falta contrast.
-   - [ ] B) Mirar el disseny des d'una distància de 10 metres amb les llums apagades.
-   - [ ] C) Augmentar la brillantor de la pantalla del mòbil al màxim nivell permès.
-   - [ ] D) Canviar la font de lletra a una de tipus cursiva manuscrita.
+   - [ ] A) Mirar el disseny des d'una distància de 10 metres amb les llums apagades.
+   - [ ] B) Augmentar la brillantor de la pantalla del mòbil al màxim nivell permès.
+   - [ ] C) Canviar la font de lletra a una de tipus cursiva manuscrita.
+   - [ ] D) Entretancar els ulls: si el text i el fons sembla que es barallen, vibren o es confonen, falta contrast.
 
 3. **Conflicte de colors (Cromostereòpsia):** Per què s'evita absolutament combinar text vermell intens sobre un fons blau pur o viceversa en disseny gràfic?
    - [ ] A) Perquè el vermell i el blau són colors que estan prohibits per les normes internacionals de marques.
@@ -610,21 +626,21 @@ A partir de la teva experiència i anàlisi com a membre del **Jurat de Disseny*
 
 4. **Psicologia del Color segons el públic objectiu:** Si estàs dissenyant la identitat d'una marca de joieria o productes adreçats a un públic infantil o juvenil, quina paleta de colors és la més adequada?
    - [ ] A) Tonalitats grises, negres i marrons foscos per transmetre seriositat i burocràcia.
-   - [ ] B) Colors vius, càlids i saturats (com vermells, grocs i blaus intensos) que transmeten energia i alegria.
-   - [ ] C) Fons totalment transparents sense cap tipus de coloració.
+   - [ ] B) Fons totalment transparents sense cap tipus de coloració.
+   - [ ] C) Colors vius, càlids i saturats (com vermells, grocs i blaus intensos) que transmeten energia i alegria.
    - [ ] D) Colors pastel apagats i descolorits per no cridar l'atenció de ningú.
 
 5. **Prova de validesa en Blanc i Negre:** Abans de triar la paleta de colors definitiva o afegir efectes al teu logotip, quina prova ha de superar primer per garantir que és un bon disseny?
-   - [ ] A) Ha de veure's bé quan s'imprimeix en una mida gegant de 5 metres.
-   - [ ] B) Ha de funcionar i ser perfectament llegible en escala de grisos (blanc i negre).
+   - [ ] A) Ha de funcionar i ser perfectament llegible en escala de grisos (blanc i negre).
+   - [ ] B) Ha de veure's bé quan s'imprimeix en una mida gegant de 5 metres.
    - [ ] C) Ha de tenir almenys 6 colors diferents per semblar modern.
    - [ ] D) Ha d'incloure obligatòriament la imatge d'una joia real dibuixada en 3D.
 
 6. **Elecció de la Tipografia segons la personalitat:** Si la teva marca de joies vol transmetre força, solidesa, potència i seriositat, quina tipografia hauries de seleccionar?
    - [ ] A) Una font de lletra fina, punteguda i difícil de llegir.
    - [ ] B) Una lletra d'estil infantil o de còmic de dibuixos animats.
-   - [ ] C) Una tipografia de lletres gruixudes, rectes i en majúscules (block/bold).
-   - [ ] D) Una lletra cursiva molt carregada amb molts detalls florals al voltant.
+   - [ ] C) Una lletra cursiva molt carregada amb molts detalls florals al voltant.
+   - [ ] D) Una tipografia de lletres gruixudes, rectes i en majúscules (block/bold).
 
 7. **Disseny i elegància (Espaiat i fons fosc):** Quin efecte visual s'aconsegueix quan utilitzem un fons fosc profund (com el gris carbó o el negre) amb lletres blanques i un espaiat (aire) generós entre lletres?
    - [ ] A) Fa que la marca sembli barata i poc treballada.
@@ -945,8 +961,8 @@ Dues empreses de joieria reconegudes a Catalunya fabriquen col·leccions d'arrac
 
 1. **Quina és la diferència principal en el procés de producció en cadena automatitzat de TOUS respecte al taller d'artesania d'autor com Majoral?**
    - [ ] A) En la producció en cadena un sol treballador fa tota la joia manualment de principi a fi.
-   - [ ] B) Es divideix el procés en tasques en sèrie automatitzades per ordinador i maquinària (làser/electroformació), reduint dràsticament el temps de fabricació per unitat.
-   - [ ] C) La producció en cadena industrial és més lenta però utilitza més bancs de treball manuals.
+   - [ ] B) La producció en cadena industrial és més lenta però utilitza més bancs de treball manuals.
+   - [ ] C) Es divideix el procés en tasques en sèrie automatitzades per ordinador i maquinària (làser/electroformació), reduint dràsticament el temps de fabricació per unitat.
    - [ ] D) En la producció en cadena les peces queden totes diferents i amb defectes d'acabat.
 
 2. **Per quina raó el cost de mà d'obra per unitat és de 75 € al taller artesanal i de només 0,35 € a la fàbrica industrial?**
@@ -958,8 +974,8 @@ Dues empreses de joieria reconegudes a Catalunya fabriquen col·leccions d'arrac
 3. **Quin volum de producció setmanal aconsegueix la fàbrica industrial automatitzada en comparació amb el taller artesanal d'autor?**
    - [ ] A) Fabrican exactament la mateixa quantitat de peces (15 parells setmanals).
    - [ ] B) El taller artesanal fabrica 3.500 parells i la fàbrica industrial només 10 parells.
-   - [ ] C) La fàbrica industrial produeix 3.500 parells setmanals davant dels 10-15 parells que pot elaborar l'artesà manualment.
-   - [ ] D) Cap dels dos models aconsegueix produir més d'un parell al mes.
+   - [ ] C) Cap dels dos models aconsegueix produir més d'un parell al mes.
+   - [ ] D) La fàbrica industrial produeix 3.500 parells setmanals davant dels 10-15 parells que pot elaborar l'artesà manualment.
 
 4. **Quina diferència d'inversió inicial en eines i maquinària requereixen aquests dos models de fabricació?**
    - [ ] A) El taller artesanal requereix 120.000 € en eines manuals i la fàbrica 800 €.
@@ -968,16 +984,16 @@ Dues empreses de joieria reconegudes a Catalunya fabriquen col·leccions d'arrac
    - [ ] D) La fabricació industrial no requereix cap tipus d'inversió en maquinària.
 
 5. **Quina és la característica principal que dona valor comercial a les joies fabricades al taller artesanal d'autor?**
-   - [ ] A) Que són peces fabricades en milers d'unitats idèntiques en un temps rècord.
-   - [ ] B) Que són peces 100% iguals fetes per robots industrials.
-   - [ ] C) Que cada joia és un objecte d'autor únic, irrepetible i exclusiu, elaborat manualment per un mestre joier artesà.
+   - [ ] A) Que cada joia és un objecte d'autor únic, irrepetible i exclusiu, elaborat manualment per un mestre joier artesà.
+   - [ ] B) Que són peces fabricades en milers d'unitats idèntiques en un temps rècord.
+   - [ ] C) Que són peces 100% iguals fetes per robots industrials.
    - [ ] D) Que són les joies més barates del mercat.
 
 6. **Com influeix el model de producció en el preu final de venda al públic de les joies?**
-   - [ ] A) La producció artesanal d'autor té un preu elevat (180 € - 350 €) pel cost de mà d'obra i exclusivitat, mentre que la producció industrial ofereix preus més assequibles (35 € - 85 €).
-   - [ ] B) La producció industrial és sempre molt més cara que la producció artesanal.
-   - [ ] C) El model de producció no afecta mai el preu de venda al públic.
-   - [ ] D) Les joies d'autor se regalen i les industrials es venen a milers d'euros.
+   - [ ] A) La producció industrial és sempre molt més cara que la producció artesanal.
+   - [ ] B) El model de producció no afecta mai el preu de venda al públic.
+   - [ ] C) Les joies d'autor se regalen i les industrials es venen a milers d'euros.
+   - [ ] D) La producció artesanal d'autor té un preu elevat (180 € - 350 €) pel cost de mà d'obra i exclusivitat, mentre que la producció industrial ofereix preus més assequibles (35 € - 85 €).
 
 <br />
 
@@ -988,7 +1004,7 @@ Dues empreses de joieria reconegudes a Catalunya fabriquen col·leccions d'arrac
    a) **Classificació de tasques:** Identifica quines etapes del vostre procés al taller escolar són de tipus digital/industrial i quines són de tipus artesanal/manual.  
    b) **Avantatges i límits:** Quins avantatges us ha aportat utilitzar eines digitals (Tinkercad / impressió 3D) respecte a fer tot el procés 100% a mà, i quines dificultats artesanals heu trobat en treballar amb la silicona i la resina?  
 
-   <div class="response-box" style="min-height: 280px;"></div>
+   <div class="response-box" style="min-height: 560px;"></div>
 
 <div class="page-break"></div>
 
@@ -1001,8 +1017,8 @@ Dues empreses de joieria reconegudes a Catalunya fabriquen col·leccions d'arrac
 #### PREGUNTES TIPUS TEST DE COMPRENSIÓ DE TAULES I GRÀFICS
 
 1. **Quant costarà inicialment a la nostra cooperativa comprar la maquinària de l'aula (Taula 1: Impressora 3D, Talladora Làser, Ordinadors CAD)?**
-   - [ ] A) Haurà de pagar 3.575,00 € de la seva caixa.
-   - [ ] B) 0,00 €, perquè és una infraestructura que posa l'escola a la nostra disposició gratis.
+   - [ ] A) 0,00 €, perquè és una infraestructura que posa l'escola a la nostra disposició gratis.
+   - [ ] B) Haurà de pagar 3.575,00 € de la seva caixa.
    - [ ] C) 41,98 €, corresponent a la fusta i la silicona.
    - [ ] D) 92,42 €, que es descompten directament dels ingressos de la primera venda.
 
@@ -1014,19 +1030,19 @@ Dues empreses de joieria reconegudes a Catalunya fabriquen col·leccions d'arrac
 
 3. **Al gràfic del simulador financer, què representa la línia vermella horitzontal (Inversió Total)?**
    - [ ] A) Els diners que anem guanyant a cada venda.
-   - [ ] B) La suma total de diners que hem gastat en eines i materials abans de vendre cap joia (92,42 €).
-   - [ ] C) El preu de venda de cada parell d'arracades.
-   - [ ] D) El nombre d'alumnes que participen a la cooperativa.
+   - [ ] B) El preu de venda de cada parell d'arracades.
+   - [ ] C) El nombre d'alumnes que participen a la cooperativa.
+   - [ ] D) La suma total de diners que hem gastat en eines i materials abans de vendre cap joia (92,42 €).
 
 4. **Al gràfic del simulador financer, què representa la línia verda diagonal (Ingressos)?**
-   - [ ] A) Els diners totals acumulats per les vendes d'arracades a mesura que augmenta el nombre d'unitats venudes.
-   - [ ] B) El cost de la talladora làser i la impressora 3D.
+   - [ ] A) El cost de la talladora làser i la impressora 3D.
+   - [ ] B) Els diners totals acumulats per les vendes d'arracades a mesura que augmenta el nombre d'unitats venudes.
    - [ ] C) El descompte que ens fa el proveïdor de resina.
    - [ ] D) El preu del packaging i cartolines.
 
 5. **En el Punt d'Equilibri (el punt on la línia verda d'Ingressos creua la línia vermella d'Inversió Total):**
-   - [ ] A) La cooperativa té unes pèrdues de 1.000 €.
-   - [ ] B) Els Ingressos per vendes igualen exactament la Inversió Total feta (Benefici Net = 0 €).
+   - [ ] A) Els Ingressos per vendes igualen exactament la Inversió Total feta (Benefici Net = 0 €).
+   - [ ] B) La cooperativa té unes pèrdues de 1.000 €.
    - [ ] C) L'empresa ha de tancar immediatament.
    - [ ] D) Es regalen totes les arracades que queden al magatzem.
 
