@@ -24,7 +24,10 @@ description: Aprén més sobre aquest tema del projecte Artífex.
   </div>
 </div>
 
----
+<div class="custom-card" style="margin: 1.5rem 0; border-left: 5px solid var(--sl-color-accent); background: rgba(193, 40, 114, 0.04); padding: 1.25rem 1.5rem; border-radius: 10px;">
+  <strong style="color: var(--sl-color-accent-high); font-size: 1.05rem;">👥 Com treballem aquesta fase?</strong>
+  <p style="margin: 0.5rem 0 0 0; font-size: 0.95rem; line-height: 1.6;">A la Fase 1 treballem de manera <strong>individual</strong>: cadascú crea el seu propi Moodboard explorant els seus records i la seva identitat. A la <strong>Fase 2</strong> portareu aquestes guspires personals al vostre <strong>equip de marca</strong> per buscar punts en comú i triar el concepte compartit.</p>
+</div>
 
 ## Trobar el meu "Motiu" (Individual)
 Les marques que realment ens emocionen no són les que tenen el logo més perfecte, sinó les que tenen ànima. I l'ànima no es pot copiar d'Internet; l'has de trobar dins teu.

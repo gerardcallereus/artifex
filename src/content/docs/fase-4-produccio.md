@@ -18,6 +18,13 @@ Entrem en l'etapa d'execució tècnica. L'objectiu d'aquesta fase és transforma
 
 El procés de producció es divideix en 6 etapes tècniques:
 
+<div class="custom-card" style="margin: 1.5rem 0; border-left: 5px solid var(--sl-color-accent); background: rgba(193, 40, 114, 0.04); padding: 1.25rem 1.5rem; border-radius: 10px;">
+  <strong style="color: var(--sl-color-accent-high); font-size: 1.05rem;">👥 Treball en equip al taller:</strong>
+  <p style="margin: 0.5rem 0 0 0; font-size: 0.95rem; line-height: 1.6;">
+    Tota la fase de fabricació es realitza <strong>en equip</strong>: tothom participarà activament de tot el procés al taller (impressió 3D, encofrats de fusta, motlles de silicona, buidatge de resina epoxi i muntatge final), tenint sempre en compte les <strong>normes de seguretat</strong>, respectant l'espai compartit i treballant amb màxima <strong>cura i atenció al detall</strong>.
+  </p>
+</div>
+
 ---
 
 ## 🛠️ Fases del Procés de Fabricació

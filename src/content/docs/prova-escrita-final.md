@@ -44,11 +44,11 @@ description: "Prova escrita final d'avaluació de competències sobre creació d
 
   <table class="rubric-table" style="width: 100%; border-collapse: collapse; font-size: 0.8rem; line-height: 1.4;">
     <thead>
-      <tr style="background: #f2e3ec; color: #7F1146; font-size: 0.82rem; font-weight: 800; border-bottom: 2.5px solid #C12872;">
-        <th style="width: 25%; padding: 0.5rem; text-align: left; color: #7F1146;">EXERCICI COMPETENCIAL</th>
-        <th style="width: 35%; padding: 0.5rem; text-align: left; color: #7F1146;">CONTINGUTS I COMPETÈNCIES AVALUADES</th>
-        <th style="width: 20%; padding: 0.5rem; text-anchor: center; text-align: center; color: #7F1146;">TEMPS RECOMANAT</th>
-        <th style="width: 20%; padding: 0.5rem; text-anchor: center; text-align: center; color: #7F1146;">PUNTUACIÓ MÀXIMA</th>
+      <tr style="background: #f8fafc; color: #1e293b; font-size: 0.82rem; font-weight: 800; border-bottom: 2.5px solid #9d174d;">
+        <th style="width: 25%; padding: 0.5rem; text-align: left; color: #1e293b;">EXERCICI COMPETENCIAL</th>
+        <th style="width: 35%; padding: 0.5rem; text-align: left; color: #1e293b;">CONTINGUTS I COMPETÈNCIES AVALUADES</th>
+        <th style="width: 20%; padding: 0.5rem; text-anchor: center; text-align: center; color: #1e293b;">TEMPS RECOMANAT</th>
+        <th style="width: 20%; padding: 0.5rem; text-anchor: center; text-align: center; color: #1e293b;">PUNTUACIÓ MÀXIMA</th>
       </tr>
     </thead>
     <tbody>

@@ -25,12 +25,14 @@ description: Aprén més sobre aquest tema del projecte Artífex.
 
 <p class="text-md">En una cooperativa, la clau de l'èxit no és només treballar molt, sinó <strong>aprendre a prendre les decisions conjuntament</strong> de manera democràtica i responsable. A diferència d'una empresa tradicional on decideix un únic amo o accionista majoritari, a la nostra cooperativa aplicarem la regla d'or d'<strong>1 persona = 1 vot</strong> en l'Assemblea General.</p>
 
-<ul class="text-md" style="padding-left: 1.25rem;">
-<li><strong>Cadascú serà el creador de la seva pròpia marca:</strong> Dissenyaràs les teves joies, la teva identitat visual i el teu packaging.</li>
-<li><strong>Compartirem màquines, materials i espai de taller:</strong> Organitzarem els torns i la gestió del taller amb respecte i eficiència.</li>
-<li><strong>Intercanviarem idees i aprendrem junts:</strong> Col·laborarem per resoldre reptes tècnics i ens ajudarem mútua i solidàriament.</li>
-<li><strong>Decidirem col·lectivament el futur dels beneficis:</strong> Votarem en assemblea com gestionar els fons aconseguits en la venda final.</li>
-</ul>
+<div class="custom-card" style="margin: 1.5rem 0; border-left: 5px solid var(--sl-color-accent); background: rgba(193, 40, 114, 0.04); padding: 1.25rem 1.5rem; border-radius: 10px;">
+  <strong style="color: var(--sl-color-accent-high); font-size: 1.05rem;">👥 Com ens organitzem a la Cooperativa Artífex?</strong>
+  <ul style="margin: 0.5rem 0 0 1.25rem; font-size: 0.95rem; line-height: 1.6;">
+    <li><strong>1. Inspiració Individual (👤 Individual):</strong> Cadascú explora la seva identitat i crea el seu propi Moodboard de partida.</li>
+    <li><strong>2. Equips de Marca (👥 En Equip de 3 alumnes):</strong> Us uniu en equips de 3 per consensuar el nom oficial de la marca, dissenyar el logotip, cocrear la col·lecció d'arracades i fabricar totes les peces al taller de resina i fusta.</li>
+    <li><strong>3. Assemblea de Cooperativa (🏛️ Assemblea de classe):</strong> Compartim espais i eines, debatem la gestió dels beneficis i decidim el retorn social per majoria democràtica (1 persona = 1 vot).</li>
+  </ul>
+</div>
 
 <aside class="starlight-aside starlight-aside--tip" aria-label="Tip" style="margin-bottom: 0;">
 <p class="starlight-aside__title" aria-hidden="true">Socis, no competència</p>
@@ -44,7 +46,7 @@ description: Aprén més sobre aquest tema del projecte Artífex.
 
 ---
 
-## El Debat dels Diners (Debat grup classe)
+## El Debat dels Diners (Debat assembleari de classe)
 Com a cooperativa, hem de prendre una decisió democràtica molt important abans de començar: Què farem amb els beneficis?
 
 Quan venguem les joies al final del projecte i recuperem els diners que han costat els materials... què farem amb els diners que sobrin (el benefici real)?

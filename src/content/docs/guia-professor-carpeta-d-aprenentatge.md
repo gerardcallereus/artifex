@@ -9,7 +9,7 @@ Aquesta guia ofereix les **indicacions de correcció sobre què s'espera que res
 
 ---
 
-# BLOC 1: PRESENTACIÓ, HABILITATS I CONEIXEMENTS PREVIS
+# BLOC 1: PRESENTACIÓ, HABILITATS, CONEIXEMENTS PREVIS I CONSTITUCIÓ DE L'EQUIP
 
 ### Activitat 1.1: Presentació i Expectatives
 
@@ -50,6 +50,19 @@ Aquesta guia ofereix les **indicacions de correcció sobre què s'espera que res
 3. **Petit negoci / venda:** *"Sí, un any vam organitzar una parada per vendre pastissos i punts de llibre per al viatge de final de curs."*
 4. **Taller / Maker / 3D:** *"He vist funcionar impressores 3D a l'aula de tecnologia, però serà el primer cop que dissenyi la meva pròpia peça."*
 5. **Joia / Manualitats:** *"He fet polseres de fil i petites manualitats de fusta a primària."*
+
+---
+
+### <span class="badge-team">👥 EN EQUIP</span> Activitat 1.4: Constitució i Compromís del Treball en Equip
+
+🎯 **Què s'espera que respongui l'alumnat (Forma i Contingut):**
+* **Forma:** Emplenat complet de la taula de peticions i aportacions per als 3 membres de l'equip, redacció de 3 acords d'equip clars i assignació nominal dels 3 càrrecs de l'aula maker (*Responsable de Seguretat, Responsable d'Ordre/Eines/Residus, Responsable de Focus/Temps/Clima*), cobrint un càrrec per cada membre de l'equip de 3 alumnes.
+* **Contingut:** Compromisos realistes, acords operatius per a la convivència i el treball pràctic al taller, i assumpció activa de responsabilitats des del primer dia del projecte.
+
+💬 **Exemple de compromisos, càrrecs i acords model:**
+* *Peticions:* *"Demano respecte pel torn de paraula, que tothom vingui a classe amb la feina al dia i que ens ajudem quan algú s'encalli al taller."*
+* *Aportacions:* *"Puc aportar coneixements de dibuix, bona gestió del temps i responsabilitat en supervisar la seguretat i l'ús de proteccions a la zona de resina."*
+* *Acords:* *"1. Escoltar les idees de tots abans de prendre una decisió per consens. 2. Deixar el banc de treball net i les eines endreçades abans que soni el timbre. 3. Mantenir un to de veu moderat per no destorbar els altres equips a l'aula maker."*
 
 ---
 
@@ -234,14 +247,14 @@ Aquesta guia ofereix les **indicacions de correcció sobre què s'espera que res
 
 ---
 
-### Activitat 6.3: Elecció del Nom de la Marca Propia
+### <span class="badge-team">👥 EN EQUIP</span> Activitat 6.3: Deliberació i Elecció del Nom de la Marca d'Equip
 
 🎯 **Què s'espera que respongui l'alumnat (Forma i Contingut):**
-* **Forma:** Nom definit, tipologia triada, caselles marcades i justificació desenvolupada.
-* **Contingut:** Connexió directa del nom amb la Guspira del Moodboard i verificació de les 5 Regles d'Or.
+* **Forma:** Nom d'equip definit per consens, tipologia triada, caselles marcades i justificació desenvolupada.
+* **Contingut:** Connexió directa del nom amb les Guspires/Moodboards dels membres de l'equip i verificació de les 5 Regles d'Or.
 
 💬 **Resposta model d'exemple:**  
-1. *Justificació:* *"He triat el nom 'Nerea' perquè significa 'fluir' i connecta directament amb el meu Moodboard de tons blaus marins i línies orgàniques."*  
+1. *Justificació d'equip:* *"Com a equip hem triat el nom 'Nerea' perquè combina la passió pel mar de dos membres del grup amb els colors blaus del nostre concepte compartit."*  
 2. *Conclusió d'efectivitat:* *"És un nom curt (2 síl·labes), molt sonor, fàcil de pronunciar en diferents idiomes i fàcilment memorable per al client."*
 
 ---
@@ -258,26 +271,103 @@ Aquesta guia ofereix les **indicacions de correcció sobre què s'espera que res
 
 ---
 
-### Activitats 6.5 i 6.6: Esbós del Logotip i Línia de Joieria
+### <span class="badge-team">👥 EN EQUIP</span> Activitats 6.5 i 6.6: Logotip Oficial d'Equip i Línia d'Arracades
 
 🎯 **Què s'espera que respongui l'alumnat (Forma i Contingut):**
 * **Forma:** Dibuixos nets a mà alçada i reflexió final d'uns 3-5 línies.
-* **Contingut:** Logotip apte per a la Prova de les Tisores (vinil/làser) i 1 color (blanc i negre). Col·lecció d'arracades amb coherència estètica entre peces i relació amb la Guspira.
+* **Contingut:** Logotip oficial consensuat de l'equip apte per a la Prova de les Tisores (vinil/làser) i 1 color (blanc i negre). Col·lecció d'arracades coordinada on cada membre assumeix un model diferent amb coherència estètica d'equip.
 
 💬 **Respostes model d'exemple:**
-* **Reflexió final del logo:** *"El meu logotip utilitza línies orgàniques unificades que representen una gota d'aigua estilitzada. He comprovat que supera la prova de les tisores (es pot retallar en vinil sense peces soltes) i que funciona 100% en blanc i negre."*
-* **Connexió de la col·lecció:** *"Les 3 arracades de la col·lecció comparteixen la mateixa silueta corba i la mateixa paleta de colors blaus i daurats, mantenint la coherència visual amb la Guspira del Moodboard."*
+* **Reflexió final del logo d'equip:** *"El logotip del nostre equip utilitza línies orgàniques unificades que representen una gota d'aigua estilitzada. Hem comprovat que supera la prova de les tisores (es pot retallar en vinil sense peces soltes) i que funciona 100% en blanc i negre."*
+* **Connexió de la col·lecció d'equip:** *"Els models d'arracades de la nostra col·lecció comparteixen la mateixa silueta corba i la mateixa paleta de colors blaus i daurats, mantenint la coherència visual amb el concepte de la marca."*
 
 ---
 
 # BLOC 7: FASE 3 — DISSENY TÈCNIC
 
 🎯 **Què s'espera que lliuri l'alumnat (Forma i Contingut):**
-* **Forma:** Modelat digital 2D/3D lliurat correctament a Tinkercad Classroom.
-* **Contingut / Comprovacions tècniques:**
-  - *Tasca 1 (Logo Munay):* Reproducció fidel seguint el videotutorial.
-  - *Tasca 2 (Logo Propi 2D):* Dibuix vectorial amb `Extrude Sketch` (màxim 10 × 10 cm).
-  - *Tasca 3 (Arracada 3D Codeblocks):* Programació paramètrica per blocs visuals (màxim 4 × 4 × 0,5 cm).
+* **Forma:** Modelat digital 2D/3D lliurat correctament a Tinkercad Classroom i Google Classroom.
+* **Contingut / Comprovacions tècniques per tasca:**
+
+---
+
+### Tasca 7.1: Reproducció Logo Munay (Tinkercad 2D) — Rúbrica (10 punts)
+1. **Fidelitat al disseny i proporcions (3,5 pts):**
+   * *Expert (3,5 pts):* Reproducció exacta del videotutorial, respectant al 100% formes, corbes i simetries.
+   * *Avançat (2,6 pts):* Reconeixible amb petites desviacions visuals puntuals.
+   * *Aprenent (1,75 pts):* Dismetries o manca de detalls del tutorial.
+   * *Novell (0,8 pts):* Incomplet o no coincident amb les indicacions del tutorial.
+2. **Tècnica i domini de l'eina CAD (3,5 pts):**
+   * *Expert (3,5 pts):* Ús correcte de l'esbós 2D (*Sketch*), fusió/buidat i extrusió neta sense geometries solapades.
+   * *Avançat (2,6 pts):* Extrusió correcta amb petites imperfeccions d'acabat.
+   * *Aprenent (1,75 pts):* Dificultats en operacions d'alineació o tall.
+   * *Novell (0,8 pts):* Errors greus de construcció digital.
+3. **Organització i lliurament (3,0 pts):**
+   * *Expert (3,0 pts):* Peça centrada al pla de treball, nom de fitxer net i lliurada a temps.
+   * *Avançat (2,25 pts):* Lliurada a temps però desplaçada del centre o nom incorrecte.
+   * *Aprenent (1,5 pts):* Lliurada fora de pla o amb retard justificat.
+   * *Novell (0,75 pts):* No compartida correctament a Tinkercad Classroom.
+
+---
+
+### Tasca 7.2: Disseny del Logotip Propi 2D (`Extrude Sketch`) — Rúbrica (10 punts)
+1. **Coherència amb la Fase 2 i Prova de les Tisores (3,0 pts):**
+   * *Expert (3,0 pts):* 100% coherent amb l'esbós, funciona en 1 color i supera la Prova de les Tisores (sense peces soltes).
+   * *Avançat (2,25 pts):* Coherent amb l'esbós però conté alguna línia massa prima (< 1,5 mm).
+   * *Aprenent (1,5 pts):* S'allunya de l'esbós o té parts desconnectades.
+   * *Novell (0,75 pts):* Múltiples peces soltes impossibles de fabricar com a cos únic.
+2. **Restriccions de cotes i dimensions físiques (2,5 pts):**
+   * *Expert (2,5 pts):* Màxim 10 × 10 cm de base i gruix d'extrusió adequat (2 a 4 mm).
+   * *Avançat (1,85 pts):* Mides de base correctes però gruix d'extrusió inadequat.
+   * *Aprenent (1,25 pts):* Supera lleugerament les mides màximes permeses.
+   * *Novell (0,6 pts):* Dimensions desproporcionades (massa gran o microscòpic).
+3. **Operacions CAD i acabats digitals (2,5 pts):**
+   * *Expert (2,5 pts):* Domini d'`Extrude Sketch`, agrupament sòlid (`Group`), alineació i buidats nets.
+   * *Avançat (1,85 pts):* Bon ús CAD amb petites desalineacions.
+   * *Aprenent (1,25 pts):* Falta agrupar formes en un sol cos sòlid.
+   * *Novell (0,6 pts):* Formes amuntegades sense operacions de fusió.
+4. **Viabilitat de fabricació (2,0 pts):**
+   * *Expert (2,0 pts):* Base plana i preparat per a impressió 3D / tall làser sense voladissos impossibles.
+   * *Avançat (1,5 pts):* Imprimible amb necessitat de suports extres.
+   * *Aprenent (1,0 pts):* Parets massa fines (< 1 mm) amb risc de trencament.
+   * *Novell (0,5 pts):* Impossible de fabricar al taller.
+
+---
+
+### Tasca 7.3: Arracada 3D Paramètrica (Codeblocks) — Rúbrica (10 punts)
+1. **Programació paramètrica per blocs (3,0 pts):**
+   * *Expert (3,0 pts):* Codi net utilitzant variables, bucles, coordenades matemàtiques i transformacions lògiques.
+   * *Avançat (2,25 pts):* Bon ús de blocs però podria haver utilitzat bucles/variables per simplificar.
+   * *Aprenent (1,5 pts):* Codi seqüencial repetitiu sense aprofitar la lògica paramètrica.
+   * *Novell (0,75 pts):* Script amb errors de lògica que no s'executa correctament.
+2. **Restriccions de mida i orifici d'engarzat (2,5 pts):**
+   * *Expert (2,5 pts):* Màxim 4 × 4 × 0,5 cm i forat d'anella de 2-3 mm a 2 mm de la vora superior.
+   * *Avançat (1,85 pts):* Mides correctes però forat massa petit (< 2 mm) o molt enganxat a la vora.
+   * *Aprenent (1,25 pts):* Mides excessives per a una arracada o absència de forat d'anella.
+   * *Novell (0,6 pts):* No compleix especificacions ni permet col·locar el ganxo metàl·lic.
+3. **Creativitat visual i volumetria 3D (2,5 pts):**
+   * *Expert (2,5 pts):* Disseny atractiu, combinació harmoniosa de formes, relleus i buits.
+   * *Avançat (1,85 pts):* Disseny digne basat en formes geomètriques bàsiques.
+   * *Aprenent (1,25 pts):* Disseny molt elemental amb poca elaboració creativa.
+   * *Novell (0,6 pts):* Manca de criteri estètic o peça inacabada.
+4. **Execució de l'script i lliurament (2,0 pts):**
+   * *Expert (2,0 pts):* Execució fluida que genera el volum 3D sense objectes residuals i fitxer exportat/compartit.
+   * *Avançat (1,5 pts):* L'script funciona amb algun parpelleig o element residual ocult.
+   * *Aprenent (1,0 pts):* L'script triga molt a generar-se o s'ha lliurat amb retard.
+   * *Novell (0,5 pts):* El codi es bloca o no genera cap volum 3D.
+
+---
+
+# SEGUIMENT I REVISIÓ DEL TREBALL EN EQUIP (Abans d'entrar al Taller)
+
+🎯 **Finalitat pedagògica d'aquest bloc intermedi:**
+* Proporcionar un espai formal d'autoavaluació i coavaluació d'equip abans de la fase pràctica de taller (on la coordinació, la seguretat i l'ordre són crítics).
+* **Avaluació dels Acords i Càrrecs:** L'alumnat diagnostica el grau de compliment dels compromisos adquirits a la Fase 2.
+* **Dues estrelles i un desig:** Dinàmica de feedback positiu i constructiu per reconèixer aportacions i proposar millores d'actitud/hàbit abans d'entrar al taller.
+* **Reformulació d'acords:** Permet a l'equip adaptar o reforçar les seves regles de convivència per a la feina manual del taller.
+
+💬 **Exemple d'intervenció del docent:**  
+*Demanar a cada equip que llegeixi en veu alta els seus nous acords abans d'assignar-los el primer banc de treball o la resina al taller.*
 
 ---
 
@@ -381,19 +471,45 @@ Aquesta guia ofereix les **indicacions de correcció sobre què s'espera que res
 
 ---
 
-# BLOC 11: TANCAMENT DEL PROJECTE I AUTOAVALUACIÓ FINAL
+# BLOC 11: TANCAMENT DEL PROJECTE, AUTOAVALUACIÓ I COAVALUACIÓ FINAL
+
+### Activitat 11.1: Autoavaluació Individual de la Carpeta d'Aprenentatge (Rúbrica)
+
+🎯 **Què s'espera que respongui l'alumnat (Forma i Contingut):**
+* **Forma:** Emplenat de la taula d'autoavaluació dels 5 criteris de la rúbrica oficial (Completesa, Qualitat/Profunditat, Feedback/Millora, Constància/Seguiment i Cura/Polidesa), càlcul de la nota estimada i justificació autocrítica.
+* **Contingut:** Autocrítica sincera, identificació dels blocs més reeixits i reflexió sobre aspectes que calia aprofundir més.
+
+---
+
+### Activitat 11.2: Coavaluació entre Iguals (Avaluació dels altres 2 Membres de l'Equip)
+
+🎯 **Què s'espera que respongui l'alumnat (Forma i Contingut):**
+* **Forma:** Emplenat individual de les 2 taules de coavaluació (1 per a cadascun dels altres 2 companys/es de l'equip de 3) i redacció del feedback (*Punt fort/Agraïment* i *Aspecte a millorar per al futur*).
+* **Contingut:** Avaluació objectiva de la implicació a la marca, la feina pràctica al taller maker, el compliment del càrrec assignat (Seguretat, Ordre/Eines/Residus, Focus/Temps/Clima) i l'actitud cooperativa.
+
+---
+
+### <span class="badge-team">👥 EN EQUIP</span> Activitat 11.3: Valoració Final dels Acords i Càrrecs de l'Equip
+
+🎯 **Què s'espera que respongui l'alumnat (Forma i Contingut):**
+* **Forma:** Emplenat conjunt de les taules d'Acords d'Equip i Càrrecs, i dinàmica d'equip *Dues estrelles i un desig* entre els 3 membres.
+* **Contingut:** Balanç honest del compliment dels compromisos i tancament constructiu de la dinàmica cooperativa.
+
+---
+
+### Activitats 11.4, 11.5 i 11.6: Expectatives, Anàlisi Socioemocional i Valoració del Projecte
 
 🎯 **Què s'espera que respongui l'alumnat (Forma i Contingut):**
 * **Forma:** Respostes reflexives en profunditat utilitzant els espais ampliats (`min-height: 440px, 520px, 540px`).
 * **Contingut:**
-  1. *Expectatives vs Realitat:* Comparació honesta del punt de partida amb el resultat final.
-  2. *Anàlisi Socioemocional:* Balanç autocrític de Creativitat, Cura/Detall i Gestió de l'Error.
-  3. *Avalua el Projecte Artífex:* Valoració de les eines (Tinkercad, taller, web, carpeta) i consell pràctic per a futurs alumnes.
+  1. *11.4. Expectatives vs Realitat:* Comparació honesta del punt de partida amb el resultat final.
+  2. *11.5. Anàlisi Socioemocional:* Balanç autocrític de Creativitat, Cura/Detall i Gestió de l'Error.
+  3. *11.6. Avalua el Projecte Artífex:* Valoració de les eines (Tinkercad, taller, web, carpeta) i consell pràctic per a futurs alumnes.
 
 💬 **Respostes model d'exemple:**
-* **1. Expectatives vs. Realitat:** *"El primer dia no m'imaginava que seríem capaços de fer tot el procés complet. Em semblava difícil dissenyar en 3D i treballar amb resina, però veure el resultat final em fa sentir molt orgullós/a de la feina feta. La fase de producció al taller ha estat la millor, i la de Codeblocks la més desafiant."*
-* **2. Anàlisi Socioemocional:** *"En creativitat vaig necessitar inspiració inicial però vaig aconseguir una marca amb personalitat. En cura i detall em poso un 8,5 pel polit pacient de la resina. En gestió de l'error, quan van sortir bombolles al primer motlle vam analitzar el motiu i vam millorar l'abocament en el segon intent."*
-* **3. Avalua el Projecte Artífex:**  
+* **11.4. Expectatives vs. Realitat:** *"El primer dia no m'imaginava que seríem capaços de fer tot el procés complet. Em semblava difícil dissenyar en 3D i treballar amb resina, però veure el resultat final em fa sentir molt orgullós/a de la feina feta. La fase de producció al taller ha estat la millor, i la de Codeblocks la més desafiant."*
+* **11.5. Anàlisi Socioemocional:** *"En creativitat vaig necessitar inspiració inicial però vaig aconseguir una marca amb personalitat. En cura i detall em poso un 8,5 pel polit pacient de la resina. En gestió de l'error, quan van sortir bombolles al primer motlle vam analitzar el motiu i vam millorar l'abocament en el segon intent."*
+* **11.6. Avalua el Projecte Artífex:**  
   *a)* Un projecte integrat on aprens a crear la teva pròpia marca de joies des de la idea fins a la fabricació real amb resina.  
   *b)* Tinkercad 2D ha estat fàcil i Codeblocks molt satisfactori en veure el resultat 3D.  
   *c)* El taller de resina i silicona ha estat l'etapa més pràctica i motivadora del curs.  

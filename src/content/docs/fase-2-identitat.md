@@ -30,6 +30,15 @@ description: Aprén més sobre aquest tema del projecte Artífex.
   </div>
 </div>
 
+<div class="custom-card" style="margin: 1.5rem 0; border-left: 5px solid var(--sl-color-accent); background: rgba(193, 40, 114, 0.04); padding: 1.25rem 1.5rem; border-radius: 10px;">
+  <strong style="color: var(--sl-color-accent-high); font-size: 1.05rem;">👥 Treball en equip de marca:</strong> En aquesta Fase 2 us unireu en equips (3 alumnes) per definir la vostra marca. Posareu en comú les vostres Guspires individuals per:
+  <ul style="margin: 0.5rem 0 0 1.25rem; font-size: 0.95rem; line-height: 1.6;">
+    <li><strong>1. Naming:</strong> Triar per consens el <strong>nom oficial de la marca del vostre equip</strong>.</li>
+    <li><strong>2. Logotip:</strong> Dissenyar i consensuar el <strong>símbol i logotip oficial d'equip</strong>.</li>
+    <li><strong>3. Col·lecció d'arracades:</strong> Coordinar i repartir la creació dels diferents models d'arracades que formaran la col·lecció.</li>
+  </ul>
+</div>
+
 ---
 
 ## Els pilars de la identitat

@@ -9,8 +9,8 @@ description: Projecte educatiu de marca personal, disseny gràfic i producció d
 <h1 style="border-bottom: none; margin: 0 0 0.75rem 0; font-size: 3.8rem; font-weight: 900; background: linear-gradient(135deg, #c12872 0%, #7f1146 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent; line-height: 1.15; text-align: center;">
 Artífex
 </h1>
-<p style="font-size: 1.35rem; font-weight: 700; line-height: 1.5; color: var(--sl-color-text-accent); margin: 0.5rem 0 0 0; text-align: center;">
-Dissenya, fabrica i llança la teva col·lecció de joies des de zero.
+<p style="font-size: 1.25rem; font-weight: 700; line-height: 1.5; color: var(--sl-color-text-accent); margin: 0.5rem 0 0 0; text-align: center;">
+Com podem transformar una idea nascuda de la nostra identitat en una cooperativa de joies amb impacte positiu a la comunitat?
 </p>
 </div>
 <div>
@@ -54,6 +54,20 @@ Dissenya, fabrica i llança la teva col·lecció de joies des de zero.
 
 <hr />
 
+<div class="custom-card" style="margin: 2.5rem 0; padding: 1.75rem 2rem; border-left: 6px solid var(--sl-color-accent-high); background: linear-gradient(135deg, rgba(193, 40, 114, 0.05) 0%, rgba(37, 99, 235, 0.03) 100%); border-radius: 14px; box-shadow: 0 4px 20px rgba(0,0,0,0.04);">
+  <h2 style="margin-top: 0; color: var(--sl-color-accent-high); font-size: 1.6rem; display: flex; align-items: center; gap: 0.6rem;">
+    🎯 Quin és el propòsit d'Artífex?
+  </h2>
+  <p class="text-md" style="font-size: 1.1rem; line-height: 1.65; color: var(--sl-color-text); margin-bottom: 1rem;">
+    El propòsit d'aquest projecte és <strong>capacitar-vos com a dissenyadors, creadors i emprenedors socials</strong> a través de la creació d'una <strong>cooperativa escolar real</strong> a la vostra aula.
+  </p>
+  <p class="text-md" style="font-size: 1.05rem; line-height: 1.6; color: var(--sl-color-text-muted); margin-bottom: 0;">
+    No fareu un exercici simulat: aprendreu a transformar una idea nascuda de la vostra <strong>pròpia identitat i emocions</strong> en una col·lecció d'arracades d'autor reals. Ho fareu combinant eines digitals (<strong>disseny 2D i programació paramètrica 3D</strong>) amb el treball manual d'artesania (<strong>fusta, silicona i resina</strong> al taller), i gestionant democràticament la vostra cooperativa per generar un <strong>impacte positiu i ètic al vostre entorn</strong>.
+  </p>
+</div>
+
+<hr />
+
 <h2>Què aprendrem en aquest projecte?</h2>
 
 <div class="custom-grid-2" style="gap: 1.5rem;">
@@ -63,7 +77,7 @@ Dissenya, fabrica i llança la teva col·lecció de joies des de zero.
   </div>
   <div class="custom-card">
     <h3 class="custom-card-title">2. Fabricació Híbrida</h3>
-    <p class="text-md" style="margin-bottom: 0;">Integrarem tecnologies de fabricació digital (CAD/CAM, tall làser) amb processos artesanals de taller (motlles de silicona i resina) per crear un producte físic comercialitzable.</p>
+    <p class="text-md" style="margin-bottom: 0;">Integrarem tecnologies de fabricació digital (CAD/CAM, impressió 3D, tall làser) amb processos artesanals de taller (treball de la fusta, motlles de silicona i resina) per crear un producte físic comercialitzable.</p>
   </div>
   <div class="custom-card">
     <h3 class="custom-card-title">3. Món Empresarial i Emprenedoria</h3>

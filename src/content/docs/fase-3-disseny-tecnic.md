@@ -17,6 +17,15 @@ description: La importància del dibuix tècnic i la comunicació visual en el d
 Un dissenyador o enginyer no dibuixa per fer quadres; dibuixa per explicar a una màquina o a un artesà com s'ha de construir exactament un objecte sense cap possibilitat d'error.
 :::
 
+<div class="custom-card" style="margin: 1.5rem 0; border-left: 5px solid var(--sl-color-accent); background: rgba(193, 40, 114, 0.04); padding: 1.25rem 1.5rem; border-radius: 10px;">
+  <strong style="color: var(--sl-color-accent-high); font-size: 1.05rem;">👥 Organització de les tasques a la Fase 3:</strong>
+  <ul style="margin: 0.5rem 0 0 1.25rem; font-size: 0.95rem; line-height: 1.6;">
+    <li><strong>Tasca 1 (Logo Munay):</strong> Tothom realitza individualment aquesta pràctica guiada de domini d'eines 2D a Tinkercad.</li>
+    <li><strong>Tasca 2 (Vectorització Logo d'equip):</strong> Tothom modela digitalment en 2D el mateix logotip oficial consensuat pel seu equip.</li>
+    <li><strong>Tasca 3 (Arracada 3D Codeblocks):</strong> Cadascun dels 3 membres de l'equip programa i modela una arracada diferent amb Codeblocks per formar la col·lecció completa de la marca.</li>
+  </ul>
+</div>
+
 ---
 
 ## 📐 El Dibuix Tècnic com a Eina de Comunicació

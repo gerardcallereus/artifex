@@ -16,6 +16,13 @@ description: L'art de comunicar la història personal de la teva joia i dissenya
 El valor d'una joia d'autor no està només en la resina o els components metàl·lics; està en la història que hi ha al darrere: des de la guspira d'inspiració fins a les teves mans.
 :::
 
+<div class="custom-card" style="margin: 1.5rem 0; border-left: 5px solid var(--sl-color-accent); background: rgba(193, 40, 114, 0.04); padding: 1.25rem 1.5rem; border-radius: 10px;">
+  <strong style="color: var(--sl-color-accent-high); font-size: 1.05rem;">👥 Storytelling d'Equip i Carpeta d'aprenentatge:</strong>
+  <p style="margin: 0.5rem 0 0 0; font-size: 0.95rem; line-height: 1.6;">
+    Cada <strong>equip de marca ha d'escriure conjuntament una història consensuada</strong> per a la <em>Targeta de la Història (Story Card)</em> del packaging que parli de la marca i que connecti amb la identitat i els valors de l'equip. <strong>Important:</strong> Encara que la història es redacti i es consensuï en equip, <strong>tothom l'ha d'escriure a la seva pròpia carpeta d'aprenentatge individual</strong>.
+  </p>
+</div>
+
 ---
 
 ## 📖 Què és el Storytelling en Joieria?

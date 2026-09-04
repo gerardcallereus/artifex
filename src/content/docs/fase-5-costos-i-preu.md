@@ -18,6 +18,13 @@ Benvinguts al departament financer. Avui farem números, però abans de calcular
 
 Per fabricar les vostres joies esteu fent servir màquines que valen milers d'euros. En una empresa real, hauríeu de pagar-les. Aquí, la "Cooperativa Artífex" (el centre) us les deixa gratis.
 
+<div class="custom-card" style="margin: 1.5rem 0; border-left: 5px solid var(--sl-color-accent); background: rgba(193, 40, 114, 0.04); padding: 1.25rem 1.5rem; border-radius: 10px;">
+  <strong style="color: var(--sl-color-accent-high); font-size: 1.05rem;">🏛️ Decisió democràtica del preu (Assemblea de Cooperativa):</strong>
+  <p style="margin: 0.5rem 0 0 0; font-size: 0.95rem; line-height: 1.6;">
+    Un cop analitzada l'estructura de costos i el simulador financer, el <strong>preu final de venda de les arracades es consensua en assemblea com a grup-classe en format cooperativa</strong>, assegurant cobrir la inversió en materials (punt d'equilibri) i fixant un preu just i coherent amb el nostre impacte social.
+  </p>
+</div>
+
 ---
 
 ## Components del cost
