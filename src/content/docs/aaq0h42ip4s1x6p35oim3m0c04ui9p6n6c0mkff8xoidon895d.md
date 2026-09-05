@@ -639,7 +639,7 @@ Voleu canviar o millorar algun dels acords per al taller?
 
 # BLOC 8: FASE 4 — PRODUCCIÓ I FABRICACIÓ
 
-### <span class="badge-team">👥 EN EQUIP</span> Activitat 8.1: Memòria del Procés de Fabricació al Taller
+### Activitat 8.1: Memòria del Procés de Fabricació al Taller
 
 Explica com heu fabricat les arracades al taller responent breument a cada pas:
 

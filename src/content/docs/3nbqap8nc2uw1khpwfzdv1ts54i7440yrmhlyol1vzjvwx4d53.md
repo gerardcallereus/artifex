@@ -1051,7 +1051,7 @@ Amb el que heu parlat fins ara, voleu canviar o reformular algun dels acords per
 
 # BLOC 8: FASE 4 — PRODUCCIÓ I FABRICACIÓ (CAS COMPETENCIAL REAL)
 
-### <span class="badge-team">👥 EN EQUIP</span> Activitat 8.1: Memòria del Procés de Fabricació al Taller
+### Activitat 8.1: Memòria del Procés de Fabricació al Taller
 
 Redacta la memòria tècnica del procés de producció en sèrie a petita escala que has dut a terme al taller. Per a cadascun dels **6 passos del procés de fabricació**, respon a les preguntes adaptades i completa el requadre de resposta:
 
