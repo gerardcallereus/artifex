@@ -751,7 +751,8 @@ A partir de la teva experiència i anàlisi com a membre del **Jurat de Disseny*
 Després d'explorar les cartes interactives de l'**Atles de 100 Noms de Marca** al web, selecciona 2 marques que t'hagin cridat l'atenció i avalua cadascuna d'elles segons **Les 5 Regles d'Or del Naming**. Marca amb una creu [X] les regles que compleix i redacta una breu conclusió sobre si és un bon nom o no i per quina raó:
 
 #### 1. Primera Marca Seleccionada
-- **Nom de la marca:** <span style="border-bottom: 1.5px dashed #666; display: inline-block; width: 35%;"></span> | **Tipologia:** <span style="border-bottom: 1.5px dashed #666; display: inline-block; width: 35%;"></span>
+- **Nom de la marca:** <span style="border-bottom: 1.5px dashed #666; display: inline-block; width: 60%; min-width: 220px;"></span>
+- **Tipologia:** <span style="border-bottom: 1.5px dashed #666; display: inline-block; width: 60%; min-width: 220px;"></span>
 
 - **Avaluació segons les 5 Regles d'Or del Naming:**
   - [ ] **Simplicitat:** Nom curt (2-3 síl·labes), sonor i fàcil de pronunciar i escriure.
@@ -761,12 +762,11 @@ Després d'explorar les cartes interactives de l'**Atles de 100 Noms de Marca** 
   - [ ] **Originalitat:** Distintiu i fàcilment diferenciable de la competència.
 
 - **Conclusió sobre l'efectivitat del nom:** (És un bon nom? Per quina raó?)
-  <div class="response-box" style="min-height: 65px;"></div>
-
-<br />
+  <div class="response-box" style="min-height: 65px; margin-bottom: 0.75rem;"></div>
 
 #### 2. Segona Marca Seleccionada
-- **Nom de la marca:** <span style="border-bottom: 1.5px dashed #666; display: inline-block; width: 35%;"></span> | **Tipologia:** <span style="border-bottom: 1.5px dashed #666; display: inline-block; width: 35%;"></span>
+- **Nom de la marca:** <span style="border-bottom: 1.5px dashed #666; display: inline-block; width: 60%; min-width: 220px;"></span>
+- **Tipologia:** <span style="border-bottom: 1.5px dashed #666; display: inline-block; width: 60%; min-width: 220px;"></span>
 
 - **Avaluació segons les 5 Regles d'Or del Naming:**
   - [ ] **Simplicitat:** Nom curt (2-3 síl·labes), sonor i fàcil de pronunciar i escriure.
