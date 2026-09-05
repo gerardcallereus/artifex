@@ -1450,7 +1450,7 @@ Com a membre d'un **equip de 3 persones**, avalua de manera objectiva, respectuo
   - ⭐ **Punt fort / Agraïment:** <span style="border-bottom: 1.5px dashed #666; display: inline-block; width: 75%;"></span>
   - 🎯 **Aspecte a millorar per al futur:** <span style="border-bottom: 1.5px dashed #666; display: inline-block; width: 68%;"></span>
 
-<br />
+<div class="page-break"></div>
 
 #### 2. Coavaluació del/de la Company/a 2: <span style="border-bottom: 1.5px dashed #666; display: inline-block; width: 45%;"></span>
 *(Càrrec Maker: 🛡️ Seguretat / 🧹 Ordre, Eines i Residus / ⏱️ Focus, Temps i Clima)*
