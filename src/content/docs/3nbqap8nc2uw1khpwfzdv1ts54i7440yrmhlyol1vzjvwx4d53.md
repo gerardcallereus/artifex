@@ -874,8 +874,6 @@ Justifiqueu per què considereu que el logotip seleccionat és un bon disseny i 
 
 <div class="response-box" style="min-height: 120px;"></div>
 
-<div class="page-break"></div>
-
 ### <span class="badge-team">👥 EN EQUIP</span> Activitat 6.6: Pluja d'Idees i Disseny de la Col·lecció d'Arracades de l'Equip (Full Sencer)
 
 Dibuixeu a mà alçada diferents esbossos i propostes de peces per a la col·lecció de joies del vostre equip (cada membre de l'equip es responsabilitzarà d'un model diferent de la col·lecció). Assegureu-vos que totes les peces comparteixin una mateixa línia estètica, proporcions i connexió amb la història i l'origen definit per l'equip:
