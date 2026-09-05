@@ -168,6 +168,7 @@ Per familiaritzar-te amb la programació 3D per blocs, pots seguir la proposta d
 Per a la tercera tasca del lliurament de Google Classroom, hauràs de crear el modelat 3D de la teva arracada utilitzant **exclusivament l'eina de Tinkercad Blocs (Codeblocks)**.  
 
 ⚠️ **Requisits obligatoris de la peça:**  
+- **Quantitat mínima:** S'han de dissenyar i programar **com a mínim 2 arracades diferents** per alumne/a per a la col·lecció de l'equip.
 - **Sense eines clàssiques:** Tota la peça s'ha de programar paramètricament amb blocs de codi visuals (no es poden utilitzar les eines de disseny 3D tradicionals).  
 - **Mida màxima d'arracada:** La mida de l'arracada **no pot ser més gran de 4 × 4 × 0,5 cm** (40 × 40 × 5 mm).
 

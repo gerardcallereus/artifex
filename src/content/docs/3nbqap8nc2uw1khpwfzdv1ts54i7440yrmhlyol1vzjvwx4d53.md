@@ -906,10 +906,12 @@ En aquesta fase realitzaràs **1 tasca avaluable de Disseny Tècnic**. Per dur-l
 * **Estat de lliurament:** [ ] Completat i lliurat a Tinkercad Classroom
 
 #### 📌 <span class="badge-team">👥 EN EQUIP</span> Tasca 3: Arracada 3D Paramètrica de la Col·lecció (Codeblocks)
-* **Descripció:** Creació del modelat 3D d'una de les arracades de la col·lecció de l'equip utilitzant l'eina **Tinkercad Blocs (Codeblocks)** amb programació visual de blocs. Cadascun dels 3 membres de l'equip programa i modela una arracada diferent per completar la col·lecció de la marca.
-* **Requisit tècnic de mides:** La mida de l'arracada **no pot ser més gran de 4 × 4 × 0,5 cm** (40 × 40 × 5 mm).
+* **Descripció:** Creació del modelat 3D de **dues arracades com a mínim** de la col·lecció de l'equip utilitzant l'eina **Tinkercad Blocs (Codeblocks)** amb programació visual de blocs. Cada membre de l'equip programa i modela com a mínim dos dissenys diferents d'arracada per completar i enriquir la col·lecció de la marca.
+* **Requisit tècnic de mides:** La mida de cada arracada **no pot ser més gran de 4 × 4 × 0,5 cm** (40 × 40 × 5 mm).
 * **Recursos d'aprenentatge:** Per aprendre a utilitzar Tinkercad Blocs, segueix la sèrie dels **8 videotutorials pas a pas** integrats directament a la pàgina web del projecte (dins la secció *Disseny de les Arracades*).
-* **Estat de lliurament:** [ ] Completat i lliurat a Tinkercad Classroom
+* **Estat de lliurament (dues arracades com a mínim):**
+  - [ ] Arracada 1 completada i lliurada a Tinkercad Classroom
+  - [ ] Arracada 2 completada i lliurada a Tinkercad Classroom
 
 <div class="page-break"></div>
 

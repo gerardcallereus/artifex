@@ -496,8 +496,10 @@ A través de **Tinkercad Classroom**, hauràs de crear i lliurar les següents *
 * **Estat:** [ ] Completat i lliurat a Tinkercad Classroom
 
 #### 📌 <span class="badge-team">👥 EN EQUIP</span> Tasca 3: Arracada 3D de la Col·lecció (Tinkercad Blocs / Codeblocks)
-* **Descripció:** Crear el model 3D d'una de les arracades de la col·lecció programant amb blocs visuals. Cadascun dels 3 membres de l'equip en fa una de diferent. La mida màxima és de **4 × 4 × 0,5 cm**.
-* **Estat:** [ ] Completat i lliurat a Tinkercad Classroom
+* **Descripció:** Crear el model 3D de **dues arracades com a mínim** de la col·lecció programant amb blocs visuals. Cada membre de l'equip en fa com a mínim dues de diferents per a la col·lecció. La mida màxima és de **4 × 4 × 0,5 cm**.
+* **Estat de lliurament (2 arracades com a mínim):**
+  - [ ] Arracada 1 lliurada a Tinkercad Classroom
+  - [ ] Arracada 2 lliurada a Tinkercad Classroom
 
 <div class="page-break"></div>
 
