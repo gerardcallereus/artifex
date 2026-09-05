@@ -721,6 +721,34 @@ Com heu posat les anelles i els ganxos de metall? Quin és el resultat final de 
    - [ ] C) L'empresa ha de tancar.
    - [ ] D) Es regalen totes les arracades.
 
+<div class="page-break"></div>
+
+---
+
+### <span class="badge-team">👥 EN EQUIP</span> Activitat 9.2: Decisió Democràtica del Preu (Assemblea de Cooperativa)
+
+<div class="custom-card" style="margin: 1rem 0 1.5rem 0; border-left: 5px solid var(--sl-color-accent); background: rgba(193, 40, 114, 0.04); padding: 1.25rem 1.5rem; border-radius: 10px;">
+  <strong style="color: var(--sl-color-accent-high); font-size: 1.05rem;">🏛️ Decisió democràtica del preu (Assemblea de Cooperativa):</strong>
+  <p style="margin: 0.5rem 0 0 0; font-size: 0.95rem; line-height: 1.6;">
+    Un cop analitzada l'estructura de costos i el simulador financer, el <strong>preu final de venda de les arracades es consensua en assemblea com a grup-classe en format cooperativa</strong>, assegurant cobrir la inversió en materials (punt d'equilibri) i fixant un preu just i coherent amb el nostre impacte social.
+  </p>
+</div>
+
+1. **La proposta del vostre equip:**  
+   Quin preu de venda va proposar el vostre equip per parell d'arracades abans de començar l'assemblea? Per què?  
+   <div class="response-box" style="min-height: 120px;"></div>
+
+2. **El debat en l'Assemblea:**  
+   Quines altres propostes de preu es van dir a l'assemblea de classe? Quin argument et va semblar bo?  
+   <div class="response-box" style="min-height: 120px;"></div>
+
+3. **Preu final votat per la Cooperativa:**  
+   * **Preu final aprovat per tothom:** <span style="border-bottom: 2px dashed #9d174d; display: inline-block; width: 140px; height: 22px; vertical-align: bottom;"></span> **€ / parell**  
+   * **Per què és un preu just per al comprador i per a la cooperativa?**  
+   <div class="response-box" style="min-height: 120px;"></div>
+
+<div class="page-break"></div>
+
 ---
 
 # BLOC 10: FASE 6 — COMERCIALITZACIÓ I STORYTELLING

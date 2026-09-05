@@ -382,7 +382,7 @@ gantt
 * **Hora 27: FASE 5 — Càlcul del Punt d'Equilibri i Assemblea de Cooperativa**
   * Resolució dels exercicis de reflexió: edició limitada i viabilitat sense subvenció.
   * Celebració de l'assemblea general de grup-classe per consensuar democràticament el preu de venda.
-  * **Carpeta:** *Activitat 9.1 (Exercicis de reflexió financera)*.
+  * **Carpeta:** *Activitat 9.1 (Exercicis de reflexió financera)* i *Activitat 9.2 (Decisió Democràtica del Preu en Assemblea)*.
 * **Hora 28: FASE 6 — Storytelling de Marca i Disseny del Packaging**
   * Tècniques de màrqueting emocional i connexió amb el client.
   * Redacció conjunta de la targeta d'història de la marca (*Story Card*) per a la capsa del producte.

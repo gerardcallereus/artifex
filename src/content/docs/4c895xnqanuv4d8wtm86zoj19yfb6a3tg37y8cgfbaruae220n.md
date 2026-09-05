@@ -460,6 +460,19 @@ Aquest document ofereix les **indicacions de correcció sobre què s'espera que 
 
 ---
 
+### <span class="badge-team">👥 EN EQUIP</span> Activitat 9.2: Decisió Democràtica del Preu (Assemblea de Cooperativa)
+
+🎯 **Què s'espera que respongui l'alumnat (Forma i Contingut):**
+* **Forma:** Explicació de la proposta prèvia de l'equip, reflexió sobre el debat de grup-classe i registre del preu final consensuat amb la seva justificació.
+* **Contingut:** Comprensió del funcionament d'una assemblea cooperativa (1 persona = 1 vot), respecte pels acords col·lectius i argumentació basada en cobrir el punt d'equilibri financer amb impacte social positiu.
+
+💬 **Resposta model d'exemple:**  
+1. *Proposta inicial d'equip:* *"Vam proposar un preu de 7,00 € per parell, calculant que amb 14 unitats ja cobríem sobradament els 92,42 € de materials i deixàvem un petit marge per a la cooperativa."*  
+2. *Debat en assemblea:* *"Un altre equip va proposar 5,00 € perquè fos més assequible per a les famílies, mentre que un altre demanava 8,00 € per tenir més fons per a l'ONG. Ens va convèncer l'argument que 6,00 € era l'equilibri ideal: assequible i segur per amortitzar la despesa amb només 16 vendes."*  
+3. *Preu final i justificació:* *"S'ha aprovat per majoria un preu de 6,00 € / parell. És just perquè cobreix completament el cost de materials a partir de la unitat 16 i permet generar un benefici social net per al viatge i donació solidària."*
+
+---
+
 # BLOC 10: FASE 6 — COMERCIALITZACIÓ I STORYTELLING
 
 ### Activitat 10.1: Redacció de la Targeta de la Història (Story Card)

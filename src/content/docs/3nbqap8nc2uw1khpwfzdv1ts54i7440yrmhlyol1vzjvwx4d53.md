@@ -1294,6 +1294,34 @@ Dues empreses de joieria reconegudes a Catalunya fabriquen col·leccions d'arrac
    Si l'escola no ens deixés les màquines i haguéssim de pagar els 3.575 € de la Taula 1, quantes arracades de 6 € hauríem de vendre? És viable? *(Fes el càlcul a paper).*  
    <div class="response-box" style="min-height: 170px;"></div>
 
+<div class="page-break"></div>
+
+---
+
+### <span class="badge-team">👥 EN EQUIP</span> Activitat 9.2: Decisió Democràtica del Preu (Assemblea de Cooperativa)
+
+<div class="custom-card" style="margin: 1rem 0 1.5rem 0; border-left: 5px solid var(--sl-color-accent); background: rgba(193, 40, 114, 0.04); padding: 1.25rem 1.5rem; border-radius: 10px;">
+  <strong style="color: var(--sl-color-accent-high); font-size: 1.05rem;">🏛️ Decisió democràtica del preu (Assemblea de Cooperativa):</strong>
+  <p style="margin: 0.5rem 0 0 0; font-size: 0.95rem; line-height: 1.6;">
+    Un cop analitzada l'estructura de costos i el simulador financer, el <strong>preu final de venda de les arracades es consensua en assemblea com a grup-classe en format cooperativa</strong>, assegurant cobrir la inversió en materials (punt d'equilibri) i fixant un preu just i coherent amb el nostre impacte social.
+  </p>
+</div>
+
+1. **La proposta del vostre equip:**  
+   Abans de començar l'assemblea general de classe, quin preu de venda va proposar el vostre equip per parell d'arracades i quins arguments vau tenir en compte (cost dels materials, temps de feina manual, exclusivitat del disseny, cobrir el punt d'equilibri...)?  
+   <div class="response-box" style="min-height: 130px;"></div>
+
+2. **El debat en l'Assemblea de Grup-Classe:**  
+   Quines propostes diferents van sorgir durant l'assemblea? Quin argument defensat per un altre equip o company/a us va fer reflexionar o replantejar la vostra postura inicial?  
+   <div class="response-box" style="min-height: 130px;"></div>
+
+3. **Resolució democràtica i acord final del preu:**  
+   * **Preu final consensuat i votat per l'Assemblea:** <span style="border-bottom: 2px dashed #9d174d; display: inline-block; width: 140px; height: 22px; vertical-align: bottom;"></span> **€ / parell d'arracades**  
+   * **Justificació econòmica i social de la decisió:** Per què considereu que aquest preu és just per al client i alhora sostenible per a la cooperativa escolar (cobreix les despeses dels materials i genera marge d'impacte social)?  
+   <div class="response-box" style="min-height: 130px;"></div>
+
+<div class="page-break"></div>
+
 ---
 
 # BLOC 10: FASE 6 — COMERCIALITZACIÓ I STORYTELLING
