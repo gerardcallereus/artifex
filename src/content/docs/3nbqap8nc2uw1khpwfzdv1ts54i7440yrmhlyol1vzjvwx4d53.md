@@ -181,28 +181,42 @@ Acordeu 3 aspectes fonamentals sobre com voleu treballar com a equip en aquest p
 * **ACORD 2:** <div class="response-box" style="min-height: 50px;"></div>
 * **ACORD 3:** <div class="response-box" style="min-height: 50px;"></div>
 
-#### 3. Assignació de Càrrecs i Responsabilitats a l'Aula Maker
-<table style="width: 100%; border-collapse: collapse; margin: 1rem 0; font-size: 0.85rem;">
+<br/>
+
+#### 3. Assignació de Càrrecs i Responsabilitats
+<table style="width: 100%; border-collapse: collapse; margin: 1.25rem 0; font-size: 0.95rem;">
   <tbody>
-    <tr style="height: 55px;">
-      <td style="padding: 0.5rem 0.75rem; border: 1px solid #d1d5db; vertical-align: middle;">
-        <strong>🛡️ Responsable de SEGURETAT:</strong><br/>
-        <span style="font-size: 0.78rem; color: #666;">(Supervisar l'ús obligatori de guants, ulleres i mascareta en la manipulació de resines, silicones i màquines)</span><br/>
-        <span style="display: inline-block; margin-top: 0.25rem;">Nom: <span style="border-bottom: 1.5px dashed #666; display: inline-block; width: 340px;"></span></span>
+    <tr style="height: 80px;">
+      <td style="padding: 0.85rem 1rem; border: 1px solid #d1d5db; vertical-align: middle;">
+        <div style="margin-bottom: 0.35rem;">
+          <strong style="font-size: 1.05rem; color: #1e293b;">🛡️ Responsable de SEGURETAT:</strong>
+          <span style="font-size: 0.88rem; color: #4b5563; margin-left: 0.3rem;">(Supervisar l'ús obligatori de guants, ulleres i mascareta en la manipulació de resines, silicones i màquines)</span>
+        </div>
+        <div style="margin-top: 0.5rem; font-size: 0.98rem; font-weight: 700; color: var(--sl-color-accent-high);">
+          Nom de l'alumne/a: <span style="border-bottom: 2px dashed #9d174d; display: inline-block; width: calc(100% - 200px); max-width: 480px; min-width: 250px; height: 22px; vertical-align: bottom;"></span>
+        </div>
       </td>
     </tr>
-    <tr style="height: 55px;">
-      <td style="padding: 0.5rem 0.75rem; border: 1px solid #d1d5db; vertical-align: middle;">
-        <strong>🧹 Responsable d'ORDRE, Eines i Residus:</strong><br/>
-        <span style="font-size: 0.78rem; color: #666;">(Mantenir el banc de treball polit, netejar motlles de silicona i dipositar els residus al lloc correcte)</span><br/>
-        <span style="display: inline-block; margin-top: 0.25rem;">Nom: <span style="border-bottom: 1.5px dashed #666; display: inline-block; width: 340px;"></span></span>
+    <tr style="height: 80px;">
+      <td style="padding: 0.85rem 1rem; border: 1px solid #d1d5db; vertical-align: middle;">
+        <div style="margin-bottom: 0.35rem;">
+          <strong style="font-size: 1.05rem; color: #1e293b;">🧹 Responsable d'ORDRE, Eines i Residus:</strong>
+          <span style="font-size: 0.88rem; color: #4b5563; margin-left: 0.3rem;">(Mantenir el banc de treball polit, netejar motlles de silicona i dipositar els residus al lloc correcte)</span>
+        </div>
+        <div style="margin-top: 0.5rem; font-size: 0.98rem; font-weight: 700; color: var(--sl-color-accent-high);">
+          Nom de l'alumne/a: <span style="border-bottom: 2px dashed #9d174d; display: inline-block; width: calc(100% - 200px); max-width: 480px; min-width: 250px; height: 22px; vertical-align: bottom;"></span>
+        </div>
       </td>
     </tr>
-    <tr style="height: 55px;">
-      <td style="padding: 0.5rem 0.75rem; border: 1px solid #d1d5db; vertical-align: middle;">
-        <strong>⏱️ Responsable de FOCUS, Temps i Clima:</strong><br/>
-        <span style="font-size: 0.78rem; color: #666;">(Controlar el ritme de producció a cada sessió, evitar distraccions i moderar el volum de veu a l'aula)</span><br/>
-        <span style="display: inline-block; margin-top: 0.25rem;">Nom: <span style="border-bottom: 1.5px dashed #666; display: inline-block; width: 340px;"></span></span>
+    <tr style="height: 80px;">
+      <td style="padding: 0.85rem 1rem; border: 1px solid #d1d5db; vertical-align: middle;">
+        <div style="margin-bottom: 0.35rem;">
+          <strong style="font-size: 1.05rem; color: #1e293b;">⏱️ Responsable de FOCUS, Temps i Clima:</strong>
+          <span style="font-size: 0.88rem; color: #4b5563; margin-left: 0.3rem;">(Controlar el ritme de producció a cada sessió, evitar distraccions i moderar el volum de veu a l'aula)</span>
+        </div>
+        <div style="margin-top: 0.5rem; font-size: 0.98rem; font-weight: 700; color: var(--sl-color-accent-high);">
+          Nom de l'alumne/a: <span style="border-bottom: 2px dashed #9d174d; display: inline-block; width: calc(100% - 200px); max-width: 480px; min-width: 250px; height: 22px; vertical-align: bottom;"></span>
+        </div>
       </td>
     </tr>
   </tbody>
