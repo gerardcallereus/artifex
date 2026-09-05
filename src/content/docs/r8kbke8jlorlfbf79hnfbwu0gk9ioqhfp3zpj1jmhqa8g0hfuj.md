@@ -1,6 +1,7 @@
 ---
 title: "Prova escrita final"
 description: "Prova escrita final d'avaluació de competències sobre creació de marques, organització empresarial, producció i viabilitat financera del projecte Artífex (Durada: 90 minuts)."
+template: splash
 tableOfContents: false
 ---
 

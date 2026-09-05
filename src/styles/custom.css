@@ -1359,16 +1359,25 @@ starlight-theme-select {
   margin-bottom: 0.5rem;
 }
 
-/* Screen view as realistic A4 paper sheets for Carpeta d'aprenentatge */
+/* Screen view as realistic A4 paper sheets / full-width splash pages */
 @media screen {
+  [data-has-sidebar="false"] .sidebar-pane,
+  [data-has-sidebar="false"] nav.sidebar,
+  [data-has-sidebar="false"] .right-sidebar,
+  body[data-template="splash"] .sidebar-pane,
+  body[data-template="splash"] nav.sidebar,
+  body[data-template="splash"] .right-sidebar,
   body:has(.cover-page-container) nav.sidebar,
   body:has(.cover-page-container) .sidebar-pane,
   body:has(.cover-page-container) .right-sidebar {
     display: none !important;
   }
 
+  [data-has-sidebar="false"] .main-frame,
+  body[data-template="splash"] .main-frame,
   body:has(.cover-page-container) .main-frame {
     padding-left: 0 !important;
+    padding-inline-start: 0 !important;
     max-width: 100% !important;
   }
 

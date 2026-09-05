@@ -1,6 +1,7 @@
 ---
 title: "Carpeta d'aprenentatge"
 description: "Carpeta d'aprenentatge imprimible en format A4 amb textos breus, clars i adaptats per a l'alumnat."
+template: splash
 tableOfContents: false
 ---
 

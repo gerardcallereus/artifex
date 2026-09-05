@@ -1,6 +1,7 @@
 ---
 title: "Carpeta d'aprenentatge (Adaptada)"
 description: Carpeta d'aprenentatge imprimible en format A4 amb les activitats i exercicis del projecte Artífex.
+template: splash
 tableOfContents: false
 ---
 

@@ -1,6 +1,7 @@
 ---
 title: "Solucionari de la carpeta d'aprenentatge"
 description: "Solucionari complet amb criteris de correcció de forma/contingut, solucions dels testos i respostes model per a la Carpeta d'aprenentatge del projecte Artífex."
+template: splash
 tableOfContents: false
 ---
 

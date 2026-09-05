@@ -1,6 +1,7 @@
 ---
 title: "Guia docent del projecte Artífex"
 description: "Programació didàctica, marc competencial curricular (Tecnologia i Digitalització + Optativa d'Emprenedoria Decret 175/2022), criteris d'avaluació, sabers bàsics i seqüenciació didàctica de 30 hores."
+template: splash
 tableOfContents: false
 ---
 
