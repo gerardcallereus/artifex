@@ -1,8 +1,7 @@
 ---
-
 title: "Carpeta d'aprenentatge"
 description: Carpeta d'aprenentatge imprimible en format A4 amb totes les activitats competencials, reflexions i exercicis del projecte Artífex.
-
+tableOfContents: false
 ---
 
 <div class="cover-page-container">

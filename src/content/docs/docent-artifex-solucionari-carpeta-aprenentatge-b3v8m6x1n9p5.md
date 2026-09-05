@@ -1,11 +1,12 @@
 ---
-title: "Guia del professorat: Solucionari de la Carpeta d'aprenentatge"
-description: "Guia didàctica i solucionari complet amb criteris de correcció de forma/contingut, solucions dels testos i respostes model per a la Carpeta d'aprenentatge del projecte Artífex."
+title: "Solucionari de la carpeta d'aprenentatge"
+description: "Solucionari complet amb criteris de correcció de forma/contingut, solucions dels testos i respostes model per a la Carpeta d'aprenentatge del projecte Artífex."
+tableOfContents: false
 ---
 
-# 📖 GUIA DEL PROFESSORAT I SOLUCIONARI COMPLET
+# 📖 SOLUCIONARI DE LA CARPETA D'APRENENTATGE
 
-Aquesta guia ofereix les **indicacions de correcció sobre què s'espera que respongui l'alumnat en Forma i Contingut**, així com les **respostes model d'exemple i solucions dels testos desendreçats** per a totes les activitats de la Carpeta d'aprenentatge del projecte **Artífex (PCT 2n d'ESO)**.
+Aquest document ofereix les **indicacions de correcció sobre què s'espera que respongui l'alumnat en Forma i Contingut**, així com les **respostes model d'exemple i solucions dels testos** per a totes les activitats de la Carpeta d'aprenentatge del projecte **Artífex (PCT 2n d'ESO)**.
 
 ---
 

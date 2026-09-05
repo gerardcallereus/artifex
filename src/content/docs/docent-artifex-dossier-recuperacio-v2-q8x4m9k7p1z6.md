@@ -1,6 +1,7 @@
 ---
 title: "Dossier de Recuperació: Projecte Artífex"
 description: Pàgina de recuperació de la matèria de Tecnologia a partir de la identitat, disseny digital i estudis econòmics.
+tableOfContents: false
 ---
 
 <div class="no-print" style="margin-bottom: 2.5rem; padding: 1.5rem; background: linear-gradient(135deg, rgba(193, 40, 114, 0.08) 0%, rgba(127, 17, 70, 0.08) 100%); border: 1px solid rgba(193, 40, 114, 0.3); border-radius: 12px; display: flex; align-items: center; justify-content: space-between; gap: 1.5rem; box-shadow: 0 4px 15px rgba(193, 40, 114, 0.05);">
