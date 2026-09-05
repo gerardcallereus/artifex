@@ -1395,8 +1395,6 @@ Recupera la **Rúbrica d'Avaluació de la Carpeta d'Aprenentatge** de la portada
 - **Justificació de la teva autoavaluació:** (Quins han estat els teus punts forts a la carpeta? Quins apartats t'han costat més o podries haver fet amb més detall?)
   <div class="response-box" style="min-height: 120px;"></div>
 
-<div class="page-break"></div>
-
 ---
 
 ### Activitat 11.2: Coavaluació entre Iguals (Avaluació dels altres 2 Membres de l'Equip)

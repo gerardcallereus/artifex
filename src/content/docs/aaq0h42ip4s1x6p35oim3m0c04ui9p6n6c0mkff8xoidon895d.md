@@ -829,8 +829,6 @@ Mira la **Rúbrica d'Avaluació de la Carpeta d'Aprenentatge** de la primera pà
 - **Explica breument què és el que has fet millor a la teva carpeta i què podries millorar:**
   <div class="response-box" style="min-height: 120px;"></div>
 
-<div class="page-break"></div>
-
 ---
 
 ### Activitat 11.2: Coavaluació entre Iguals (Avaluació dels altres 2 Membres de l'Equip)
