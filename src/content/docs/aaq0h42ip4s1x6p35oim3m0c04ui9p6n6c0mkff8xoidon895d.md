@@ -757,9 +757,7 @@ Com heu posat les anelles i els ganxos de metall? Quin és el resultat final de 
 
 Redacta el text de la targeta que anirà dins de la capsa d'arracades del vostre equip, explicant la història de la vostra marca: *Recordatori: Encara que la història es redacti en equip, tothom l'ha d'escriure a la seva pròpia carpeta d'aprenentatge.*
 
-<div style="border: 2px solid var(--sl-color-accent); border-radius: 12px; padding: 1.25rem; background: #fffcf8; margin: 1rem 0;">
-  <div class="response-box" style="min-height: 460px; background: transparent; border: none;"></div>
-</div>
+<div style="min-height: 520px;"></div>
 
 <div class="page-break"></div>
 

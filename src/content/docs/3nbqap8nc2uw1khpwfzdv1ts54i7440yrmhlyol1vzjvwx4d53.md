@@ -1330,9 +1330,7 @@ Dues empreses de joieria reconegudes a Catalunya fabriquen col·leccions d'arrac
 
 Cada equip ha d'escriure conjuntament una **història consensuada** que parli sobre la marca i que connecti amb la identitat i els valors de l'equip (Story Card per al packaging). *Recordatori: Encara que la història es redacti i es consensuï en equip, tothom l'ha d'escriure a la seva pròpia carpeta d'aprenentatge individual.*
 
-<div style="border: 2px solid var(--sl-color-accent); border-radius: 12px; padding: 1.25rem; background: #fffcf8; margin: 1rem 0;">
-  <div class="response-box" style="min-height: 460px; background: transparent; border: none;"></div>
-</div>
+<div style="min-height: 520px;"></div>
 
 <div class="page-break"></div>
 
