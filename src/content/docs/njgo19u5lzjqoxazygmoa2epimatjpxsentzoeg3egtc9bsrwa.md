@@ -5,13 +5,7 @@ template: splash
 tableOfContents: false
 ---
 
-<div class="no-print" style="margin-bottom: 2.5rem; padding: 1.5rem; background: linear-gradient(135deg, rgba(193, 40, 114, 0.08) 0%, rgba(127, 17, 70, 0.08) 100%); border: 1px solid rgba(193, 40, 114, 0.3); border-radius: 12px; display: flex; align-items: center; justify-content: space-between; gap: 1.5rem; box-shadow: 0 4px 15px rgba(193, 40, 114, 0.05);">
-  <div>
-    <strong style="font-size: 1.1rem; color: var(--sl-color-accent-high);">Vols descarregar o imprimir aquest dossier en paper?</strong><br>
-    <span class="text-sm">Fent clic aquí s'amagaran automàticament els menús del web i s'obrirà la impressió neta en format PDF.</span>
-  </div>
-  <button onclick="window.print()" class="custom-button primary" style="margin: 0; white-space: nowrap; padding: 0.75rem 1.5rem;">Descarregar en PDF / Imprimir</button>
-</div>
+
 
 <!-- ===================================================
      PORTADA DEL DOSSIER (COVER PAGE)
