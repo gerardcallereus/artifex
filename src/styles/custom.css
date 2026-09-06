@@ -1637,77 +1637,116 @@ html.sidebar-collapsed {
 .picto-tag {
   display: inline-flex;
   align-items: center;
-  gap: 0.4rem;
-  background: #f8fafc;
-  border: 1.5px solid #cbd5e1;
-  border-radius: 8px;
-  padding: 0.25rem 0.6rem;
-  margin: 0.2rem 0.3rem 0.2rem 0;
+  gap: 0.65rem;
+  background: #ffffff;
+  border: 2px solid #be185d;
+  border-radius: 12px;
+  padding: 0.4rem 0.85rem;
+  margin: 0.35rem 0.5rem 0.35rem 0;
   vertical-align: middle;
-  box-shadow: 0 1px 2px rgba(0,0,0,0.05);
+  box-shadow: 0 2px 5px rgba(190, 24, 93, 0.1);
 }
 
 .picto-tag img {
-  width: 36px;
-  height: 36px;
+  width: 52px !important;
+  height: 52px !important;
   object-fit: contain;
-  border-radius: 4px;
-  background: #ffffff;
+  border-radius: 8px;
+  background: #fff5f8;
   display: inline-block;
   margin: 0 !important;
+  border: 1px solid #fbcfe8;
+  padding: 2px;
 }
 
 .picto-tag span {
-  font-weight: 700;
-  font-size: 0.88rem;
-  color: #1e293b;
+  font-weight: 800;
+  font-size: 1.05rem;
+  color: #831843;
+  letter-spacing: 0.2px;
+}
+
+.picto-action-bar {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 0.75rem;
+  background: linear-gradient(135deg, #fff1f2 0%, #fdf2f8 100%);
+  border: 2px solid #f472b6;
+  border-radius: 14px;
+  padding: 0.75rem 1rem;
+  margin: 1rem 0 1.25rem 0;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.04);
+}
+
+.picto-action-label {
+  font-size: 0.85rem;
+  font-weight: 900;
+  color: #9d174d;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+  margin-right: 0.25rem;
 }
 
 .picto-header {
   display: flex;
   align-items: center;
-  gap: 1rem;
+  gap: 1.25rem;
   background: #fdf2f8;
-  border-left: 6px solid #be185d;
-  border-radius: 12px;
-  padding: 0.85rem 1.25rem;
-  margin: 1.5rem 0 1rem 0;
+  border: 2px solid #fbcfe8;
+  border-left: 8px solid #be185d;
+  border-radius: 16px;
+  padding: 1.1rem 1.4rem;
+  margin: 1.75rem 0 1.25rem 0;
+  box-shadow: 0 4px 12px rgba(190, 24, 93, 0.08);
 }
 
 .picto-header img {
-  width: 52px;
-  height: 52px;
+  width: 76px !important;
+  height: 76px !important;
   object-fit: contain;
-  border-radius: 8px;
+  border-radius: 12px;
   background: #ffffff;
-  border: 1px solid #fbcfe8;
-  padding: 2px;
+  border: 2px solid #fbcfe8;
+  padding: 4px;
+  flex-shrink: 0;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.05);
 }
 
-.picto-header h2, .picto-header h3 {
-  margin: 0 !important;
+.picto-header h2 {
+  margin: 0 0 0.25rem 0 !important;
   color: #831843;
+  font-size: 1.45rem !important;
+  font-weight: 900 !important;
+}
+
+.picto-header p {
+  margin: 0 !important;
+  font-size: 1rem !important;
+  font-weight: 600 !important;
+  color: #475569;
 }
 
 .picto-step {
   display: flex;
-  align-items: flex-start;
-  gap: 1rem;
+  align-items: center;
+  gap: 1.25rem;
   background: #ffffff;
-  border: 2px solid #e2e8f0;
-  border-radius: 12px;
-  padding: 0.9rem;
-  margin: 0.9rem 0;
-  box-shadow: 0 2px 4px rgba(0,0,0,0.04);
+  border: 2.5px solid #e2e8f0;
+  border-radius: 16px;
+  padding: 1.1rem 1.3rem;
+  margin: 1.1rem 0;
+  box-shadow: 0 3px 8px rgba(0,0,0,0.05);
 }
 
 .picto-step img {
-  width: 54px;
-  height: 54px;
+  width: 74px !important;
+  height: 74px !important;
   object-fit: contain;
-  border-radius: 8px;
+  border-radius: 10px;
   background: #f8fafc;
-  border: 1px solid #cbd5e1;
+  border: 2px solid #cbd5e1;
+  padding: 3px;
   flex-shrink: 0;
 }
 
@@ -1716,17 +1755,23 @@ html.sidebar-collapsed {
 }
 
 .picto-step-title {
-  font-size: 1.05rem;
-  font-weight: 800;
+  font-size: 1.18rem;
+  font-weight: 900;
   color: #0f172a;
   margin-bottom: 0.35rem;
+}
+
+.picto-step p {
+  font-size: 0.98rem !important;
+  line-height: 1.5 !important;
+  color: #334155;
 }
 
 .picto-box-container {
   display: flex;
   flex-wrap: wrap;
-  gap: 0.75rem;
-  margin: 0.75rem 0;
+  gap: 1rem;
+  margin: 1rem 0;
 }
 
 .picto-card {
@@ -1735,25 +1780,34 @@ html.sidebar-collapsed {
   align-items: center;
   text-align: center;
   background: #ffffff;
-  border: 2px solid #cbd5e1;
-  border-radius: 12px;
-  padding: 0.6rem;
-  width: 110px;
-  box-shadow: 0 2px 4px rgba(0,0,0,0.04);
+  border: 2.5px solid #cbd5e1;
+  border-radius: 14px;
+  padding: 0.85rem 0.6rem;
+  width: 135px;
+  box-shadow: 0 3px 8px rgba(0,0,0,0.06);
+  transition: transform 0.15s ease;
+}
+
+.picto-card:hover {
+  border-color: #be185d;
+  transform: translateY(-2px);
 }
 
 .picto-card img {
-  width: 50px;
-  height: 50px;
+  width: 70px !important;
+  height: 70px !important;
   object-fit: contain;
-  margin-bottom: 0.4rem !important;
+  margin-bottom: 0.6rem !important;
+  background: #f8fafc;
+  border-radius: 8px;
+  padding: 2px;
 }
 
 .picto-card span {
-  font-size: 0.82rem;
-  font-weight: 700;
-  color: #334155;
-  line-height: 1.2;
+  font-size: 0.92rem;
+  font-weight: 800;
+  color: #1e293b;
+  line-height: 1.25;
 }
 
 @media print {
@@ -1767,6 +1821,9 @@ html.sidebar-collapsed {
     break-inside: avoid;
   }
   .picto-card {
+    break-inside: avoid;
+  }
+  .picto-action-bar {
     break-inside: avoid;
   }
 }
