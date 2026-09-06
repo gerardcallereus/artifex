@@ -1,6 +1,6 @@
 ---
 title: "Guia docent del projecte Artífex"
-description: "Programació didàctica, marc competencial curricular (Tecnologia i Digitalització + Optativa d'Emprenedoria Decret 175/2022), criteris d'avaluació, sabers bàsics i seqüenciació didàctica de 30 hores."
+description: "Programació didàctica, marc competencial curricular (Tecnologia i Digitalització + Optativa d'Emprenedoria Decret 175/2022), criteris d'avaluació, sabers bàsics i seqüenciació didàctica de 33 hores."
 template: splash
 tableOfContents: false
 ---
@@ -10,10 +10,10 @@ tableOfContents: false
 <div class="custom-card" style="border-left: 5px solid var(--sl-color-accent); background: rgba(193, 40, 114, 0.04); padding: 1.25rem; border-radius: 12px; margin: 1.5rem 0;">
   <h3 style="margin-top: 0; color: var(--sl-color-accent-high); font-size: 1.25rem;">✨ Dades Generals del Projecte</h3>
   <ul style="margin-bottom: 0; font-size: 0.95rem; line-height: 1.6;">
-    <li><strong>Nom del Projecte:</strong> Artífex — Disseny, Fabricació Digital i Emprenedoria Cooperativa de Joieria</li>
+    <li><strong>Nom del Projecte:</strong> Artífex</li>
     <li><strong>Nivell educatiu:</strong> 2n d'ESO (Projecte Comunitari / Tecnològic i Optativa de Centre)</li>
     <li><strong>Àmbits i Matèries implicades:</strong> Tecnologia i Digitalització & Optativa de Centre en Emprenedoria (Decret 175/2022)</li>
-    <li><strong>Durada total:</strong> 30 hores lectives (sessions d'1 hora)</li>
+    <li><strong>Durada total:</strong> 33 hores lectives</li>
     <li><strong>Organització de l'alumnat:</strong> Equips cooperatius de 3 membres amb rols maker rotatius/assignats</li>
   </ul>
 </div>
@@ -41,28 +41,6 @@ Impulsar el creixement personal i col·lectiu de l'alumnat utilitzant la **creac
 
 El projecte Artífex s'emmarca en el currículum de l'Educació Secundària Obligatòria a Catalunya (**Decret 175/2022, de 27 de setembre**), articulant de forma transversal la matèria de **Tecnologia i Digitalització** i l'**Optativa de Centre en Emprenedoria**.
 
-```mermaid
-graph TD
-    A["PROJECTE ARTÍFEX (30h)"] --> B["Tecnologia i Digitalització"]
-    A --> C["Optativa de Centre: Emprenedoria"]
-    
-    B --> B1["CE2: Resolució de problemes i procés tecnològic"]
-    B --> B2["CE3: Dibuix vectorial i disseny 3D CAD"]
-    B --> B3["CE4: Ús ètic, seguretat al taller i sostenibilitat"]
-    
-    C --> C1["CE1: Detecció d'oportunitats i ideació"]
-    C --> C2["CE2: Gestió de projectes, costos i viabilitat"]
-    C --> C3["CE3: Treball en equip i rols cooperatius"]
-    C --> C4["CE4: Storytelling, packaging i pitch"]
-```
-
-### 📌 Regulació de l'Optativa de Centre «Emprenedoria» (1r-3r d'ESO)
-En el marc del Decret 175/2022, les optatives de centre no disposen d'un codi curricular oficial tancat, sinó que el centre en redacta la programació didàctica a partir dels descriptors operatius del **Perfil Competencial de Sortida de l'ESO** i de les competències clau:
-
-* **CE1 (Detectar necessitats i oportunitats):** Analitzar l'entorn per identificar necessitats socials, culturals i econòmiques, plantejant propostes de valor afegit.
-* **CE2 (Planificar i gestionar projectes):** Dissenyar, organitzar i executar un pla d'empresa cooperativa (assignació de rols, gestió de temps, càlcul de costos i punt d'equilibri).
-* **CE3 (Treball en equip i lideratge compartit):** Cooperar de manera assertiva, aplicant acords d'equip, gestionant càrrecs i resolent discrepàncies de forma democràtica.
-* **CE4 (Comunicació, prototipatge i pitch):** Elaborar el prototip de producte, redactar la història de la marca (*storytelling*) i comunicar la proposta de valor al client.
 
 ---
 
@@ -81,47 +59,48 @@ En el marc del Decret 175/2022, les optatives de centre no disposen d'un codi cu
   <tbody>
     <tr>
       <td style="padding: 0.6rem; border: 1px solid #d1d5db; vertical-align: top;">
-        <strong>CE 2.</strong> Planificar, dissenyar i desenvolupar solucions a problemes tecnològics amb autonomia i actitud creativa, aplicant el procés tecnològic i treballant de manera cooperativa per resoldre necessitats de forma eficaç i sostenible.
+        <strong>CE 2.</strong> Proposar i construir solucions a problemes tecnològics d'acord amb el procés de disseny i utilitzant tècniques de fabricació manual o digital, de forma sostenible, col·laborativa i segura, per satisfer necessitats de l'entorn.
       </td>
       <td style="padding: 0.6rem; border: 1px solid #d1d5db; vertical-align: top;">
-        <strong>2.1.</strong> Dissenyar i crear solucions tecnològiques aplicant coneixements interdisciplinaris, pensament de disseny i tècniques de creativitat.<br/><br/>
-        <strong>2.2.</strong> Seguir de forma rigorosa les etapes del procés tecnològic documentant-ne el desenvolupament a la carpeta d'aprenentatge.
+        <strong>2.1.</strong> Planificar i desenvolupar solucions a problemes tecnològics seguint les fases del procés de disseny i treballant de manera col·laborativa en equips cooperatius.<br/><br/>
+        <strong>2.2.</strong> Fabricar prototips combinant processos de fabricació digital (impressió 3D) i manual (encofrats, motlles de silicona, buidatge de resina epoxi i muntatge d'arracades) aplicant criteris de sostenibilitat i seguretat al taller maker.
       </td>
       <td style="padding: 0.6rem; border: 1px solid #d1d5db; vertical-align: top;">
-        <strong>Bloc: Procés de resolució de problemes</strong><br/>
-        • Estratègies i mètodes de disseny (esbossos, pluja d'idees).<br/>
-        • Avaluació i optimització de solucions.<br/>
-        • Documentació tècnica i memòria de fabricació.
-      </td>
-    </tr>
-    <tr>
-      <td style="padding: 0.6rem; border: 1px solid #d1d5db; vertical-align: top;">
-        <strong>CE 3.</strong> Descriure, representar i intercanviar idees mitjançant eines digitals, dibuix vectorial i programari de disseny 3D (CAD), utilitzant simbologia i vocabulari tècnic normalitzat.
-      </td>
-      <td style="padding: 0.6rem; border: 1px solid #d1d5db; vertical-align: top;">
-        <strong>3.1.</strong> Modelar digitalment en 2D el logotip de la marca amb aplicacions de dibuix vectorial.<br/><br/>
-        <strong>3.2.</strong> Programar i generar peces tridimensionals paramètriques mitjançant blocs visuals (Tinkercad Codeblocks) i exportar fitxers per a impressió 3D (.STL).
-      </td>
-      <td style="padding: 0.6rem; border: 1px solid #d1d5db; vertical-align: top;">
-        <strong>Bloc: Digitalització i CAD/CAM</strong><br/>
-        • Aplicacions de disseny assistit per ordinador en 2D i 3D.<br/>
-        • Programació basada en blocs aplicada al modelatge tridimensional.<br/>
-        • Preparació de fitxers per a fabricació digital.
+        <strong>Bloc: Procés de disseny i fabricació</strong><br/>
+        • Fases del procés tecnològic de disseny.<br/>
+        • Tècniques de fabricació manual (encofrat, motlles, resina, polit).<br/>
+        • Fabricació digital mitjançant impressió 3D FDM.<br/>
+        • Normes de seguretat, ús d'EPIs i gestió de residus al taller.
       </td>
     </tr>
     <tr>
       <td style="padding: 0.6rem; border: 1px solid #d1d5db; vertical-align: top;">
-        <strong>CE 4.</strong> Fer un ús segur, ètic, responsable i sostenible dels materials, les eines i les màquines al taller maker, aplicant les normes de prevenció de riscos i respectant el medi ambient.
+        <strong>CE 6.</strong> Descriure, representar i intercanviar idees o solucions a problemes tecnològics o digitals, utilitzant els mitjans de representació, simbologia i vocabulari adequats, així com els instruments i els recursos disponibles, utilitzant les eines digitals per argumentar, comunicar i difondre informació.
       </td>
       <td style="padding: 0.6rem; border: 1px solid #d1d5db; vertical-align: top;">
-        <strong>4.1.</strong> Manipular materials químics (resina epoxi, silicona líquida) i eines de taller utilitzant els equips de protecció individual (guants, mascareta, ulleres).<br/><br/>
-        <strong>4.2.</strong> Mantenir l'ordre, la neteja de motlles i la gestió selectiva de residus al banc de treball.
+        <strong>6.1.</strong> Representar idees tècniques mitjançant esbossos a mà alçada, croquis acotats i aplicacions de dibuix vectorial 2D per al logotip i la col·lecció de joieria.<br/><br/>
+        <strong>6.2.</strong> Documentar tot el desenvolupament del projecte a la carpeta d'aprenentatge utilitzant vocabulari tècnic i plataformes digitals (Tinkercad Classroom) per comunicar i difondre els resultats.
       </td>
       <td style="padding: 0.6rem; border: 1px solid #d1d5db; vertical-align: top;">
-        <strong>Bloc: Materials i Fabricació</strong><br/>
-        • Propietats dels polímers (silicones i resines termoestables).<br/>
-        • Tècniques de conformat: impressió 3D FDM, encofrat i motlles.<br/>
-        • Seguretat, higiene i gestió responsable de residus.
+        <strong>Bloc: Comunicació tècnica i representació gràfica</strong><br/>
+        • Sistemes de representació gràfica (esbós, cotes, vistes).<br/>
+        • Dibuix vectorial i disseny gràfic 2D.<br/>
+        • Documentació tècnica, memòria de fabricació i eines digitals de difusió.
+      </td>
+    </tr>
+    <tr>
+      <td style="padding: 0.6rem; border: 1px solid #d1d5db; vertical-align: top;">
+        <strong>CE 7.</strong> Desenvolupar solucions automatitzades a problemes mitjançant el pensament computacional, la programació i l'ús de la intel·ligència artificial, per aplicar-les a la millora de processos o sistemes.
+      </td>
+      <td style="padding: 0.6rem; border: 1px solid #d1d5db; vertical-align: top;">
+        <strong>7.1.</strong> Aplicar el pensament computacional i l'abstracció geomètrica per modelar peces tridimensionals mitjançant programació basada en blocs (Tinkercad Codeblocks).<br/><br/>
+        <strong>7.2.</strong> Utilitzar estructures de control, variables, bucles i operacions booleanes paramètriques per generar i exportar fitxers per a fabricació digital (.STL).
+      </td>
+      <td style="padding: 0.6rem; border: 1px solid #d1d5db; vertical-align: top;">
+        <strong>Bloc: Pensament computacional i programació</strong><br/>
+        • Algorismes i estructures de control (variables, bucles, condicions).<br/>
+        • Modelat 3D paramètric mitjançant programació de blocs.<br/>
+        • Automatització de disseny per a la fabricació additiva.
       </td>
     </tr>
   </tbody>
@@ -142,62 +121,47 @@ En el marc del Decret 175/2022, les optatives de centre no disposen d'un codi cu
   <tbody>
     <tr>
       <td style="padding: 0.6rem; border: 1px solid #d1d5db; vertical-align: top;">
-        <strong>CE_EMP 1.</strong> Detectar oportunitats d'innovació i idear propostes de valor singulars a partir de referents emocionals, culturals i d'entorn, creant una identitat de marca distintiva.
+        <strong>CE_EMP 1.</strong> Detectar necessitats i oportunitats d'innovació, ideant propostes de valor singulars i desenvolupant una identitat de marca distintiva a partir de referents emocionals, culturals i d'entorn.
       </td>
       <td style="padding: 0.6rem; border: 1px solid #d1d5db; vertical-align: top;">
-        <strong>1.1.</strong> Elaborar un Moodboard personal i transferir-ne els conceptes clau a una proposta de marca d'equip.<br/><br/>
-        <strong>1.2.</strong> Aplicar les 5 Regles d'Or del Naming i dissenyar una col·lecció coherent de joies.
+        <strong>1.1.</strong> Elaborar un Moodboard d'inspiració personal i consensuar els elements visuals i emocionals clau en la identitat de marca de l'equip.<br/><br/>
+        <strong>1.2.</strong> Aplicar les regles de Naming i dissenyar una col·lecció coherent d'arracades artesanals amb proposta de valor diferenciada.
       </td>
       <td style="padding: 0.6rem; border: 1px solid #d1d5db; vertical-align: top;">
-        <strong>Bloc 1: Generació d'idees i creativitat</strong><br/>
-        • Metodologia <em>Design Thinking</em> (Empatitzar, Definir, Idear).<br/>
-        • Mapes d'inspiració (Moodboard) i associació d'idees.<br/>
-        • Tècniques de creació de marca (Naming i narrativa).
-      </td>
-    </tr>
-    <tr>
-      <td style="padding: 0.6rem; border: 1px solid #d1d5db; vertical-align: top;">
-        <strong>CE_EMP 2.</strong> Gestionar els recursos materials i financers d'una cooperativa escolar, calculant costos de producció, preu de venda i punt d'equilibri per garantir la viabilitat econòmica.
-      </td>
-      <td style="padding: 0.6rem; border: 1px solid #d1d5db; vertical-align: top;">
-        <strong>2.1.</strong> Distingir entre costos fixos (eines/motlles) i costos variables (resina, fornitures).<br/><br/>
-        <strong>2.2.</strong> Interpretar el gràfic del simulador financer i consensuar el preu de venda en assemblea cooperativa.
-      </td>
-      <td style="padding: 0.6rem; border: 1px solid #d1d5db; vertical-align: top;">
-        <strong>Bloc 2: Economia social i gestió de recursos</strong><br/>
-        • Model d'emprenedoria cooperativa i assemblea.<br/>
-        • Estudi de costos de fabricació (artesanal vs. industrial).<br/>
-        • Simulació financera, marge de benefici i llindar de rendibilitat (<em>Break-even</em>).
+        <strong>Bloc 1: Ideació, creativitat i identitat de marca</strong><br/>
+        • Metodologia <em>Design Thinking</em> (empatitzar, definir, idear).<br/>
+        • Mapes d'inspiració visual (Moodboard) i associació d'idees.<br/>
+        • Naming, narrativa de marca i identitat visual.
       </td>
     </tr>
     <tr>
       <td style="padding: 0.6rem; border: 1px solid #d1d5db; vertical-align: top;">
-        <strong>CE_EMP 3.</strong> Treballar cooperativament en equips de 3 persones de manera assertiva i cohesionada, exercint càrrecs de responsabilitat maker i complint els acords establerts.
+        <strong>CE_EMP 2.</strong> Gestionar els recursos materials i financers d'un projecte cooperatiu, planificant costos de producció, calculant el punt d'equilibri i fixant democràticament el preu per garantir la viabilitat econòmica i social.
       </td>
       <td style="padding: 0.6rem; border: 1px solid #d1d5db; vertical-align: top;">
-        <strong>3.1.</strong> Complir les funcions assignades al càrrec maker (Seguretat, Ordre/Residus, Focus/Clima).<br/><br/>
-        <strong>3.2.</strong> Participar en les aturades de seguiment intermedi i realitzar una coavaluació constructiva dels companys/es.
+        <strong>2.1.</strong> Classificar i analitzar costos fixos d'aula i variables de fabricació (materials, fornitures, consumibles).<br/><br/>
+        <strong>2.2.</strong> Utilitzar simuladors financers per determinar el llindar de rendibilitat i consensuar democràticament el preu de venda en assemblea cooperativa.
       </td>
       <td style="padding: 0.6rem; border: 1px solid #d1d5db; vertical-align: top;">
-        <strong>Bloc 3: Treball en equip i lideratge</strong><br/>
-        • Rols i càrrecs de responsabilitat maker.<br/>
-        • Contracte d'equip, pacte d'acords i gestió de conflictes.<br/>
-        • Avaluació entre iguals (Coavaluació) i autoregulació.
+        <strong>Bloc 2: Economia social, viabilitat i costos</strong><br/>
+        • Model cooperatiu i gestió democràtica d'assemblea.<br/>
+        • Anàlisi de costos (fixos, variables i mà d'obra).<br/>
+        • Simulació financera, punt d'equilibri i viabilitat econòmica.
       </td>
     </tr>
     <tr>
       <td style="padding: 0.6rem; border: 1px solid #d1d5db; vertical-align: top;">
-        <strong>CE_EMP 4.</strong> Comunicar eficaçment la proposta de valor del producte mitjançant el disseny del packaging, la targeta d'storytelling i la presentació pública de la marca.
+        <strong>CE_EMP 3.</strong> Cooperar de manera assertiva en equips de treball exercint rols de responsabilitat compartida, i comunicar eficaçment la proposta de valor del producte mitjançant el packaging i el relat de marca (storytelling).
       </td>
       <td style="padding: 0.6rem; border: 1px solid #d1d5db; vertical-align: top;">
-        <strong>4.1.</strong> Redactar el relat de la marca (Story Card) connectant les emocions de l'equip amb el producte.<br/><br/>
-        <strong>4.2.</strong> Presentar el Producte Mínim Viable i la col·lecció davant la comunitat educativa.
+        <strong>3.1.</strong> Complir activament els acords d'equip i les funcions del càrrec maker assignat, participant en aturades de reflexió i coavaluació constructiva.<br/><br/>
+        <strong>3.2.</strong> Dissenyar l'embalatge (packaging) i redactar la targeta d'història (Story Card) per transmetre els valors i la singularitat de la col·lecció al client.
       </td>
       <td style="padding: 0.6rem; border: 1px solid #d1d5db; vertical-align: top;">
-        <strong>Bloc 4: Prototipatge, packaging i pitch</strong><br/>
-        • Validació del Producte Mínim Viable (PMV).<br/>
-        • Narrativa de marca (<em>Storytelling</em>) i valor afegit.<br/>
-        • Disseny d'embalatge (Packaging) i comunicació comercial.
+        <strong>Bloc 3: Treball cooperatiu, storytelling i packaging</strong><br/>
+        • Càrrecs de responsabilitat maker i acords de convivència.<br/>
+        • Avaluació d'equip i autoregulació col·laborativa.<br/>
+        • Disseny de packaging, narrativa emocional (Story Card) i presentació de producte.
       </td>
     </tr>
   </tbody>
@@ -205,185 +169,258 @@ En el marc del Decret 175/2022, les optatives de centre no disposen d'un codi cu
 
 ---
 
-## 🌟 4. COMPETÈNCIES CLAU I DESCRIPTORS DE SORTIDA
+## ⏱️ 4. TEMPORITZACIÓ DIDÀCTICA: CRONOGRAMA DE 33 HORES
 
-El projecte avalua i mobilitza directament els descriptors del **Perfil Competencial de Sortida de l'ESO**:
+Aquesta distribució planifica el projecte en **33 sessions lectives d'1 hora**, detallant els continguts, les eines utilitzades i les activitats corresponents a la web i a la Carpeta d'aprenentatge:
 
-| Competència Clau | Descriptors Operatius Mobilitzats | Evidències d'Avaluació a Artífex |
-| :--- | :--- | :--- |
-| **CE (Competència Emprenedora)** | `CE1`, `CE2`, `CE3` | Creació de la marca, assemblea de cooperativa, càlcul financer i storytelling. |
-| **STEM (Ciència, Tecnologia, Enginyeria)** | `STEM2`, `STEM3` | Modelat 3D a Tinkercad, impressió 3D, càlcul de volums i reaccions químiques de polimerització. |
-| **CD (Competència Digital)** | `CD2`, `CD3`, `CD5` | Programació amb Codeblocks, vectorització 2D, ús de Tinkercad Classroom i simulador web. |
-| **CPSAA (Personal, Social i Aprendre a Aprendre)** | `CPSAA1`, `CPSAA3`, `CPSAA5` | Portada, diari de la carpeta d'aprenentatge, gestió de la frustració, autoavaluació i coavaluació. |
-| **CCL (Comunicació Lingüística)** | `CCL1`, `CCL2` | Redacció de l'Story Card, memòria de fabricació al taller i anàlisi crítica de conceptes. |
-| **CCEC (Consciència i Expressió Culturals)** | `CCEC2`, `CCEC3` | Creació del Moodboard, disseny estètic de la col·lecció de joieria i anàlisi de referents d'art. |
-
----
-
-## ⏱️ 5. TEMPORITZACIÓ DIDÀCTICA: CRONOGRAMA DE 30 HORES
-
-Aquesta distribució planifica el projecte en **30 sessions lectives d'1 hora**, detallant els continguts, les eines utilitzades i les activitats corresponents a la web i a la Carpeta d'aprenentatge:
-
-```mermaid
-gantt
-    title Cronograma del Projecte Artífex (30 Hores)
-    dateFormat  X
-    axisFormat H%X
-    
-    section Bloc Inicial i Ideació
-    Presentació i Equips (H1-H2)          :active, 1, 2
-    Fase 1: La Guspira i Moodboard (H3-H4) : 3, 4
-    
-    section Identitat Visual i Marca
-    Fase 2: Naming i Logotips (H5-H8)     : 5, 8
-    Fase 2: Col·lecció d'Arracades (H9-H10): 9, 10
-    
-    section Disseny Tècnic 2D/3D
-    Fase 3: CAD 2D i Tinkercad (H11-H13)  : 11, 13
-    Fase 3: Codeblocks 3D (H14-H15)       : 14, 15
-    Aturada Seguiment d'Equip (H16)       : 16, 16
-    
-    section Producció al Taller Maker
-    Fase 4: Impressió 3D i Encofrat (H17-H19): 17, 19
-    Fase 4: Motlles Silicona (H20-H21)    : 20, 21
-    Fase 4: Buidatge Resina Epoxi (H22-H23): 22, 23
-    Fase 4: Polit i Muntatge (H24-H25)    : 24, 25
-    
-    section Economia, Storytelling i Tancament
-    Fase 5: Costos i Simulador (H26-H27)  : 26, 27
-    Fase 6: Storytelling i Packaging (H28): 28, 28
-    Bloc 11: Autoavaluació i Tancament (H29-H30): 29, 30
-```
+<div class="custom-card" style="margin: 1.5rem 0; padding: 1.25rem; background: #ffffff; border: 1px solid #e2e8f0; border-radius: 12px; box-shadow: 0 4px 6px -1px rgba(0,0,0,0.05);">
+  <h4 style="margin-top: 0; color: #9d174d; font-size: 1.05rem; margin-bottom: 1rem;">
+    📅 Distribució de les 33 Hores en 11 Blocs de Treball
+  </h4>
+  <div style="overflow-x: auto;">
+    <table style="width: 100%; border-collapse: collapse; font-size: 0.88rem; line-height: 1.4;">
+      <thead>
+        <tr style="background: #f8fafc; color: #1e293b; border-bottom: 2px solid #9d174d;">
+          <th style="padding: 0.6rem; text-align: left; border: 1px solid #d1d5db; width: 24%;">Bloc de Treball</th>
+          <th style="padding: 0.6rem; text-align: center; border: 1px solid #d1d5db; width: 14%;">Hores</th>
+          <th style="padding: 0.6rem; text-align: left; border: 1px solid #d1d5db;">Objectiu i Activitats Clau</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td style="padding: 0.55rem; border: 1px solid #d1d5db; font-weight: 600; color: #0369a1;">1. Introducció i Equip</td>
+          <td style="padding: 0.55rem; border: 1px solid #d1d5db; text-align: center; font-weight: bold;">H1 - H3 <br/><span style="font-size: 0.75rem; color: #64748b;">(3 h)</span></td>
+          <td style="padding: 0.55rem; border: 1px solid #d1d5db;">Presentació del projecte, expectatives i habilitats, creació d'equips, pacte d'acords i càrrecs maker.</td>
+        </tr>
+        <tr>
+          <td style="padding: 0.55rem; border: 1px solid #d1d5db; font-weight: 600; color: #0284c7;">2. Com creem la nostra marca?</td>
+          <td style="padding: 0.55rem; border: 1px solid #d1d5db; text-align: center; font-weight: bold;">H4 - H5 <br/><span style="font-size: 0.75rem; color: #64748b;">(2 h)</span></td>
+          <td style="padding: 0.55rem; border: 1px solid #d1d5db;">Diagrama de flux del procés de marca (6 fases), cas Nike, cas Ecoalf i emprenedoria d'impacte social.</td>
+        </tr>
+        <tr>
+          <td style="padding: 0.55rem; border: 1px solid #d1d5db; font-weight: 600; color: #7F1146;">3. Mucha Joya</td>
+          <td style="padding: 0.55rem; border: 1px solid #d1d5db; text-align: center; font-weight: bold;">H6 - H7 <br/><span style="font-size: 0.75rem; color: #64748b;">(2 h)</span></td>
+          <td style="padding: 0.55rem; border: 1px solid #d1d5db;">Xerrada d'experta emprenedora (Isa), anàlisi de model de negoci i tasques de reflexió (3.1 a 3.4).</td>
+        </tr>
+        <tr>
+          <td style="padding: 0.55rem; border: 1px solid #d1d5db; font-weight: 600; color: #9d174d;">4. La Cooperativa Artífex</td>
+          <td style="padding: 0.55rem; border: 1px solid #d1d5db; text-align: center; font-weight: bold;">H8 - H9 <br/><span style="font-size: 0.75rem; color: #64748b;">(2 h)</span></td>
+          <td style="padding: 0.55rem; border: 1px solid #d1d5db;">El debat dels diners, gestió democràtica, model cooperatiu i estudi de cas d'èxit de La Fageda.</td>
+        </tr>
+        <tr>
+          <td style="padding: 0.55rem; border: 1px solid #d1d5db; font-weight: 600; color: #0284c7;">5. FASE 1: La Guspira i Moodboard</td>
+          <td style="padding: 0.55rem; border: 1px solid #d1d5db; text-align: center; font-weight: bold;">H10 - H12 <br/><span style="font-size: 0.75rem; color: #64748b;">(3 h)</span></td>
+          <td style="padding: 0.55rem; border: 1px solid #d1d5db;">La Guspira personal (1 h) i creació del Moodboard digital a Google Classroom (2 h).</td>
+        </tr>
+        <tr>
+          <td style="padding: 0.55rem; border: 1px solid #d1d5db; font-weight: 600; color: #be185d;">6. FASE 2: Identitat de Marca</td>
+          <td style="padding: 0.55rem; border: 1px solid #d1d5db; text-align: center; font-weight: bold;">H13 - H16 <br/><span style="font-size: 0.75rem; color: #64748b;">(4 h)</span></td>
+          <td style="padding: 0.55rem; border: 1px solid #d1d5db;">Jurat de disseny, Naming, anàlisi crítica de logos, esbós del logotip oficial i col·lecció d'arracades.</td>
+        </tr>
+        <tr>
+          <td style="padding: 0.55rem; border: 1px solid #d1d5db; font-weight: 600; color: #059669;">7. FASE 3: Disseny Tècnic CAD</td>
+          <td style="padding: 0.55rem; border: 1px solid #d1d5db; text-align: center; font-weight: bold;">H17 - H22 <br/><span style="font-size: 0.75rem; color: #64748b;">(6 h)</span></td>
+          <td style="padding: 0.55rem; border: 1px solid #d1d5db;">Vectorització 2D del logotip, modelat paramètric 3D amb Codeblocks, exportació STL i aturada de seguiment.</td>
+        </tr>
+        <tr>
+          <td style="padding: 0.55rem; border: 1px solid #d1d5db; font-weight: 600; color: #d97706;">8. FASE 4: Producció Maker a Taller</td>
+          <td style="padding: 0.55rem; border: 1px solid #d1d5db; text-align: center; font-weight: bold;">H23 - H28 <br/><span style="font-size: 0.75rem; color: #64748b;">(6 h)</span></td>
+          <td style="padding: 0.55rem; border: 1px solid #d1d5db;">Encofrat de fusta, motlles de silicona líquida, buidatge de resina epoxi, polit, muntatge i memòria/anàlisi de producció (Act. 8.1 i 8.2).</td>
+        </tr>
+        <tr>
+          <td style="padding: 0.55rem; border: 1px solid #d1d5db; font-weight: 600; color: #7c3aed;">9. FASE 5: Economia i Assemblea</td>
+          <td style="padding: 0.55rem; border: 1px solid #d1d5db; text-align: center; font-weight: bold;">H29 - H30 <br/><span style="font-size: 0.75rem; color: #64748b;">(2 h)</span></td>
+          <td style="padding: 0.55rem; border: 1px solid #d1d5db;">Costos, simulador financer, càlcul del punt d'equilibri i assemblea cooperativa per al preu.</td>
+        </tr>
+        <tr>
+          <td style="padding: 0.55rem; border: 1px solid #d1d5db; font-weight: 600; color: #e11d48;">10. FASE 6: Storytelling i Packaging</td>
+          <td style="padding: 0.55rem; border: 1px solid #d1d5db; text-align: center; font-weight: bold;">H31 <br/><span style="font-size: 0.75rem; color: #64748b;">(1 h)</span></td>
+          <td style="padding: 0.55rem; border: 1px solid #d1d5db;">Redacció conjunta de la targeta d'història (Story Card) i muntatge del packaging de l'equip.</td>
+        </tr>
+        <tr>
+          <td style="padding: 0.55rem; border: 1px solid #d1d5db; font-weight: 600; color: #dc2626;">11. Tancament i Avaluació</td>
+          <td style="padding: 0.55rem; border: 1px solid #d1d5db; text-align: center; font-weight: bold;">H32 - H33 <br/><span style="font-size: 0.75rem; color: #64748b;">(2 h)</span></td>
+          <td style="padding: 0.55rem; border: 1px solid #d1d5db;">Autoavaluació amb rúbrica, coavaluació d'equip, valoració socioemocional, lliurament de carpetes i exposició.</td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+</div>
 
 ---
 
 ### 📝 Seqüenciació Detallada Sessió a Sessió:
 
-#### 🔹 BLOC 1: Introducció, Constitució de l'Equip i Ideació (Hores 1 a 4)
-* **Hora 1: Presentació del Repte i Motivacions**
-  * Presentació interactiva del projecte Artífex, el repte de la joieria i la cooperativa escolar.
-  * Exploració de la web del projecte.
-  * **Carpeta:** Portada, Rúbrica d'avaluació i *Activitat 1.1 (Presentació i Expectatives)*.
-* **Hora 2: Habilitats Socioemocionals i Constitució d'Equips de 3**
-  * Autoavaluació inicial de creativitat, cura del detall i gestió de l'error.
-  * Activació de coneixements previs sobre joieria i empreses.
-  * Creació dels equips de 3 alumnes i signatura del pacte d'equip.
-  * **Carpeta:** *Activitats 1.2, 1.3 i 1.4 (Peticions, Aportacions, Acords i Assignació dels 3 Càrrecs Maker)*.
-* **Hora 3: FASE 1 — La Guspira: Exploració de la Identitat Personal**
+#### 🔹 BLOC 1: Introducció i Constitució de l'Equip Cooperatiu (Hores 1 a 3)
+* **Hora 1: Presentació del Projecte i el Repte**
+  * Presentació interactiva del projecte Artífex, el repte de la joieria artesanal i la cooperativa escolar.
+  * Exploració guiada de la plataforma web del projecte.
+  * Familiarització amb la Carpeta d'aprenentatge, la portada i la rúbrica oficial d'avaluació.
+* **Hora 2: Motivacions, Habilitats i Coneixements Previs**
+  * **Activitat 1.1:** Presentació personal i reflexió individual sobre expectatives i motivacions envers el projecte.
+  * **Activitat 1.2:** Avaluació inicial de les habilitats socioemocionals (creativitat, cura del detall i tolerància a la frustració/error).
+  * **Activitat 1.3:** Activació de coneixements previs sobre marques, disseny, petites vendes, taller maker i manualitats.
+  * **Carpeta:** *Activitats 1.1, 1.2 i 1.3*.
+* **Hora 3: Creació de Grups, Acords i Càrrecs de Responsabilitat**
+  * Constitució oficial dels equips cooperatius de 3 alumnes.
+  * Deliberació individual i posada en comú de peticions i aportacions personals per al bon clima d'equip.
+  * Redacció i consens dels 3 acords fonamentals de funcionament.
+  * **Activitat 1.4:** Assignació formal dels 3 càrrecs maker de responsabilitat (*Seguretat*, *Ordre/Eines/Residus* i *Focus/Temps/Clima*).
+  * **Carpeta:** *Activitat 1.4 (Peticions, Aportacions, Acords i Assignació de Càrrecs)*.
+
+---
+
+#### 🔹 BLOC 2: Com creem la nostra marca? (Hores 4 i 5)
+* **Hora 4: El Procés de Creació d'una Marca i el Cas Nike**
+  * Presentació i anàlisi del diagrama de flux complet de creació d'una marca (les 6 fases des de la idea inicial fins al lliurament al client).
+  * **Activitat 2.1:** Diagrama de Flux Visual del Procés de Creació d'una Marca (reconeixement de fases i connexions).
+  * **Activitat 2.2:** El recorregut d'una marca des de la idea fins a la venda: Estudi del cas Nike (innovació amb la sola wafflera, segmentació de mercat i producció industrial).
+  * **Carpeta:** *Activitats 2.1 i 2.2*.
+* **Hora 5: Emprenedoria amb Impacte Social i Sostenibilitat (Cas Ecoalf)**
+  * Concepte d'economia circular, sostenibilitat ambiental i compromís ètic en la moda i els complements.
+  * **Activitat 2.3:** L'odissea de crear una marca amb impacte social: Estudi del cas Ecoalf (transformació de residus marins en productes d'alt valor afegit).
+  * **Activitat 2.4:** Reflexió de tancament del Bloc 2: Com creem la nostra marca? (contrast entre el model convencional i el model conscient).
+  * **Carpeta:** *Activitats 2.3 i 2.4*.
+
+---
+
+#### 🔹 BLOC 3: Mucha Joya — Xerrada d'Experta Emprenedora (Hores 6 i 7)
+* **Hora 6: Presentació i Xerrada de l'Experta (Isa - Mucha Joya)**
+  * Visualització i seguiment de la xerrada de l'Isa, fundadora de la marca de joieria artesanal *Mucha Joya*.
+  * Anàlisi de la seva experiència real emprenedora: com transformar una passió en un projecte viable, definició de la identitat de marca, relació amb el públic i cura en la presentació.
+* **Hora 7: Realització de les Tasques de Reflexió i Aprenentatge**
+  * Resolució individual i deliberació en equip de les preguntes clau sobre el procés emprenedor:
+  * **Activitat 3.1:** Què no sabies? (Desmuntant mites sobre l'ofici d'emprenedor/a).
+  * **Activitat 3.2:** Què t'ha sorprès? (Curiositats tècniques, atenció al detall i packaging).
+  * **Activitat 3.3:** Què has après? (La importància de l'storytelling i la personalitat de marca).
+  * **Activitat 3.4:** Amb què et quedes? (Consell d'experta aplicable directament a la creació de les nostres arracades).
+  * **Carpeta:** *Activitats 3.1, 3.2, 3.3 i 3.4*.
+
+---
+
+#### 🔹 BLOC 4: La Cooperativa Artífex (Hores 8 i 9)
+* **Hora 8: El Debat dels Diners i la Gestió Democràtica**
+  * Dilema ètic i assembleari: què fem amb els ingressos obtinguts de la venda de les joies? Repartir beneficis individuals o reinvertir en un projecte comunitari/social?
+  * Principis del cooperativisme: una persona un vot, transparència, decisió col·lectiva i compromís social.
+  * **Activitat 4.1:** El Debat dels Diners i la Gestió Democràtica (deliberació i votació en assemblea).
+  * **Carpeta:** *Activitat 4.1*.
+* **Hora 9: Model Cooperatiu d'Impacte — El Cas La Fageda**
+  * Estudi de cas d'èxit cooperatiu: com La Fageda competeix amb multinacionals líders prioritzant les persones amb diversitat funcional i la màxima qualitat de producte.
+  * **Activitat 4.2:** La Fageda: Com competir contra gegants? (anàlisi del model de negoci i valor social).
+  * **Activitat 4.3:** Reflexió de tancament del Bloc 4: La Cooperativa Artífex (identitat cooperativa del nostre grup).
+  * **Carpeta:** *Activitats 4.2 i 4.3*.
+
+---
+
+#### 🔹 BLOC 5: FASE 1 — La Guspira i Moodboard (Hores 10 a 12)
+* **Hora 10: FASE 1 — La Guspira: Exploració de la Identitat Personal**
   * Navegació per la pàgina *FASE 1: La Guspira*. Reflexió sobre records, emocions, referents culturals i passions.
   * Pluja d'idees individual de conceptes, formes i textures.
-  * **Carpeta:** *Activitat 2.1 (La Guspira Personal)*.
-* **Hora 4: FASE 1 — Elaboració del Moodboard Individual**
-  * Recerca d'imatges, tipografies i textures per crear el taulell d'inspiració visual.
-  * Composició del Moodboard personal i síntesi dels 5 conceptes clau.
-  * **Carpeta:** *Activitats 3.1 i 4.1 (Composició del Moodboard i Síntesi de Conceptes)*.
+  * **Carpeta:** *Activitat 5.1 (Trobar el meu "Motiu" - Individual)*.
+* **Hora 11: FASE 1 — Creació del Moodboard Digital a Classroom (Part 1: Recerca i Selecció)**
+  * Accés a Google Classroom i obertura de la plantilla de treball a Dibuixos de Google.
+  * Recerca guiada d'imatges d'alta resolució, patrons visuals, textures i referents estètics connectats amb la guspira personal.
+  * Primer plantejament de composició visual i selecció tipogràfica.
+* **Hora 12: FASE 1 — Creació del Moodboard Digital a Classroom (Part 2: Maquetació, Síntesi i Lliurament)**
+  * Maquetació definitiva del taulell d'inspiració, ajust de contrastos i definició de la paleta oficial de colors.
+  * Síntesi dels 5 conceptes clau que guiaran el disseny de la marca.
+  * Lliurament formal del fitxer digital a Google Classroom.
+  * **Carpeta / Classroom:** *Activitat 5.2 (Creació del Moodboard Digital a Google Classroom)*.
 
 ---
 
-#### 🔹 BLOC 2: Identitat de Marca i Disseny Gràfic (Hores 5 a 10)
-* **Hora 5: FASE 2 — Principis de Disseny Visual i Jurat de Disseny**
+#### 🔹 BLOC 6: FASE 2 — Identitat de Marca i Disseny Gràfic (Hores 13 a 16)
+* **Hora 13: FASE 2 — Principis de Disseny Visual i Jurat de Disseny**
   * Treball dels criteris de contrast, llegibilitat, psicologia del color i tipografia.
-  * Realització del test competencial del jurat de disseny.
-  * **Carpeta:** *Activitat 6.1 (Qüestionari Jurat de Disseny)*.
-* **Hora 6: FASE 2 — Naming: Les 5 Regles d'Or i Deliberació d'Equip**
-  * Anàlisi de marques de referència a l'Atles de Naming.
-  * Posada en comú de les 3 guspires dels membres de l'equip.
-  * Pluja d'idees i elecció consensuada del nom comercial de la marca.
-  * **Carpeta:** *Activitats 6.2 i 6.3 (Anàlisi de Noms i Elecció del Naming de l'Equip)*.
-* **Hora 7: FASE 2 — Anàlisi Crítica de Logotips Mal Dissenyats**
-  * Estudi dels casos reals d'errors gràfics (Ejido i Reykjavík Art Museum).
-  * Aplicació de la Prova de les Tisores i Prova del Blanc i Negre (1 color).
-  * **Carpeta:** *Activitat 6.4 (Anàlisi Crítica de Logotips Reals)*.
-* **Hora 8: FASE 2 — Esbós del Logotip Oficial de l'Equip**
-  * Pluja d'idees i esbossos a mà alçada de símbols per a la marca.
-  * Deliberació i dibuix de l'esbós definitiu del logotip comú de l'equip apte per a tall de vinil/làser.
-  * **Carpeta:** *Activitat 6.5 (Desenvolupament i Esbós del Logotip d'Equip)*.
-* **Hora 9: FASE 2 — Disseny de la Col·lecció d'Arracades (Part 1)**
-  * Definició de la font d'inspiració (natura, geometria, art) i de la coherència estètica de la línia.
-  * Repartiment dels 3 models de la col·lecció (1 model per a cada alumne/a de l'equip).
-  * **Carpeta:** *Activitat 6.6 (Esbossos de la Col·lecció d'Arracades)*.
-* **Hora 10: FASE 2 — Disseny de la Col·lecció d'Arracades (Part 2) i Paleta de Colors**
-  * Concreció dels 3 esbossos finals amb mides i justificació de la connexió amb la marca.
-  * Definició de la paleta oficial de colors de resina i pigments.
-  * **Carpeta:** Finalització de l'*Activitat 6.6*.
+  * **Carpeta:** *Activitat 6.1 (Qüestionari d'Anàlisi Crítica: Jurat de Disseny - 8 preguntes)*.
+* **Hora 14: FASE 2 — Atles de Naming i Elecció del Nom d'Equip**
+  * Anàlisi de marques a l'Atles de Naming i aplicació de les 5 Regles d'Or.
+  * Deliberació i consens del nom de la marca d'equip combinant les guspires individuals.
+  * **Carpeta:** *Activitats 6.2 (Anàlisi de 2 Noms de l'Atles) i 6.3 (Naming de la Marca d'Equip)*.
+* **Hora 15: FASE 2 — Anàlisi Crítica de Logos i Esbós del Logotip Oficial de l'Equip**
+  * Estudi dels casos reals d'errors gràfics (Ejido i Reykjavík Art Museum) i aplicació de la Prova de les Tisores i Prova del Blanc i Negre (1 color).
+  * Pluja d'idees, deliberació en equip i dibuix de l'esbós definitiu del logotip comú de l'equip apte per a tall de vinil/làser.
+  * **Carpeta:** *Activitat 6.4 (Anàlisi Crítica de Logotips Reals)* i *Activitat 6.5 (Desenvolupament i Esbós del Logotip d'Equip)*.
+* **Hora 16: FASE 2 — Disseny de la Col·lecció d'Arracades de l'Equip**
+  * Definició de la línia estètica comuna i paleta oficial de colors (pigments i resina).
+  * Repartiment dels 3 models de la col·lecció (1 model individual per a cada membre de l'equip).
+  * Dibuix d'esbossos amb cotes i justificació del concepte.
+  * **Carpeta:** *Activitat 6.6 (Pluja d'Idees i Disseny de la Col·lecció d'Arracades d'Equip)*.
 
 ---
 
-#### 🔹 BLOC 3: Disseny Tècnic CAD 2D i 3D Paramètric (Hores 11 a 16)
-* **Hora 11: FASE 3 — Domini d'Eines 2D a Tinkercad (Tasca 1: Logo Munay)**
+#### 🔹 BLOC 7: FASE 3 — Disseny Tècnic CAD 2D i 3D Paramètric (Hores 17 a 22)
+* **Hora 17: FASE 3 — Domini d'Eines 2D a Tinkercad (Tasca 1: Logo Munay)**
   * Connexió a Tinkercad Classroom.
   * Pràctica guiada: reproducció pas a pas del logotip Munay seguint el videotutorial de la web.
-  * **Carpeta / Tinkercad:** Lliurament de la *Tasca 1 de Disseny Tècnic*.
-* **Hora 12: FASE 3 — Vectorització del Logotip Oficial d'Equip (Tasca 2: Logo 2D)**
+  * **Carpeta / Tinkercad:** Lliurament de la *Tasca 1 (Activitat 7.1)*.
+* **Hora 18: FASE 3 — Vectorització del Logotip Oficial d'Equip (Tasca 2: Logo 2D)**
   * Modelat digital 2D del logotip oficial consensuat de l'equip a Tinkercad.
   * Verificació de dimensions (màx. 10 × 10 cm), unió de traços i exportació .SVG per a vinil/làser.
-  * **Carpeta / Tinkercad:** Lliurament de la *Tasca 2 de Disseny Tècnic*.
-* **Hora 13: FASE 3 — Introducció a Tinkercad Codeblocks (Programació 3D)**
+  * **Carpeta / Tinkercad:** Lliurament de la *Tasca 2 (Activitat 7.1)*.
+* **Hora 19: FASE 3 — Introducció a Tinkercad Codeblocks (Programació 3D)**
   * Fonaments de la geometria computacional: variables, bucles, rotacions i operacions booleanes.
   * Primers exercicis de modelat paramètric amb blocs visuals.
-* **Hora 14: FASE 3 — Programació 3D de l'Arracada de l'Equip (Tasca 3: Codeblocks)**
-  * Cada membre programa la seva arracada assignada de la col·lecció utilitzant Codeblocks.
+* **Hora 20: FASE 3 — Programació 3D de l'Arracada de l'Equip amb Codeblocks (Part 1: Estructura i Paràmetres)**
+  * Cada membre programa la seva arracada assignada de la col·lecció utilitzant Tinkercad Codeblocks.
+  * Definició de variables clau (radi, amplada, alçada, repeticions) i generació de la geometria base.
+* **Hora 21: FASE 3 — Programació 3D de l'Arracada de l'Equip amb Codeblocks (Part 2: Detalls, Forat i Exportació STL)**
+  * Incorporació de bucles, transformacions i operacions booleanes de buidatge.
   * Ajust de gruixos (2-3 mm) i creació de l'orifici de subjecció per a l'anella (diàmetre 1,5-2 mm).
-* **Hora 15: FASE 3 — Exportació STL i Preparació per a Impressió 3D**
-  * Validació tècnica de les 3 arracades de l'equip (mida màx. 4 × 4 cm).
-  * Exportació dels fitxers `.STL` i configuració de paràmetres al programari laminador (Slicer).
-  * **Carpeta / Tinkercad:** Lliurament de la *Tasca 3 de Disseny Tècnic*.
-* **Hora 16: SEGUIMENT INTERMEDI — Aturada de Reflexió d'Equip (Abans d'entrar al Taller)**
+  * Validació tècnica de les 3 arracades de l'equip (mida màx. 4 × 4 cm) i exportació dels fitxers `.STL` per a impressió 3D.
+  * **Carpeta / Tinkercad:** Lliurament definitiu de la *Tasca 3 (Activitat 7.1)*.
+* **Hora 22: SEGUIMENT INTERMEDI — Aturada de Reflexió d'Equip (Abans d'entrar al Taller)**
   * Revisió de l'estat de la carpeta abans d'iniciar la fabricació.
   * Avaluació del compliment dels acords i dels 3 càrrecs maker. Dinàmica *Dues estrelles i un desig*.
   * **Carpeta:** *Secció de Seguiment i Revisió d'Equip (Taules A, B, C i D)*.
 
 ---
 
-#### 🔹 BLOC 4: Producció i Fabricació al Taller Maker (Hores 17 a 25)
-* **Hora 17: FASE 4 — Normativa de Seguretat i Impressió 3D dels Màsters (Pas 1)**
-  * Protocol de seguretat a l'aula maker i organització dels rols (Seguretat, Ordre, Focus).
-  * Llançament de la impressió 3D de les peces màster a les impressores FDM.
-  * **Carpeta:** *Activitat 8.1 (Pas 1: Obtenció del Màster)*.
-* **Hora 18: FASE 4 — Postprocessat del Màster i Construcció de l'Encofrat (Pas 2)**
-  * Retirada de suports, polit suau de les línies d'impressió 3D del màster.
-  * Tall de bases de fusta/cartó ploma i construcció de les parets de l'encofrat.
-* **Hora 19: FASE 4 — Segellat i Fixació de l'Encofrat (Pas 2)**
-  * Fixació de les peces màster amb cinta de doble cara/adhesiu a la base per evitar que surin.
-  * Segellat de cantonades amb silicona calenta o plastilina per garantir l'estanqueïtat.
-  * **Carpeta:** *Activitat 8.1 (Pas 2: Construcció de l'Encofrat)*.
-* **Hora 20: FASE 4 — Preparació i Mescla de Silicona Líquida (Pas 3)**
-  * Pesatge de precisió de la silicona i dosificació del catalitzador (segons instruccions del fabricant).
+#### 🔹 BLOC 8: FASE 4 — Producció i Fabricació al Taller Maker (Hores 23 a 28)
+* **Hora 23: FASE 4 — Construcció de l'Encofrat (Pas 2)**
+  * Normativa de seguretat a l'aula maker i organització dels rols (Seguretat, Ordre, Focus).
+  * Postprocessat del màster (retirada de suports i polit suau de les línies d'impressió).
+  * Construcció de la caixa d'encofrat (bases i parets de fusta/cartó ploma).
+  * Fixació de les peces màster al fons i segellat de cantonades per garantir l'estanqueïtat.
+* **Hora 24: FASE 4 — Elaboració dels Motlles de Silicona Líquida (Pas 3)**
+  * Pesatge de precisió de la silicona d'emmotllament i dosificació del catalitzador.
   * Barrejat lent per minimitzar bombolles d'aire.
-* **Hora 21: FASE 4 — Abocament de la Silicona i Curat (Pas 3)**
-  * Abocament continu en fil fi des d'un extrem de l'encofrat.
-  * Emmagatzematge en lloc anivellat per a la polimerització (temps de curat: 12-24 h).
-  * **Carpeta:** *Activitat 8.1 (Pas 3: Elaboració del Motlle de Silicona)*.
-* **Hora 22: FASE 4 — Desmotllat de la Silicona i Preparació de la Resina Epoxi (Pas 4)**
-  * Desmuntatge de l'encofrat i extracció neta del màster de la silicona.
-  * Dosificació exacta de resina epoxi bicomponent (Components A + B en proporció 1:1 o 2:1).
-  * Afegit de pigments líquids, mica en pols o purpurines segons la paleta de la marca.
-* **Hora 23: FASE 4 — Buidatge de Resina i Curat de les Arracades (Pas 4)**
-  * Abocament de la resina acolorida dins dels motlles de silicona.
-  * Eliminació de bombolles superficials (pistola tèrmica/calor suau) i temps de polimerització (24-48 h).
-  * **Carpeta:** *Activitat 8.1 (Pas 4: Buidatge de Resina)*.
-* **Hora 24: FASE 4 — Desmotllat de Còpies, Polit i Foradat (Pas 5)**
-  * Extracció de les joies de resina curades.
-  * Neteja de rebaves i polit progressiu a l'aigua amb papers de vidre de gra fi (P400 a P2000).
-  * Perforació de l'orifici de subjecció amb trepant de precisió / Dremel (broca d'1,5 mm).
-  * **Carpeta:** *Activitat 8.1 (Pas 5: Postprocessament i Acabats)*.
-* **Hora 25: FASE 4 — Muntatge de Joieria i Anàlisi Competencial de Producció (Pas 6)**
-  * Muntatge dels elements metàl·lics: anelles d'unió i ganxos d'arracada amb alicates de joieria.
-  * Estudi del cas competencial de producció (Majoral Joiers vs. TOUS).
-  * **Carpeta:** *Activitat 8.1 (Pas 6: Muntatge Final)* i *Activitat 8.2 (Test i Reflexió Artesanal vs. Industrial)*.
+  * Abocament continu en fil prim des d'un extrem de l'encofrat sobre les peces màster.
+  * Dipòsit en superfície anivellada per al procés de curat químic (polimerització).
+* **Hora 25: FASE 4 — Preparació i Buidatge de Resina Epoxi (Pas 4)**
+  * Desmuntatge de l'encofrat i extracció neta del màster per obtenir el negatiu de silicona flexible.
+  * Dosificació exacta de resina epoxi bicomponent (Components A + B en proporció exacta).
+  * Pigmentació amb tints, càrregues, purpurina o pigments segons la paleta de la marca.
+  * Buidatge meticulós al motlle de silicona, eliminació de bombolles superficials i repòs per al curat.
+* **Hora 26: FASE 4 — Extracció de Peces de Resina i Polit (Pas 5)**
+  * Desmotllat acurat de les còpies de resina ja polimeritzades.
+  * Neteja de rebaves i sobrants de material.
+  * Polit progressiu a l'aigua amb papers de vidre de diferents grans (P400 a P2000) fins a obtenir un tacte suau i brillantor òptima.
+* **Hora 27: FASE 4 — Muntatge Final de Joieria (Pas 6)**
+  * Perforació de precisió de l'orifici de subjecció si escau (broca d'1,5 mm).
+  * Muntatge dels elements metàl·lics de joieria: obertura i tancament d'anelles d'unió i col·locació de ganxos amb alicates de punta rodona i plana.
+  * Control de qualitat final de cada arracada de la col·lecció de l'equip.
+* **Hora 28: FASE 4 — Realització de les Activitats 8.1 i 8.2 a la Carpeta d'Aprenentatge**
+  * Redacció detallada de la memòria tècnica dels 6 passos de fabricació al taller (materials, mesures de seguretat, dificultats i aprenentatges).
+  * Anàlisi del cas competencial real català (Majoral Joiers vs. TOUS): resolució de preguntes tipus test i reflexió crítica sobre el model híbrid de la Cooperativa Artífex.
+  * **Carpeta:** *Activitat 8.1 (Memòria dels 6 passos de fabricació)* i *Activitat 8.2 (Test i Reflexió Artesanal vs. Industrial)*.
 
 ---
 
-#### 🔹 BLOC 5: Estudi Econòmic, Storytelling i Packaging (Hores 26 a 28)
-* **Hora 26: FASE 5 — Estudi de Costos i Simulador Financer**
+#### 🔹 BLOC 9: FASE 5 — Estudi Econòmic i Assemblea de Cooperativa (Hores 29 i 30)
+* **Hora 29: FASE 5 — Estudi de Costos i Simulador Financer**
   * Classificació de costos fixos d'aula, costos de motlle i costos variables de material per lot.
   * Ús del simulador financer web interactiu per entendre el gràfic d'inversió i ingressos.
   * **Carpeta:** *Activitat 9.1 (Preguntes tipus test del simulador financer)*.
-* **Hora 27: FASE 5 — Càlcul del Punt d'Equilibri i Assemblea de Cooperativa**
+* **Hora 30: FASE 5 — Càlcul del Punt d'Equilibri i Assemblea de Cooperativa**
   * Resolució dels exercicis de reflexió: edició limitada i viabilitat sense subvenció.
   * Celebració de l'assemblea general de grup-classe per consensuar democràticament el preu de venda.
   * **Carpeta:** *Activitat 9.1 (Exercicis de reflexió financera)* i *Activitat 9.2 (Decisió Democràtica del Preu en Assemblea)*.
-* **Hora 28: FASE 6 — Storytelling de Marca i Disseny del Packaging**
+
+---
+
+#### 🔹 BLOC 10: FASE 6 — Storytelling i Packaging de Marca (Hora 31)
+* **Hora 31: FASE 6 — Redacció de l'Story Card i Packaging d'Equip**
   * Tècniques de màrqueting emocional i connexió amb el client.
   * Redacció conjunta de la targeta d'història de la marca (*Story Card*) per a la capsa del producte.
   * Muntatge del packaging de l'equip.
@@ -391,12 +428,12 @@ gantt
 
 ---
 
-#### 🔹 BLOC 6: Tancament, Autoavaluació, Coavaluació i Balanç Final (Hores 29 i 30)
-* **Hora 29: BLOC 11 — Autoavaluació Individual i Coavaluació d'Equip**
+#### 🔹 BLOC 11: Tancament, Autoavaluació, Coavaluació i Balanç Final (Hores 32 i 33)
+* **Hora 32: BLOC 11 — Autoavaluació Individual i Coavaluació d'Equip**
   * Autoavaluació de la Carpeta d'aprenentatge a partir de la rúbrica oficial (5 criteris) i nota estimada.
   * Coavaluació entre iguals: cada alumne avalua nominalment els altres 2 membres del seu equip (implicació, taller maker, compliment del càrrec i acords).
   * **Carpeta:** *Activitats 11.1 i 11.2 (Autoavaluació i Coavaluació)*.
-* **Hora 30: BLOC 11 — Valoració Final d'Equip i Tancament del Projecte**
+* **Hora 33: BLOC 11 — Valoració Final d'Equip i Tancament del Projecte**
   * Valoració final dels acords i càrrecs d'equip (*Taules A, B i Dues estrelles i un desig finals*).
   * Balanç global: *Expectatives vs. Realitat*, *Anàlisi Socioemocional* i *Avaluació del Projecte*.
   * Lliurament definitiu de la Carpeta d'aprenentatge i exposició dels productes finals.
@@ -404,18 +441,17 @@ gantt
 
 ---
 
-## 📈 6. EINES I CRITERIS D'AVALUACIÓ FORMATIVA
+## 📈 5. EINES I CRITERIS D'AVALUACIÓ FORMATIVA
 
 L'avaluació del projecte Artífex és **contínua, formativa i competencial**, combinant diferents instruments i agents avaluadors:
 
-```mermaid
-pie title Ponderació d'Avaluació del Projecte
-    "Carpeta d'Aprenentatge (Rúbrica)" : 40
-    "Disseny Tècnic CAD (Classroom)" : 20
-    "Treball Maker i Càrrecs de Taller" : 20
-    "Prova Escrita Final Competencial" : 10
-    "Autoavaluació i Coavaluació" : 10
-```
+| Instrument d'Avaluació | Ponderació | Àmbit / Evidència d'Aprenentatge |
+| :--- | :---: | :--- |
+| 📁 **Carpeta d'Aprenentatge Individual** | **40%** | Rúbrica oficial (5 criteris: completesa, qualitat, millora, constància i polidesa). |
+| 💻 **Tasques de Disseny Tècnic CAD** | **20%** | Tinkercad Classroom (Tasca 1: Logo Munay, Tasca 2: Logo 2D, Tasca 3: Arracada 3D Codeblocks). |
+| 🛠️ **Treball Maker i Càrrecs de Taller** | **20%** | Observació docent (seguretat, cura dels motlles, poliment i compliment del càrrec maker). |
+| 📝 **Prova Escrita Final Competencial** | **10%** | Resolució dels 4 exercicis de marca, dibuix tècnic, procés de taller i càlcul financer. |
+| 🤝 **Autoavaluació i Coavaluació** | **10%** | Reflexió honesta de l'aprenentatge individual i valoració cooperativa entre iguals d'equip. |
 
 1. **Carpeta d'Aprenentatge Individual (40%):** Avaluada mitjançant la rúbrica oficial de 4 nivells (*Completesa, Qualitat de respostes, Feedback/Millora, Constància i Cura/Polidesa*).
 2. **Tasques de Disseny Tècnic Digital a Tinkercad (20%):**
