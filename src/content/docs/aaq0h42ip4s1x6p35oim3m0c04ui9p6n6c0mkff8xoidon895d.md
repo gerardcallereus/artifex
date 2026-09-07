@@ -38,8 +38,6 @@ tableOfContents: false
   </div>
 </div>
 
-<div class="page-break"></div>
-
 <div class="rubric-page-landscape">
   <h2 style="text-align: center; margin-top: 0; margin-bottom: 0.3rem; font-size: 1.3rem; color: var(--sl-color-accent-high);">RÚBRICA D'AVALUACIÓ DE LA CARPETA D'APRENENTATGE</h2>
   <p style="text-align: center; font-size: 0.85rem; color: #555; margin-bottom: 0.8rem;">Com s'avalua la teva feina:</p>
@@ -240,6 +238,8 @@ Dibuixa un esquema senzill amb fletxes que connecti les 6 fases per crear una ma
    - [ ] B) Que guanyi molts diners sempre.
    - [ ] C) Que el taller treballi més ràpid.
 
+<div class="page-break"></div>
+
 ---
 
 ### Activitat 2.3: Cas d'estudi Ecoalf (Moda amb plàstic reciclat)
@@ -262,8 +262,6 @@ Dibuixa un esquema senzill amb fletxes que connecti les 6 fases per crear una ma
 | Confecció i màquines especials | 12,00 € | 22,00 € |
 | Publicitat i transport | 14,00 € | 14,00 € |
 | **COST TOTAL** | **30,00 €** | **56,50 €** |
-
-<div class="page-break"></div>
 
 #### Preguntes sobre Ecoalf:
 
@@ -442,6 +440,8 @@ Crea a Google Classroom el teu taulell d'imatges d'inspiració (Moodboard) aplic
    - [ ] A) Per comunicar un missatge clar; si no s'entén ni es llegeix, no serveix.
    - [ ] B) Per posar molts dibuixos junts.
    - [ ] C) Només per decorar.
+
+<div class="page-break"></div>
 
 ---
 
@@ -760,6 +760,8 @@ Com heu posat l'anella i el ganxo metàl·lic amb les alicates de joieria?
    - [ ] B) No afecta en res.
    - [ ] C) Les joies manuals es regalen.
 
+<div class="page-break"></div>
+
 #### Reflexió sobre la nostra feina a Artífex:
 Explica quines parts de la feina heu fet per ordinador (3D) i quines heu fet amb les mans (silicona, resina, polit) i què t'ha agradat més:
 
@@ -800,6 +802,8 @@ Explica quines parts de la feina heu fet per ordinador (3D) i quines heu fet amb
    - [ ] B) Que l'empresa ha fet fallida.
    - [ ] C) Que regalem les joies.
 
+<div class="page-break"></div>
+
 #### Preguntes de reflexió:
 
 1. **Línia de Despeses:** Per què és una línia plana? Què passaria si compréssim el doble de resina?
@@ -807,8 +811,6 @@ Explica quines parts de la feina heu fet per ordinador (3D) i quines heu fet amb
 
 2. **Línia d'Ingressos:** Si venem les arracades més cares, la línia verda pujarà més ràpid o més a poc a poc?
    <div class="response-box" style="min-height: 140px;"></div>
-
-<div class="page-break"></div>
 
 3. **Punt d'Equilibri:** Si venem menys arracades de les necessàries per arribar al punt on es creuen les línies, guanyem o perdem diners?
    <div class="response-box" style="min-height: 140px;"></div>
@@ -818,6 +820,8 @@ Explica quines parts de la feina heu fet per ordinador (3D) i quines heu fet amb
 
 5. **Si haguéssim de pagar les màquines (3.575 €):** Quantes arracades hauríem de vendre a 6 € per pagar les màquines? Seria fàcil o difícil?
    <div class="response-box" style="min-height: 170px;"></div>
+
+<div class="page-break"></div>
 
 ---
 
@@ -951,6 +955,8 @@ Avalua amb respecte i sinceritat la feina dels teus 2 companys/es:
   <div class="response-box" style="min-height: 48px;"></div>
 * 🎯 **Aspecte que pot millorar:**
   <div class="response-box" style="min-height: 48px;"></div>
+
+<div class="page-break"></div>
 
 ---
 
