@@ -1,23 +1,23 @@
 ---
 title: "Carpeta d'aprenentatge (Adaptada)"
-description: Carpeta d'aprenentatge imprimible en format A4 amb les activitats i exercicis del projecte Artífex.
+description: "Carpeta d'aprenentatge adaptada per a lectura fàcil amb tasques competencials breus, clares i visuals."
 template: splash
 tableOfContents: false
 ---
 
 <div class="cover-page-container">
   <div style="text-align: center; margin-bottom: 1.5rem;">
-    <h1 style="font-size: 3rem; font-weight: 800; color: var(--sl-color-accent-high); margin-bottom: 0.3rem; border-bottom: none; letter-spacing: 1px; text-align: center;">CARPETA D'APRENENTATGE</h1>
-    <p style="font-size: 1.6rem; font-weight: 700; color: var(--sl-color-text-accent); margin: 0.2rem 0; text-align: center;">PROJECTE ARTÍFEX</p>
-    <p style="font-size: 1.25rem; font-weight: 600; color: var(--sl-color-text); margin-top: 0.2rem; text-align: center;">PCT 2n d'ESO</p>
+    <h1 style="font-size: 2.8rem; font-weight: 800; color: var(--sl-color-accent-high); margin-bottom: 0.3rem; border-bottom: none; letter-spacing: 1px; text-align: center;">CARPETA D'APRENENTATGE</h1>
+    <p style="font-size: 1.5rem; font-weight: 700; color: var(--sl-color-text-accent); margin: 0.2rem 0; text-align: center;">PROJECTE ARTÍFEX (ADAPTADA)</p>
+    <p style="font-size: 1.2rem; font-weight: 600; color: var(--sl-color-text); margin-top: 0.2rem; text-align: center;">PCT 2n d'ESO</p>
   </div>
 
-<div style="text-align: center; margin: 1.5rem 0;">
-    <img src="/artifex/media/AnnaPuig.png" alt="Anna Puig treballant al seu estudi de Tàrrega" style="width: 85%; max-height: 380px; object-fit: cover; border-radius: 16px; box-shadow: 0 10px 30px rgba(0,0,0,0.18); margin: 0 auto; display: block;" />
-    <em style="display: block; font-size: 0.9rem; color: #666; margin-top: 0.5rem; text-align: center;">Anna Puig treballant al seu estudi de Tàrrega</em>
+  <div style="text-align: center; margin: 1.5rem 0;">
+    <img src="/artifex/media/AnnaPuig.png" alt="Anna Puig treballant al seu taller" style="width: 85%; max-height: 380px; object-fit: cover; border-radius: 16px; box-shadow: 0 10px 30px rgba(0,0,0,0.18); margin: 0 auto; display: block;" />
+    <em style="display: block; font-size: 0.9rem; color: #666; margin-top: 0.5rem; text-align: center;">Anna Puig treballant al seu taller de Tàrrega</em>
   </div>
 
-<div class="custom-card index-block" style="margin-top: 2rem; margin-bottom: 1.5rem; border-left: 6px solid var(--sl-color-accent-high); padding: 1.5rem; background: rgba(193, 40, 114, 0.03); border-radius: 12px; box-shadow: 0 4px 15px rgba(0,0,0,0.05);">
+  <div class="custom-card index-block" style="margin-top: 2rem; margin-bottom: 1.5rem; border-left: 6px solid var(--sl-color-accent-high); padding: 1.5rem; background: rgba(193, 40, 114, 0.03); border-radius: 12px; box-shadow: 0 4px 15px rgba(0,0,0,0.05);">
     <table style="width: 100%; border-collapse: collapse; margin: 0; background: transparent;">
       <tr style="height: 48px; background: transparent;">
         <td style="width: 32%; font-weight: 700; padding: 0.75rem 0.5rem; font-size: 1.15rem; color: var(--sl-color-accent-high); background: transparent; border: none;">Nom i Cognoms:</td>
@@ -38,136 +38,135 @@ tableOfContents: false
   </div>
 </div>
 
+<div class="page-break"></div>
 
 <div class="rubric-page-landscape">
-  <h2 style="text-align: center; margin-top: 0; margin-bottom: 0.3rem; font-size: 1.4rem; color: var(--sl-color-accent-high);">RÚBRICA D'AVALUACIÓ DE LA CARPETA D'APRENENTATGE</h2>
-  <p style="text-align: center; font-size: 0.82rem; color: #555; margin-bottom: 0.8rem;"></p>
+  <h2 style="text-align: center; margin-top: 0; margin-bottom: 0.3rem; font-size: 1.3rem; color: var(--sl-color-accent-high);">RÚBRICA D'AVALUACIÓ DE LA CARPETA D'APRENENTATGE</h2>
+  <p style="text-align: center; font-size: 0.85rem; color: #555; margin-bottom: 0.8rem;">Com s'avalua la teva feina:</p>
 
-<table class="rubric-table" style="width: 100%; border-collapse: collapse; font-size: 0.78rem; line-height: 1.35;">
+  <table class="rubric-table" style="width: 100%; border-collapse: collapse; font-size: 0.8rem; line-height: 1.35;">
     <thead>
-      <tr style="background: #f8fafc; color: #1e293b; font-size: 0.8rem; font-weight: 800; border-bottom: 2.5px solid #9d174d;">
-        <th style="width: 20%; padding: 0.5rem; text-align: left; color: #1e293b; font-weight: 800;">CRITERIS D'AVALUACIÓ</th>
-        <th style="width: 20%; padding: 0.5rem; text-align: left; color: #1e293b; font-weight: 800;">EXPERT (4 punts)</th>
-        <th style="width: 20%; padding: 0.5rem; text-align: left; color: #1e293b; font-weight: 800;">AVANÇAT (3 punts)</th>
-        <th style="width: 20%; padding: 0.5rem; text-align: left; color: #1e293b; font-weight: 800;">APRENENT (2 punts)</th>
-        <th style="width: 20%; padding: 0.5rem; text-align: left; color: #1e293b; font-weight: 800;">NOVELL (1 punt)</th>
+      <tr style="background: #f8fafc; color: #1e293b; font-size: 0.82rem; font-weight: 800; border-bottom: 2.5px solid #9d174d;">
+        <th style="width: 24%; padding: 0.5rem; text-align: left;">CRITERIS</th>
+        <th style="width: 19%; padding: 0.5rem; text-align: left;">EXPERT (4 pts)</th>
+        <th style="width: 19%; padding: 0.5rem; text-align: left;">AVANÇAT (3 pts)</th>
+        <th style="width: 19%; padding: 0.5rem; text-align: left;">APRENENT (2 pts)</th>
+        <th style="width: 19%; padding: 0.5rem; text-align: left;">NOVELL (1 pt)</th>
       </tr>
     </thead>
     <tbody>
       <tr style="border-bottom: 1px solid #e5e7eb;">
-        <td style="font-weight: bold; background: rgba(193, 40, 114, 0.04); padding: 0.45rem;">1. COMPLETESA DE TASQUES<br /><span style="font-weight: normal; font-size: 0.7rem; color: #666;">(Treball complet)</span></td>
-        <td style="padding: 0.45rem;">La carpeta té totes les pàgines i exercicis completats.</td>
-        <td style="padding: 0.45rem;">Gairebé complet. Té la majoria de tasques fetes.</td>
-        <td style="padding: 0.45rem;">Incomplet. Falten activitats importants.</td>
-        <td style="padding: 0.45rem;">Molt incomplet. Falten la majoria d'exercicis.</td>
+        <td style="font-weight: bold; background: rgba(193, 40, 114, 0.04); padding: 0.45rem;">1. Feina completa</td>
+        <td style="padding: 0.45rem;">Totes les tasques i activitats estan fetes.</td>
+        <td style="padding: 0.45rem;">Falta només alguna petita cosa.</td>
+        <td style="padding: 0.45rem;">Falten algunes activitats importants.</td>
+        <td style="padding: 0.45rem;">Molt incomplet. Falta molta feina.</td>
       </tr>
       <tr style="border-bottom: 1px solid #e5e7eb;">
-        <td style="font-weight: bold; background: rgba(193, 40, 114, 0.04); padding: 0.45rem;">2. QUALITAT DE LES RESPOSTES<br /><span style="font-weight: normal; font-size: 0.7rem; color: #666;">(Explicació i claredat)</span></td>
-        <td style="padding: 0.45rem;">Respostes clares, completes i ben explicades.</td>
-        <td style="padding: 0.45rem;">Respostes correctes i comprensibles.</td>
-        <td style="padding: 0.45rem;">Respostes molt breus o poc explicades.</td>
-        <td style="padding: 0.45rem;">Respostes confuses o sense explicació.</td>
+        <td style="font-weight: bold; background: rgba(193, 40, 114, 0.04); padding: 0.45rem;">2. Qualitat i explicacions</td>
+        <td style="padding: 0.45rem;">Respostes clares, ben explicades i pensades.</td>
+        <td style="padding: 0.45rem;">Respostes correctes i entenedores.</td>
+        <td style="padding: 0.45rem;">Respostes molt curtes o poc clares.</td>
+        <td style="padding: 0.45rem;">Respostes d'una sola paraula o sense sentit.</td>
       </tr>
       <tr style="border-bottom: 1px solid #e5e7eb;">
-        <td style="font-weight: bold; background: rgba(193, 40, 114, 0.04); padding: 0.45rem;">3. FEEDBACK I MILLORA<br /><span style="font-weight: normal; font-size: 0.7rem; color: #666;">(Correcció d'errors)</span></td>
-        <td style="padding: 0.45rem;">Aplica les millores i correccions indicades pel professorat.</td>
-        <td style="padding: 0.45rem;">Ha corregit la majoria d'indicacions.</td>
-        <td style="padding: 0.45rem;">Canvis mínims després de les correccions.</td>
-        <td style="padding: 0.45rem;">No ha corregit els errors indicats.</td>
+        <td style="font-weight: bold; background: rgba(193, 40, 114, 0.04); padding: 0.45rem;">3. Corregir i millorar</td>
+        <td style="padding: 0.45rem;">Ha corregit tots els errors i ha millorat.</td>
+        <td style="padding: 0.45rem;">Ha corregit gairebé tot el que calia.</td>
+        <td style="padding: 0.45rem;">Ha fet poques correccions.</td>
+        <td style="padding: 0.45rem;">No ha corregit res del que se li ha demanat.</td>
       </tr>
       <tr style="border-bottom: 1px solid #e5e7eb;">
-        <td style="font-weight: bold; background: rgba(193, 40, 114, 0.04); padding: 0.45rem;">4. SEGUIMENT I CONSTÀNCIA<br /><span style="font-weight: normal; font-size: 0.7rem; color: #666;">(Ritme de treball)</span></td>
-        <td style="padding: 0.45rem;">Fa la feina dia a dia de manera ordenada.</td>
+        <td style="font-weight: bold; background: rgba(193, 40, 114, 0.04); padding: 0.45rem;">4. Constància i ritme</td>
+        <td style="padding: 0.45rem;">Porta la feina sempre al dia a cada classe.</td>
         <td style="padding: 0.45rem;">Treballa bé amb petits retards puntuals.</td>
-        <td style="padding: 0.45rem;">Acostuma a deixar la feina per als últims dies.</td>
-        <td style="padding: 0.45rem;">Ho fa tot a última hora.</td>
+        <td style="padding: 0.45rem;">Es distreu i acumula feina per al final.</td>
+        <td style="padding: 0.45rem;">Ho fa tot a última hora i de pressa.</td>
+      </tr>
+      <tr style="border-bottom: 1px solid #e5e7eb;">
+        <td style="font-weight: bold; background: rgba(193, 40, 114, 0.04); padding: 0.45rem;">5. Cura i ordre</td>
+        <td style="padding: 0.45rem;">Dossier molt net, polit i amb bona lletra.</td>
+        <td style="padding: 0.45rem;">Net i fàcil de llegir.</td>
+        <td style="padding: 0.45rem;">Una mica desordenat o brut.</td>
+        <td style="padding: 0.45rem;">Molt brut, arrugat o difícil de llegir.</td>
       </tr>
     </tbody>
   </table>
 </div>
 
-
 # AVALUACIÓ I COMENTARIS DEL PROFESSORAT
 
-### Observacions, fortaleses i suggeriments de millora:
+### Observacions i consells de millora:
 
 <div class="response-box" style="min-height: 715px;"></div>
 
 <div class="page-break"></div>
 
-# BLOC 1: PRESENTACIÓ, HABILITATS, CONEIXEMENTS PREVIS I CONSTITUCIÓ DE L'EQUIP
+# BLOC 1: PRESENTACIÓ, HABILITATS I CONSTITUCIÓ DE L'EQUIP
 
 ### Activitat 1.1: Presentació i Expectatives
 
-Presenta't breument i explica què t'agrada fer. Què és el que més et crida l'atenció del projecte Artífex (dissenyar a l'ordinador, treballar al taller amb resina, crear la marca, vendre...)?
+Escriu qui ets, què t'agrada fer i què és el que més et crida l'atenció d'aquest projecte (dissenyar per ordinador, fer motlles de silicona, la resina, crear una marca...):
 
 <div class="response-box" style="min-height: 120px;"></div>
 
-### Activitat 1.2: Avaluació Inicial d'Habilitats Socioemocionals
+### Activitat 1.2: Com treballes tu?
 
-1. **Creativitat:** T'és fàcil tenir idees noves o prefereixes mirar exemples per inspirar-te? Explica com t'ho fas quan has de pensar una idea.
-   
+1. **Creativitat:** Com et venen les idees? Tens facilitat per pensar coses noves o et costa començar i necessites buscar exemples?
    <div class="response-box" style="min-height: 90px;"></div>
 
-2. **Cura i ordre:** Treballes amb netedat i atenció als detalls? O fas les tasques ràpidament per acabar abans?
-   
+2. **Cura i ordre:** Treballes amb calma i netedat fixant-te en els detalls, o fas la feina ràpid per acabar aviat?
    <div class="response-box" style="min-height: 90px;"></div>
 
-3. **Gestió de l'error:** Què fas quan un dibuix o una tasca no et surt bé? Et frustres o tornes a provar-ho amb calma?
-   
+3. **Gestió de l'error:** Què fas quan una cosa et surt malament? Ho tornes a intentar amb paciència o et frustres i ho deixes estar?
    <div class="response-box" style="min-height: 90px;"></div>
 
-### Activitat 1.3: Activació de Coneixements Previs
+### Activitat 1.3: Què saps abans de començar?
 
-1. **Has pensat mai a crear la teva pròpia marca (de roba, joies o connectors)? Què t'agradaria fer?**
-   
-   <div class="response-box" style="min-height: 70px;"></div>
+1. **T'agradaria crear una marca de roba o de joies? De quin tipus?**
+   <div class="response-box" style="min-height: 60px;"></div>
 
-2. **T'agrada dibuixar? Explica si et sents còmode/a dibuixant o et costa un poc.**
-   
-   <div class="response-box" style="min-height: 70px;"></div>
+2. **T'agrada dibuixar? Creus que se't dona bé?**
+   <div class="response-box" style="min-height: 60px;"></div>
 
-3. **Has venut mai alguna cosa (polseres, manualitats, pastissos...)? Com va ser l'experiència?**
-   
-   <div class="response-box" style="min-height: 70px;"></div>
+3. **Has venut mai alguna cosa (polseres, pastissos, parada escolar...)? Com va anar?**
+   <div class="response-box" style="min-height: 60px;"></div>
 
-4. **Has fet servir mai eines com impressores 3D o talladores làser?**
-   
-   <div class="response-box" style="min-height: 70px;"></div>
+4. **Has fet servir mai impressores 3D o eines de taller?**
+   <div class="response-box" style="min-height: 60px;"></div>
 
-5. **Has creat o fabricat mai una joia o manualitat amb les teves mans?**
-   
-   <div class="response-box" style="min-height: 70px;"></div>
+5. **Has fet alguna vegada una joia o manualitat amb les teves pròpies mans?**
+   <div class="response-box" style="min-height: 60px;"></div>
 
 <div class="page-break"></div>
 
 ---
 
-### <span class="badge-team">👥 EN EQUIP</span> Activitat 1.4: Constitució i Compromís del Treball en Equip
+### <span class="badge-team">👥 EN EQUIP</span> Activitat 1.4: Constitució i Acords de l'Equip
 
-Abans de començar a treballar en equip (3 membres), dediqueu un temps a pensar individualment com us agradaria que funcionés el vostre equip i ompliu aquesta taula:
+Com que treballeu en equips de 3 persones, completeu aquesta taula per organitzar-vos bé:
 
-#### 1. Peticions i Aportacions per al bon funcionament de l'equip
+#### 1. Peticions i Aportacions de l'Equip
 <table style="width: 100%; border-collapse: collapse; margin: 1rem 0; font-size: 0.88rem;">
   <thead>
     <tr style="background: #f8fafc; color: #1e293b; border-bottom: 2px solid #9d174d;">
-      <th style="width: 25%; padding: 0.6rem; text-align: left; border: 1px solid #d1d5db;">Membres de l'equip</th>
-      <th style="width: 37.5%; padding: 0.6rem; text-align: left; border: 1px solid #d1d5db;">PETICIONS<br/><span style="font-weight: 400; font-size: 0.78rem;">Què demano a la resta de membres de l'equip</span></th>
-      <th style="width: 37.5%; padding: 0.6rem; text-align: left; border: 1px solid #d1d5db;">APORTACIONS<br/><span style="font-weight: 400; font-size: 0.78rem;">Què puc aportar jo a l'equip / el meu compromís</span></th>
+      <th style="width: 25%; padding: 0.6rem; text-align: left; border: 1px solid #d1d5db;">Membres</th>
+      <th style="width: 37.5%; padding: 0.6rem; text-align: left; border: 1px solid #d1d5db;">PETICIONS (Què demano als companys)</th>
+      <th style="width: 37.5%; padding: 0.6rem; text-align: left; border: 1px solid #d1d5db;">APORTACIONS (Què puc aportar jo)</th>
     </tr>
   </thead>
   <tbody>
-    <tr style="height: 70px;">
+    <tr style="height: 75px;">
       <td style="padding: 0.5rem; font-weight: 700; border: 1px solid #d1d5db; vertical-align: top;">Nom 1:</td>
       <td style="padding: 0.5rem; border: 1px solid #d1d5db;"></td>
       <td style="padding: 0.5rem; border: 1px solid #d1d5db;"></td>
     </tr>
-    <tr style="height: 70px;">
+    <tr style="height: 75px;">
       <td style="padding: 0.5rem; font-weight: 700; border: 1px solid #d1d5db; vertical-align: top;">Nom 2:</td>
       <td style="padding: 0.5rem; border: 1px solid #d1d5db;"></td>
       <td style="padding: 0.5rem; border: 1px solid #d1d5db;"></td>
     </tr>
-    <tr style="height: 70px;">
+    <tr style="height: 75px;">
       <td style="padding: 0.5rem; font-weight: 700; border: 1px solid #d1d5db; vertical-align: top;">Nom 3:</td>
       <td style="padding: 0.5rem; border: 1px solid #d1d5db;"></td>
       <td style="padding: 0.5rem; border: 1px solid #d1d5db;"></td>
@@ -175,48 +174,35 @@ Abans de començar a treballar en equip (3 membres), dediqueu un temps a pensar 
   </tbody>
 </table>
 
-#### 2. Acords d'Equip
-Acordeu 3 normes o punts clau per treballar bé en equip:
-* **ACORD 1:** <div class="response-box" style="min-height: 48px;"></div>
-* **ACORD 2:** <div class="response-box" style="min-height: 48px;"></div>
-* **ACORD 3:** <div class="response-box" style="min-height: 48px;"></div>
+#### 2. Els 3 Acords d'Equip
+Poseu-vos d'acord en 3 regles clares per treballar bé junts:
+* **ACORD 1:** <div class="response-box" style="min-height: 50px;"></div>
+* **ACORD 2:** <div class="response-box" style="min-height: 50px;"></div>
+* **ACORD 3:** <div class="response-box" style="min-height: 50px;"></div>
 
-<br/>
-
-#### 3. Assignació de Càrrecs i Responsabilitats
-<table style="width: 100%; border-collapse: collapse; margin: 1.25rem 0; font-size: 0.95rem;">
+#### 3. Assignació dels 3 Càrrecs Maker
+Repartiu un càrrec per a cada membre de l'equip:
+<table style="width: 100%; border-collapse: collapse; margin: 1rem 0; font-size: 0.85rem;">
   <tbody>
-    <tr style="height: 80px;">
-      <td style="padding: 0.85rem 1rem; border: 1px solid #d1d5db; vertical-align: middle;">
-        <div style="margin-bottom: 0.35rem;">
-          <strong style="font-size: 1.05rem; color: #1e293b;">🛡️ Responsable de SEGURETAT:</strong>
-          <span style="font-size: 0.88rem; color: #4b5563; margin-left: 0.3rem;">(Supervisar guants, ulleres, mascareta i cura amb resines/màquines)</span>
-        </div>
-        <div style="margin-top: 0.5rem; font-size: 0.98rem; font-weight: 700; color: var(--sl-color-accent-high);">
-          Nom de l'alumne/a: <span style="border-bottom: 2px dashed #9d174d; display: inline-block; width: calc(100% - 200px); max-width: 480px; min-width: 250px; height: 22px; vertical-align: bottom;"></span>
-        </div>
+    <tr style="height: 55px;">
+      <td style="padding: 0.5rem 0.75rem; border: 1px solid #d1d5db; vertical-align: middle;">
+        <strong>🛡️ Responsable de SEGURETAT:</strong><br/>
+        <span style="font-size: 0.78rem; color: #666;">(Vigila que tothom porti guants, mascareta i ulleres de protecció amb la resina i les eines)</span><br/>
+        <span style="display: inline-block; margin-top: 0.25rem;">Nom: <span style="border-bottom: 1.5px dashed #666; display: inline-block; width: 340px;"></span></span>
       </td>
     </tr>
-    <tr style="height: 80px;">
-      <td style="padding: 0.85rem 1rem; border: 1px solid #d1d5db; vertical-align: middle;">
-        <div style="margin-bottom: 0.35rem;">
-          <strong style="font-size: 1.05rem; color: #1e293b;">🧹 Responsable d'ORDRE, Eines i Residus:</strong>
-          <span style="font-size: 0.88rem; color: #4b5563; margin-left: 0.3rem;">(Mantenir la taula neta, desar motlles i eines i llençar residus al seu lloc)</span>
-        </div>
-        <div style="margin-top: 0.5rem; font-size: 0.98rem; font-weight: 700; color: var(--sl-color-accent-high);">
-          Nom de l'alumne/a: <span style="border-bottom: 2px dashed #9d174d; display: inline-block; width: calc(100% - 200px); max-width: 480px; min-width: 250px; height: 22px; vertical-align: bottom;"></span>
-        </div>
+    <tr style="height: 55px;">
+      <td style="padding: 0.5rem 0.75rem; border: 1px solid #d1d5db; vertical-align: middle;">
+        <strong>🧹 Responsable d'ORDRE, Eines i Residus:</strong><br/>
+        <span style="font-size: 0.78rem; color: #666;">(Vigila que la taula quedi neta, els motlles nets i les deixalles a la paperera correcta)</span><br/>
+        <span style="display: inline-block; margin-top: 0.25rem;">Nom: <span style="border-bottom: 1.5px dashed #666; display: inline-block; width: 340px;"></span></span>
       </td>
     </tr>
-    <tr style="height: 80px;">
-      <td style="padding: 0.85rem 1rem; border: 1px solid #d1d5db; vertical-align: middle;">
-        <div style="margin-bottom: 0.35rem;">
-          <strong style="font-size: 1.05rem; color: #1e293b;">⏱️ Responsable de FOCUS, Temps i Clima:</strong>
-          <span style="font-size: 0.88rem; color: #4b5563; margin-left: 0.3rem;">(Controlar el temps de feina, evitar distraccions i to de veu moderat)</span>
-        </div>
-        <div style="margin-top: 0.5rem; font-size: 0.98rem; font-weight: 700; color: var(--sl-color-accent-high);">
-          Nom de l'alumne/a: <span style="border-bottom: 2px dashed #9d174d; display: inline-block; width: calc(100% - 200px); max-width: 480px; min-width: 250px; height: 22px; vertical-align: bottom;"></span>
-        </div>
+    <tr style="height: 55px;">
+      <td style="padding: 0.5rem 0.75rem; border: 1px solid #d1d5db; vertical-align: middle;">
+        <strong>⏱️ Responsable de FOCUS, Temps i Clima:</strong><br/>
+        <span style="font-size: 0.78rem; color: #666;">(Controla el temps de la classe, evita distraccions i recorda parlar en to baix)</span><br/>
+        <span style="display: inline-block; margin-top: 0.25rem;">Nom: <span style="border-bottom: 1.5px dashed #666; display: inline-block; width: 340px;"></span></span>
       </td>
     </tr>
   </tbody>
@@ -226,62 +212,105 @@ Acordeu 3 normes o punts clau per treballar bé en equip:
 
 # BLOC 2: COM CREEM LA NOSTRA MARCA?
 
-### Activitat 2.1: Diagrama de Flux del Procés de Creació d'una Marca
+### Activitat 2.1: Esquema de les 6 Fases d'una Marca
 
-Dissenya un esquema visual senzill que connecti en ordre les 6 fases per crear una marca. Dibuixa una imatge o icona fàcil a cada caixa per recordar cada pas.
+Dibuixa un esquema senzill amb fletxes que connecti les 6 fases per crear una marca:
 
 <div class="page-break"></div>
 
-### Activitat 2.2: El recorregut d'una marca des de la idea fins a la venda (El cas Nike)
+### Activitat 2.2: Test sobre el procés d'una marca
 
-1. **Quina és la funció principal de la Fase 1 (La Guspira / Idea inicial)?**
-   - [ ] A) Definir el preu de venda de la joia.
-   - [ ] B) Comprar les màquines de taller.
-   - [ ] C) Trobar una font d'inspiració i definir la història de la marca.
-   - [ ] D) Calcular els impostos de l'empresa.
+1. **Per a què serveix la Fase 1 (La Guspira / Idea)?**
+   - [ ] A) Per posar el preu a la joia.
+   - [ ] B) Per trobar la inspiració i la idea que explicarà la marca.
+   - [ ] C) Per comprar màquines al taller.
 
-2. **Per què la Fase 2 (Identitat: Nom, Logo i Colors) es fa abans de dissenyar en 3D?**
-   - [ ] A) Perquè el logo i els colors ajuden a decidir la forma i l'aspecte de la joia.
-   - [ ] B) Perquè ho obliga la llei.
-   - [ ] C) Perquè el logo es fa sol a la fàbrica.
-   - [ ] D) Perquè el packaging és l'única cosa que importa.
+2. **Per què triem el Nom i el Logotip (Fase 2) abans de fabricar?**
+   - [ ] A) Perquè el logotip i els colors marquen la forma de la joia.
+   - [ ] B) Perquè és obligatori per llei abans d'obrir l'ordinador.
+   - [ ] C) Perquè les joies es fabriquen soles.
 
-3. **Quin avantatge té dissenyar en 2D/3D a l'ordinador (Fase 3) abans d'anar al taller?**
-   - [ ] A) Fa que la joia es venda sola.
-   - [ ] B) Evita haver de fabricar la joia en realitat.
-   - [ ] C) No té cap avantatge.
-   - [ ] D) Permet veure i corregir errors de mida a la pantalla sense gastar material.
+3. **Per què és bo dissenyar en 3D a l'ordinador (Fase 3) abans de fer la joia?**
+   - [ ] A) Perquè així veiem errors de mida i els corregim sense malgastar material.
+   - [ ] B) Perquè així ja no caldrà fer motlles de silicona.
+   - [ ] C) Perquè venem la joia abans de fabricar-la.
 
-4. **Si una empresa posa el preu de venda (Fase 5) sense saber quant li ha costat fer el producte (Fase 4), quin risc té?**
-   - [ ] A) Guanyar molts diners des del primer dia.
-   - [ ] B) Perdre diners i no poder cobrir les despeses dels materials.
-   - [ ] C) Estalviar temps de feina.
-   - [ ] D) Cap risc.
-
-### Activitat 2.4: Reflexió de Tancament del Bloc 2: Com creem la nostra marca?
-
-Què és el més important que has après sobre les 6 fases per crear una marca? Què tindràs en compte quan dissenyis la teva pròpia marca d'arracades?
-
-<div class="response-box" style="min-height: 160px;"></div>
+4. **Si una empresa posa el preu sense calcular quant li costa fabricar, què pot passar?**
+   - [ ] A) Que perdi diners perquè el preu no cobreix les despeses.
+   - [ ] B) Que guanyi molts diners sempre.
+   - [ ] C) Que el taller treballi més ràpid.
 
 ---
 
-# BLOC 3: MUCHA JOYA
+### Activitat 2.3: Cas d'estudi Ecoalf (Moda amb plàstic reciclat)
 
-<p style="margin-top: 1rem;"><strong style="color: #7F1146; font-size: 1.05rem;">Activitat 3.1: Què no sabies?</strong> Abans de la xerrada de l'Isa, què no sabies que formava part de la feina de crear una marca de joies (definir valors, pensar en el client, fer un moodboard...)?</p>
+<div style="text-align: center; margin: 1rem 0;">
+  <img src="/artifex/media/ecoalf_sostenibilitat.jpg" alt="Procés d'Ecoalf" style="width: 75%; max-height: 280px; object-fit: cover; border-radius: 12px; margin: 0 auto; display: block;" />
+</div>
 
+#### Resum del cas:
+* **La idea (Fase 1):** Javier Goyeneche vol netejar els oceans recollint plàstics del mar per fer roba de qualitat.
+* **La marca (Fase 2):** Crea *Ecoalf* amb el lema: *"Because there is no planet B"* (No hi ha un planeta B).
+* **El problema tècnic (Fase 3):** No existien fils reciclats de bona qualitat. Van trigar **2 anys** a investigar com netejar i fondre el plàstic per fer fil resistent.
+* **El cost (Fase 4 i 5):** Recollir plàstic del mar i investigar costa més diners: fer una jaqueta Ecoalf costa **56,50 €**, mentre que una jaqueta normal de petroli en costa **30,00 €**.
+
+**Taula 1: Costos de fabricació d'una jaqueta**
+| Concepte | Jaqueta Normal | Jaqueta Ecoalf (Plàstic marí) |
+| :--- | :--- | :--- |
+| Tela / Plàstic | 4,00 € | 2,50 € |
+| Investigació i neteja del plàstic | 0,00 € | 18,00 € |
+| Confecció i màquines especials | 12,00 € | 22,00 € |
+| Publicitat i transport | 14,00 € | 14,00 € |
+| **COST TOTAL** | **30,00 €** | **56,50 €** |
+
+<div class="page-break"></div>
+
+#### Preguntes sobre Ecoalf:
+
+1. **Quants mesos va trigar Ecoalf en total a treure el producte a causa de la investigació del fil?**
+   - [ ] A) 12 mesos com tenien previst.
+   - [ ] B) 30 mesos en total (18 mesos més del previst).
+   - [ ] C) 2 mesos només.
+
+2. **Per què la jaqueta d'Ecoalf costa més diners de fabricar (56,50 € vs 30 €)?**
+   - [ ] A) Perquè netejar el plàstic del mar i investigar com fer el fil costa 18 € més.
+   - [ ] B) Perquè la tela del mar és molt cara de comprar.
+   - [ ] C) Perquè paguen massa transport.
+
+3. **Quin avantatge ambiental té usar fil reciclat segons Ecoalf?**
+   - [ ] A) Estalvia un 52% d'aigua i redueix un 40% de CO₂.
+   - [ ] B) Gasta el triple d'aigua.
+   - [ ] C) Contamina més els oceans.
+
+4. **Si Ecoalf fes servir plàstic normal de petroli per estalviar diners, què passaria?**
+   - [ ] A) La gent deixaria de creure en la seva marca sostenible.
+   - [ ] B) Guanyaria premis de medi ambient.
+   - [ ] C) No canviaria res.
+
+### Activitat 2.4: Què has après sobre com crear una marca?
+
+Explica amb les teves paraules què és el més important que has après en aquest bloc sobre les 6 fases:
+
+<div class="response-box" style="min-height: 250px;"></div>
+
+<div class="page-break"></div>
+
+---
+
+# BLOC 3: MUCHA JOYA (Consells de l'experta)
+
+Respon breument a partir de la xerrada de l'Isa (creadora de *Mucha Joya*):
+
+**Activitat 3.1: Què no sabies?** Abans de la xerrada, què no sabies sobre la feina de crear una marca de joies?
 <div class="response-box" style="min-height: 95px;"></div>
 
-<p><strong style="color: #7F1146; font-size: 1.05rem;">Activitat 3.2: Què t'ha sorprès?</strong> Quina dada, consell o detall de l'explicació de l'Isa t'ha cridat més l'atenció i per què?</p>
-
+**Activitat 3.2: Què t'ha sorprès?** Quin consell o detall de l'Isa t'ha cridat més l'atenció (les proves del logo, la capsa...)?
 <div class="response-box" style="min-height: 95px;"></div>
 
-<p><strong style="color: #7F1146; font-size: 1.05rem;">Activitat 3.3: Què has après?</strong> Amb les teves paraules, explica què significa que una marca ha de tenir personalitat i explicar una història al client.</p>
-
+**Activitat 3.3: Què has après?** Què vol dir que una marca ha d'emocionar i explicar una història (*storytelling*)?
 <div class="response-box" style="min-height: 95px;"></div>
 
-<p><strong style="color: #7F1146; font-size: 1.05rem;">Activitat 3.4: Amb què et quedes?</strong> Amb quin consell o truc pràctic de l'experta et quedes per fer servir en la teva pròpia marca d'arracades?</p>
-
+**Activitat 3.4: Amb què et quedes?** Quina idea o truc de l'Isa faràs servir per a la marca del teu equip?
 <div class="response-box" style="min-height: 95px;"></div>
 
 <div class="page-break"></div>
@@ -290,59 +319,96 @@ Què és el més important que has après sobre les 6 fases per crear una marca?
 
 # BLOC 4: LA COOPERATIVA ARTÍFEX
 
-### Activitat 4.1: El Debat dels Diners i la Gestió Democràtica
+### Activitat 4.1: El Debat dels Diners a Classe
 
-1. **A les cooperatives les decisions es prenen votant entre tots. Quina opció vas defensar tu (repartir diners, donar a una ONG, comprar eines, fer un viatge)? Quins motius vas donar?**
-   
-   <div class="response-box" style="min-height: 120px;"></div>
+1. **A la classe hem votat què fer amb els diners de les vendes. Quina opció vas defensar tu i per què?**
+   <div class="response-box" style="min-height: 110px;"></div>
 
-2. **Com vas escoltar els companys que pensaven diferent de tu? Quin argument d'un altre alumne et va semblar interessant?**
-   
-   <div class="response-box" style="min-height: 120px;"></div>
+2. **Com vas escoltar els companys que no pensaven com tu? Quin argument et va semblar interessant?**
+   <div class="response-box" style="min-height: 110px;"></div>
 
-3. **Com es va resoldre la votació final de la classe? Com et sents si la teva opció no va ser la més votada?**
-   
-   <div class="response-box" style="min-height: 120px;"></div>
+3. **Com va quedar la votació final? Estàs d'acord a respectar el que ha decidit la majoria?**
+   <div class="response-box" style="min-height: 110px;"></div>
 
 <div class="page-break"></div>
 
-# BLOC 5: FASE 1 — LA GUSPIRA
+### Activitat 4.2: Cas La Fageda (Iogurts socials)
 
-### Activitat 5.1: Trobar el meu "Motiu" (Individual)
+#### Resum del cas:
+* **Origen:** L'any 1982, el psicòleg Cristóbal Colón va fundar La Fageda a Olot perquè persones amb malaltia mental poguessin treballar en feines dignes fent iogurts.
+* **Model cooperatiu:** Més del **50% de la plantilla** té discapacitat. Totes les decisions es voten en assemblea (**1 persona = 1 vot**) i el 100% dels beneficis es reinverteixen a la cooperativa.
+* **Resultat:** Sense gastar milions en anuncis de TV (només 200.000 € vs 12,5 milions de Danone), tenen el **24% de les vendes de iogurts a Catalunya** gràcies a la seva qualitat i el seu impacte social.
 
-Per crear la teva col·lecció de joies necessites una "Guspira": un record, emoció o sensació especial. Respon a les preguntes que t'ajudin a trobar la teva inspiració:
+**Taula comparativa:**
+| Concepte | Empresa Tradicional (SA) | Cooperativa La Fageda |
+| :--- | :--- | :--- |
+| **Objectiu** | Guanyar diners per als amos | Donar feina digna a persones amb discapacitat |
+| **Treballadors amb discapacitat** | Només el 2% (mínim legal) | Més del 50% de la plantilla |
+| **Beneficis** | Es reparteixen entre els socis | Es reinverteixen al 100% a la cooperativa |
+| **Vots** | Vota qui té més diners | 1 persona = 1 vot a l'Assemblea |
 
-1. **Orígens:** Si penses en el poble o país d'on ve la teva família, quins colors et venen al cap?
+#### Preguntes sobre La Fageda:
+
+1. **Quin percentatge de treballadors amb discapacitat té La Fageda?**
+   - [ ] A) Més del 50% de la plantilla.
+   - [ ] B) Cap treballador.
+   - [ ] C) El 2% només.
+
+2. **Què fa La Fageda amb els diners que guanya?**
+   - [ ] A) Els reinverteix tots en millores per a la cooperativa i els treballadors.
+   - [ ] B) Els reparteix a accionistes de fora.
+   - [ ] C) Els regala a bancs.
+
+3. **Per què La Fageda ven molts iogurts (24%) sense gastar milions en anuncis com Danone?**
+   - [ ] A) Perquè la gent confia en la seva qualitat i en el seu projecte social.
+   - [ ] B) Perquè els regala a les botigues.
+   - [ ] C) Perquè és l'única marca que existeix.
+
+4. **Si un assessor proposa acomiadar treballadors per posar robots i guanyar més diners, per què La Fageda dirà que NO?**
+   - [ ] A) Perquè el seu objectiu principal és donar feina a les persones, no guanyar diners per a un amo.
+   - [ ] B) Perquè no saben com funcionen els robots.
+   - [ ] C) Perquè els robots estan prohibits.
+
+### Activitat 4.3: Què has après sobre les cooperatives?
+
+Explica què significa treballar en cooperativa i com aplicareu la igualtat, el respecte i la votació en el vostre equip:
+
+<div class="response-box" style="min-height: 280px;"></div>
+
+<div class="page-break"></div>
+
+---
+
+# BLOC 5: FASE 1 — LA GUSPIRA (La meva inspiració)
+
+### Activitat 5.1: Troba el teu Motiu
+
+Respon a les preguntes que t'inspirin més per trobar la idea de la teva joia:
+
+1. **El teu lloc o orígens:** Si penses en el poble o país de la teva família, quins colors o paisatges veus?
    <div class="response-box" style="min-height: 65px;"></div>
 
-2. **Records:** Quin és un dels millors moments o vacances de la teva vida? Quina sensació en vols recordar?
+2. **Un record feliç:** Pensa en un bon record (vacances, amics...). Quina forma, llum o sensació tenia?
    <div class="response-box" style="min-height: 65px;"></div>
 
-3. **Amuleto / Protecció:** Si la teva joia fos un amuleto màgic, quin poder o sensació donaria a qui la porti (calma, energia, protecció...)?
+3. **Un poder màgic (Amulet):** Si la teva joia fos un amulet, quin poder donaria (calma, força, alegria, protecció...)?
    <div class="response-box" style="min-height: 65px;"></div>
 
-4. **Natura:** Quan camines per la natura o la platja, quin petit objecte t'agrada recollir del terra (pedra, petxina, fulla...)?
+4. **Un tresor de la natura:** Quin objecte petit guardes sempre quan passeges (una pedra, una petxina, una fulla...)?
    <div class="response-box" style="min-height: 65px;"></div>
 
-5. **Personalitat:** Quins colors i formes et representen millor (colors vius i formes lliures, o colors suaus i formes ordenades)?
-   <div class="response-box" style="min-height: 65px;"></div>
-
-6. **Passió:** Quina activitat o hobby t'apassiona i et fa passar el temps volant?
-   <div class="response-box" style="min-height: 65px;"></div>
-
-- **Les meves paraules clau d'inspiració:** Tria entre 6 i 8 paraules simples que resumeixen la teva guspira i utilitzaràs per al teu moodboard:
+* **Les meves 5 paraules clau:** Tria 5 paraules que resumiran la teva inspiració per al Moodboard:
   <div class="response-box" style="min-height: 80px;"></div>
 
 ---
 
-### Activitat 5.2: Creació del Moodboard Digital a Google Classroom (Dibuixos de Google)
+### Activitat 5.2: El meu Moodboard Digital (Google Drawings)
 
-Entra a **Google Classroom** per crear el teu Moodboard digital fent servir **Dibuixos de Google**.
-
-Recorda seguir aquestes recomanacions bàsiques:
-- Tria una **imatge principal** que sigui la més gran.
-- Utilitza una paleta de **3 o 4 colors principals**.
-- Deixa espai buit entre les imatges perquè es vegi de manera ordenada.
+Crea a Google Classroom el teu taulell d'imatges d'inspiració (Moodboard) aplicant aquests 4 consells:
+1. **Imatge principal:** Posa una imatge més gran que destaqui sobre les altres.
+2. **Colors:** Tria 3 o 4 colors que quedin bé junts.
+3. **Espai:** Deixa marges nets perquè no quedi tot atapeït.
+4. **Detalls:** Posa fotos de paisatges i fotos de textures de prop.
 
 <div class="page-break"></div>
 
@@ -350,183 +416,172 @@ Recorda seguir aquestes recomanacions bàsiques:
 
 # BLOC 6: FASE 2 — IDENTITAT VISUAL
 
-### Activitat 6.1: Qüestionari d'Anàlisi Crítica: Jurat de Disseny
+### Activitat 6.1: Jurat de Disseny (Test de consells gràfics)
 
-Respon a les preguntes següents sobre com dissenyar un bon logotip i triar els colors adequats:
+1. **Quin contrast és el millor per llegir bé un logotip?**
+   - [ ] A) Lletra fosca sobre fons clar, o lletra clara sobre fons fosc.
+   - [ ] B) Lletra blanca sobre fons groc clar.
+   - [ ] C) Lletra vermella sobre fons taronja.
 
-1. **Quina és la regla principal de contrast entre el text i el fons?**
-   - [ ] A) Posar lletra fosca sobre fons clar, o lletra clara sobre fons fosc.
-   - [ ] B) Posar lletra blanca sobre fons groc clar.
-   - [ ] C) Posar colors molt similars.
-   - [ ] D) Afegir molts efectes i ombres.
+2. **Quin truc serveix per saber si un logotip es llegeix bé?**
+   - [ ] A) Entretancar els ulls: si les lletres es confonen amb el fons, falta contrast.
+   - [ ] B) Mirar-lo des de 10 metres amb el llum apagat.
+   - [ ] C) Posar molts efectes 3D brillants.
 
-2. **Quin truc senzill serveix per comprovar si un nom es llegeix bé?**
-   - [ ] A) Apagar totes les llums de l'aula.
-   - [ ] B) Mirar la pantalla des de molt lluny.
-   - [ ] C) Canviar la lletra a una molt petita.
-   - [ ] D) Entretancar els ulls: si el text es confon amb el fons, falta contrast.
+3. **Per què no hem de posar text vermell sobre fons blau?**
+   - [ ] A) Perquè mareja la vista i costa d'enfocar.
+   - [ ] B) Perquè està prohibit a l'escola.
+   - [ ] C) Perquè el blau esborra el vermell.
 
-3. **Per què s'evita posar lletres vermelles sobre fons blau pur?**
-   - [ ] A) Perquè està prohibit per llei.
-   - [ ] B) Perquè l'ull no pot enfocar els dos colors alhora i crea un efecte molest.
-   - [ ] C) Perquè només ho usen marques d'esports.
-   - [ ] D) Perquè el blau esborra el vermell en imprimir.
+4. **Quina prova ha de passar un bon logotip abans de triar els colors?**
+   - [ ] A) Ha de funcionar i veure's clar en Blanc i Negre (1 sol color).
+   - [ ] B) Ha de tenir almenys 7 colors diferents.
+   - [ ] C) Ha de ser gegant de 3 metres.
 
-4. **Quins colors s'acostumen a triar per a un públic jove o infantil?**
-   - [ ] A) Grisos i marrons foscos.
-   - [ ] B) Fons transparents sense color.
-   - [ ] C) Colors vius i alegres (vermell, groc, blau intens).
-   - [ ] D) Colors molt descolorits.
-
-5. **Quina prova ha de superar un bo logotip abans de triar els colors?**
-   - [ ] A) S'ha de veure clarament en blanc i negre (un sol color).
-   - [ ] B) S'ha de veure bé en una mida de 5 metres.
-   - [ ] C) Ha de tenir més de 6 colors.
-   - [ ] D) Ha de tenir la foto d'una joia real.
-
-6. **Quina tipografia s'utilitza si volem transmetre força i seriositat?**
-   - [ ] A) Una lletra molt fina i punteguda.
-   - [ ] B) Una lletra de dibuixos animats.
-   - [ ] C) Una lletra cursiva amb molts detalls.
-   - [ ] D) Una lletra gruixuda, recta i en majúscules.
-
-7. **Quin efecte fa un fons fosc (negre/gris) amb lletres blanques i espaiades?**
-   - [ ] A) Fa que la marca sembli barata.
-   - [ ] B) Transmet elegància, claretat i qualitat.
-   - [ ] C) Fa que no es pugui llegir el nom.
-   - [ ] D) Només serveix per a cotxes antics.
-
-8. **Quin és el propòsit principal d'un logotip?**
-   - [ ] A) Servir només de decoració artística.
-   - [ ] B) Tenir com més dibuixos millor.
-   - [ ] C) Comunicar un missatge clar: si no es llegeix bé, no funciona.
-   - [ ] D) Ocupar tot el full.
+5. **Per a què serveix un logotip segons el jurat de disseny?**
+   - [ ] A) Per comunicar un missatge clar; si no s'entén ni es llegeix, no serveix.
+   - [ ] B) Per posar molts dibuixos junts.
+   - [ ] C) Només per decorar.
 
 ---
 
-### Activitat 6.2: Anàlisi Crítica de 2 Noms de l'Atles (Les 5 Regles d'Or)
+### Activitat 6.2: Triar 2 Noms de l'Atles de Marques
 
-Tria 2 noms de marca de l'Atles de la web i comprova quines regles de Naming compleixen:
+Tria 2 noms de l'Atles de marques del web i mira si compleixen les regles:
 
-#### 1. Primera Marca Seleccionada
-- **Nom de la marca:** <span style="border-bottom: 1.5px dashed #666; display: inline-block; width: 35%;"></span>
-- **Avaluació:**
-  - [ ] **Simplicitat:** Nom curt i fàcil de pronunciar.
-  - [ ] **Memorabilitat:** Es recorda fàcilment.
-  - [ ] **Coherència:** Té relació amb la joia o el concepte.
-  - [ ] **Originalitat:** Es diferencia dels altres noms.
-- **Opinió:** T'agrada aquest nom? Per què?
-  <div class="response-box" style="min-height: 65px;"></div>
+1. **Marca 1:** Nom: _______________________ | Tipus: _______________________
+   - [ ] És curt i fàcil de dir?
+   - [ ] Es recorda ràpid?
+   - [ ] Té sentit amb el producte?
+   - *Per què t'agrada aquest nom?* <div class="response-box" style="min-height: 60px;"></div>
 
-<div class="page-break"></div>
-
-#### 2. Segona Marca Seleccionada
-- **Nom de la marca:** <span style="border-bottom: 1.5px dashed #666; display: inline-block; width: 35%;"></span>
-- **Avaluació:**
-  - [ ] **Simplicitat:** Nom curt i fàcil de pronunciar.
-  - [ ] **Memorabilitat:** Es recorda fàcilment.
-  - [ ] **Coherència:** Té relació amb la joia o el concepte.
-  - [ ] **Originalitat:** Es diferencia dels altres noms.
-- **Opinió:** T'agrada aquest nom? Per què?
-  <div class="response-box" style="min-height: 65px;"></div>
+2. **Marca 2:** Nom: _______________________ | Tipus: _______________________
+   - [ ] És curt i fàcil de dir?
+   - [ ] Es recorda ràpid?
+   - [ ] Té sentit amb el producte?
+   - *Per què t'agrada aquest nom?* <div class="response-box" style="min-height: 60px;"></div>
 
 ---
 
-### <span class="badge-team">👥 EN EQUIP</span> Activitat 6.3: Elecció del Nom de la Marca d'Equip (Naming)
+### <span class="badge-team">👥 EN EQUIP</span> Activitat 6.3: El Nom de la Marca del Nostre Equip
 
-Poseu en comú les vostres idees i trieu entre tots el nom oficial de la vostra marca d'equip:
+* **Nom consensuat per l'equip:** _____________________________________________
+* **Tipus de nom (Emocional / Inspirat en un lloc / Inventat / Nom curt):** ____________________
 
-- **Nom final seleccionat per a la marca de l'equip:** <span style="border-bottom: 1.5px dashed #666; display: inline-block; width: 65%;"></span>
-- **Expliqueu per què heu triat aquest nom i quin record o emoció compartida representa:**
-   
-   <div class="response-box" style="min-height: 120px;"></div>
+1. **Per què heu triat aquest nom? Què significa per a vosaltres?**
+   <div class="response-box" style="min-height: 90px;"></div>
 
-- **Comproveu les regles bàsiques en equip:**
-  - [ ] És un nom curt i fàcil de dir?
-  - [ ] Es recorda fàcilment?
-  - [ ] Té relació amb les vostres idees / Moodboards?
+2. **Comproveu les regles:**
+   - [ ] És curt (2-3 síl·labes)?
+   - [ ] És fàcil de recordar?
+   - [ ] Connecta amb la vostra col·lecció?
 
 <div class="page-break"></div>
 
 ---
 
-### <span class="badge-team">👥 EN EQUIP</span> Activitat 6.4: Desenvolupament i Esbós del Logotip Oficial de l'Equip
+### Activitat 6.4: Anàlisi de 2 Logotips amb Errors
 
-Dissenyeu junts el logotip oficial de la marca del vostre equip:
+Mira els 2 logotips reals del web i indica quins errors tenen:
 
-#### 1. Pluja d'Idees i Esbossos Inicials dels Membres de l'Equip (Full Sencer)
+#### 1. Cas Polideportivo Ejido
+<div style="text-align: center; margin: 0.5rem 0;">
+  <img src="/artifex/media/bad_logo_ejido.png" alt="Logo Ejido" style="max-height: 160px; border-radius: 8px;" />
+</div>
 
-<div class="page-break"></div>
-
-#### 2. Esbós Definitiu del Logotip Seleccionat de l'Equip
-<div style="border: 2px solid var(--sl-color-accent); border-radius: 10px; height: 295px; background: #fffcf8; margin: 0.75rem 0;"></div>
-
-#### 3. Reflexió Final del Logotip d'Equip
-Expliqueu per què heu triat aquest dibuix i què representa de la vostra marca:
-
-<div class="response-box" style="min-height: 120px;"></div>
-
-<div class="page-break"></div>
-
-### <span class="badge-team">👥 EN EQUIP</span> Activitat 6.5: Pluja d'Idees i Disseny de la Col·lecció d'Arracades de l'Equip (Full Sencer)
-
-Dibuixeu diferents esbossos de les arracades de l'equip a mà alçada (cada membre dissenyarà un dels models d'arracada). Totes les peces han de tenir un estil semblant i relació amb la marca:
-
-<div style="border: 2px dashed #7F1146; border-radius: 12px; height: 550px; background: #ffffff; margin: 1rem 0;"></div>
-
-- **Expliqueu breument com es relacionen els vostres dibuixos amb la història de la marca:**
+* **Quins problemes té?**
+  - [ ] Té massa detalls i dibuixos petits.
+  - [ ] No es llegeix bé de lluny ni en petit.
+  - [ ] No funciona en 1 sol color ni es pot tallar en vinil.
+* *Com el milloraries tu?*
   <div class="response-box" style="min-height: 120px;"></div>
 
 <div class="page-break"></div>
 
-# BLOC 7: FASE 3 — DISSENY TÈCNIC
+#### 2. Cas Museu d'Art de Reykjavík
+<div style="text-align: center; margin: 0.5rem 0;">
+  <img src="/artifex/media/bad_logo_reykjavik.jpg" alt="Logo Reykjavik" style="max-height: 160px; border-radius: 8px;" />
+</div>
 
-### Activitat 7.1: Tasca Avaluable de Disseny Tècnic a Google Classroom
-
-A través de **Tinkercad Classroom**, hauràs de crear i lliurar les següents **3 tasques de disseny 3D**:
-
----
-
-#### 📌 Tasca 1: Logo Munay (Pràctica Guiada)
-* **Descripció:** Repetir el logo Munay pas a pas seguint el videotutorial de la web.
-* **Estat:** [ ] Completat i lliurat a Tinkercad Classroom
-
-#### 📌 <span class="badge-team">👥 EN EQUIP</span> Tasca 2: Logotip Oficial de l'Equip (Disseny 2D)
-* **Descripció:** Dibuixar en format vectorial el logotip oficial comú consensuat de l'equip. La mida no pot superar els **10 × 10 cm**.
-* **Estat:** [ ] Completat i lliurat a Tinkercad Classroom
-
-#### 📌 <span class="badge-team">👥 EN EQUIP</span> Tasca 3: Arracada 3D de la Col·lecció (Tinkercad Blocs / Codeblocks)
-* **Descripció:** Crear el model 3D de **dues arracades com a mínim** de la col·lecció programant amb blocs visuals. Cada membre de l'equip en fa com a mínim dues de diferents per a la col·lecció. La mida màxima és de **4 × 4 × 0,5 cm**.
-* **Estat de lliurament (2 arracades com a mínim):**
-  - [ ] Arracada 1 lliurada a Tinkercad Classroom
-  - [ ] Arracada 2 lliurada a Tinkercad Classroom
+* **Quins problemes té?**
+  - [ ] Les lletres estan desordenades i costa molt de llegir.
+  - [ ] Sembla un laberint confús.
+  - [ ] La gent no sap quin és el nom del museu.
+* *Com el milloraries tu?*
+  <div class="response-box" style="min-height: 120px;"></div>
 
 <div class="page-break"></div>
 
 ---
 
-# SEGUIMENT I REVISIÓ DEL TREBALL EN EQUIP (Abans d'entrar al Taller)
+### <span class="badge-team">👥 EN EQUIP</span> Activitat 6.5: Dibuix del Logotip de l'Equip
 
-<div class="custom-card" style="margin: 1rem 0; border-left: 5px solid var(--sl-color-accent); background: rgba(193, 40, 114, 0.04); padding: 1rem 1.25rem; border-radius: 10px;">
-  <strong style="color: var(--sl-color-accent-high);">👥 Aturada de reflexió d'equip:</strong> Abans d'anar al taller, avalueu en equip com esteu treballant, com esteu complint els acords i els càrrecs, i feu propostes de millora.
-</div>
+1. **Dibuixa aquí l'esbós definitiu del logotip del vostre equip:**
+<div style="border: 2px solid var(--sl-color-accent); border-radius: 10px; height: 320px; background: #fffcf8; margin: 1rem 0;"></div>
 
-### A) Valoració dels Acords d'Equip
-Valoreu com esteu complint els acords que vau establir a l'inici. Marqueu una creu [X]:
+2. **Comproveu el vostre logotip:**
+   - [ ] És senzill i sense línies massa fines?
+   - [ ] Es llegeix clarament el nom?
+   - [ ] Passa la **Prova de les Tisores** (es pot retallar en vinil sense que es trenqui)?
+   - [ ] Funciona en **Blanc i Negre**?
+
+3. **Per què és un bon logotip per a la vostra marca?**
+   <div class="response-box" style="min-height: 110px;"></div>
+
+<div class="page-break"></div>
+
+### <span class="badge-team">👥 EN EQUIP</span> Activitat 6.6: Dibuix de les 3 Arracades de l'Equip
+
+Dibuixeu els 3 models d'arracada de la col·lecció (1 model per a cada alumne/a):
+
+* **Inspiració de la col·lecció (Natura / Formes geomètriques / Art):** ____________________
+
+<div style="border: 2px dashed #7F1146; border-radius: 12px; height: 550px; background: #ffffff; margin: 1rem 0;"></div>
+
+* **Per què aquestes 3 arracades formen una col·lecció que queda bé junta?**
+  <div class="response-box" style="min-height: 110px;"></div>
+
+<div class="page-break"></div>
+
+# BLOC 7: FASE 3 — DISSENY PER ORDINADOR (Tinkercad)
+
+En aquesta fase faràs 3 tasques a **Tinkercad Classroom**:
+
+* **📌 Tasca 1: Logo Munay (Pràctica guiada)**
+  - Segueix el vídeo del web per aprendre a dibuixar amb eines 2D a Tinkercad.
+  - [ ] Fet i lliurat a Classroom.
+
+* **📌 <span class="badge-team">👥 EN EQUIP</span> Tasca 2: El Logotip de l'Equip en 2D**
+  - Dibuixa el logotip oficial del teu equip a Tinkercad (mida màxima: 10 × 10 cm).
+  - [ ] Fet i lliurat a Classroom.
+
+* **📌 <span class="badge-team">👥 EN EQUIP</span> Tasca 3: L'Arracada en 3D (Tinkercad Codeblocks)**
+  - Programa la teva arracada en 3D amb blocs de codi seguint els vídeos (mida màxima: 4 × 4 cm i gruix de 2-3 mm).
+  - Recorda fer-li el forat petit per posar-hi l'anella (1,5 mm).
+  - [ ] Fet i lliurat a Classroom.
+
+<div class="page-break"></div>
+
+---
+
+# SEGUIMENT DE L'EQUIP (Abans d'anar al Taller)
+
+### A) Revisió dels Acords d'Equip
+Comproveu com esteu treballant en equip:
 
 <table style="width: 100%; border-collapse: collapse; margin: 1rem 0; font-size: 0.82rem; line-height: 1.35;">
   <thead>
     <tr style="background: #f8fafc; color: #1e293b; border-bottom: 2px solid #9d174d;">
-      <th style="width: 18%; padding: 0.5rem; text-align: left; border: 1px solid #d1d5db;">Acords d'Equip</th>
-      <th style="width: 9%; padding: 0.5rem; text-align: center; border: 1px solid #d1d5db;">Gairebé mai</th>
-      <th style="width: 9%; padding: 0.5rem; text-align: center; border: 1px solid #d1d5db;">A vegades</th>
-      <th style="width: 9%; padding: 0.5rem; text-align: center; border: 1px solid #d1d5db;">Gairebé sempre</th>
-      <th style="width: 9%; padding: 0.5rem; text-align: center; border: 1px solid #d1d5db;">Sempre</th>
-      <th style="width: 46%; padding: 0.5rem; text-align: left; border: 1px solid #d1d5db;">Què ha funcionat bé? Què cal millorar? Com fareu els canvis?</th>
+      <th style="width: 25%; padding: 0.5rem; text-align: left; border: 1px solid #d1d5db;">Acords d'Equip</th>
+      <th style="width: 12%; padding: 0.5rem; text-align: center; border: 1px solid #d1d5db;">Gairebé mai</th>
+      <th style="width: 12%; padding: 0.5rem; text-align: center; border: 1px solid #d1d5db;">A vegades</th>
+      <th style="width: 12%; padding: 0.5rem; text-align: center; border: 1px solid #d1d5db;">Gairebé sempre</th>
+      <th style="width: 12%; padding: 0.5rem; text-align: center; border: 1px solid #d1d5db;">Sempre</th>
+      <th style="width: 27%; padding: 0.5rem; text-align: left; border: 1px solid #d1d5db;">Com ho podem millorar?</th>
     </tr>
   </thead>
   <tbody>
-    <tr style="height: 55px;">
+    <tr style="height: 60px;">
       <td style="padding: 0.4rem; font-weight: 700; border: 1px solid #d1d5db;">Acord 1:</td>
       <td style="border: 1px solid #d1d5db; text-align: center;">[ ]</td>
       <td style="border: 1px solid #d1d5db; text-align: center;">[ ]</td>
@@ -534,7 +589,7 @@ Valoreu com esteu complint els acords que vau establir a l'inici. Marqueu una cr
       <td style="border: 1px solid #d1d5db; text-align: center;">[ ]</td>
       <td style="border: 1px solid #d1d5db; padding: 0.4rem;"></td>
     </tr>
-    <tr style="height: 55px;">
+    <tr style="height: 60px;">
       <td style="padding: 0.4rem; font-weight: 700; border: 1px solid #d1d5db;">Acord 2:</td>
       <td style="border: 1px solid #d1d5db; text-align: center;">[ ]</td>
       <td style="border: 1px solid #d1d5db; text-align: center;">[ ]</td>
@@ -542,7 +597,7 @@ Valoreu com esteu complint els acords que vau establir a l'inici. Marqueu una cr
       <td style="border: 1px solid #d1d5db; text-align: center;">[ ]</td>
       <td style="border: 1px solid #d1d5db; padding: 0.4rem;"></td>
     </tr>
-    <tr style="height: 55px;">
+    <tr style="height: 60px;">
       <td style="padding: 0.4rem; font-weight: 700; border: 1px solid #d1d5db;">Acord 3:</td>
       <td style="border: 1px solid #d1d5db; text-align: center;">[ ]</td>
       <td style="border: 1px solid #d1d5db; text-align: center;">[ ]</td>
@@ -553,22 +608,20 @@ Valoreu com esteu complint els acords que vau establir a l'inici. Marqueu una cr
   </tbody>
 </table>
 
-### B) Valoració dels Càrrecs d'Equip
-Valoreu si cadascú està complint amb el seu càrrec:
-
+### B) Revisió dels Càrrecs
 <table style="width: 100%; border-collapse: collapse; margin: 1rem 0; font-size: 0.82rem; line-height: 1.35;">
   <thead>
     <tr style="background: #f8fafc; color: #1e293b; border-bottom: 2px solid #9d174d;">
-      <th style="width: 18%; padding: 0.5rem; text-align: left; border: 1px solid #d1d5db;">Càrrecs</th>
-      <th style="width: 9%; padding: 0.5rem; text-align: center; border: 1px solid #d1d5db;">Gairebé mai</th>
-      <th style="width: 9%; padding: 0.5rem; text-align: center; border: 1px solid #d1d5db;">A vegades</th>
-      <th style="width: 9%; padding: 0.5rem; text-align: center; border: 1px solid #d1d5db;">Gairebé sempre</th>
-      <th style="width: 9%; padding: 0.5rem; text-align: center; border: 1px solid #d1d5db;">Sempre</th>
-      <th style="width: 46%; padding: 0.5rem; text-align: left; border: 1px solid #d1d5db;">Què ha funcionat bé? Què cal millorar? Com fareu els canvis?</th>
+      <th style="width: 25%; padding: 0.5rem; text-align: left; border: 1px solid #d1d5db;">Càrrec</th>
+      <th style="width: 12%; padding: 0.5rem; text-align: center; border: 1px solid #d1d5db;">Gairebé mai</th>
+      <th style="width: 12%; padding: 0.5rem; text-align: center; border: 1px solid #d1d5db;">A vegades</th>
+      <th style="width: 12%; padding: 0.5rem; text-align: center; border: 1px solid #d1d5db;">Gairebé sempre</th>
+      <th style="width: 12%; padding: 0.5rem; text-align: center; border: 1px solid #d1d5db;">Sempre</th>
+      <th style="width: 27%; padding: 0.5rem; text-align: left; border: 1px solid #d1d5db;">Com ho podem millorar?</th>
     </tr>
   </thead>
   <tbody>
-    <tr style="height: 48px;">
+    <tr style="height: 50px;">
       <td style="padding: 0.4rem; font-weight: 700; border: 1px solid #d1d5db;">Seguretat</td>
       <td style="border: 1px solid #d1d5db; text-align: center;">[ ]</td>
       <td style="border: 1px solid #d1d5db; text-align: center;">[ ]</td>
@@ -576,16 +629,16 @@ Valoreu si cadascú està complint amb el seu càrrec:
       <td style="border: 1px solid #d1d5db; text-align: center;">[ ]</td>
       <td style="border: 1px solid #d1d5db; padding: 0.4rem;"></td>
     </tr>
-    <tr style="height: 48px;">
-      <td style="padding: 0.4rem; font-weight: 700; border: 1px solid #d1d5db;">Ordre, Eines i Residus</td>
+    <tr style="height: 50px;">
+      <td style="padding: 0.4rem; font-weight: 700; border: 1px solid #d1d5db;">Ordre i Residus</td>
       <td style="border: 1px solid #d1d5db; text-align: center;">[ ]</td>
       <td style="border: 1px solid #d1d5db; text-align: center;">[ ]</td>
       <td style="border: 1px solid #d1d5db; text-align: center;">[ ]</td>
       <td style="border: 1px solid #d1d5db; text-align: center;">[ ]</td>
       <td style="border: 1px solid #d1d5db; padding: 0.4rem;"></td>
     </tr>
-    <tr style="height: 48px;">
-      <td style="padding: 0.4rem; font-weight: 700; border: 1px solid #d1d5db;">Focus, Temps i Clima</td>
+    <tr style="height: 50px;">
+      <td style="padding: 0.4rem; font-weight: 700; border: 1px solid #d1d5db;">Focus i Temps</td>
       <td style="border: 1px solid #d1d5db; text-align: center;">[ ]</td>
       <td style="border: 1px solid #d1d5db; text-align: center;">[ ]</td>
       <td style="border: 1px solid #d1d5db; text-align: center;">[ ]</td>
@@ -597,29 +650,29 @@ Valoreu si cadascú està complint amb el seu càrrec:
 
 <div class="page-break"></div>
 
-### C) Dues estrelles i un desig (Feedback entre membres de l'equip)
-Valoreu què ha aportat cadascú i què hauria de millorar d'ara endavant:
+### C) Dues estrelles i un desig
+Escriu 2 coses bones i 1 cosa a millorar per a cada company/a:
 
 <table style="width: 100%; border-collapse: collapse; margin: 1rem 0; font-size: 0.85rem;">
   <thead>
     <tr style="background: #f8fafc; color: #1e293b; border-bottom: 2px solid #9d174d;">
       <th style="width: 22%; padding: 0.6rem; text-align: left; border: 1px solid #d1d5db;">Membre</th>
-      <th style="width: 44%; padding: 0.6rem; text-align: left; border: 1px solid #d1d5db;">⭐ Dues estrelles<br/><span style="font-weight: 400; font-size: 0.76rem;">2 VALORACIONS POSITIVES (Fins ara has aportat... / T'agraïm...)</span></th>
-      <th style="width: 34%; padding: 0.6rem; text-align: left; border: 1px solid #d1d5db;">🎯 Un desig<br/><span style="font-weight: 400; font-size: 0.76rem;">1 ASPECTE QUE CAL MILLORAR (Et proposem que milloris...)</span></th>
+      <th style="width: 44%; padding: 0.6rem; text-align: left; border: 1px solid #d1d5db;">⭐ Dues estrelles (2 coses que fa molt bé)</th>
+      <th style="width: 34%; padding: 0.6rem; text-align: left; border: 1px solid #d1d5db;">🎯 Un desig (1 cosa que pot millorar)</th>
     </tr>
   </thead>
   <tbody>
-    <tr style="height: 80px;">
+    <tr style="height: 85px;">
       <td style="padding: 0.5rem; font-weight: 700; border: 1px solid #d1d5db; vertical-align: top;">Nom 1:</td>
       <td style="padding: 0.5rem; border: 1px solid #d1d5db;"></td>
       <td style="padding: 0.5rem; border: 1px solid #d1d5db;"></td>
     </tr>
-    <tr style="height: 80px;">
+    <tr style="height: 85px;">
       <td style="padding: 0.5rem; font-weight: 700; border: 1px solid #d1d5db; vertical-align: top;">Nom 2:</td>
       <td style="padding: 0.5rem; border: 1px solid #d1d5db;"></td>
       <td style="padding: 0.5rem; border: 1px solid #d1d5db;"></td>
     </tr>
-    <tr style="height: 80px;">
+    <tr style="height: 85px;">
       <td style="padding: 0.5rem; font-weight: 700; border: 1px solid #d1d5db; vertical-align: top;">Nom 3:</td>
       <td style="padding: 0.5rem; border: 1px solid #d1d5db;"></td>
       <td style="padding: 0.5rem; border: 1px solid #d1d5db;"></td>
@@ -627,148 +680,171 @@ Valoreu què ha aportat cadascú i què hauria de millorar d'ara endavant:
   </tbody>
 </table>
 
-### D) Reformulació dels Acords d'ara endavant (Fase de Taller)
-Voleu canviar o millorar algun dels acords per al taller?
-* **ACORD 1:** <div class="response-box" style="min-height: 45px;"></div>
-* **ACORD 2:** <div class="response-box" style="min-height: 45px;"></div>
-* **ACORD 3:** <div class="response-box" style="min-height: 45px;"></div>
+### D) Nous Acords per al Taller
+Quins 3 acords fareu servir ara que entreu al taller?
+* **ACORD 1:** <div class="response-box" style="min-height: 48px;"></div>
+* **ACORD 2:** <div class="response-box" style="min-height: 48px;"></div>
+* **ACORD 3:** <div class="response-box" style="min-height: 48px;"></div>
 
 <div class="page-break"></div>
 
 ---
 
-# BLOC 8: FASE 4 — PRODUCCIÓ I FABRICACIÓ
+# BLOC 8: FASE 4 — FABRICACIÓ AL TALLER
 
-### Activitat 8.1: Memòria del Procés de Fabricació al Taller
+### <span class="badge-team">👥 EN EQUIP</span> Activitat 8.1: Diari dels 6 passos de taller
 
-Explica com heu fabricat les arracades al taller responent breument a cada pas:
+Explica breument què heu fet, quines eines heu fet servir i com heu resolt els problemes a cada pas:
 
----
-
-#### Pas 1: Impressió 3D de la peça màster
-Quines impressores i materials heu fet servir? Quins problemes d'impressió van sorgir i com els heu solucionat?
-
+#### Pas 1: Impressió 3D del Màster
+Com heu imprès la peça de plàstic? Quins problemes hi ha hagut i com ho heu solucionat?
 <div class="response-box" style="min-height: 185px;"></div>
 
-<h4 style="margin-top: 1rem;">Pas 2: Caixa d'Encofrat</h4>
-Com heu preparat la caixa de fusta al voltant de la peça màster? Què heu fet per evitar que la silicona s'escapés?
-
-<div class="response-box" style="min-height: 185px;"></div>
-
-<div class="page-break"></div>
-
----
-
-#### Pas 3: Motlle de Silicona
-Com heu barrejat i abocat la silicona líquida? Quines proteccions (guants, mascareta) heu fet servir i com heu evitat les bombolles?
-
-<div class="response-box" style="min-height: 185px;"></div>
-
-<h4 style="margin-top: 1rem;">Pas 4: Buidatge de Resina</h4>
-Com heu barrejat la resina amb els pigments de color? Com heu aconseguit els colors de la teva marca?
-
+<h4 style="margin-top: 1rem;">Pas 2: Construcció de la Capsa d'Encofrat</h4>
+Com heu fet la caixeta de fusta i com heu enganxat la peça al fons perquè no suri?
 <div class="response-box" style="min-height: 185px;"></div>
 
 <div class="page-break"></div>
 
 ---
 
-#### Pas 5: Polit i Perforació
-Com heu pulit la peça de resina i com heu fet el forat per enganxar el ganxo?
-
+#### Pas 3: Fer el Motlle de Silicona Líquida
+Com heu barrejat la silicona i com l'heu abocat per no fer bombolles?
 <div class="response-box" style="min-height: 185px;"></div>
 
-<h4 style="margin-top: 1rem;">Pas 6: Muntatge Final</h4>
-Com heu posat les anelles i els ganxos de metall? Quin és el resultat final de la teva arracada?
-
+<h4 style="margin-top: 1rem;">Pas 4: Posar la Resina Epoxi amb Colors</h4>
+Com heu barrejat la resina (A+B) i quins pigments o purpurines heu posat?
 <div class="response-box" style="min-height: 185px;"></div>
 
 <div class="page-break"></div>
 
 ---
 
-# BLOC 9: FASE 5 — COSTOS, PREU I PUNT D'EQUILIBRI (BREAK-EVEN)
+#### Pas 5: Desmotllar, Polir i Foradar
+Com heu tret les peces, com les heu polit amb paper de vidre i com heu fet el forat?
+<div class="response-box" style="min-height: 185px;"></div>
 
-### Activitat 9.1: Anàlisi Competencial de Costos i Punt d'Equilibri
+<h4 style="margin-top: 1rem;">Pas 6: Muntatge de les Arracades</h4>
+Com heu posat l'anella i el ganxo metàl·lic amb les alicates de joieria?
+<div class="response-box" style="min-height: 185px;"></div>
 
-1. **Quant li costa a la nostra cooperativa la maquinària de l'aula (Impressora 3D, Talladora Làser, Ordinadors)?**
-   - [ ] A) 0,00 €, perquè és una infraestructura que ens deixa l'escola de franc.
-   - [ ] B) 3.575,00 € de la nostra caixa.
-   - [ ] C) 41,98 €.
-   - [ ] D) 92,42 €.
+<div class="page-break"></div>
 
-2. **Quants diners en total s'han d'invertir en eines i materials abans de començar a vendre les arracades?**
-   - [ ] A) 3.575,00 €
-   - [ ] B) 41,98 €
-   - [ ] C) 92,42 € (costos fixos + materials)
-   - [ ] D) 500,00 €
+---
 
-3. **Al gràfic del simulador financer, què representa la línia vermella horitzontal (Inversió Total)?**
-   - [ ] A) Els diners que anem guanyant.
-   - [ ] B) El preu de venda de l'arracada.
-   - [ ] C) El nombre d'alumnes del grup.
-   - [ ] D) Els diners totals gastats abans de vendre cap joia (92,42 €).
+### Activitat 8.2: Joieria Artesanal vs. Joieria Industrial
 
-4. **Al gràfic del simulador financer, què representa la línia verda diagonal (Ingressos)?**
-   - [ ] A) El cost de les màquines.
-   - [ ] B) Els diners acumulats per les vendes a mesura que venem més arracades.
-   - [ ] C) El descompte del proveïdor.
-   - [ ] D) El preu del packaging.
+#### Resum comparatiu:
+* **Taller d'Autor (Majoral):** Un mestre artesà fa cada arracada a mà una per una. Triga **3 hores per joia** (cost mà d'obra: 75 €). Les peces són úniques i exclusives (preu: 180 € - 350 €).
+* **Fàbrica Industrial (TOUS):** Fa arracades amb màquines làser en sèrie. Fa **1 parell cada 45 segons** (cost mà d'obra: 0,35 €). Totes les peces són 100% idèntiques i assequibles (preu: 35 € - 85 €).
 
-5. **En el Punt d'Equilibri (on es creuen la línia verda d'Ingressos i la vermella d'Inversió):**
-   - [ ] A) Els Ingressos per vendes igualen exactament la Inversió feta (Benefici = 0 €).
-   - [ ] B) Tenim pèrdues de 1.000 €.
-   - [ ] C) L'empresa ha de tancar.
-   - [ ] D) Es regalen totes les arracades.
+#### Preguntes tipus test:
 
-### <span class="badge-team">👥 EN EQUIP</span> Activitat 9.2: Decisió Democràtica del Preu (Assemblea de Cooperativa)
+1. **Per què fer una joia a mà costa 75 € de mà d'obra i a la fàbrica només 0,35 €?**
+   - [ ] A) Perquè l'artesà dedica 3 hores de feina pacient a una sola joia, mentre que a la fàbrica una màquina en fa milers per minut.
+   - [ ] B) Perquè a la fàbrica no paguen sous.
+   - [ ] C) Perquè els materials del taller són gratis.
 
-1. **La proposta del vostre equip:**  
-   Quin preu de venda va proposar el vostre equip per parell d'arracades abans de començar l'assemblea? Per què?  
+2. **Quantes peces a la setmana fa la fàbrica de TOUS comparat amb el taller artesanal?**
+   - [ ] A) La fàbrica en fa 3.500 parells i el taller artesanal uns 10-15 parells.
+   - [ ] B) En fan exactament la mateixa quantitat.
+   - [ ] C) El taller artesanal en fa més que la fàbrica.
+
+3. **Quin és el valor principal d'una joia feta a mà al taller?**
+   - [ ] A) Que és una peça única, especial i feta amb cura per un artesà.
+   - [ ] B) Que és la més barata de totes.
+   - [ ] C) Que està feta per un robot.
+
+4. **Com afecta el sistema de fabricació al preu de la joia?**
+   - [ ] A) La joia artesanal és més cara pel temps de feina manual, i la industrial és més barata perquè es fa en cadena.
+   - [ ] B) No afecta en res.
+   - [ ] C) Les joies manuals es regalen.
+
+#### Reflexió sobre la nostra feina a Artífex:
+Explica quines parts de la feina heu fet per ordinador (3D) i quines heu fet amb les mans (silicona, resina, polit) i què t'ha agradat més:
+
+<div class="response-box" style="min-height: 560px;"></div>
+
+<div class="page-break"></div>
+
+---
+
+# BLOC 9: FASE 5 — COSTOS I PREU DE VENDA
+
+### Activitat 9.1: Estudi de Costos i Simulador Financer
+
+#### Preguntes sobre el simulador:
+
+1. **Quant ha costat a la nostra cooperativa comprar les impressores 3D i ordinadors de l'aula?**
+   - [ ] A) 0,00 €, perquè ens els deixa l'institut gratis.
+   - [ ] B) 3.575,00 €.
+   - [ ] C) 50,00 €.
+
+2. **Quants diners en total (materials + motlles) hem de gastar per començar a fer les arracades?**
+   - [ ] A) 92,42 € (uns 42 € de motlles i eines + 50 € de resina i fornitures).
+   - [ ] B) 3.000 €.
+   - [ ] C) 5 €.
+
+3. **Al gràfic del simulador, què vol dir la línia vermella plana (Despeses)?**
+   - [ ] A) Tots els diners que hem gastat abans de començar a vendre (92,42 €).
+   - [ ] B) Els diners que anem guanyant.
+   - [ ] C) El preu de les arracades.
+
+4. **Al gràfic, què vol dir la línia verda inclinada (Ingressos)?**
+   - [ ] A) Els diners que anem recollint a mesura que venem arracades.
+   - [ ] B) El cost de les màquines.
+   - [ ] C) El preu de la resina.
+
+5. **Què vol dir el "Punt d'Equilibri" (on es creuen la línia verda i la vermella)?**
+   - [ ] A) El moment exacte on recuperem tots els diners invertits (ja no perdem diners).
+   - [ ] B) Que l'empresa ha fet fallida.
+   - [ ] C) Que regalem les joies.
+
+#### Preguntes de reflexió:
+
+1. **Línia de Despeses:** Per què és una línia plana? Què passaria si compréssim el doble de resina?
    <div class="response-box" style="min-height: 140px;"></div>
 
-2. **El debat en l'Assemblea:**  
-   Quines altres propostes de preu es van dir a l'assemblea de classe? Quin argument et va semblar bo?  
+2. **Línia d'Ingressos:** Si venem les arracades més cares, la línia verda pujarà més ràpid o més a poc a poc?
    <div class="response-box" style="min-height: 140px;"></div>
 
-3. **Preu final votat per la Cooperativa:**  
-   * **Preu final aprovat per tothom:** <span style="border-bottom: 2px dashed #9d174d; display: inline-block; width: 140px; height: 22px; vertical-align: bottom;"></span> **€ / parell**  
-   * **Per què és un preu just per al comprador i per a la cooperativa?**  
+<div class="page-break"></div>
+
+3. **Punt d'Equilibri:** Si venem menys arracades de les necessàries per arribar al punt on es creuen les línies, guanyem o perdem diners?
    <div class="response-box" style="min-height: 140px;"></div>
+
+4. **Edició limitada (10 unitats):** Si només volem vendre 10 parells d'arracades per recuperar els 92,42 €, a quin preu mínim hauríem de vendre cada parell?
+   <div class="response-box" style="min-height: 170px;"></div>
+
+5. **Si haguéssim de pagar les màquines (3.575 €):** Quantes arracades hauríem de vendre a 6 € per pagar les màquines? Seria fàcil o difícil?
+   <div class="response-box" style="min-height: 170px;"></div>
+
+---
+
+# BLOC 10: FASE 6 — LA HISTÒRIA DE LA MARCA (Storytelling)
+
+### <span class="badge-team">👥 EN EQUIP</span> Activitat 10.1: Targeta de la Història per al Client
+
+Escriviu junts la història de la vostra marca que anirà a la capsa de les arracades (*Què significa el nom? Quins records o emocions inspiren les joies? Com les heu fet a mà al taller?*):
+
+<div style="border: 2px solid var(--sl-color-accent); border-radius: 12px; padding: 1.25rem; background: #fffcf8; margin: 1rem 0;">
+  <div class="response-box" style="min-height: 460px; background: transparent; border: none;"></div>
+</div>
 
 <div class="page-break"></div>
 
 ---
 
-# BLOC 10: FASE 6 — COMERCIALITZACIÓ I STORYTELLING
+# BLOC 11: AUTOAVALUACIÓ I COAVALUACIÓ FINAL
 
-### <span class="badge-team">👥 EN EQUIP</span> Activitat 10.1: Redacció de la Història de la Marca d'Equip (Storytelling)
+### Activitat 11.1: Com has treballat tu? (Autoavaluació)
 
-Redacta el text de la targeta que anirà dins de la capsa d'arracades del vostre equip, explicant la història de la vostra marca: *Recordatori: Encara que la història es redacti en equip, tothom l'ha d'escriure a la seva pròpia carpeta d'aprenentatge.*
-
-<div style="min-height: 520px;"></div>
-
-<div class="page-break"></div>
-
----
-
-# BLOC 11: TANCAMENT DEL PROJECTE I AUTOAVALUACIÓ FINAL
-
-### <span class="badge-team">👥 EN EQUIP</span> Activitat 11.1: Valoració Final del Treball en Equip
-
-#### A) Valoració Final dels Acords d'Equip
-Valoreu com heu complert els acords al llarg de tot el projecte:
-
-# BLOC 11: TANCAMENT DEL PROJECTE, AUTOAVALUACIÓ I COAVALUACIÓ FINAL
-
-### Activitat 11.1: Autoavaluació Individual de la Carpeta d'Aprenentatge (Rúbrica)
-
-Mira la **Rúbrica d'Avaluació de la Carpeta d'Aprenentatge** de la primera pàgina. Avalua com has treballat la teva pròpia carpeta marcant una creu [X]:
+Posa una creu [X] al nivell que creus que has assolit segons la rúbrica:
 
 <table style="width: 100%; border-collapse: collapse; margin: 1rem 0; font-size: 0.82rem; line-height: 1.35;">
   <thead>
     <tr style="background: #f8fafc; color: #1e293b; border-bottom: 2px solid #9d174d;">
-      <th style="width: 28%; padding: 0.5rem; text-align: left; border: 1px solid #d1d5db;">Criteri de la Rúbrica</th>
+      <th style="width: 28%; padding: 0.5rem; text-align: left; border: 1px solid #d1d5db;">Criteri</th>
       <th style="width: 18%; padding: 0.5rem; text-align: center; border: 1px solid #d1d5db;">Novell (1 pt)</th>
       <th style="width: 18%; padding: 0.5rem; text-align: center; border: 1px solid #d1d5db;">Aprenent (2 pts)</th>
       <th style="width: 18%; padding: 0.5rem; text-align: center; border: 1px solid #d1d5db;">Avançat (3 pts)</th>
@@ -777,35 +853,35 @@ Mira la **Rúbrica d'Avaluació de la Carpeta d'Aprenentatge** de la primera pà
   </thead>
   <tbody>
     <tr>
-      <td style="padding: 0.45rem; font-weight: 700; border: 1px solid #d1d5db;">1. Completesa de tasques<br /><span style="font-weight: 400; font-size: 0.74rem; color: #555;">(Totes les activitats fetes)</span></td>
+      <td style="padding: 0.45rem; font-weight: 700; border: 1px solid #d1d5db;">1. Feina completa (tot fet)</td>
       <td style="border: 1px solid #d1d5db; text-align: center;">[ ]</td>
       <td style="border: 1px solid #d1d5db; text-align: center;">[ ]</td>
       <td style="border: 1px solid #d1d5db; text-align: center;">[ ]</td>
       <td style="border: 1px solid #d1d5db; text-align: center;">[ ]</td>
     </tr>
     <tr>
-      <td style="padding: 0.45rem; font-weight: 700; border: 1px solid #d1d5db;">2. Qualitat de les respostes<br /><span style="font-weight: 400; font-size: 0.74rem; color: #555;">(Respostes clares i ben explicades)</span></td>
+      <td style="padding: 0.45rem; font-weight: 700; border: 1px solid #d1d5db;">2. Qualitat de les respostes</td>
       <td style="border: 1px solid #d1d5db; text-align: center;">[ ]</td>
       <td style="border: 1px solid #d1d5db; text-align: center;">[ ]</td>
       <td style="border: 1px solid #d1d5db; text-align: center;">[ ]</td>
       <td style="border: 1px solid #d1d5db; text-align: center;">[ ]</td>
     </tr>
     <tr>
-      <td style="padding: 0.45rem; font-weight: 700; border: 1px solid #d1d5db;">3. Feedback i millora<br /><span style="font-weight: 400; font-size: 0.74rem; color: #555;">(Correcció d'errors i millores)</span></td>
+      <td style="padding: 0.45rem; font-weight: 700; border: 1px solid #d1d5db;">3. Corregir i millorar</td>
       <td style="border: 1px solid #d1d5db; text-align: center;">[ ]</td>
       <td style="border: 1px solid #d1d5db; text-align: center;">[ ]</td>
       <td style="border: 1px solid #d1d5db; text-align: center;">[ ]</td>
       <td style="border: 1px solid #d1d5db; text-align: center;">[ ]</td>
     </tr>
     <tr>
-      <td style="padding: 0.45rem; font-weight: 700; border: 1px solid #d1d5db;">4. Seguiment i constància<br /><span style="font-weight: 400; font-size: 0.74rem; color: #555;">(Treball al dia i ritme a classe)</span></td>
+      <td style="padding: 0.45rem; font-weight: 700; border: 1px solid #d1d5db;">4. Treball al dia i constància</td>
       <td style="border: 1px solid #d1d5db; text-align: center;">[ ]</td>
       <td style="border: 1px solid #d1d5db; text-align: center;">[ ]</td>
       <td style="border: 1px solid #d1d5db; text-align: center;">[ ]</td>
       <td style="border: 1px solid #d1d5db; text-align: center;">[ ]</td>
     </tr>
     <tr>
-      <td style="padding: 0.45rem; font-weight: 700; border: 1px solid #d1d5db;">5. Cura i polidesa<br /><span style="font-weight: 400; font-size: 0.74rem; color: #555;">(Treball net, ordenat i lletra clara)</span></td>
+      <td style="padding: 0.45rem; font-weight: 700; border: 1px solid #d1d5db;">5. Cura, netedat i ordre</td>
       <td style="border: 1px solid #d1d5db; text-align: center;">[ ]</td>
       <td style="border: 1px solid #d1d5db; text-align: center;">[ ]</td>
       <td style="border: 1px solid #d1d5db; text-align: center;">[ ]</td>
@@ -814,23 +890,25 @@ Mira la **Rúbrica d'Avaluació de la Carpeta d'Aprenentatge** de la primera pà
   </tbody>
 </table>
 
-- **Nota d'Autoavaluació estimada (sobre 10):** <span style="border-bottom: 1.5px dashed #666; display: inline-block; width: 60px;"></span> / 10
-- **Explica breument què és el que has fet millor a la teva carpeta i què podries millorar:**
+* **Puntuació total estimada:** ______ / 20 pts *(Nota sobre 10:* ______ / 10*)*
+* **Per què et poses aquesta nota? Què has fet millor i què podries millorar?**
   <div class="response-box" style="min-height: 120px;"></div>
 
+<div class="page-break"></div>
+
 ---
 
-### Activitat 11.2: Coavaluació entre Iguals (Avaluació dels altres 2 Membres de l'Equip)
+### Activitat 11.2: Avaluació dels 2 Companys/es d'Equip (Coavaluació)
 
-Avalua com han treballat els teus **dos companys/es d'equip** a la carpeta, al taller maker i en el compliment del seu càrrec:
+Avalua amb respecte i sinceritat la feina dels teus 2 companys/es:
 
-#### 1. Coavaluació del/de la Company/a 1: <span style="border-bottom: 1.5px dashed #666; display: inline-block; width: 45%;"></span>
-*(Càrrec Maker: 🛡️ Seguretat / 🧹 Ordre, Eines i Residus / ⏱️ Focus, Temps i Clima)*
+#### 1. Company/a 1: _____________________________________________
+*(Càrrec Maker: 🛡️ Seguretat / 🧹 Ordre i Residus / ⏱️ Focus i Temps)*
 
 <table style="width: 100%; border-collapse: collapse; margin: 0.75rem 0; font-size: 0.82rem; line-height: 1.35;">
   <thead>
     <tr style="background: #f8fafc; color: #1e293b; border-bottom: 2px solid #9d174d;">
-      <th style="width: 44%; padding: 0.45rem; text-align: left; border: 1px solid #d1d5db;">Criteri de Treball en Equip i Taller Maker</th>
+      <th style="width: 44%; padding: 0.45rem; text-align: left; border: 1px solid #d1d5db;">Criteri de Treball en Equip</th>
       <th style="width: 14%; padding: 0.45rem; text-align: center; border: 1px solid #d1d5db;">Gairebé mai</th>
       <th style="width: 14%; padding: 0.45rem; text-align: center; border: 1px solid #d1d5db;">A vegades</th>
       <th style="width: 14%; padding: 0.45rem; text-align: center; border: 1px solid #d1d5db;">Gairebé sempre</th>
@@ -839,28 +917,28 @@ Avalua com han treballat els teus **dos companys/es d'equip** a la carpeta, al t
   </thead>
   <tbody>
     <tr>
-      <td style="padding: 0.4rem; border: 1px solid #d1d5db;"><strong>1. Implicació:</strong> Ha participat activament en la marca i les decisions d'equip.</td>
+      <td style="padding: 0.4rem; border: 1px solid #d1d5db;"><strong>1. Implicació:</strong> Ha ajudat a prendre decisions i a crear la marca.</td>
       <td style="border: 1px solid #d1d5db; text-align: center;">[ ]</td>
       <td style="border: 1px solid #d1d5db; text-align: center;">[ ]</td>
       <td style="border: 1px solid #d1d5db; text-align: center;">[ ]</td>
       <td style="border: 1px solid #d1d5db; text-align: center;">[ ]</td>
     </tr>
     <tr>
-      <td style="padding: 0.4rem; border: 1px solid #d1d5db;"><strong>2. Feina al Taller Maker:</strong> Ha treballat amb esforç i cura en impressió 3D, silicona, resina i muntatge.</td>
+      <td style="padding: 0.4rem; border: 1px solid #d1d5db;"><strong>2. Feina al Taller:</strong> Ha treballat bé amb motlles, resina i polit.</td>
       <td style="border: 1px solid #d1d5db; text-align: center;">[ ]</td>
       <td style="border: 1px solid #d1d5db; text-align: center;">[ ]</td>
       <td style="border: 1px solid #d1d5db; text-align: center;">[ ]</td>
       <td style="border: 1px solid #d1d5db; text-align: center;">[ ]</td>
     </tr>
     <tr>
-      <td style="padding: 0.4rem; border: 1px solid #d1d5db;"><strong>3. Compliment del Càrrec Maker:</strong> Ha sigut responsable amb el seu càrrec al taller.</td>
+      <td style="padding: 0.4rem; border: 1px solid #d1d5db;"><strong>3. Càrrec Maker:</strong> Ha complert amb el càrrec que tenia assignat.</td>
       <td style="border: 1px solid #d1d5db; text-align: center;">[ ]</td>
       <td style="border: 1px solid #d1d5db; text-align: center;">[ ]</td>
       <td style="border: 1px solid #d1d5db; text-align: center;">[ ]</td>
       <td style="border: 1px solid #d1d5db; text-align: center;">[ ]</td>
     </tr>
     <tr>
-      <td style="padding: 0.4rem; border: 1px solid #d1d5db;"><strong>4. Respecte i Ajuda:</strong> Ha respectat els acords i ha ajudat a l'equip.</td>
+      <td style="padding: 0.4rem; border: 1px solid #d1d5db;"><strong>4. Respecte i actitud:</strong> Ha tractat bé els companys i ha ajudat.</td>
       <td style="border: 1px solid #d1d5db; text-align: center;">[ ]</td>
       <td style="border: 1px solid #d1d5db; text-align: center;">[ ]</td>
       <td style="border: 1px solid #d1d5db; text-align: center;">[ ]</td>
@@ -869,19 +947,20 @@ Avalua com han treballat els teus **dos companys/es d'equip** a la carpeta, al t
   </tbody>
 </table>
 
-- **Feedback per a aquest/a company/a:**
-  - ⭐ **Aspecte positiu / Agraïment:** <span style="border-bottom: 1.5px dashed #666; display: inline-block; width: 70%;"></span>
-  - 🎯 **Consell per millorar en el futur:** <span style="border-bottom: 1.5px dashed #666; display: inline-block; width: 68%;"></span>
+* ⭐ **Punt fort / Què li agraeixes:**
+  <div class="response-box" style="min-height: 48px;"></div>
+* 🎯 **Aspecte que pot millorar:**
+  <div class="response-box" style="min-height: 48px;"></div>
 
-<div class="page-break"></div>
+---
 
-#### 2. Coavaluació del/de la Company/a 2: <span style="border-bottom: 1.5px dashed #666; display: inline-block; width: 45%;"></span>
-*(Càrrec Maker: 🛡️ Seguretat / 🧹 Ordre, Eines i Residus / ⏱️ Focus, Temps i Clima)*
+#### 2. Company/a 2: _____________________________________________
+*(Càrrec Maker: 🛡️ Seguretat / 🧹 Ordre i Residus / ⏱️ Focus i Temps)*
 
 <table style="width: 100%; border-collapse: collapse; margin: 0.75rem 0; font-size: 0.82rem; line-height: 1.35;">
   <thead>
     <tr style="background: #f8fafc; color: #1e293b; border-bottom: 2px solid #9d174d;">
-      <th style="width: 44%; padding: 0.45rem; text-align: left; border: 1px solid #d1d5db;">Criteri de Treball en Equip i Taller Maker</th>
+      <th style="width: 44%; padding: 0.45rem; text-align: left; border: 1px solid #d1d5db;">Criteri de Treball en Equip</th>
       <th style="width: 14%; padding: 0.45rem; text-align: center; border: 1px solid #d1d5db;">Gairebé mai</th>
       <th style="width: 14%; padding: 0.45rem; text-align: center; border: 1px solid #d1d5db;">A vegades</th>
       <th style="width: 14%; padding: 0.45rem; text-align: center; border: 1px solid #d1d5db;">Gairebé sempre</th>
@@ -890,28 +969,28 @@ Avalua com han treballat els teus **dos companys/es d'equip** a la carpeta, al t
   </thead>
   <tbody>
     <tr>
-      <td style="padding: 0.4rem; border: 1px solid #d1d5db;"><strong>1. Implicació:</strong> Ha participat activament en la marca i les decisions d'equip.</td>
+      <td style="padding: 0.4rem; border: 1px solid #d1d5db;"><strong>1. Implicació:</strong> Ha ajudat a prendre decisions i a crear la marca.</td>
       <td style="border: 1px solid #d1d5db; text-align: center;">[ ]</td>
       <td style="border: 1px solid #d1d5db; text-align: center;">[ ]</td>
       <td style="border: 1px solid #d1d5db; text-align: center;">[ ]</td>
       <td style="border: 1px solid #d1d5db; text-align: center;">[ ]</td>
     </tr>
     <tr>
-      <td style="padding: 0.4rem; border: 1px solid #d1d5db;"><strong>2. Feina al Taller Maker:</strong> Ha treballat amb esforç i cura en impressió 3D, silicona, resina i muntatge.</td>
+      <td style="padding: 0.4rem; border: 1px solid #d1d5db;"><strong>2. Feina al Taller:</strong> Ha treballat bé amb motlles, resina i polit.</td>
       <td style="border: 1px solid #d1d5db; text-align: center;">[ ]</td>
       <td style="border: 1px solid #d1d5db; text-align: center;">[ ]</td>
       <td style="border: 1px solid #d1d5db; text-align: center;">[ ]</td>
       <td style="border: 1px solid #d1d5db; text-align: center;">[ ]</td>
     </tr>
     <tr>
-      <td style="padding: 0.4rem; border: 1px solid #d1d5db;"><strong>3. Compliment del Càrrec Maker:</strong> Ha sigut responsable amb el seu càrrec al taller.</td>
+      <td style="padding: 0.4rem; border: 1px solid #d1d5db;"><strong>3. Càrrec Maker:</strong> Ha complert amb el càrrec que tenia assignat.</td>
       <td style="border: 1px solid #d1d5db; text-align: center;">[ ]</td>
       <td style="border: 1px solid #d1d5db; text-align: center;">[ ]</td>
       <td style="border: 1px solid #d1d5db; text-align: center;">[ ]</td>
       <td style="border: 1px solid #d1d5db; text-align: center;">[ ]</td>
     </tr>
     <tr>
-      <td style="padding: 0.4rem; border: 1px solid #d1d5db;"><strong>4. Respecte i Ajuda:</strong> Ha respectat els acords i ha ajudat a l'equip.</td>
+      <td style="padding: 0.4rem; border: 1px solid #d1d5db;"><strong>4. Respecte i actitud:</strong> Ha tractat bé els companys i ha ajudat.</td>
       <td style="border: 1px solid #d1d5db; text-align: center;">[ ]</td>
       <td style="border: 1px solid #d1d5db; text-align: center;">[ ]</td>
       <td style="border: 1px solid #d1d5db; text-align: center;">[ ]</td>
@@ -920,32 +999,31 @@ Avalua com han treballat els teus **dos companys/es d'equip** a la carpeta, al t
   </tbody>
 </table>
 
-- **Feedback per a aquest/a company/a:**
-  - ⭐ **Aspecte positiu / Agraïment:** <span style="border-bottom: 1.5px dashed #666; display: inline-block; width: 70%;"></span>
-  - 🎯 **Consell per millorar en el futur:** <span style="border-bottom: 1.5px dashed #666; display: inline-block; width: 68%;"></span>
+* ⭐ **Punt fort / Què li agraeixes:**
+  <div class="response-box" style="min-height: 48px;"></div>
+* 🎯 **Aspecte que pot millorar:**
+  <div class="response-box" style="min-height: 48px;"></div>
 
 <div class="page-break"></div>
 
 ---
 
-### <span class="badge-team">👥 EN EQUIP</span> Activitat 11.3: Valoració Final dels Acords i Càrrecs de l'Equip
+### <span class="badge-team">👥 EN EQUIP</span> Activitat 11.3: Valoració Final de l'Equip
 
-#### A) Valoració Final dels Acords d'Equip
-Valoreu com heu complert els acords al llarg de tot el projecte:
-
+#### A) Valoració Final dels Acords
 <table style="width: 100%; border-collapse: collapse; margin: 1rem 0; font-size: 0.82rem; line-height: 1.35;">
   <thead>
     <tr style="background: #f8fafc; color: #1e293b; border-bottom: 2px solid #9d174d;">
-      <th style="width: 18%; padding: 0.5rem; text-align: left; border: 1px solid #d1d5db;">Acords d'Equip</th>
-      <th style="width: 9%; padding: 0.5rem; text-align: center; border: 1px solid #d1d5db;">Gairebé mai</th>
-      <th style="width: 9%; padding: 0.5rem; text-align: center; border: 1px solid #d1d5db;">A vegades</th>
-      <th style="width: 9%; padding: 0.5rem; text-align: center; border: 1px solid #d1d5db;">Gairebé sempre</th>
-      <th style="width: 9%; padding: 0.5rem; text-align: center; border: 1px solid #d1d5db;">Sempre</th>
-      <th style="width: 46%; padding: 0.5rem; text-align: left; border: 1px solid #d1d5db;">Què ha funcionat bé? Què no?</th>
+      <th style="width: 25%; padding: 0.5rem; text-align: left; border: 1px solid #d1d5db;">Acords d'Equip</th>
+      <th style="width: 12%; padding: 0.5rem; text-align: center; border: 1px solid #d1d5db;">Gairebé mai</th>
+      <th style="width: 12%; padding: 0.5rem; text-align: center; border: 1px solid #d1d5db;">A vegades</th>
+      <th style="width: 12%; padding: 0.5rem; text-align: center; border: 1px solid #d1d5db;">Gairebé sempre</th>
+      <th style="width: 12%; padding: 0.5rem; text-align: center; border: 1px solid #d1d5db;">Sempre</th>
+      <th style="width: 27%; padding: 0.5rem; text-align: left; border: 1px solid #d1d5db;">Com ha funcionat?</th>
     </tr>
   </thead>
   <tbody>
-    <tr style="height: 50px;">
+    <tr style="height: 55px;">
       <td style="padding: 0.4rem; font-weight: 700; border: 1px solid #d1d5db;">Acord 1:</td>
       <td style="border: 1px solid #d1d5db; text-align: center;">[ ]</td>
       <td style="border: 1px solid #d1d5db; text-align: center;">[ ]</td>
@@ -953,7 +1031,7 @@ Valoreu com heu complert els acords al llarg de tot el projecte:
       <td style="border: 1px solid #d1d5db; text-align: center;">[ ]</td>
       <td style="border: 1px solid #d1d5db; padding: 0.4rem;"></td>
     </tr>
-    <tr style="height: 50px;">
+    <tr style="height: 55px;">
       <td style="padding: 0.4rem; font-weight: 700; border: 1px solid #d1d5db;">Acord 2:</td>
       <td style="border: 1px solid #d1d5db; text-align: center;">[ ]</td>
       <td style="border: 1px solid #d1d5db; text-align: center;">[ ]</td>
@@ -961,7 +1039,7 @@ Valoreu com heu complert els acords al llarg de tot el projecte:
       <td style="border: 1px solid #d1d5db; text-align: center;">[ ]</td>
       <td style="border: 1px solid #d1d5db; padding: 0.4rem;"></td>
     </tr>
-    <tr style="height: 50px;">
+    <tr style="height: 55px;">
       <td style="padding: 0.4rem; font-weight: 700; border: 1px solid #d1d5db;">Acord 3:</td>
       <td style="border: 1px solid #d1d5db; text-align: center;">[ ]</td>
       <td style="border: 1px solid #d1d5db; text-align: center;">[ ]</td>
@@ -972,22 +1050,20 @@ Valoreu com heu complert els acords al llarg de tot el projecte:
   </tbody>
 </table>
 
-#### B) Valoració Final dels Càrrecs d'Equip
-Valoreu com ha complert cadascú amb el seu càrrec:
-
+#### B) Valoració Final dels Càrrecs
 <table style="width: 100%; border-collapse: collapse; margin: 1rem 0; font-size: 0.82rem; line-height: 1.35;">
   <thead>
     <tr style="background: #f8fafc; color: #1e293b; border-bottom: 2px solid #9d174d;">
-      <th style="width: 18%; padding: 0.5rem; text-align: left; border: 1px solid #d1d5db;">Càrrecs</th>
-      <th style="width: 9%; padding: 0.5rem; text-align: center; border: 1px solid #d1d5db;">Gairebé mai</th>
-      <th style="width: 9%; padding: 0.5rem; text-align: center; border: 1px solid #d1d5db;">A vegades</th>
-      <th style="width: 9%; padding: 0.5rem; text-align: center; border: 1px solid #d1d5db;">Gairebé sempre</th>
-      <th style="width: 9%; padding: 0.5rem; text-align: center; border: 1px solid #d1d5db;">Sempre</th>
-      <th style="width: 46%; padding: 0.5rem; text-align: left; border: 1px solid #d1d5db;">Què ha funcionat bé? Què no?</th>
+      <th style="width: 25%; padding: 0.5rem; text-align: left; border: 1px solid #d1d5db;">Càrrecs</th>
+      <th style="width: 12%; padding: 0.5rem; text-align: center; border: 1px solid #d1d5db;">Gairebé mai</th>
+      <th style="width: 12%; padding: 0.5rem; text-align: center; border: 1px solid #d1d5db;">A vegades</th>
+      <th style="width: 12%; padding: 0.5rem; text-align: center; border: 1px solid #d1d5db;">Gairebé sempre</th>
+      <th style="width: 12%; padding: 0.5rem; text-align: center; border: 1px solid #d1d5db;">Sempre</th>
+      <th style="width: 27%; padding: 0.5rem; text-align: left; border: 1px solid #d1d5db;">Com ha funcionat?</th>
     </tr>
   </thead>
   <tbody>
-    <tr style="height: 45px;">
+    <tr style="height: 50px;">
       <td style="padding: 0.4rem; font-weight: 700; border: 1px solid #d1d5db;">Seguretat</td>
       <td style="border: 1px solid #d1d5db; text-align: center;">[ ]</td>
       <td style="border: 1px solid #d1d5db; text-align: center;">[ ]</td>
@@ -995,16 +1071,16 @@ Valoreu com ha complert cadascú amb el seu càrrec:
       <td style="border: 1px solid #d1d5db; text-align: center;">[ ]</td>
       <td style="border: 1px solid #d1d5db; padding: 0.4rem;"></td>
     </tr>
-    <tr style="height: 45px;">
-      <td style="padding: 0.4rem; font-weight: 700; border: 1px solid #d1d5db;">Ordre, Eines i Residus</td>
+    <tr style="height: 50px;">
+      <td style="padding: 0.4rem; font-weight: 700; border: 1px solid #d1d5db;">Ordre i Residus</td>
       <td style="border: 1px solid #d1d5db; text-align: center;">[ ]</td>
       <td style="border: 1px solid #d1d5db; text-align: center;">[ ]</td>
       <td style="border: 1px solid #d1d5db; text-align: center;">[ ]</td>
       <td style="border: 1px solid #d1d5db; text-align: center;">[ ]</td>
       <td style="border: 1px solid #d1d5db; padding: 0.4rem;"></td>
     </tr>
-    <tr style="height: 45px;">
-      <td style="padding: 0.4rem; font-weight: 700; border: 1px solid #d1d5db;">Focus, Temps i Clima</td>
+    <tr style="height: 50px;">
+      <td style="padding: 0.4rem; font-weight: 700; border: 1px solid #d1d5db;">Focus i Temps</td>
       <td style="border: 1px solid #d1d5db; text-align: center;">[ ]</td>
       <td style="border: 1px solid #d1d5db; text-align: center;">[ ]</td>
       <td style="border: 1px solid #d1d5db; text-align: center;">[ ]</td>
@@ -1016,75 +1092,30 @@ Valoreu com ha complert cadascú amb el seu càrrec:
 
 <div class="page-break"></div>
 
-#### C) Dues estrelles i un desig Finals (Aportacions i Millora)
-Valoreu què ha aportat cadascú i què hauria de millorar per a un futur projecte:
+### Activitat 11.4: Expectatives vs. Realitat
 
-<table style="width: 100%; border-collapse: collapse; margin: 1rem 0; font-size: 0.85rem;">
-  <thead>
-    <tr style="background: #f8fafc; color: #1e293b; border-bottom: 2px solid #9d174d;">
-      <th style="width: 22%; padding: 0.6rem; text-align: left; border: 1px solid #d1d5db;">Membre</th>
-      <th style="width: 44%; padding: 0.6rem; text-align: left; border: 1px solid #d1d5db;">⭐ Dues estrelles<br/><span style="font-weight: 400; font-size: 0.76rem;">2 VALORACIONS POSITIVES (Has aportat... / T'agraïm...)</span></th>
-      <th style="width: 34%; padding: 0.6rem; text-align: left; border: 1px solid #d1d5db;">🎯 Un desig<br/><span style="font-weight: 400; font-size: 0.76rem;">1 ASPECTE QUE CAL MILLORAR (Et proposem que milloris...)</span></th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr style="height: 80px;">
-      <td style="padding: 0.5rem; font-weight: 700; border: 1px solid #d1d5db; vertical-align: top;">Nom 1:</td>
-      <td style="padding: 0.5rem; border: 1px solid #d1d5db;"></td>
-      <td style="padding: 0.5rem; border: 1px solid #d1d5db;"></td>
-    </tr>
-    <tr style="height: 80px;">
-      <td style="padding: 0.5rem; font-weight: 700; border: 1px solid #d1d5db; vertical-align: top;">Nom 2:</td>
-      <td style="padding: 0.5rem; border: 1px solid #d1d5db;"></td>
-      <td style="padding: 0.5rem; border: 1px solid #d1d5db;"></td>
-    </tr>
-    <tr style="height: 80px;">
-      <td style="padding: 0.5rem; font-weight: 700; border: 1px solid #d1d5db; vertical-align: top;">Nom 3:</td>
-      <td style="padding: 0.5rem; border: 1px solid #d1d5db;"></td>
-      <td style="padding: 0.5rem; border: 1px solid #d1d5db;"></td>
-    </tr>
-  </tbody>
-</table>
-
-<div class="page-break"></div>
-
----
-
-### 11.4. Tancament del projecte: EXPECTATIVES vs. REALITAT
-
-* **El punt de partida:** Pensa en el primer dia del projecte Artífex. T'imaginaves que series capaç de crear una marca, dissenyar en 3D i treballar al taller com un professional? Com et sents ara mirant enrere des del teu Moodboard inicial?
-
-* **Els alts i baixos del procés:** Quina part del projecte t'ha agradat més i per què? En quina fase t'has sentit més encallat/da o frustrat/da, i com ho has superat?
+Compara el primer dia amb avui: t'imaginaves que faríeu tot això? Què ha estat el més fàcil i què el més difícil?
 
 <div class="response-box" style="min-height: 440px;"></div>
 
 <div class="page-break"></div>
 
----
+### Activitat 11.5: Com has millorat en habilitats?
 
-### 11.5. Tancament del projecte: ANÀLISI SOCIOEMOCIONAL
-
-Reflexiona sobre com has treballat les tres habilitats clau:
-
-* **Creativitat:** T'has sentit bloquejat/da a l'hora de tenir idees? Com ho vas superar? Creus que la teva marca té una personalitat pròpia?
-* **Cura i Detall:** Has treballat amb ordre i atenció als detalls? Quina nota et posaries del 0 al 10 en treball polit i ben fet?
-* **Gestió de l'Error:** Quan hi va haver dificultats o imprevistos (bombolles a la resina, dubtes...), com vas reaccionar? Què faries diferent una altra vegada?
+* **Creativitat:** Com valores les teves idees durant el projecte?
+* **Cura pel detall:** Com valores com t'han quedat els acabats de les joies?
+* **Gestió de l'error:** Com vas reaccionar quan alguna cosa no va sortir bé a la primera?
 
 <div class="response-box" style="min-height: 520px;"></div>
 
 <div class="page-break"></div>
 
----
+### Activitat 11.6: Avalua el Projecte Artífex
 
-### 11.6. Tancament del projecte: AVALUA EL PROJECTE ARTÍFEX
-
-Respon breument a cada pregunta:
-
-* **a) Descripció general:** Com li explicaries aquest projecte a un amic d'un altre institut?
-* **b) Disseny 3D:** Com ha sigut utilitzar TinkerCAD? Què ha sigut el més fàcil i el més difícil?
-* **c) Treball de taller:** Com ha sigut la vivència de fabricar amb les teves mans (silicona, resina, eines...)?
-* **d) Ritme i recursos:** Com has trobat el ritme de la feina? La pàgina web m'ha ajudat a guiar-te?
-* **e) Carpeta d'aprenentatge:** La Carpeta d'aprenentatge t'ha ajudat a seguir el teu aprenentatge?
-* **f) Consell per al futur:** Quin consell li donaries a un alumne que faci aquest projecte l'any que ve?
+1. **Què és Artífex per a tu?** Explica en 2 línies què és aquest projecte.
+2. **Què t'ha semblat treballar amb ordinador (Tinkercad / 3D)?**
+3. **Què t'ha semblat la feina al taller (motlles, resina, joieria)?**
+4. **Com valores el web del projecte i la Carpeta d'aprenentatge?**
+5. **Quin consell donaries als alumnes de l'any que ve?**
 
 <div class="response-box" style="min-height: 540px;"></div>
