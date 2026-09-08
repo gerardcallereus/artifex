@@ -178,6 +178,8 @@ Poseu-vos d'acord en 3 regles clares per treballar bé junts:
 * **ACORD 2:** <div class="response-box" style="min-height: 50px;"></div>
 * **ACORD 3:** <div class="response-box" style="min-height: 50px;"></div>
 
+<div class="page-break"></div>
+
 #### 3. Assignació dels 3 Càrrecs Maker
 Repartiu un càrrec per a cada membre de l'equip:
 <table style="width: 100%; border-collapse: collapse; margin: 1rem 0; font-size: 0.85rem;">
