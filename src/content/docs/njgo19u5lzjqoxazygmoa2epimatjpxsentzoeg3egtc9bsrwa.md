@@ -54,118 +54,15 @@ Aquest dossier de recuperació recull les activitats teòriques i competencials 
 </div>
 </div>
 </div>
-<div class="page-break"></div>
 
 # TASCA 1: DIAGRAMA DE FLUX VISUAL DEL PROCÉS DE CREACIÓ D'UNA MARCA
 
-### Activitat 2.1: Diagrama de Flux Visual del Procés de Creació d'una Marca (Fases 1 a 3)
+### Activitat 2.1: Diagrama de Flux Visual del Procés de Creació d'una Marca
 
-Dissenya un diagrama de flux complet que connecti ordenadament les **6 fases del procés de creació d'una marca**. A cada fase, indica el nom oficial, dibuixa a l'espai en blanc un símbol representatiu i descriu breument què es fa en aquesta fase:
+Dissenya un diagrama de flux complet que connecti ordenadament les 6 fases del procés de creació d'una marca. Dins o al costat de cada caixa, dibuixa una imatge o icona representativa que resumeixi visualment el concepte de la fase.
 
-<div style="display: flex; flex-direction: column; gap: 0.5rem; margin: 1rem 0;">
+<div style="min-height: 520px; border: 1.5px dashed rgba(193, 40, 114, 0.25); border-radius: 10px; background: #ffffff; margin: 1.5rem 0;"></div>
 
-<div class="phase-card" style="border: 1.5px solid #c12872; border-radius: 8px; padding: 0.75rem 1rem; background: #fffcf8; page-break-inside: avoid; break-inside: avoid; margin-bottom: 0.5rem;">
-<div style="margin-bottom: 0.4rem; border-bottom: 1px solid rgba(193, 40, 114, 0.2); padding-bottom: 0.25rem;">
-<strong style="color: #c12872; font-size: 0.98rem; text-transform: uppercase;">FASE 1: __________________________________________________</strong>
-</div>
-<div style="display: flex; gap: 1rem; align-items: stretch;">
-<div style="width: 125px; height: 85px; border: 1.5px dashed #c12872; border-radius: 6px; background: #ffffff; flex-shrink: 0; box-shadow: inset 0 1px 3px rgba(0,0,0,0.03);"></div>
-<div style="flex-grow: 1; display: flex; flex-direction: column; justify-content: space-around;">
-<p style="margin: 0; font-size: 0.82rem; font-weight: 600; color: #444;"><em>Descripció: Què es fa en aquesta fase del procés?</em></p>
-<div style="border-bottom: 1px dashed #bbb; height: 1.4rem; width: 100%;"></div>
-<div style="border-bottom: 1px dashed #bbb; height: 1.4rem; width: 100%;"></div>
-</div>
-</div>
-</div>
-
-<div style="text-align: center; font-size: 1.2rem; color: #c12872; line-height: 1; margin: -0.2rem 0;">⬇️</div>
-
-<div class="phase-card" style="border: 1.5px solid #c12872; border-radius: 8px; padding: 0.75rem 1rem; background: #fffcf8; page-break-inside: avoid; break-inside: avoid; margin-bottom: 0.5rem;">
-<div style="margin-bottom: 0.4rem; border-bottom: 1px solid rgba(193, 40, 114, 0.2); padding-bottom: 0.25rem;">
-<strong style="color: #c12872; font-size: 0.98rem; text-transform: uppercase;">FASE 2: __________________________________________________</strong>
-</div>
-<div style="display: flex; gap: 1rem; align-items: stretch;">
-<div style="width: 125px; height: 85px; border: 1.5px dashed #c12872; border-radius: 6px; background: #ffffff; flex-shrink: 0; box-shadow: inset 0 1px 3px rgba(0,0,0,0.03);"></div>
-<div style="flex-grow: 1; display: flex; flex-direction: column; justify-content: space-around;">
-<p style="margin: 0; font-size: 0.82rem; font-weight: 600; color: #444;"><em>Descripció: Què es fa en aquesta fase del procés?</em></p>
-<div style="border-bottom: 1px dashed #bbb; height: 1.4rem; width: 100%;"></div>
-<div style="border-bottom: 1px dashed #bbb; height: 1.4rem; width: 100%;"></div>
-</div>
-</div>
-</div>
-
-<div style="text-align: center; font-size: 1.2rem; color: #c12872; line-height: 1; margin: -0.2rem 0;">⬇️</div>
-
-<div class="phase-card" style="border: 1.5px solid #c12872; border-radius: 8px; padding: 0.75rem 1rem; background: #fffcf8; page-break-inside: avoid; break-inside: avoid; margin-bottom: 0.5rem;">
-<div style="margin-bottom: 0.4rem; border-bottom: 1px solid rgba(193, 40, 114, 0.2); padding-bottom: 0.25rem;">
-<strong style="color: #c12872; font-size: 0.98rem; text-transform: uppercase;">FASE 3: __________________________________________________</strong>
-</div>
-<div style="display: flex; gap: 1rem; align-items: stretch;">
-<div style="width: 125px; height: 85px; border: 1.5px dashed #c12872; border-radius: 6px; background: #ffffff; flex-shrink: 0; box-shadow: inset 0 1px 3px rgba(0,0,0,0.03);"></div>
-<div style="flex-grow: 1; display: flex; flex-direction: column; justify-content: space-around;">
-<p style="margin: 0; font-size: 0.82rem; font-weight: 600; color: #444;"><em>Descripció: Què es fa en aquesta fase del procés?</em></p>
-<div style="border-bottom: 1px dashed #bbb; height: 1.4rem; width: 100%;"></div>
-<div style="border-bottom: 1px dashed #bbb; height: 1.4rem; width: 100%;"></div>
-</div>
-</div>
-</div>
-
-</div>
-<div class="page-break"></div>
-
-### Activitat 2.1: Diagrama de Flux Visual del Procés de Creació d'una Marca (Fases 4 a 6)
-
-Continua el diagrama de flux amb les 3 darreres fases del procés de creació de marca:
-
-<div style="display: flex; flex-direction: column; gap: 0.5rem; margin: 1rem 0;">
-
-<div class="phase-card" style="border: 1.5px solid #c12872; border-radius: 8px; padding: 0.75rem 1rem; background: #fffcf8; page-break-inside: avoid; break-inside: avoid; margin-bottom: 0.5rem;">
-<div style="margin-bottom: 0.4rem; border-bottom: 1px solid rgba(193, 40, 114, 0.2); padding-bottom: 0.25rem;">
-<strong style="color: #c12872; font-size: 0.98rem; text-transform: uppercase;">FASE 4: __________________________________________________</strong>
-</div>
-<div style="display: flex; gap: 1rem; align-items: stretch;">
-<div style="width: 125px; height: 85px; border: 1.5px dashed #c12872; border-radius: 6px; background: #ffffff; flex-shrink: 0; box-shadow: inset 0 1px 3px rgba(0,0,0,0.03);"></div>
-<div style="flex-grow: 1; display: flex; flex-direction: column; justify-content: space-around;">
-<p style="margin: 0; font-size: 0.82rem; font-weight: 600; color: #444;"><em>Descripció: Què es fa en aquesta fase del procés?</em></p>
-<div style="border-bottom: 1px dashed #bbb; height: 1.4rem; width: 100%;"></div>
-<div style="border-bottom: 1px dashed #bbb; height: 1.4rem; width: 100%;"></div>
-</div>
-</div>
-</div>
-
-<div style="text-align: center; font-size: 1.2rem; color: #c12872; line-height: 1; margin: -0.2rem 0;">⬇️</div>
-
-<div class="phase-card" style="border: 1.5px solid #c12872; border-radius: 8px; padding: 0.75rem 1rem; background: #fffcf8; page-break-inside: avoid; break-inside: avoid; margin-bottom: 0.5rem;">
-<div style="margin-bottom: 0.4rem; border-bottom: 1px solid rgba(193, 40, 114, 0.2); padding-bottom: 0.25rem;">
-<strong style="color: #c12872; font-size: 0.98rem; text-transform: uppercase;">FASE 5: __________________________________________________</strong>
-</div>
-<div style="display: flex; gap: 1rem; align-items: stretch;">
-<div style="width: 125px; height: 85px; border: 1.5px dashed #c12872; border-radius: 6px; background: #ffffff; flex-shrink: 0; box-shadow: inset 0 1px 3px rgba(0,0,0,0.03);"></div>
-<div style="flex-grow: 1; display: flex; flex-direction: column; justify-content: space-around;">
-<p style="margin: 0; font-size: 0.82rem; font-weight: 600; color: #444;"><em>Descripció: Què es fa en aquesta fase del procés?</em></p>
-<div style="border-bottom: 1px dashed #bbb; height: 1.4rem; width: 100%;"></div>
-<div style="border-bottom: 1px dashed #bbb; height: 1.4rem; width: 100%;"></div>
-</div>
-</div>
-</div>
-
-<div style="text-align: center; font-size: 1.2rem; color: #c12872; line-height: 1; margin: -0.2rem 0;">⬇️</div>
-
-<div class="phase-card" style="border: 1.5px solid #c12872; border-radius: 8px; padding: 0.75rem 1rem; background: #fffcf8; page-break-inside: avoid; break-inside: avoid; margin-bottom: 0.5rem;">
-<div style="margin-bottom: 0.4rem; border-bottom: 1px solid rgba(193, 40, 114, 0.2); padding-bottom: 0.25rem;">
-<strong style="color: #c12872; font-size: 0.98rem; text-transform: uppercase;">FASE 6: __________________________________________________</strong>
-</div>
-<div style="display: flex; gap: 1rem; align-items: stretch;">
-<div style="width: 125px; height: 85px; border: 1.5px dashed #c12872; border-radius: 6px; background: #ffffff; flex-shrink: 0; box-shadow: inset 0 1px 3px rgba(0,0,0,0.03);"></div>
-<div style="flex-grow: 1; display: flex; flex-direction: column; justify-content: space-around;">
-<p style="margin: 0; font-size: 0.82rem; font-weight: 600; color: #444;"><em>Descripció: Què es fa en aquesta fase del procés?</em></p>
-<div style="border-bottom: 1px dashed #bbb; height: 1.4rem; width: 100%;"></div>
-<div style="border-bottom: 1px dashed #bbb; height: 1.4rem; width: 100%;"></div>
-</div>
-</div>
-</div>
-
-</div>
 <div class="page-break"></div>
 
 # TASCA 2: EL RECORREGUT D'UNA MARCA DES DE LA IDEA FINS A LA VENDA
@@ -591,8 +488,6 @@ A partir de la teva experiència i anàlisi com a membre del **Jurat de Disseny*
 
 ---
 
-<div class="page-break"></div>
-
 # TASCA 6: ANÀLISI CRÍTICA DE LOGOTIPS MAL DISSENYATS
 
 ### Activitat 6.4: Anàlisi Crítica de Logotips Mal Dissenyats (Casos Reals)
@@ -665,6 +560,8 @@ Abans d'analitzar el cas pràctic, és fonamental entendre l'evolució històric
 
 
 ---
+
+<div class="page-break"></div>
 
 #### 📖 LECTURA DEL CAS REAL DE FABRICACIÓ A CATALUNYA
 
