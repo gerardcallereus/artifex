@@ -5,141 +5,172 @@ template: splash
 tableOfContents: false
 ---
 
-<div class="cover-page-container" style="border: 2px solid var(--sl-color-accent); border-radius: 12px; padding: 2.5rem; margin-bottom: 3rem; background: linear-gradient(135deg, rgba(193,40,114,0.03) 0%, rgba(127,17,70,0.03) 100%); box-shadow: 0 4px 20px rgba(0,0,0,0.03); position: relative;">
-<div style="text-align: center; margin-bottom: 1.5rem;">
-<h1 style="font-size: 2.3rem; color: var(--sl-color-accent-high); margin: 0; font-weight: 700; text-transform: uppercase; border: none; padding: 0;">DOSSIER DE RECUPERACIÓ</h1>
-<p style="font-size: 1.15rem; color: var(--sl-color-text); margin-top: 0.5rem; font-weight: 500;">Assignatura de Tecnologia — Curs 2n d'ESO | Projecte Artífex</p>
-<div style="width: 80px; height: 4px; background: var(--sl-color-accent); margin: 1rem auto 0 auto; border-radius: 2px;"></div>
+<div class="cover-page-container" style="border: 2px solid var(--sl-color-accent); border-radius: 12px; padding: 2.2rem 2.5rem; margin-bottom: 2rem; background: linear-gradient(135deg, rgba(193,40,114,0.03) 0%, rgba(127,17,70,0.03) 100%); box-shadow: 0 4px 20px rgba(0,0,0,0.03); position: relative;">
+<div style="text-align: center; margin-bottom: 2rem;">
+<span style="display: inline-block; padding: 0.3rem 1rem; font-size: 0.85rem; font-weight: 700; text-transform: uppercase; letter-spacing: 1px; border-radius: 20px; background: rgba(193, 40, 114, 0.12); color: var(--sl-color-accent-high); margin-bottom: 0.8rem;">Dossier de Treball Individual</span>
+<h1 style="font-size: 2.4rem; color: var(--sl-color-accent-high); margin: 0; font-weight: 800; text-transform: uppercase; border: none; padding: 0; letter-spacing: 0.5px;">DOSSIER DE RECUPERACIÓ</h1>
+<p style="font-size: 1.2rem; color: var(--sl-color-text); margin-top: 0.6rem; font-weight: 600;">Assignatura de Tecnologia — Curs 2n d'ESO | Projecte Artífex</p>
+<div style="width: 100px; height: 4px; background: var(--sl-color-accent); margin: 1.25rem auto 0 auto; border-radius: 2px;"></div>
 </div>
 
-<div class="instructions-block" style="margin-top: 1.5rem; padding: 1.1rem; background: #ffffff; border-left: 5px solid var(--sl-color-accent); border-radius: 6px; font-size: 0.95rem; line-height: 1.6; color: var(--sl-color-text); margin-bottom: 2rem; box-shadow: 0 2px 6px rgba(0,0,0,0.04);">
-<strong>Instruccions de treball:</strong> Aquest dossier de recuperació recull les activitats teòriques i competencials clau del projecte Artífex. Per respondre adequadament a les preguntes, consulta el contingut teòric, els estudis de cas i els simuladors interactius disponibles a la web oficial del projecte Artífex (a través del Google Classroom o la plataforma del curs). Llegeix amb atenció els enunciats, analitza les taules i gràfics, i respon de manera raonada i completa.
+<div class="instructions-block" style="margin-top: 1.5rem; padding: 1.25rem 1.5rem; background: #ffffff; border-left: 5px solid var(--sl-color-accent); border-radius: 8px; font-size: 0.95rem; line-height: 1.65; color: var(--sl-color-text); margin-bottom: 2.5rem; box-shadow: 0 2px 8px rgba(0,0,0,0.04);">
+<strong style="color: var(--sl-color-accent-high); font-size: 1.05rem; display: block; margin-bottom: 0.4rem;">📋 Instruccions de treball:</strong>
+Aquest dossier de recuperació recull les <strong>8 activitats teòriques i competencials clau</strong> del projecte Artífex. Per respondre adequadament a les preguntes, consulta el contingut teòric, els estudis de cas i els simuladors interactius disponibles a la web oficial del projecte Artífex. Llegeix amb atenció els enunciats, analitza les taules de dades i els gràfics, i respon de manera argumentada, clara i pulcra.
 </div>
 
-<div class="index-block" style="margin-bottom: 2.5rem; padding: 1.25rem; background: rgba(193, 40, 114, 0.04); border: 1px solid rgba(193, 40, 114, 0.2); border-radius: 8px;">
-<h3 style="margin-top: 0; margin-bottom: 0.75rem; color: var(--sl-color-accent-high); font-weight: 700; font-size: 1.05rem; text-transform: uppercase; letter-spacing: 0.5px;">ÍNDEX DE LES ACTIVITATS DEL DOSSIER</h3>
-<ul style="margin: 0; padding-left: 1.25rem; line-height: 1.7; font-size: 0.92rem; color: var(--sl-color-text);">
-<li><strong>Tasca 1 (Activitat 2.1):</strong> Diagrama de Flux Visual del Procés de Creació d'una Marca (Les 6 fases)</li>
-<li><strong>Tasca 2 (Activitat 2.2):</strong> El recorregut d'una marca des de la idea fins a la venda (El cas Nike)</li>
-<li><strong>Tasca 3 (Activitat 2.3):</strong> L'odissea de crear una marca amb impacte social (Cas Ecoalf)</li>
-<li><strong>Tasca 4 (Activitat 4.2):</strong> La Fageda: Com competir contra gegants? (Model cooperatiu i dades)</li>
-<li><strong>Tasca 5 (Activitat 6.1):</strong> Qüestionari d'Anàlisi Crítica: Jurat de Disseny (Principis visuals i accessibilitat)</li>
-<li><strong>Tasca 6 (Activitat 6.4):</strong> Anàlisi Crítica de Logotips Mal Dissenyats (Casos reals: Ejido i Reykjavík)</li>
-<li><strong>Tasca 7 (Activitat 8.2):</strong> Anàlisi Competencial de Producció (Artesanal vs. Industrial en Cadena: Majoral vs TOUS)</li>
-<li><strong>Tasca 8 (Activitat 9.1):</strong> Anàlisi Competencial de Costos i Punt d'Equilibri (Estudi Financer Artífex)</li>
+<div class="custom-card" style="margin-bottom: 2.5rem; padding: 1.25rem 1.5rem; background: rgba(193, 40, 114, 0.04); border: 1.5px solid rgba(193, 40, 114, 0.2); border-radius: 8px;">
+<strong style="color: var(--sl-color-accent-high); font-size: 1rem; text-transform: uppercase; letter-spacing: 0.5px; display: block; margin-bottom: 0.5rem;">🎯 Criteris d'Avaluació del Dossier:</strong>
+<ul style="margin: 0; padding-left: 1.25rem; font-size: 0.9rem; line-height: 1.6; color: var(--sl-color-text);">
+<li><strong>Completesa:</strong> Realització del 100% de les 8 tasques i preguntes del dossier.</li>
+<li><strong>Rigor i comprensió:</strong> Comprensió dels conceptes tècnics de disseny, producció i viabilitat econòmica.</li>
+<li><strong>Precisió analítica:</strong> Càlculs correctes en els exercicis financers i anàlisi crítica en els estudis de cas.</li>
+<li><strong>Presentació:</strong> Ordre, claredat expressiva, dibuixos detallats i lletra clara i llegible.</li>
 </ul>
 </div>
 
 <div class="flex-container" style="display: flex; justify-content: space-between; align-items: flex-end; margin-top: 2rem; flex-wrap: wrap; gap: 2rem;">
 <div style="font-family: inherit; flex-grow: 1; min-width: 280px; max-width: 60%;">
-<div style="margin-bottom: 1.5rem;">
+<div style="margin-bottom: 1.6rem;">
 <span style="font-weight: 700; font-size: 0.95rem; color: var(--sl-color-text);">NOM I COGNOMS DE L'ALUMNE/A:</span>
-<div style="border-bottom: 1.5px dashed var(--sl-color-accent); height: 2rem; margin-top: 0.2rem; width: 100%;"></div>
+<div style="border-bottom: 1.5px dashed var(--sl-color-accent); height: 2.2rem; margin-top: 0.2rem; width: 100%;"></div>
 </div>
 <div style="display: flex; gap: 1.5rem;">
 <div style="flex: 1;">
 <span style="font-weight: 700; font-size: 0.95rem; color: var(--sl-color-text);">CURS I GRUP:</span>
-<div style="border-bottom: 1.5px dashed var(--sl-color-accent); height: 2rem; margin-top: 0.2rem; width: 100%;"></div>
+<div style="border-bottom: 1.5px dashed var(--sl-color-accent); height: 2.2rem; margin-top: 0.2rem; width: 100%;"></div>
 </div>
 <div style="flex: 1;">
 <span style="font-weight: 700; font-size: 0.95rem; color: var(--sl-color-text);">DATA DE LLIURAMENT:</span>
-<div style="border-bottom: 1.5px dashed var(--sl-color-accent); height: 2rem; margin-top: 0.2rem; width: 100%;"></div>
+<div style="border-bottom: 1.5px dashed var(--sl-color-accent); height: 2.2rem; margin-top: 0.2rem; width: 100%;"></div>
 </div>
 </div>
 </div>
-<div style="border: 2px solid var(--sl-color-accent-high); border-radius: 8px; width: 170px; height: 115px; background: #ffffff; display: flex; flex-direction: column; align-items: center; justify-content: center; box-shadow: 0 4px 10px rgba(0,0,0,0.05); margin-bottom: 0.5rem;">
-<span style="font-size: 0.8rem; font-weight: 700; color: var(--sl-color-accent-high); text-align: center; text-transform: uppercase; letter-spacing: 0.5px; margin-bottom: 0.2rem;">AVALUACIÓ</span>
-<span style="font-size: 0.7rem; color: #666666; margin-bottom: 0.4rem;">(NA / AS / AN / AE)</span>
-<div style="width: 80%; border-bottom: 1.5px dashed var(--sl-color-accent-high); height: 1.5rem; margin-top: 0.1rem;"></div>
+<div style="border: 2px solid var(--sl-color-accent-high); border-radius: 8px; width: 175px; height: 125px; background: #ffffff; display: flex; flex-direction: column; align-items: center; justify-content: center; box-shadow: 0 4px 10px rgba(0,0,0,0.05); margin-bottom: 0.5rem;">
+<span style="font-size: 0.85rem; font-weight: 700; color: var(--sl-color-accent-high); text-align: center; text-transform: uppercase; letter-spacing: 0.5px; margin-bottom: 0.2rem;">AVALUACIÓ</span>
+<span style="font-size: 0.72rem; color: #666666; margin-bottom: 0.5rem;">(NA / AS / AN / AE)</span>
+<div style="width: 80%; border-bottom: 1.5px dashed var(--sl-color-accent-high); height: 1.6rem; margin-top: 0.1rem;"></div>
 </div>
 </div>
 </div>
-
-
----
+<div class="page-break"></div>
 
 # TASCA 1: DIAGRAMA DE FLUX VISUAL DEL PROCÉS DE CREACIÓ D'UNA MARCA
 
-### Activitat 2.1: Diagrama de Flux Visual del Procés de Creació d'una Marca
+### Activitat 2.1: Diagrama de Flux Visual del Procés de Creació d'una Marca (Fases 1 a 3)
 
-Dissenya un diagrama de flux complet que connecti ordenadament les **6 fases del procés de creació d'una marca**. A cada fase, indica el nom oficial, descriu en 1 o 2 línies què es fa i dibuixa una icona o símbol representatiu que en resumeixi visualment el concepte:
+Dissenya un diagrama de flux complet que connecti ordenadament les **6 fases del procés de creació d'una marca**. A cada fase, indica el nom oficial, dibuixa a l'espai en blanc una icona o símbol representatiu de la fase i descriu a les línies de text què es fa en aquesta fase:
 
-<div style="display: flex; flex-direction: column; gap: 0.85rem; margin: 1.5rem 0;">
+<div style="display: flex; flex-direction: column; gap: 1.25rem; margin: 1.5rem 0;">
 
-<div style="border: 2px solid #c12872; border-radius: 8px; padding: 1rem; background: #fffcf8; display: flex; gap: 1rem; align-items: center;">
-<div style="width: 80px; height: 80px; border: 2px dashed #c12872; border-radius: 6px; display: flex; align-items: center; justify-content: center; font-size: 0.75rem; color: #888; text-align: center; flex-shrink: 0; background: #ffffff;">Icona / Dibuix</div>
-<div style="flex-grow: 1;">
-<strong style="color: #c12872; font-size: 1.05rem;">FASE 1: __________________________________________________</strong>
-<p style="margin: 0.4rem 0 0 0; font-size: 0.88rem; color: #444;"><em>Què es fa en aquesta fase?</em></p>
-<div style="border-bottom: 1px dashed #bbb; height: 1.6rem; width: 100%;"></div>
-<div style="border-bottom: 1px dashed #bbb; height: 1.6rem; width: 100%;"></div>
+<div class="phase-card" style="border: 2px solid #c12872; border-radius: 10px; padding: 1.1rem; background: #fffcf8; page-break-inside: avoid; break-inside: avoid;">
+<div style="margin-bottom: 0.6rem; border-bottom: 1.5px solid rgba(193, 40, 114, 0.2); padding-bottom: 0.35rem;">
+<strong style="color: #c12872; font-size: 1.1rem; text-transform: uppercase;">FASE 1: __________________________________________________</strong>
 </div>
+<div style="display: flex; gap: 1.25rem; align-items: stretch;">
+<div style="width: 175px; height: 130px; border: 2px dashed #c12872; border-radius: 8px; background: #ffffff; flex-shrink: 0; box-shadow: inset 0 1px 4px rgba(0,0,0,0.03);"></div>
+<div style="flex-grow: 1; display: flex; flex-direction: column; justify-content: space-between;">
+<p style="margin: 0 0 0.3rem 0; font-size: 0.88rem; font-weight: 600; color: #444;"><em>Descripció: Què es fa en aquesta fase del procés?</em></p>
+<div style="border-bottom: 1px dashed #bbb; height: 1.7rem; width: 100%;"></div>
+<div style="border-bottom: 1px dashed #bbb; height: 1.7rem; width: 100%;"></div>
+<div style="border-bottom: 1px dashed #bbb; height: 1.7rem; width: 100%;"></div>
 </div>
-
-<div style="text-align: center; font-size: 1.4rem; color: #c12872; line-height: 1;">⬇️</div>
-
-<div style="border: 2px solid #c12872; border-radius: 8px; padding: 1rem; background: #fffcf8; display: flex; gap: 1rem; align-items: center;">
-<div style="width: 80px; height: 80px; border: 2px dashed #c12872; border-radius: 6px; display: flex; align-items: center; justify-content: center; font-size: 0.75rem; color: #888; text-align: center; flex-shrink: 0; background: #ffffff;">Icona / Dibuix</div>
-<div style="flex-grow: 1;">
-<strong style="color: #c12872; font-size: 1.05rem;">FASE 2: __________________________________________________</strong>
-<p style="margin: 0.4rem 0 0 0; font-size: 0.88rem; color: #444;"><em>Què es fa en aquesta fase?</em></p>
-<div style="border-bottom: 1px dashed #bbb; height: 1.6rem; width: 100%;"></div>
-<div style="border-bottom: 1px dashed #bbb; height: 1.6rem; width: 100%;"></div>
 </div>
 </div>
 
-<div style="text-align: center; font-size: 1.4rem; color: #c12872; line-height: 1;">⬇️</div>
+<div style="text-align: center; font-size: 1.5rem; color: #c12872; line-height: 1; margin: -0.3rem 0;">⬇️</div>
 
-<div style="border: 2px solid #c12872; border-radius: 8px; padding: 1rem; background: #fffcf8; display: flex; gap: 1rem; align-items: center;">
-<div style="width: 80px; height: 80px; border: 2px dashed #c12872; border-radius: 6px; display: flex; align-items: center; justify-content: center; font-size: 0.75rem; color: #888; text-align: center; flex-shrink: 0; background: #ffffff;">Icona / Dibuix</div>
-<div style="flex-grow: 1;">
-<strong style="color: #c12872; font-size: 1.05rem;">FASE 3: __________________________________________________</strong>
-<p style="margin: 0.4rem 0 0 0; font-size: 0.88rem; color: #444;"><em>Què es fa en aquesta fase?</em></p>
-<div style="border-bottom: 1px dashed #bbb; height: 1.6rem; width: 100%;"></div>
-<div style="border-bottom: 1px dashed #bbb; height: 1.6rem; width: 100%;"></div>
+<div class="phase-card" style="border: 2px solid #c12872; border-radius: 10px; padding: 1.1rem; background: #fffcf8; page-break-inside: avoid; break-inside: avoid;">
+<div style="margin-bottom: 0.6rem; border-bottom: 1.5px solid rgba(193, 40, 114, 0.2); padding-bottom: 0.35rem;">
+<strong style="color: #c12872; font-size: 1.1rem; text-transform: uppercase;">FASE 2: __________________________________________________</strong>
 </div>
+<div style="display: flex; gap: 1.25rem; align-items: stretch;">
+<div style="width: 175px; height: 130px; border: 2px dashed #c12872; border-radius: 8px; background: #ffffff; flex-shrink: 0; box-shadow: inset 0 1px 4px rgba(0,0,0,0.03);"></div>
+<div style="flex-grow: 1; display: flex; flex-direction: column; justify-content: space-between;">
+<p style="margin: 0 0 0.3rem 0; font-size: 0.88rem; font-weight: 600; color: #444;"><em>Descripció: Què es fa en aquesta fase del procés?</em></p>
+<div style="border-bottom: 1px dashed #bbb; height: 1.7rem; width: 100%;"></div>
+<div style="border-bottom: 1px dashed #bbb; height: 1.7rem; width: 100%;"></div>
+<div style="border-bottom: 1px dashed #bbb; height: 1.7rem; width: 100%;"></div>
 </div>
-
-<div style="text-align: center; font-size: 1.4rem; color: #c12872; line-height: 1;">⬇️</div>
-
-<div style="border: 2px solid #c12872; border-radius: 8px; padding: 1rem; background: #fffcf8; display: flex; gap: 1rem; align-items: center;">
-<div style="width: 80px; height: 80px; border: 2px dashed #c12872; border-radius: 6px; display: flex; align-items: center; justify-content: center; font-size: 0.75rem; color: #888; text-align: center; flex-shrink: 0; background: #ffffff;">Icona / Dibuix</div>
-<div style="flex-grow: 1;">
-<strong style="color: #c12872; font-size: 1.05rem;">FASE 4: __________________________________________________</strong>
-<p style="margin: 0.4rem 0 0 0; font-size: 0.88rem; color: #444;"><em>Què es fa en aquesta fase?</em></p>
-<div style="border-bottom: 1px dashed #bbb; height: 1.6rem; width: 100%;"></div>
-<div style="border-bottom: 1px dashed #bbb; height: 1.6rem; width: 100%;"></div>
 </div>
 </div>
 
-<div style="text-align: center; font-size: 1.4rem; color: #c12872; line-height: 1;">⬇️</div>
+<div style="text-align: center; font-size: 1.5rem; color: #c12872; line-height: 1; margin: -0.3rem 0;">⬇️</div>
 
-<div style="border: 2px solid #c12872; border-radius: 8px; padding: 1rem; background: #fffcf8; display: flex; gap: 1rem; align-items: center;">
-<div style="width: 80px; height: 80px; border: 2px dashed #c12872; border-radius: 6px; display: flex; align-items: center; justify-content: center; font-size: 0.75rem; color: #888; text-align: center; flex-shrink: 0; background: #ffffff;">Icona / Dibuix</div>
-<div style="flex-grow: 1;">
-<strong style="color: #c12872; font-size: 1.05rem;">FASE 5: __________________________________________________</strong>
-<p style="margin: 0.4rem 0 0 0; font-size: 0.88rem; color: #444;"><em>Què es fa en aquesta fase?</em></p>
-<div style="border-bottom: 1px dashed #bbb; height: 1.6rem; width: 100%;"></div>
-<div style="border-bottom: 1px dashed #bbb; height: 1.6rem; width: 100%;"></div>
+<div class="phase-card" style="border: 2px solid #c12872; border-radius: 10px; padding: 1.1rem; background: #fffcf8; page-break-inside: avoid; break-inside: avoid;">
+<div style="margin-bottom: 0.6rem; border-bottom: 1.5px solid rgba(193, 40, 114, 0.2); padding-bottom: 0.35rem;">
+<strong style="color: #c12872; font-size: 1.1rem; text-transform: uppercase;">FASE 3: __________________________________________________</strong>
 </div>
+<div style="display: flex; gap: 1.25rem; align-items: stretch;">
+<div style="width: 175px; height: 130px; border: 2px dashed #c12872; border-radius: 8px; background: #ffffff; flex-shrink: 0; box-shadow: inset 0 1px 4px rgba(0,0,0,0.03);"></div>
+<div style="flex-grow: 1; display: flex; flex-direction: column; justify-content: space-between;">
+<p style="margin: 0 0 0.3rem 0; font-size: 0.88rem; font-weight: 600; color: #444;"><em>Descripció: Què es fa en aquesta fase del procés?</em></p>
+<div style="border-bottom: 1px dashed #bbb; height: 1.7rem; width: 100%;"></div>
+<div style="border-bottom: 1px dashed #bbb; height: 1.7rem; width: 100%;"></div>
+<div style="border-bottom: 1px dashed #bbb; height: 1.7rem; width: 100%;"></div>
 </div>
-
-<div style="text-align: center; font-size: 1.4rem; color: #c12872; line-height: 1;">⬇️</div>
-
-<div style="border: 2px solid #c12872; border-radius: 8px; padding: 1rem; background: #fffcf8; display: flex; gap: 1rem; align-items: center;">
-<div style="width: 80px; height: 80px; border: 2px dashed #c12872; border-radius: 6px; display: flex; align-items: center; justify-content: center; font-size: 0.75rem; color: #888; text-align: center; flex-shrink: 0; background: #ffffff;">Icona / Dibuix</div>
-<div style="flex-grow: 1;">
-<strong style="color: #c12872; font-size: 1.05rem;">FASE 6: __________________________________________________</strong>
-<p style="margin: 0.4rem 0 0 0; font-size: 0.88rem; color: #444;"><em>Què es fa en aquesta fase?</em></p>
-<div style="border-bottom: 1px dashed #bbb; height: 1.6rem; width: 100%;"></div>
-<div style="border-bottom: 1px dashed #bbb; height: 1.6rem; width: 100%;"></div>
 </div>
 </div>
 
 </div>
+<div class="page-break"></div>
 
+### Activitat 2.1: Diagrama de Flux Visual del Procés de Creació d'una Marca (Fases 4 a 6)
 
----
+Continua el diagrama de flux amb les 3 darreres fases del procés de creació de marca fins a la venda al públic:
+
+<div style="display: flex; flex-direction: column; gap: 1.25rem; margin: 1.5rem 0;">
+
+<div class="phase-card" style="border: 2px solid #c12872; border-radius: 10px; padding: 1.1rem; background: #fffcf8; page-break-inside: avoid; break-inside: avoid;">
+<div style="margin-bottom: 0.6rem; border-bottom: 1.5px solid rgba(193, 40, 114, 0.2); padding-bottom: 0.35rem;">
+<strong style="color: #c12872; font-size: 1.1rem; text-transform: uppercase;">FASE 4: __________________________________________________</strong>
+</div>
+<div style="display: flex; gap: 1.25rem; align-items: stretch;">
+<div style="width: 175px; height: 130px; border: 2px dashed #c12872; border-radius: 8px; background: #ffffff; flex-shrink: 0; box-shadow: inset 0 1px 4px rgba(0,0,0,0.03);"></div>
+<div style="flex-grow: 1; display: flex; flex-direction: column; justify-content: space-between;">
+<p style="margin: 0 0 0.3rem 0; font-size: 0.88rem; font-weight: 600; color: #444;"><em>Descripció: Què es fa en aquesta fase del procés?</em></p>
+<div style="border-bottom: 1px dashed #bbb; height: 1.7rem; width: 100%;"></div>
+<div style="border-bottom: 1px dashed #bbb; height: 1.7rem; width: 100%;"></div>
+<div style="border-bottom: 1px dashed #bbb; height: 1.7rem; width: 100%;"></div>
+</div>
+</div>
+</div>
+
+<div style="text-align: center; font-size: 1.5rem; color: #c12872; line-height: 1; margin: -0.3rem 0;">⬇️</div>
+
+<div class="phase-card" style="border: 2px solid #c12872; border-radius: 10px; padding: 1.1rem; background: #fffcf8; page-break-inside: avoid; break-inside: avoid;">
+<div style="margin-bottom: 0.6rem; border-bottom: 1.5px solid rgba(193, 40, 114, 0.2); padding-bottom: 0.35rem;">
+<strong style="color: #c12872; font-size: 1.1rem; text-transform: uppercase;">FASE 5: __________________________________________________</strong>
+</div>
+<div style="display: flex; gap: 1.25rem; align-items: stretch;">
+<div style="width: 175px; height: 130px; border: 2px dashed #c12872; border-radius: 8px; background: #ffffff; flex-shrink: 0; box-shadow: inset 0 1px 4px rgba(0,0,0,0.03);"></div>
+<div style="flex-grow: 1; display: flex; flex-direction: column; justify-content: space-between;">
+<p style="margin: 0 0 0.3rem 0; font-size: 0.88rem; font-weight: 600; color: #444;"><em>Descripció: Què es fa en aquesta fase del procés?</em></p>
+<div style="border-bottom: 1px dashed #bbb; height: 1.7rem; width: 100%;"></div>
+<div style="border-bottom: 1px dashed #bbb; height: 1.7rem; width: 100%;"></div>
+<div style="border-bottom: 1px dashed #bbb; height: 1.7rem; width: 100%;"></div>
+</div>
+</div>
+</div>
+
+<div style="text-align: center; font-size: 1.5rem; color: #c12872; line-height: 1; margin: -0.3rem 0;">⬇️</div>
+
+<div class="phase-card" style="border: 2px solid #c12872; border-radius: 10px; padding: 1.1rem; background: #fffcf8; page-break-inside: avoid; break-inside: avoid;">
+<div style="margin-bottom: 0.6rem; border-bottom: 1.5px solid rgba(193, 40, 114, 0.2); padding-bottom: 0.35rem;">
+<strong style="color: #c12872; font-size: 1.1rem; text-transform: uppercase;">FASE 6: __________________________________________________</strong>
+</div>
+<div style="display: flex; gap: 1.25rem; align-items: stretch;">
+<div style="width: 175px; height: 130px; border: 2px dashed #c12872; border-radius: 8px; background: #ffffff; flex-shrink: 0; box-shadow: inset 0 1px 4px rgba(0,0,0,0.03);"></div>
+<div style="flex-grow: 1; display: flex; flex-direction: column; justify-content: space-between;">
+<p style="margin: 0 0 0.3rem 0; font-size: 0.88rem; font-weight: 600; color: #444;"><em>Descripció: Què es fa en aquesta fase del procés?</em></p>
+<div style="border-bottom: 1px dashed #bbb; height: 1.7rem; width: 100%;"></div>
+<div style="border-bottom: 1px dashed #bbb; height: 1.7rem; width: 100%;"></div>
+<div style="border-bottom: 1px dashed #bbb; height: 1.7rem; width: 100%;"></div>
+</div>
+</div>
+</div>
+
+</div>
+<div class="page-break"></div>
 
 # TASCA 2: EL RECORREGUT D'UNA MARCA DES DE LA IDEA FINS A LA VENDA
 
@@ -185,8 +216,7 @@ Dissenya un diagrama de flux complet que connecti ordenadament les **6 fases del
    
    - [ ] D) Reduir el temps de fabricació a la meitat.
 
-
----
+<div class="page-break"></div>
 
 # TASCA 3: L'ODISSEA DE CREAR UNA MARCA AMB IMPACTE SOCIAL
 
@@ -294,7 +324,7 @@ Un cop aconseguit el fil, va arribar la complexitat de la **PRODUCCIÓ**. La maj
 
 <br />
 
-<div class="page-break"></div>
+<br />
 
 #### PREGUNTES SOBRE EL CAS ECOALF
 
@@ -338,6 +368,8 @@ Un cop aconseguit el fil, va arribar la complexitat de la **PRODUCCIÓ**. La maj
    
    - [ ] D) Perquè es van comprar menys ampolles de plàstic del necessari.
 
+<div class="page-break"></div>
+
 5. **Segons les dades oficials de la Memòria de Sostenibilitat d'Ecoalf, quin impacte ambiental té la fabricació amb fil reciclat respecte al polièster verge?**
    
    - [ ] A) Estalvia un 52% d'aigua i redueix un 40% les emissions de CO₂ per kg de fil.
@@ -366,8 +398,7 @@ Un cop aconseguit el fil, va arribar la complexitat de la **PRODUCCIÓ**. La maj
    - [ ] C) Que és millor no fer mai planificacions temporals ni calendaris de treball.
    - [ ] D) Que la Fase de Comercialització sempre s'ha de retardar exactament 30 mesos per norma general.
 
-
----
+<div class="page-break"></div>
 
 # TASCA 4: LA FAGEDA: COM COMPETIR CONTRA GEGANTS?
 
@@ -426,6 +457,8 @@ Però, en què es diferencia exactament el model organitzatiu de La Fageda del d
 
 <br />
 
+<div class="page-break"></div>
+
 #### PREGUNTES TIPUS TEST (CAS LA FAGEDA)
 
 1. **Observant la Taula 1 (Comparativa de Filosofia i Gestió), quina diferència principal hi ha pel que fa al percentatge de treballadors amb discapacitat en la plantilla?**
@@ -482,30 +515,31 @@ Però, en què es diferencia exactament el model organitzatiu de La Fageda del d
    - [ ] C) La publicitat no serveix de res per a cap tipus d'empresa.
    - [ ] D) La Fageda aconsegueix un 24% de mercat sense gastar milions en publicitat, demostrant que la reputació social i la qualitat de proximitat poden substituir la publicitat massiva.
 
+<div class="page-break"></div>
+
 #### PREGUNTES DESCRIPTIVES I D'ANÀLISI CRÍTICA (CAS LA FAGEDA)
 
 10. **Anàlisi de filosofia i gestió empresarial (Taula 1):**  
     Analitza la relació entre la filosofia d'empresa i l'organització del treball:  
     a) Quin percentatge de la plantilla de La Fageda són persones amb discapacitat o en risc d'exclusió, i com es compara amb el mínim legal del 2% d'una empresa mercantil?  
     b) Explica per què La Fageda limita la seva escala salarial a una diferència màxima d'1 a 6 entre el sou més baix i el més alt, mentre que en una multinacional el Director pot cobrar fins a 100 vegades més. Quina relació té això amb els valors cooperatius?  
-<div class="response-box" style="min-height: 220px;"></div>
+<div class="response-box" style="min-height: 125px;"></div>
 
 11. **Anàlisi d'eficiència comercial (Taula 2):**  
     Analitza la relació entre la despesa en publicitat i la quota de mercat:  
     a) Quin percentatge del mercat de iogurts a Catalunya aconsegueix La Fageda?  
     b) Raona com és possible que La Fageda aconsegueixi gairebé un quart de totes les vendes de Catalunya (24%) gastant només 200.000 € en publicitat, mentre que Danone en gasta 12,5 milions. Quins valors o factors fan que el consumidor triï La Fageda?  
-<div class="response-box" style="min-height: 220px;"></div>
+<div class="response-box" style="min-height: 125px;"></div>
 
 12. **Resolució d'un dilema de planificació:**  
     Un consultor extern proposa a La Fageda acomiadar 20 treballadors amb discapacitat intel·lectual i substituir-los per un robot industrial automàtic per estalviar 400.000 € a l'any.  
     - Explica per què aquest canvi seria aprovat ràpidament en una empresa mercantil tradicional.  
     - Per què aquesta proposta serà rebutjada categòricament per l'Assemblea de La Fageda? Relaciona la teva resposta amb la missió fundacional de la cooperativa.  
-<div class="response-box" style="min-height: 240px;"></div>
+<div class="response-box" style="min-height: 125px;"></div>
 
 <br />
 
-
----
+<div class="page-break"></div>
 
 # TASCA 5: QÜESTIONARI D'ANÀLISI CRÍTICA: JURAT DE DISSENY
 
@@ -537,6 +571,8 @@ A partir de la teva experiència i anàlisi com a membre del **Jurat de Disseny*
    - [ ] C) Colors vius, càlids i saturats (com vermells, grocs i blaus intensos) que transmeten energia i alegria.
    - [ ] D) Colors pastel apagats i descolorits per no cridar l'atenció de ningú.
 
+<div class="page-break"></div>
+
 5. **Prova de validesa en Blanc i Negre:** Abans de triar la paleta de colors definitiva o afegir efectes al teu logotip, quina prova ha de superar primer per garantir que és un bon disseny?
    - [ ] A) Ha de funcionar i ser perfectament llegible en escala de grisos (blanc i negre).
    - [ ] B) Ha de veure's bé quan s'imprimeix en una mida gegant de 5 metres.
@@ -563,8 +599,7 @@ A partir de la teva experiència i anàlisi com a membre del **Jurat de Disseny*
 
 ---
 
-
----
+<div class="page-break"></div>
 
 # TASCA 6: ANÀLISI CRÍTICA DE LOGOTIPS MAL DISSENYATS
 
@@ -586,7 +621,7 @@ Observa els **dos casos reals de logotips mal dissenyats** que apareixen a la we
   - [ ] **6. Prova del Blanc i Negre (1 Color):** Funciona 100% en un sol color pur, sense ombres ni degradats.
 
 - **Reflexió final d'anàlisi crítica i propostes de millora:** (Quins errors greus comet? Com el redissenyaries des de zero?)
-<div class="response-box" style="min-height: 190px;"></div>
+<div class="response-box" style="min-height: 140px;"></div>
 
 <div class="page-break"></div>
 
@@ -604,14 +639,13 @@ Observa els **dos casos reals de logotips mal dissenyats** que apareixen a la we
   - [ ] **6. Prova del Blanc i Negre (1 Color):** Funciona 100% en un sol color pur, sense ombres ni degradats.
 
 - **Reflexió final d'anàlisi crítica i propostes de millora:** (Quins errors greus comet? Com el redissenyaries des de zero?)
-<div class="response-box" style="min-height: 190px;"></div>
+<div class="response-box" style="min-height: 140px;"></div>
+
+
+
+---
 
 <div class="page-break"></div>
-
----
-
-
----
 
 # TASCA 7: ANÀLISI COMPETENCIAL DE PRODUCCIÓ (ARTESANAL VS. INDUSTRIAL)
 
@@ -636,7 +670,7 @@ Abans d'analitzar el cas pràctic, és fonamental entendre l'evolució històric
   - **Característiques:** Es divideix el treball en tasques en sèrie. Permet fabricar milers d'unitats **100% idèntiques en un temps reduït** (segons per peça), repartint els costos de maquinària (economia d'escala) i oferint preus assequibles al mercat.  
   - **Inconvenients:** Requereix una inversió inicial molt elevada en maquinària i no permet fer modificacions o personalitzacions individuals peça per peça.
 
-<div class="page-break"></div>
+
 
 ---
 
@@ -672,7 +706,7 @@ Dues empreses de joieria reconegudes a Catalunya fabriquen col·leccions d'arrac
 
 </div>
 
-<div class="page-break"></div>
+
 
 ---
 
@@ -688,6 +722,8 @@ Dues empreses de joieria reconegudes a Catalunya fabriquen col·leccions d'arrac
 | **Preu de venda al públic**| Alt (180 € - 350 €)                   | Assequible/Mitjà (35 € - 85 €)|
 
 <br />
+
+<div class="page-break"></div>
 
 #### PREGUNTES TIPUS TEST DE PRODUCCIÓ
 
@@ -736,26 +772,24 @@ Dues empreses de joieria reconegudes a Catalunya fabriquen col·leccions d'arrac
    a) **Classificació de tasques:** Identifica quines etapes del vostre procés al taller escolar són de tipus digital/industrial i quines són de tipus artesanal/manual.  
    b) **Avantatges i límits:** Quins avantatges us ha aportat utilitzar eines digitals (Tinkercad / impressió 3D) respecte a fer tot el procés 100% a mà, i quines dificultats artesanals heu trobat en treballar amb la silicona i la resina?  
 
-<div class="response-box" style="min-height: 560px;"></div>
+<div class="response-box" style="min-height: 220px;"></div>
+
+
+
+---
 
 <div class="page-break"></div>
-
----
-
-
----
 
 # TASCA 8: ESTUDI FINANCER I PUNT D'EQUILIBRI (BREAK-EVEN)
 
 > 💡 **Dades de referència del Departament Financer Artífex:**
-> - **Taula 1 (Infraestructura de l'aula):** Ordinadors CAD, Impressora 3D i Talladora Làser = **3.575,00 €** (cedits gratuïtament per l'escola a la cooperativa).
-> - **Taula 2 (Inversió inicial en eines de taller i motlles):** Fusta d'encofrat, pistola de cola, silicona de motlles = **41,98 €**.
-> - **Taula 3 (Materials per lot de producció):** Resina epoxi, pigments, ganxos metàl·lics, anelles, cartolines de packaging = **50,44 €**.
-> - **Inversió Total que ha d'assumir la cooperativa (Taula 2 + Taula 3):** 41,98 € + 50,44 € = **92,42 €**.
-> - **Gràfic del simulador financer:**
->   - **Línia vermella horitzontal:** Inversió Total feta abans de vendre (92,42 €).
->   - **Línia verda diagonal:** Ingressos acumulats per les vendes (unitats venudes × preu de venda).
->   - **Punt d'Equilibri:** Moment exacte on es creuen ambdues línies (Ingressos = Inversió Total, Benefici Net = 0 €).
+> - **Taula 1 (Infraestructura cedida per l'escola):** Ordinadors CAD, Impressora 3D i Talladora Làser = **3.575,00 €** (Cost cooperativa = 0,00 €).
+> - **Taula 2 (Inversió inicial en eines manuals i motlles):** Fusta, pistola cola, silicona = **41,98 €**.
+> - **Taula 3 (Materials i consumibles per lot de joies):** Resina epoxi, pigments, ganxos, anelles, packaging = **50,44 €**.
+> - **Inversió Total que assumeix la cooperativa (Taula 2 + Taula 3):** 41,98 € + 50,44 € = **92,42 €**.
+> - **Gràfic financer:** Línia vermella = Inversió Total (92,42 €). Línia verda = Ingressos acumulats per vendes. Punt on es creuen = **Punt d'Equilibri** (Benefici Net = 0 €).
+
+<br />
 
 ### Activitat 9.1: Anàlisi Competencial de Costos i Punt d'Equilibri
 
@@ -793,30 +827,32 @@ Dues empreses de joieria reconegudes a Catalunya fabriquen col·leccions d'arrac
 
 <br />
 
+<div class="page-break"></div>
+
 #### ✏️ TREBALL DE REFLEXIÓ: "Estudi Econòmic: Comprensió del Gràfic"
 
 1. **Inversió Total (Línia Vermella):**  
    Mira la línia vermella (*Inversió Total*). Per què és una línia plana horitzontal? Què passaria amb aquesta línia si decidíssim comprar el doble de resina abans de començar?  
-<div class="response-box" style="min-height: 140px;"></div>
+<div class="response-box" style="min-height: 75px;"></div>
 
 2. **Ingressos i Preu de Venda (Línia Verda):**  
    Mira la línia verda (*Ingressos*). Si pugem el preu de venda, aquesta línia es farà més inclinada (més vertical) o més plana? Per què?  
-<div class="response-box" style="min-height: 140px;"></div>
+<div class="response-box" style="min-height: 75px;"></div>
 
-<div class="page-break"></div>
+
 
 3. **El Punt d'Equilibri:**  
    Què significa exactament el punt on es creuen? Si venem una arracada menys d'aquest nombre, perdem diners o en guanyem?  
-<div class="response-box" style="min-height: 140px;"></div>
+<div class="response-box" style="min-height: 75px;"></div>
 
 4. **Càlcul d'Edició Limitada (10 unitats):**  
    Volem recuperar la inversió venent només 10 parells d'arracades perquè és una edició limitada. A quin preu les hauríem de posar? *(Fes el càlcul a paper i després prova-ho a l'app).*  
-<div class="response-box" style="min-height: 170px;"></div>
+<div class="response-box" style="min-height: 75px;"></div>
 
 5. **La Realitat Empresarial (Sense subvenció de l'escola):**  
    Si l'escola no ens deixés les màquines i haguéssim de pagar els 3.575 € de la Taula 1, quantes arracades de 6 € hauríem de vendre? És viable? *(Fes el càlcul a paper).*  
-<div class="response-box" style="min-height: 170px;"></div>
+<div class="response-box" style="min-height: 75px;"></div>
 
-<div class="page-break"></div>
+
 
 ---
